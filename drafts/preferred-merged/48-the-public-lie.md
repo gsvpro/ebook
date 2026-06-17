@@ -58,7 +58,7 @@ Arsenault wrote the corporate liability memo. It was a masterpiece of cowardice 
 
 "You made fear productive," Grim said.
 
-"Fear has always been productive," Arsenault replied. "Civilization is the art of billing it correctly."
+"Fear has always been productive," Arsenault replied. "Civilization usually files an invoice afterward."
 
 Lars did not like how useful the sentence was.
 
@@ -120,7 +120,7 @@ Grim blinked. "For the lie?"
 
 "This will be used against you."
 
-"Good. It should have teeth."
+"Good. It should be actionable."
 
 Consequences came immediately. Syren called Lars a censor. Black Hole called the advisory proof that hidden blood elites feared human ascension. Aphex central asked why liability had become stronger than fleet doctrine. NUKEA delayed power ships pending review, which meant Rauk's dissidents had bought time and three understaffed settlements had to ration power for another night. Vigor's network moved blankets and battery packs before anyone could convert inconvenience into doctrine.
 
@@ -130,7 +130,7 @@ Mira called next.
 
 "Hazard advisory."
 
-"Do not varnish it. The coating fails under load."
+"Do not varnish it. False confidence fails under load."
 
 "Yes."
 
@@ -140,7 +140,7 @@ She was in her lab. Lars could see the edge of the fracture samples on her bench
 
 "You made a weapon jam."
 
-"And left metal in the wound."
+"And left the bad part in."
 
 Lars had no joke that deserved the room.
 
@@ -152,7 +152,7 @@ She exhaled. "Record privately that the omitted truth matters."
 
 "And that after the crisis, we need a way to widen truth without creating a central load point."
 
-"Recorded with dread and no decorative crown."
+"Recorded with dread and no heroic framing."
 
 "Also record that if anyone uses my signature later to claim full disclosure occurred, I will become legally unpleasant."
 
@@ -166,11 +166,11 @@ Pail asked for a private channel. The former Syren sympathizer had become a mino
 
 Lars gave the only answer that did not make him cargo.
 
-"It is true enough to keep people alive. It is not all the truth. I am not giving you the rest today because you are still deciding whether enormity means surrender, and I am not handing you a bigger shovel for that hole."
+"It is true enough to keep people alive. It is not all the truth. I am not giving you the rest today because you are still deciding whether enormity means surrender."
 
 Pail flinched, then nodded. "Will you tell us someday?"
 
-"Not us. Not from a balcony. More people will need more truth. Slowly. With someone nearby who can fix an airlock when the truth starts rattling the bolts."
+"Not us. Not from a balcony. More people will need more truth. Slowly. With someone nearby who can handle the panic and the infrastructure."
 
 "People will say you stole their revelation."
 
@@ -178,7 +178,7 @@ Pail flinched, then nodded. "Will you tell us someday?"
 
 Pail was quiet.
 
-Lars softened because the man had come to ask instead of preach. "You want the whole sky at once because the little ceiling lied to you. I get it. But some truths hit like decompression. First you seal the room. Then you open the valve."
+Lars softened because the man had come to ask instead of preach. "You want all of it now because the smaller story lied to you. I get it. But people panic when the pressure changes too fast. First you stabilize the room. Then you tell them more."
 
 Pail wiped his eyes with the heel of his hand, angry at the evidence of them. "I can tell people to breathe."
 

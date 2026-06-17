@@ -48,7 +48,7 @@ Mother Pell survived and vanished into custody so tangled that three governments
 
 Fabron objected to calling that good.
 
-"It is bureaucratically tolerable," he said. "Good is for soup and honest ammunition."
+"It is bureaucratically tolerable," he said. "Good would require several fewer miracles and a cleaner chain of command."
 
 "Put that on your family crest."
 
@@ -112,4 +112,4 @@ It had opened to a maintenance manual written by beings who made terrible assump
 
 The first instruction was already obvious.
 
-Do not make the lie too beautiful.
+Keep the cover story small and boring.

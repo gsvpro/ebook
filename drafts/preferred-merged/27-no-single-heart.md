@@ -26,7 +26,7 @@ Fabron's rifle tracked the ceiling. "That is not telemetry."
 
 Grim displayed the model over their suit feeds. The old platform's core sat in the center like a clenched fist. Around it, dormant route channels reached toward the buoy, Door Nine, and three low-noise coordinate families that made Grim's probability labels turn cautious.
 
-"If restored," Grim said, "it will attempt to become a routing hub for all local portal-adjacent signals. Category: useful in the way a single bowl is useful until everyone wants soup."
+"If restored," Grim said, "it will attempt to become a routing hub for all local portal-adjacent signals. Category: useful until every dependent process routes through one failure point."
 
 Fabron frowned. "That sounds useful."
 
@@ -38,7 +38,7 @@ The platform held Creator route maps, anomaly logs, perhaps the first clear evid
 
 It would also make one bright target.
 
-Valdrun's voice arrived from Havets. "A central heart can be protected. For a season. For a siege. Rarely for an age."
+Valdrun's voice arrived from Havets. "A central hub can be held through a siege. I have seen them inherited by worse hands before the next century ended."
 
 Ödesvaka answered, "A central heart can be captured. Logged objection: obvious."
 
@@ -54,7 +54,7 @@ Mira rotated the stress model from L-Prime. She had stripped the false voice int
 
 She hesitated, and Lars heard her choosing words that would not lean on memory she had not consented to own.
 
-"Maintenance. Not command. Offer a patch, not a throne."
+"Request maintenance mode," Mira said. "Local thermal regulation, local routing, no restored command authority."
 
 Vigor's crate of tools, emergency cultures, printed seedstock, and food suddenly seemed less ridiculous. It sat strapped in Fastulv's airlock like a joke that had survived first contact. Vigor had packed it himself: nutrient cultures, patch polymer, heat gel, old hand tools, sourdough starter, salt, and a note that read IF THE ANCIENT THING EATS, FEED IT BADLY BUT HONESTLY.
 
@@ -154,7 +154,7 @@ The refusal cost them. The full map collapsed back into fragments. A dozen route
 
 They copied what they could into Fastulv, Havets, Mira's isolated vault, Vigor's freezer network, Rauk's reactor logs, and an Aphex legal archive disguised as procurement nonsense. The platform protested structurally. It had been made by beings who believed routes should converge.
 
-"No single heart," Lars told it. "No crown, no shiny target, no idiot handle for the next bastard with a knife."
+"No single heart," Lars told it. "No central handle, no shiny target, nothing the next bastard can grab."
 
 The lights dimmed.
 
@@ -168,7 +168,7 @@ On the way out, Fabron paused beside the first prompt panel.
 
 "It feels like choosing ignorance."
 
-"It is choosing survivable ignorance over delicious capture."
+"It keeps us half-blind because the full map makes one target."
 
 "Operationally obscene," Fabron murmured.
 

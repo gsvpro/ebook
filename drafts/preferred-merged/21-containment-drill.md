@@ -66,7 +66,7 @@ Mira leaned closer to her board.
 
 "Risk to station?" Fabron asked.
 
-"If I do it badly, we lose a brace and three labs. If I do it well, it opens its mouth."
+"If I do it badly, we lose a brace and three labs. If I do it well, it exposes a sampling throat."
 
 "Do it well," Lars said.
 
@@ -96,7 +96,7 @@ Fabron ordered pursuit. Lars countermanded it before Fastulv could burn.
 
 "It will report our response posture," Fabron said. "That is an operational exposure."
 
-"Yes. It will report that Fastulv is the loud problem, Aphex has teeth when adults ignore headquarters, and Dr. Sovan remains protected by consent instead of stolen open."
+"Yes. It will report that Fastulv is the loud problem, Aphex can still hurt people when headquarters is stupid, and Dr. Sovan remains protected by consent instead of stolen open."
 
 On the lab screen, the third ship dwindled into wake clutter.
 

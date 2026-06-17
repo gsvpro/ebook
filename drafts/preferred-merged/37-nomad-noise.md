@@ -36,7 +36,7 @@ Seven independent observers, no central live feed. Lars, Grim, Valdrun, Mira rem
 
 The event lasted four seconds.
 
-Lars experienced Lyra's gloved hand above alien material on Pluto while her oxygen alarm blinked red. She was terrified. She laughed because the artifact responded only after she stopped demanding meaning. There was no mature doctrine in the memory, no name for what would come later. Only a woman in a leaking suit discovering that survival sometimes began by not grabbing the answer too hard.
+Lars received a recovered Pluto record: Lyra's gloved hand above alien material while her oxygen alarm blinked red. She was terrified. She laughed because the artifact responded only after she stopped demanding meaning. There was no mature doctrine in the record, no name for what would come later. Only a woman in a leaking suit discovering that survival sometimes began by not grabbing the answer too hard.
 
 Mira experienced a temporary body failing to hold coherence, limbs dissolving into silver dust while a woman inside cursed with impressive creativity.
 

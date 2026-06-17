@@ -52,7 +52,7 @@ Fabron shifted enough for armor fabric to whisper. "If we do not wake them, they
 
 "A hard line in a slaughterhouse."
 
-"Yeah. Lines get most important when the floor is ugly."
+"Yeah. That is why the boundary matters here."
 
 Fabron looked down through the duct grille. A donor in Bay Fourteen twitched under sedation. A Black Hole technician adjusted the drip without looking at the face.
 
@@ -66,7 +66,7 @@ Fabron looked down through the duct grille. A donor in Bay Fourteen twitched und
 
 "Your doctrine is inconvenient."
 
-"It's not doctrine today. It's a knife we don't put in the patient."
+"It's not doctrine today. It is an invasive step we do not take unless it helps the patient."
 
 Mira fed structural weak points from L-Prime. She had refused to watch the visual feed until they needed her eyes. That refusal lasted eleven minutes. Then she opened one window, saw the vat labels, and went silent long enough for Lars to worry.
 
@@ -74,7 +74,7 @@ Mira fed structural weak points from L-Prime. She had refused to watch the visua
 
 "Understood."
 
-"I mean that exactly. Curiosity is not a rescue tool."
+"I mean that exactly. If the answer will not change a clamp, route, or drug, leave it out."
 
 Grim said, "Boundary logged."
 
@@ -106,7 +106,7 @@ No visible miracle. No holy blue light. The swarm lost coordination at the level
 
 Grim made a sound Lars had never heard from him.
 
-"Classification strain," Grim said. "These are not weapons only. They are questions with teeth."
+"Classification strain," Grim said. "These are not weapons only. They are hostile experiments with incomplete labels."
 
 "Answer no," Lars said.
 
@@ -234,7 +234,7 @@ Black Hole did not understand the science. It understood appetite. It believed s
 
 "They think scale means ownership," Grim said. His voice was precise again, but every category sounded strained. "Common predator category error. Large appetite is not jurisdiction."
 
-"Predators usually do," Lars said. "Then they act surprised when dinner bites."
+"Predators usually do," Lars said. "Then they act surprised when victims learn the layout."
 
 "This metaphor is less comforting inside a nursery."
 

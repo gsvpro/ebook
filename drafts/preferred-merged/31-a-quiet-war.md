@@ -28,7 +28,7 @@ Vigor claimed innocence with flour on his hands.
 
 "The recipes contained embedded safety doctrine," Fabron said. "Also evacuation priorities, medical triage, and one clause that insults central procurement."
 
-"Good recipes do," Vigor said. "Bad ones leave people hungry and paperwork fat."
+"Good," Vigor said. "Then they read the important part before procurement notices the insult."
 
 From the outside, the quiet war looked like incompetence: delays, audits, scheduling conflicts, redundant warnings, local authorities remembering clauses, clerks refusing unusual medical access because privacy forms had become fashionable. A station clerk on L-Prime denied an Aphex medical request because the middle initial on the authorization did not match the lunch roster. A school board on Havskant postponed a Syren youth lecture by requiring pressure-door safety certification. A Rim fuel depot misplaced a Black Hole front company's docking approval into a folder labeled TAX QUESTIONS, where ambition went to die.
 
@@ -52,7 +52,7 @@ Mira caught the fracture.
 
 "Predators copying manners," Lars said.
 
-"Manners are not ethics."
+"A forged consent line can sound kind and still coerce."
 
 Black Hole leaked false Återviens phrases into extremist channels. It mixed repair before worship with blood-key fantasies and KBC throne language from the nursery archive. It arranged for a long-lived medic, Dr. Esha Bell, to be publicly accused of harvesting children. The accusation was false, but fear enjoyed sprinting.
 
@@ -84,7 +84,7 @@ Grim caught three by making the old waste-management system suddenly interested 
 
 The field hummed. The pot glowed. The filament cloud crawled around the inside like angry dust looking for a lung.
 
-"This pot is not rated for philosophical evil," Grim said.
+"This cookware is not rated for hostile ideology," Grim said.
 
 "Neither am I."
 
@@ -112,7 +112,7 @@ Later, Vigor saw the ruined pot and went still.
 
 "We can make a memorial shelf."
 
-"You can buy me three better pots and write an apology to soup."
+"You can buy me three better pots and apologize to the kitchen."
 
 That night the Syren countdown reached twelve hours.
 

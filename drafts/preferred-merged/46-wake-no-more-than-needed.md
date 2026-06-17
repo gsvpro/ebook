@@ -68,7 +68,7 @@ Valdrun noticed. "Good."
 
 "That is your response to visible distress?"
 
-"A steady hand signing this would mean you had mistaken a knife for a quill. We made that error before."
+"A steady hand signing this would worry me more. We authorized too much too calmly once before."
 
 "We?"
 
@@ -128,7 +128,7 @@ Ren chose partial unlock, enough to fly a route he apparently knew from a life b
 
 "Will he still be himself?" his daughter asked.
 
-Mira answered because Lars could not. "If the boundary holds, yes. The load changes shape. That does not make it weightless."
+Mira answered because Lars could not. "If the boundary holds, yes. The stress moves into support systems. It still has to be measured."
 
 "And if it does not hold?"
 

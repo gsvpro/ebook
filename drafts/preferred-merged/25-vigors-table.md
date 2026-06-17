@@ -12,7 +12,7 @@ The air was hot with yeast, pepper, wet wool, machine oil, and bodies relieved t
 
 Lars arrived hungry and suspicious.
 
-"Good," Vigor said, embracing him hard enough to threaten ribs. "Suspicion sharpens appetite. Fear ruins soup unless you salt it."
+"Good," Vigor said, embracing him hard enough to threaten ribs. "Sit. You can glare after soup."
 
 "That sounds medically illegal."
 
@@ -22,11 +22,11 @@ Vigor was broader than most doorways and moved like a man who knew exactly where
 
 Fabron stood near the entrance. "I am on duty."
 
-Vigor looked him over. "Then you need more soup than civilians. Duty eats holes in a man."
+Vigor looked him over. "Then you need soup before civilians. You look hollow."
 
 "I do not require feeding to perform command functions."
 
-"That is what men say before they faint into the bread."
+"That is what men say right before they fall over."
 
 The soup arrived before Fabron could refuse. Grim received a bowl and examined it with reverence.
 
@@ -38,7 +38,7 @@ Grim obeyed, then went very still.
 
 "This mystery contains smoke, salt, fungal ester, and emotional manipulation."
 
-"Good soup does."
+"Then it is working."
 
 The room looked chaotic. Lars knew better. Vigor had arranged tables by trust network, supply route, old grudges, and plausible deniability. Aphex soldiers sat beside smugglers they had once arrested and now had to ask for fuel. Farmers sat beside reactor technicians. A maintenance elder from Abantu Station Twelve sat where she could see both exits and the dessert hatch. A Syren sympathizer named Pail sat where three grandmothers could watch him without appearing to watch him.
 
@@ -48,7 +48,7 @@ No one stood up to brief the room. Briefings made listeners into audiences, and 
 
 Vigor ladled soup as if feeding people were a tactical operation, which it was.
 
-"Eat," he told a young NUKEA technician whose hands would not stop shaking. "Then tell Rauk's people which supervisor signs with fear and which one signs with greed. Different spoons for different pots."
+"Eat," he told a young NUKEA technician whose hands would not stop shaking. "Then tell Rauk's people which supervisor signs from fear and which one signs from greed."
 
 "I should not be here," the technician whispered.
 
@@ -56,9 +56,9 @@ Vigor ladled soup as if feeding people were a tactical operation, which it was.
 
 The L-Prime coordinate family matched three supply disappearances, two NUKEA recall anomalies, and one abandoned Creator-era survey buoy bought at auction by a charity front connected to Syren. The facts arrived in pieces: a smuggler's route, a chapel pantry ledger, a reactor guild warning, a school archive that had recorded an old buoy because children liked strange shapes.
 
-"Syren changed tone," Vigor said when enough pieces lay on the table. "Less office sermon, more empty-belly religion. They say the KBC Void is an open mouth."
+"Syren changed tone," Vigor said when enough pieces lay on the table. "Less office sermon, more hunger talk. They say the KBC Void wants surrender."
 
-Lars groaned. "The universe has one quiet room and some idiot starts selling tickets to its mouth."
+Lars groaned. "The universe has one quiet room and some idiot starts selling tickets."
 
 Pail stood.
 
@@ -68,7 +68,7 @@ He was thin, young enough to still be angry at the wrong parts of pain, and dres
 
 The room cooled. Not physically. Conversations lost steam. A child was quietly moved behind a herb tower.
 
-Lars studied him. Not hostile yet. Not innocent either. A lonely person handed a story large enough to crush loneliness could become a weapon before noticing the handle in his palm.
+Lars studied him. Not hostile yet. Not innocent either. A lonely person handed a story large enough to crush loneliness could become a weapon before noticing.
 
 "Listening is fine," Lars said. "Repair is what you do when listening stops being an excuse to sit on your ass."
 
@@ -76,7 +76,7 @@ Lars studied him. Not hostile yet. Not innocent either. A lonely person handed a
 
 "No."
 
-It hurt the room. It had to. Half the people there had risked homes, records, and names on fragments. They wanted the whole shape because fear makes central answers taste like bread.
+It hurt the room. It had to. Half the people there had risked homes, records, and names on fragments. They wanted the whole shape because fear made central answers feel like relief.
 
 Pail's face tightened. "You keep knowledge like kings."
 
@@ -88,13 +88,13 @@ Pail's face tightened. "You keep knowledge like kings."
 
 Vigor leaned forward, both hands around a ladle big enough to settle a bar fight.
 
-"Boy, when an old ship groans, you do not call it god. You check the bolts. If the bolts teach humility, good. Still check them before the roof falls on children."
+"Boy, I run kitchens on stations with bad pumps. Strange noises get a wrench, not a prayer. Check the bolts before children sleep under the roof."
 
 "You do not understand hunger."
 
 The room went dangerous then. Vigor did not move, but the old farmers near him changed the way they held their spoons.
 
-"I have buried hungry people," Vigor said softly. "I have stretched goat milk with water and lied to children by smiling. Do not spend your ache like coin in my kitchen."
+"I have buried hungry people," Vigor said softly. "I have stretched goat milk with water and lied to children by smiling. Do not bring your ache into my kitchen and call it authority."
 
 Pail looked away first.
 
@@ -104,7 +104,7 @@ Fabron wanted him detained. He said so in the pantry corridor, voice low and for
 
 "He is an exposed vector for Syren influence."
 
-Vigor stacked bowls with more force than necessary. "He came hungry in a bad way. If we cage everyone who repeats poison, poison learns to wear a uniform. Let him report that we fed him, watched him, and did not kneel."
+Vigor stacked bowls with more force than necessary. "He came hungry in a bad way. Do not cage him for repeating a line. Watch who fed it to him, and who asks for his report."
 
 "He may return with worse men."
 
@@ -124,13 +124,13 @@ It showed kitchens, farms, chapel pantries, mess halls, fuel depots, cold rooms,
 
 "I was not planning to label your pantry."
 
-"Men who become symbols rarely planned breakfast either. Then everyone starves while they look noble."
+"Men who become symbols lose control of the schedule. Then everyone waits for them while work piles up."
 
-The cold made Lars's knuckles ache. Or maybe that was memory. Pluto hunger. Heliostat ration fights. Lyra laughing because someone had preserved yeast through a bombardment and therefore civilization had not ended today.
+The cold made Lars's knuckles ache. Or maybe the archive records had gotten under his skin: old hunger after Pluto, Heliostat ration fights, Lyra on a recording laughing because someone had preserved yeast through a bombardment and therefore civilization had not ended that day.
 
 "I'm trying not to become a command center," Lars said.
 
-"Trying is a leaky bucket. Put people around you who slap your hand when you reach for the crown."
+"Trying is not enough. Keep people close enough to slap your hand away when you start enjoying command."
 
 "You volunteering?"
 
@@ -146,4 +146,4 @@ It was asking for a map.
 
 Vigor wiped his hands on his apron and looked at the hanging meat, the hidden channels, the little lights of kitchens pretending to be ordinary.
 
-"Maps are like recipes," he said. "Useful until some fool mistakes them for dinner."
+"Maps help," he said. "Then someone still has to check the stove."

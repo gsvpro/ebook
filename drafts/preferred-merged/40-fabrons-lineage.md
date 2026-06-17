@@ -34,7 +34,7 @@ Mother Aveline led them through old phrases: keep the hinge small, no single hea
 
 They had no word Aerit. They had stories of clear ones who survived by sharing work, not rule. Stories of old engineers leaving practices in human hands because bloodlines failed and habits traveled. Stories of Pluto only as "the first cold lesson," stripped of mature doctrine that had not yet existed.
 
-"No one at Pluto was founding a church," Mother Aveline said, catching Lars's look before he shaped it. "They were freezing, frightened, and learning which valves lied. Later people made hymns because memory needs handles."
+"No one at Pluto was founding a church," Mother Aveline said, catching Lars's look before he shaped it. "They were freezing, frightened, and learning which valves lied. Later people made hymns because memory needs structure."
 
 Mira, attending despite insisting churches made her itch, examined a ritual object: three metal rings around a cracked ceramic disk.
 
@@ -68,11 +68,11 @@ Mother Aveline watched Lars over tea. "You expected drift."
 
 "Yes."
 
-"Drift is how seeds travel. Lock them in one jar and call it purity, you get mold."
+"Communities drift. That is how they survive distance. Lock the doctrine too tightly and people start protecting the lock instead of each other."
 
 She gave him a list of contacts and a warning.
 
-"We can shelter. We can refuse spectacle. We can move food, tools, and frightened people. We cannot become your disciples. Disciples stop checking valves."
+"We can shelter. We can refuse spectacle. We can move food, tools, and frightened people. We cannot become your disciples. Disciples stop doing inspections."
 
 "Good."
 
@@ -100,7 +100,7 @@ Lars did not intervene. That mattered. If he rescued the archive, it became his.
 
 Mother Aveline handed Lars a steel token: three circles, deliberate crack.
 
-"We do not worship the Clear Ones," she said. "We repair what they could not. Pride is a loose hinge."
+"We do not worship the Clear Ones," she said. "We repair what they could not. Pride skips the inspection."
 
 Lars closed his hand around it.
 

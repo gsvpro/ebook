@@ -42,7 +42,7 @@ Active scans from Arkology increased local noise. Passive, distributed sensors i
 
 The agricultural data should have been useless: planting times, cellar temperatures, goat fertility, flour shipments, reactor draw during winter storms. But it was local, unsynchronized, and honest in the way survival logs were honest. The Void model liked it. Or, more precisely, the model lost less information when fed records that had not been created to dominate the thing being measured.
 
-Fabron laughed under his breath. "The cosmos appears to prefer soup. I object to the paperwork."
+Fabron laughed under his breath. "The cosmos appears to prefer catering. I object to the paperwork."
 
 "The cosmos prefers not being interrogated by artillery," Mira said.
 
@@ -72,7 +72,7 @@ The vote, if it was a vote, passed by local assent.
 
 Valdrun agreed last. Not because he doubted the model, but because the false public model tasted too much like old survival compromises.
 
-"Lies breed heirs," he said.
+"Temporary lies become institutions," he said.
 
 "Truth breeds cults when you drop it on frightened heads," Lars said.
 

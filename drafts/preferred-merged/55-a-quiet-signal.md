@@ -134,7 +134,7 @@ Mira was quiet on the channel.
 
 Fabron cleared his throat. "That is either a strategic directive with unacceptable stationery or the strangest family letter in history."
 
-"Both," Vigor said. "Also she mentioned food. Sensible woman. Trust the one who packs a lunch before poking dead empires."
+"Both," Vigor said. "Also she mentioned food. Sensible woman. Trust the one who brings lunch before poking dead empires."
 
 Valdrun whispered, "She is alive."
 
@@ -184,7 +184,7 @@ He thought of Ren's bad landing, Isaac's refusal, Mira's limited yes, Fabron's c
 
 He answered the quiet, not as prayer, not as command, but as status.
 
-"Coherence," Lars said. "Messy. Local. Still leaking around the edges."
+"It is still us," Lars said. "Messy, local, and not finished."
 
 Fastulv's galley lights flickered once because an old relay disliked moisture.
 

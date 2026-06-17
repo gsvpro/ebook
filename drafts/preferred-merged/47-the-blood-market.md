@@ -70,7 +70,7 @@ The broker smiled with stolen innocence. "Attached."
 
 Lars bought the entire lot with Arsenault's emergency account.
 
-Arsenault whispered, "That number has teeth, Monsieur Odin."
+Arsenault whispered, "That number is not sentimental, Monsieur Odin. It changes the market."
 
 "Asset pain registered," Grim said. "Continue behaving like civilization."
 
@@ -122,7 +122,7 @@ The child-faced broker triggered a thermal purge.
 
 Mira stopped it through materials, not memory. She had studied the cryo seals from purchase scans and found every stress cheat, every false tolerance dressed as manufacturing variance. One command cycled temperature just wrong enough to jam purge valves without rupturing samples. It was a tiny act of violence against bad engineering and it saved all the records.
 
-"Cracks do not lie," she said, voice cold. "People do."
+"The fracture pattern is consistent," she said, voice cold. "The testimony is not."
 
 They captured vials, ledgers, buyers, and one living technician who had joined Black Hole after Syren convinced him the Void wanted flesh returned to the field. He cried when Vigor's medic treated his broken arm. He looked younger when he cried, which made Lars angrier, not less.
 
@@ -132,7 +132,7 @@ Vigor's medic splinted the arm anyway. "Bodies first. Philosophy after swelling 
 
 "Do not confuse medical custody with absolution," Fabron warned.
 
-"I don't," Lars said. "I just like civilization when it remembers arms break before sermons do."
+"I don't," Lars said. "I just like civilization better when medics reach people before preachers do."
 
 The Sovan-labeled samples were not Mira's blood. Attempts, approximations, relatives too distant, stolen hospital metadata. Black Hole was guessing, but its guesses were improving. Worse, the ledger showed how they improved: every public advisory, every rumor, every heroic clip, every careless debate about hidden bloodlines taught the market where to look next.
 
@@ -156,7 +156,7 @@ It also exposed the people who had sold samples for rent, research grants, cult 
 
 "Burning it down is faster," Lars said.
 
-"So is burning soup," Vigor replied. "Still leaves people hungry."
+"So is burning food," Vigor replied. "Still leaves people hungry."
 
 As they fled, a buyer packet decoded.
 

@@ -138,7 +138,7 @@ Grim kept Ren's recording in seven archives and asked Lars whether grief require
 
 "Often," Lars said.
 
-"Then I will make terrible soup. Nutritional grief supplement."
+"Then I will produce food with unacceptable emotional variance."
 
 "That may deepen grief."
 

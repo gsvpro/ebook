@@ -28,7 +28,7 @@ Ships arrived with crews remembering conversations they had never had. Cargo hol
 
 "They documented the same doctrinal failure," Fabron said.
 
-"Everyone does," Lars replied. "The universe keeps handing people weird plumbing and they found churches near the leak."
+"Everyone does," Lars replied. "People find bad infrastructure and immediately recruit it."
 
 The second station had been deliberately quieted. Its control systems were intact but locally severed, each subsystem holding a shard of function without allowing any unit to become a hub.
 

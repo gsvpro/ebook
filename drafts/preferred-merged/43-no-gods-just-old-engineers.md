@@ -28,7 +28,7 @@ That saved the moment. The mechanic stood, confused and crying, then opened the 
 
 "What should I do instead?"
 
-Lars looked at the exposed regulator. "Learn why it burned. Teach someone else. Refuse anyone who says the Void wants your blood. Eat before making cosmic decisions. Low sugar makes idiots religious."
+Lars looked at the exposed regulator. "Learn why it burned. Teach someone else. Refuse anyone who says the Void wants your blood. Eat before making cosmic decisions. Hungry people join stupid movements."
 
 The mechanic laughed through tears.
 
@@ -66,7 +66,7 @@ Mira listened, then said, "I am afraid that if I ask for more memory, I will los
 
 No one answered quickly.
 
-Finally Lars said, "You might lose parts. You might gain parts. You might decide not to ask. All allowed. No one gets to invoice your skull."
+Finally Lars said, "You might lose parts. You might gain parts. You might decide not to ask. All allowed. Even if we need you, your head is not public equipment."
 
 "Even if you need me?"
 

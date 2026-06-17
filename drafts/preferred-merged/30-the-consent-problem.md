@@ -102,7 +102,7 @@ Mira attended the final boundary meeting remotely from L-Prime. She had reviewed
 
 "For what?"
 
-"For making no a real option. A boundary that only holds under low load is decoration."
+"For making no a real option. Isaac is where the protocol gets stress-tested."
 
 Isaac studied her on the slate. "You saying no too?"
 
@@ -138,7 +138,7 @@ The channel went quiet.
 
 Vigor settled it from a kitchen channel while peeling an apple with a knife large enough for war.
 
-"Wake no one to soothe your fear," Vigor said. "You do not dig up seed because winter is frightening. Shield many. Ask few. Move only those who choose or cannot survive otherwise, and count every exception like borrowed grain."
+"Wake no one to soothe your fear," Vigor said. "Shield many. Ask few. Move only those who choose or cannot survive otherwise, and write down every exception."
 
 Fabron added, "No one declares the exception alone. Written record, independent witness, civilian protection first."
 
@@ -152,9 +152,9 @@ It would save fewer people this month than a tyrant could seize in a day.
 
 Lars signed anyway.
 
-That night, he dreamed of Lyra on Pluto, young and starving, hair hacked short with a tool knife, hands wrapped around a heater that barely deserved the name. Outside their shelter, the artifact snow glittered in the dark. Inside, someone cried because the medicine had run out.
+That night, the archive gave him Lyra on Pluto, young and starving, hair hacked short with a tool knife, hands wrapped around a heater that barely deserved the name. Outside her shelter, the artifact snow glittered in the dark. Inside, someone cried because the medicine had run out.
 
-"Survival without consent becomes just another predator with better manners," she told him.
+"If we decide for them, we survived by becoming the hunters with cleaner language," she told him.
 
 In the dream, Lars wanted to argue.
 

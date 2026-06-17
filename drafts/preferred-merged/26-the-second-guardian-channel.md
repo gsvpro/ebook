@@ -24,7 +24,7 @@ Valdrun joined from Havets with the patience of someone who had watched too many
 
 "Those are not the same category," Fabron said. He had arrived still buttoning his coat, sidearm visible and dignity fully armed.
 
-"Correction," Grim said. "They are distinct categories with unacceptable overlap. Like soup and industrial solvent in a poorly labeled pantry."
+"Correction," Grim said. "They are distinct categories with unacceptable overlap and hazardous labeling failure."
 
 Vigor grunted. "Bad pantry."
 
@@ -56,7 +56,7 @@ The channel offered coordinates for a dead survey platform near the awakened Cre
 
 "Distributed," Vigor said approvingly. "Like a good root cellar. No single thief gets the winter."
 
-"Or compromised through distributed systems," Fabron replied. "A pantry can be poisoned."
+"Or compromised through distributed systems," Fabron replied. "A supply chain can be poisoned."
 
 Vigor pointed a thick finger at him. "That is why you smell the jars."
 
@@ -110,7 +110,7 @@ Lars chose the smallest hinge.
 
 Fastulv would go visibly as an Aphex salvage inspection. Havets would observe without contact. Mira would remain at L-Prime, analyzing field data within her chosen protection. Fabron would come because otherwise he would follow. Vigor would stay because his network was more useful alive and deniable. Rauk would hide reactor hash fragments in Havskant maintenance logs in case the packet tried to rewrite its own history.
 
-"No awakening," Lars said. "No gathering. No heroic reveal with music and doomed idiots. We inspect a buoy and leave if it smells like religion."
+"No awakening," Lars said. "No gathering. No heroic reveal with music and doomed idiots. We inspect a buoy and leave if anyone starts preaching."
 
 "Religion does not always smell," Fabron said.
 

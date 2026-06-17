@@ -68,11 +68,11 @@ Grim and Ödesvaka would prepare consent-protected shield lists.
 
 Lars would go to First Door.
 
-Valdrun objected. "You make yourself the hinge again. I have watched hinges call themselves temporary for centuries."
+Valdrun objected. "You make yourself the hinge again. I have watched emergency powers outlive the emergency."
 
 "No. One noisy idiot in front of a bigger pattern."
 
-"That is what hinges say when they enjoy drama."
+"That is what emergency powers say when they enjoy drama."
 
 Mira's voice was quiet. "He may be useful because everyone already misreads him. Existing stress path. Known failure mode."
 

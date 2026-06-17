@@ -92,7 +92,7 @@ Mira did. "Limit Channel Two traffic."
 
 "That will leave captains blind."
 
-"Blind is not the same as entitled to someone else's nervous system."
+"A blind spot does not authorize direct access to someone else's implants or cortex."
 
 The sentence cut through the command channel harder than any weapon.
 
@@ -156,7 +156,7 @@ Fabron urged distance and civilian exclusion before anyone named disaster a vict
 
 "Evacuation radius first. Speeches never."
 
-Vigor sent a single line from the repair feeds. "Dead wolves still bite if you put hands in the mouth."
+Vigor sent a single line from the repair feeds. "That wreck still has active traps. Stop reaching into it."
 
 Ren said, "Bad landing window. Decide."
 

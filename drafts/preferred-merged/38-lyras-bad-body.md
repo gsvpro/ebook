@@ -78,7 +78,7 @@ Mira's mouth twisted. "She was alone."
 
 The journal ended with warning.
 
-"The older engineers are not rescuers. They may not think in individuals the way we do. But the layer favors coherence without domination. Build carefully. If I am gone when you find this, do not centralize recovery around grief. Grief loves thrones. Refuse them."
+"The older engineers are not rescuers. They may not think in individuals the way we do. But the layer favors coherence without domination. Build carefully. If I am gone when you find this, do not centralize recovery around missing me."
 
 For half a second another figure stood behind Lyra in the recording. Tall, indistinct, failing at the edges. Not human. Not Creator.
 

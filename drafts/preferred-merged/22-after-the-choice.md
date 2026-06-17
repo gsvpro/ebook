@@ -54,7 +54,7 @@ Mira had marked the coordinate burst in six colors. She had separated confirmed 
 
 "It coughed in coordinates. That is rude, but useful."
 
-"You keep using useful like it doesn't have teeth."
+"You keep using useful like it excuses the cost."
 
 "I am using it for the data. Not for myself."
 
@@ -70,7 +70,7 @@ She did not flinch this time. That cost her more than panic would have.
 
 "I remember a gas leak," she said. "I remember coughing. I remember being ashamed because I cried."
 
-"That may all be true," Lars said. "Lies love wearing real socks."
+"That may all be true," Lars said. "Still does not make the shape honest."
 
 "I hate that answer."
 
@@ -166,7 +166,7 @@ Grim displayed three branches: Black Hole sampling patterns, Aphex metadata leak
 
 "Good?"
 
-"Answers offered too early are usually adhesive. They stick to weak minds and collect dust."
+"Early answers contaminate the test. People stop checking the model."
 
 Mira studied the evidence until her neck warmed and tears came without permission. She looked furious at the tears. Lars looked away just enough to spare her the labor of being observed.
 

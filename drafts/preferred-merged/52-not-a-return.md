@@ -116,7 +116,7 @@ Fabron's order expanded sideways. Clear Hand found reactor sisters, dockside rep
 
 Mother Aveline chaired one meeting by assigning potato duty to anyone who used destiny twice.
 
-"If the hinge squeals, oil it," she said. "Do not sing at it until it forgives you."
+"If the door fails inspection, fix the hinge," she said. "Do not turn the repair into ceremony."
 
 Fabron translated arguments into procedure and looked more exhausted than he had under fire.
 
@@ -132,7 +132,7 @@ Vigor's network became the practical recovery apparatus humans could see without
 
 He refused a title from three committees.
 
-"Call me coordinator and I will coordinate your boots into the soup."
+"Call me coordinator and I will assign your boots to kitchen waste."
 
 "That is leadership," Grim said.
 

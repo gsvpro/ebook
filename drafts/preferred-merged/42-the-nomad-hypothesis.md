@@ -38,7 +38,7 @@ The Alpha Fourteen locks stayed ugly too. Consent protection, memory steering, c
 
 Fabron's order contributed oral histories. A reactor nun on Europa Station had a chant matching Creator warnings about brightness. A farm guild on Abantu routes kept seed calendars aligned with low-noise windows. A military fraternity in Aphex used a handshake derived from an old consent-boundary ritual and had no idea why.
 
-"The galaxy remembers through chores," Vigor said. "Seeds, valves, handshakes. Same pantry, different shelves."
+"The galaxy remembers through chores," Vigor said. "Recipes survive because someone still has to feed the shift."
 
 Mira published the public version as a dry hazard paper: Ancient Transit Systems and Instability Risks in Low-Noise Cosmological Regions. It contained enough math to frighten insurers, enough omissions to avoid cult fuel, and enough boredom to reduce casual readership by ninety percent.
 

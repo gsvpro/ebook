@@ -72,7 +72,7 @@ Fabron translated it into military terms that made Kint sweat.
 
 Kint objected. She had a binder full of approvals and the brittle courage of a competent person handed bad orders. Lars let her use three sentences, then put the dead infiltrator's coordinate burst on the wall.
 
-"Someone is looking for quiet colonies with unusual survivability patterns," Lars said. "Your recall turns twelve independent failures into one handle. Handles are for mugs and idiots."
+"Someone is looking for quiet colonies with unusual survivability patterns," Lars said. "Your recall turns twelve independent failures into one emergency key. One key means one person can turn it."
 
 "Told them," Rauk said. "Used smaller words, too."
 
@@ -86,7 +86,7 @@ Kint read it twice.
 
 "This will make my superiors furious," she said.
 
-"Good," Rauk said. "Anger is warmer than vacuum."
+"Good," Rauk said. "Let them be furious on paper instead of freezing us in practice."
 
 "I did not design the dependency."
 

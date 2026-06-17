@@ -60,7 +60,7 @@ Each name had context. A coolant crisis on Abantu Station Twelve. A famine convo
 
 Lars turned pages more carefully than he wanted Arsenault to notice.
 
-"You were tracking hidden people," Lars said. "That is a hobby with teeth."
+"You were tracking hidden people," Lars said. "That is a dangerous hobby."
 
 "I was tracking anomalies that correlated with institutional survival," Arsenault said. "Do not flatter yourself by assuming my ignorance lacked rigor."
 
@@ -72,7 +72,7 @@ The word appeared in seventeen spellings. Återviens as discipline, superstition
 
 Fabron's Clear Hand appeared twice, once as a charitable maintenance order and once as a minor security nuisance.
 
-"Careful," Lars said. "You wrote down a church with guns."
+"Careful," Lars said. "You wrote down an armed doctrine."
 
 "Major Fabron would object to the word church."
 
@@ -150,7 +150,7 @@ Arsenault looked genuinely pained. "That threat is more effective than you deser
 
 "Motivate yourself, Frenchly."
 
-At the door, Lars paused. The oldest page lay open behind him. In the margin beside an old Pluto rumor entry, someone had copied a three-line translation from a much older source. It was not a message arriving now, and not handwriting Lars recognized. It was archival marginalia: a clerk, ancestor, or early Aphex watcher trying to translate a fragment of Återviens-adjacent language first into French, then into trade English. The corrections were messy because the writer had clearly understood the danger: translate too grandly and people would build a religion; translate too small and they would miss the warning.
+At the door, Lars paused. The oldest page lay open behind him. In the margin beside an old entry about Lyra Vargstjärna's Pluto find, someone had copied a three-line translation from a much older source. It was not a memory from Lars's life, not a message arriving now, and not handwriting he recognized. It was archival marginalia: a clerk, ancestor, or early Aphex watcher trying to translate a fragment of Återviens-adjacent language first into French, then into trade English. The corrections were messy because the writer had clearly understood the danger: translate too grandly and people would build a religion; translate too small and they would miss the warning.
 
 Not gods. Not owners.
 

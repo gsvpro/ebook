@@ -74,7 +74,7 @@ They built the operation in layers.
 
 Vigor would redirect pilgrims into repair vigils, food stations, and medical checks away from First Door. He would not argue theology. He would hand people water, broken seals, hungry strangers, and work heavy enough to pull the fever out through their hands. His packets did not mention Aerits, Creators, or Nomads. They listed pump failures, oxygen checks, names of missing children, and soup quantities.
 
-"People do not stop being frightened because you explain the galaxy," Vigor said. "They stop being useless when you put a wrench in one hand and bread in the other."
+"People do not stop being frightened because you explain the galaxy," Vigor said. "They stop being useless when you give them a repair job, a safe room, and food they do not have to beg for."
 
 Fabron's Clear Hand cells would slow military centralization with local command verification and legal liability for ancient-system engagement. He assigned the work like a man preparing a chapel for artillery: custody forms, jurisdiction notices, casualty corridors, civilian accountability, quiet orders to officers whose great-grandmothers had taught them that a clean hinge mattered more than a clean flag.
 
@@ -108,7 +108,7 @@ Valdrun's voice came low through the channel. "Fastulv will draw command attenti
 
 "Hidden capacity," Mira said. "Not secret miracle."
 
-"Exactly," Lars said. "The wolf barks. The sea moves."
+"Exactly," Lars said. "We make the noise. The quiet network moves."
 
 Vigor grunted. "If either of you puts that on a flag, I will burn the flag and serve soup over the ashes."
 

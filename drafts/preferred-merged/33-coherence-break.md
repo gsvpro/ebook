@@ -22,7 +22,7 @@ Grim threw the telemetry across Lars's vision in layers. Ship heat. Ring charge.
 
 "Can it break the ring?"
 
-"It can make the ring mistake violence for attention."
+"It may classify synchronized force as a valid input."
 
 Valdrun joined the channel, hard with fear. "Wake nearby sleepers. We need distributed cognition. I have watched stations die while we preserved clean hands."
 
@@ -90,7 +90,7 @@ That worked.
 
 Lars laughed once, ugly and relieved.
 
-"Fine. No single golden answer. Fabron, evacuate by local cells. No group bigger than twelve. Grim, desynchronize every speaker, suit comm, and devotional tooth filling. Mira, give me phase windows and stop before your brain becomes a shareholder. Valdrun, shield sleepers but do not open them. Ödesvaka, enforce the line. Havets, small hinges."
+"Fine. No single golden answer. Fabron, evacuate by local cells. No group bigger than twelve. Grim, desynchronize every speaker, suit comm, and devotional tooth filling. Mira, give me phase windows and stop before your brain becomes a shareholder. Valdrun, shield sleepers but do not open them. Ödesvaka, enforce the line. Havets, local safeguards."
 
 The old ship answered.
 
@@ -104,7 +104,7 @@ Grim shattered the Syren song into nonsense harmonies. Every corridor got a diff
 
 Mira fed phase windows in numbers so bare they sounded like pain.
 
-"Three seconds. Node two. Not the ring. The bracket. The bracket is the lie."
+"Three seconds. Node two. Not the ring. The bracket. The bracket is carrying the false load."
 
 Lars fired the Ragnarrök not at Door Nine but at three structural nodes holding the broadcast array in alignment.
 

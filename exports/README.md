@@ -14,4 +14,4 @@ Reading order included:
 - Chapters 17-20 from `../chapters/`
 - Chapters 21-55 from `../drafts/preferred-merged/`
 
-Generated: 2026-06-17 14:48
+Generated: 2026-06-17 21:52

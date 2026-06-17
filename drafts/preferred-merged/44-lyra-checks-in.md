@@ -68,7 +68,7 @@ In practical terms, the field did not need a heroic counter-signal. It needed th
 
 In simpler terms, make every faction's grand gesture locally boring.
 
-Vigor laughed so hard he had to sit down. "We save the basin by making the apocalypse tedious. Like feeding goats until the mayor forgets his speech."
+Vigor laughed so hard he had to sit down. "We save the basin by making the apocalypse tedious. Feed people, fix pumps, make the mayor wait."
 
 "Weaponized boredom," Fabron said. "France has institutional experience."
 
@@ -88,7 +88,7 @@ Valdrun looked at him.
 
 Mira was quiet. "It told me no by entering my lab?"
 
-"Or Lyra did something rude with a useful system. We can be grateful and file a complaint. Both hands, same idiot."
+"Or Lyra did something rude with a useful system. We can be grateful and still write up the trespass."
 
 "I already did."
 
@@ -122,6 +122,6 @@ Lars answered after a moment.
 
 Mira added one more line to the breach registry before the operation clock began.
 
-Helpful systems are not exempt from consent.
+Assistance did not waive local consent.
 
 No one argued. Even Arsenault, still refusing to use that bathroom, signed the acknowledgement.

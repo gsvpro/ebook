@@ -107,7 +107,7 @@ Not rescue.
 Compatible local repair observed.
 Further contact possible when quieter.
 
-Vigor laughed softly. "The old engineers told us to keep our voices down and stop banging pots at the door."
+Vigor laughed softly. "The old engineers told us to quit shouting at the door and read the room."
 
 "Fair," Lars said. "We are loud mammals with tools. Fair."
 

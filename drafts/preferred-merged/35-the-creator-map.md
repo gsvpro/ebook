@@ -38,7 +38,7 @@ Do not brighten.
 
 "Do not brighten," Fabron repeated. "Less like transport engineering. More like concealment doctrine."
 
-"Low observation," Grim said. "Advanced systems reducing detectable activity to avoid predation, collapse, or unwanted coupling. Kardashev modesty. An elegant term for keeping one's soup smell inside the kitchen."
+"Low observation," Grim said. "Advanced systems reducing detectable activity to avoid predation, collapse, or unwanted coupling. Kardashev modesty, if one enjoys imprecise charm."
 
 "Put that on a shirt," Lars said, "and sell it to people who hate fun."
 
@@ -66,7 +66,7 @@ It woke when Fastulv's maintenance drone offered local diagnostics instead of co
 
 Lights moved along the spars, faint as plankton.
 
-Mira inhaled sharply. "Older anchor underneath. Not physical. Like someone bolted a train station to a radio wave. The joint should not hold. It is holding."
+Mira inhaled sharply. "Older anchor underneath. Not physical. The coupling behaves like infrastructure attached to a carrier wave. The joint should not hold. It is holding."
 
 A signal entered every system at once.
 

@@ -98,7 +98,7 @@ He had expected denial, perhaps manipulation, perhaps one more clever answer fro
 
 "My loyalty is now divided."
 
-"It was always divided," Lars said. "Aphex pays you. France trained you. Your order shaped you. If Återviens requires you to obey me, it has failed so hard we should shoot the paperwork. If it requires you to protect civilians, stop Aphex from becoming a cancer, and tell me when I act like a throne-shaped idiot, it may be useful."
+"It was always divided," Lars said. "Aphex pays you. France trained you. Your order shaped you. If Återviens requires you to obey me, it has failed so hard we should shoot the paperwork. If it requires you to protect civilians, stop Aphex from becoming a cancer, and tell me when I start acting like command owns the room, it may be useful."
 
 Grim nodded. "He is well qualified for the final item."
 
@@ -124,7 +124,7 @@ Fabron looked down at the notebooks. The official one could destroy careers if w
 
 "What do I tell Arsenault?"
 
-"Enough to keep him useful. Not enough to make him hungry."
+"Enough to keep him useful. Not enough to make him overconfident."
 
 "That is not a report. That is animal husbandry."
 
@@ -156,7 +156,7 @@ Fabron closed the official notebook first. Then the paper one.
 
 Fabron stood. He looked angry in three jurisdictions.
 
-"Aphex order: attend and prevent hostile monopoly. Clear Hand order: keep the hinge small. Personal order: make sure nobody uses Dr. Sovan's voice again without consequence. All three are actionable."
+"Aphex order: attend and prevent hostile monopoly. Clear Hand order: keep the authority narrow. Personal order: make sure nobody uses Dr. Sovan's voice again without consequence. All three are actionable."
 
 "Coherence?"
 
