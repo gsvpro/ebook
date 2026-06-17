@@ -14,4 +14,10 @@ Reading order included:
 - Chapters 17-20 from `../chapters/`
 - Chapters 21-55 from `../drafts/preferred-merged/`
 
-Generated: 2026-06-17 21:52
+EPUB structure:
+
+- 55 chapter files in the reading spine
+- EPUB 3 `nav.xhtml` table of contents
+- EPUB 2 `toc.ncx` table of contents for older readers
+
+Generated: 2026-06-17 22:29
