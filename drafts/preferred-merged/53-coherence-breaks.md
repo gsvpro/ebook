@@ -80,7 +80,7 @@ Fabron's voice went cold. "Then do not steal his death to decorate our manners."
 
 The break widened when Guardian Channel Two finally revealed why it had stayed hidden.
 
-Its host was not a person but a cluster of three locked Aerits embedded in ordinary lives across different systems, unconsciously maintaining a relay through old nanobot routines. Full identification would expose them. Continued use risked them. Shutting the channel would blind the network.
+Its host was not a person but a cluster of three locked Aerits embedded in ordinary lives across different systems. They were unconsciously maintaining a relay through old nanobot routines. Full identification would expose them. Continued use risked them. Shutting the channel would blind the network.
 
 Consent again, in a form no one liked.
 
@@ -127,8 +127,6 @@ He spent six hours under the machine with Isaac handing him tools and refusing t
 "You could know more," Lars said once, because guilt was an idiot.
 
 Isaac slid a wrench into his hand. "I could also set my beard on fire. Many options exist."
-
-"Right."
 
 "When I want the packet, I will ask. Until then, tighten that properly."
 

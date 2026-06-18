@@ -347,4 +347,3 @@ Repair before worship.
 He lowered his weapon.
 
 "Then ask properly."
-

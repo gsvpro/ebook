@@ -84,7 +84,7 @@ Pail's face tightened. "You keep knowledge like kings."
 
 "Convenient."
 
-"Yes. Also true. Annoying combination."
+"Yes. Also true."
 
 Vigor leaned forward, both hands around a ladle big enough to settle a bar fight.
 

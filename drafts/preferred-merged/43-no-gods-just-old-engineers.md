@@ -80,8 +80,6 @@ Mira saw that. "That answer passed stress tolerance."
 
 "Premature."
 
-"Optimistic."
-
 Black Hole responded by accelerating toward First Door with a biological processor fleet. Syren's largest faction announced synchronized silence. Aphex central prepared an emergency fleet despite Arsenault's stalling. NUKEA moved power ships "for safety."
 
 Every pressure line converged.

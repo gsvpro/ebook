@@ -192,8 +192,6 @@ Lars made himself answer without charm.
 
 "That last option has appeal."
 
-"People keep saying that. Very rude pattern."
-
 Mira breathed once through her nose. Her shoulder hurt; Lars could see it in the controlled angle of her posture. Her hand was wrapped from the fight. Her life had been invaded by false soldiers, impossible metadata, polite military protection, and a rude man refusing to say the dangerous word she could feel waiting behind the room.
 
 She still reached for the console.
@@ -265,4 +263,3 @@ Not yet.
 It was a bounded task.
 
 It was the first ask.
-

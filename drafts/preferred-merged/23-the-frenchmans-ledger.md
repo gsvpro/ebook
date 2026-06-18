@@ -2,7 +2,7 @@
 
 Gabriel Arsenault received Lars in a room designed to imply that civilization had been invented by French furniture.
 
-The office sat high inside Aphex Defence's Paris orbital branch, where the windows showed Earth with such tasteful restraint that Lars suspected expensive software was removing the ugly weather. The carpet muffled footsteps. The air smelled of paper, polish, and money pretending not to sweat. A wall of old campaign maps implied continuity. A wall of legal screens implied violence with invoices.
+The office sat high inside Aphex Defence's Paris orbital branch. The windows showed Earth with such tasteful restraint that Lars suspected expensive software was removing the ugly weather. The carpet muffled footsteps. The air smelled of paper, polish, and money pretending not to sweat. A wall of old campaign maps implied continuity. A wall of legal screens implied violence with invoices.
 
 The desk was real wood.
 
@@ -14,7 +14,7 @@ Arsenault stared. "Monsieur Odin, is that food on a seventeenth-century desk?"
 
 "It is fourteen hundred hours and the desk has survived wars."
 
-"Calendars are advisory. Wood builds character."
+"Calendars are advisory."
 
 Grim removed a pastry and examined its layers. "This object contains butter in a structurally ambitious configuration."
 
@@ -52,7 +52,7 @@ It was bound in cracked leather, reinforced along the spine, and ugly with repai
 
 "My money is on the divorce."
 
-"A correct assessment. Rare from you."
+"A correct assessment."
 
 The ledger held shell suppliers, minority investments, rescue grants, military redundancies, and reactor-hardened agricultural habitats sold at a loss under charitable fronts. It also held names: long-lived engineers, impossible survivors, smugglers moving medicine without invoices, soldiers who disobeyed remote orders during system failures and were later protected by someone who should not have known.
 
@@ -76,9 +76,9 @@ Fabron's Clear Hand appeared twice, once as a charitable maintenance order and o
 
 "Major Fabron would object to the word church."
 
-"He objects professionally. It keeps his blood moving."
+"He objects professionally."
 
-Arsenault poured coffee from a silver pot and did not offer any to Grim, who looked offended on behalf of categories.
+Arsenault poured coffee from a silver pot and did not offer any to Grim.
 
 "I treated Återviens as a useful infection," Arsenault said. "Systems touched by it failed less stupidly. In my profession, that is nearly romance."
 
@@ -132,7 +132,7 @@ Lars looked out at Earth. The planet below had survived empires, plagues, Rakh'N
 
 "He will become intolerable."
 
-"He already is. Builds character."
+"He already is."
 
 "You ask much for a man eating on my desk."
 
@@ -147,8 +147,6 @@ Arsenault's eyes sharpened. "Boring fear travels farther in committees."
 Lars took the recall dossier. "Fine. But if I catch you harvesting anomalies, I turn this desk into a canoe."
 
 Arsenault looked genuinely pained. "That threat is more effective than you deserve."
-
-"Motivate yourself, Frenchly."
 
 At the door, Lars paused. The oldest page lay open behind him. In the margin beside an old entry about Lyra Vargstjärna's Pluto find, someone had copied a three-line translation from a much older source. It was not a memory from Lars's life, not a message arriving now, and not handwriting he recognized. It was archival marginalia: a clerk, ancestor, or early Aphex watcher trying to translate a fragment of Återviens-adjacent language first into French, then into trade English. The corrections were messy because the writer had clearly understood the danger: translate too grandly and people would build a religion; translate too small and they would miss the warning.
 

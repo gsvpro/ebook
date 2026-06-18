@@ -18,7 +18,7 @@ Arsenault called. "Congratulations. You are now a market category. A poor one, i
 
 "I will become a crime scene," Lars said.
 
-"Also likely. Civilization is the art of converting such liabilities into invoices."
+"Also likely."
 
 Aphex wanted to capitalize. NUKEA wanted distance. Syren wanted martyr language. Black Hole wanted samples. Independent colonies wanted to know whether the KBC Void was safe, holy, profitable, or about to eat their children.
 

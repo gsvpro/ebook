@@ -2,7 +2,7 @@
 
 Grim detected the Nomads first and hated the word heard.
 
-"It is not acoustic, electromagnetic, gravitational, or language," he said. "It is correlation pressure across cognition-adjacent systems. Calling it noise is imprecise. Calling it signal is vanity."
+"It is not sound, light, gravity, or language," he said. "It is pressure across mind-adjacent systems—brains, fields, nanobots, all of it. Calling it noise is imprecise. Calling it signal is vanity."
 
 "So naturally we call it Nomad noise," Lars said.
 
@@ -20,9 +20,9 @@ No messages. No commands. No faces in stars.
 
 Preferences.
 
-Low centralization increased coherence. Consent boundaries reduced distortion. Distributed observation clarified more than focused scans. Biological cognition, quantum substrates, and nanobot-active tissue coupled differently, but none were chosen. Unprepared biological processors, like Black Hole's stolen loops, produced heat and noise before they produced usable structure. The layer did not reward worship. It rewarded systems that did not try to own it.
+Low centralization increased coherence. Consent boundaries reduced distortion. Distributed observation clarified more than focused scans. Biological minds, quantum substrates, and nanobot-active tissue coupled differently, but none were chosen. Unprepared brains, like Black Hole's stolen loops, produced heat and noise before they produced usable structure. The layer did not reward worship. It rewarded systems that did not try to own it.
 
-"Field-like cognition," Mira said. "Or engineers who became field-like enough that the distinction no longer carries load."
+"Field-like cognition," Mira said. "Or engineers who became field-like enough that the distinction stopped mattering."
 
 Fabron crossed himself, then looked embarrassed.
 
@@ -50,7 +50,7 @@ Grim refused to describe his state for an hour. Finally he said, "For a moment I
 
 When combined, the observations sharpened.
 
-The Multiverse Nomads had not transcended in the sloppy mythic sense. They engineered continuity through low-observation field states, using artifacts, nanobots, biological hosts, quantum substrates, and quiet cosmic basins as access points. Bodies were terminals. Minds were not uploaded so much as coupled. The network extended beyond one universe or used conditions that made universe boundaries less absolute. Evidence could not distinguish yet.
+The Multiverse Nomads had not transcended in the sloppy mythic sense. They engineered continuity through low-observation field states, using artifacts, nanobots, biological hosts, quantum substrates, and quiet cosmic basins as access points. Bodies were terminals. Minds were not uploaded so much as coupled—plugged in, not copied. The network may have extended beyond one universe, or used conditions that made universe boundaries less absolute. Evidence could not distinguish yet.
 
 Mira would not let them call that an answer.
 

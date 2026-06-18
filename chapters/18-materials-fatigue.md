@@ -202,8 +202,6 @@ Lars walked around the table without touching anything. He kept his hands visibl
 
 "I know."
 
-"Even better."
-
 Marchand cleared her throat. "Director, perhaps the personnel records—"
 
 "In a minute." Lars looked back at Mira. "How long have you worked here?"
@@ -345,4 +343,3 @@ Fabron's comm chirped with three alerts at once.
 Lars looked toward the materials ring door.
 
 "The one where someone else stops waiting."
-

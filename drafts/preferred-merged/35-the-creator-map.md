@@ -4,7 +4,7 @@ The Creator map refused to be a map until they stopped asking it where to go.
 
 Mira discovered this while insulting it.
 
-"It is not coordinate-stable because we keep treating it like navigation," she said from L-Prime, surrounded by empty cups, fatigue models, and one untouched bowl of soup Vigor had bullied through three couriers. "It indexes relation, not position. Proximity means shared field conditions. Distance means observational noise. Whoever made this was brilliant, wrong, and expensive enough to leave stress marks on history."
+"It is not coordinate-stable because we keep treating it like navigation," she said from L-Prime, surrounded by empty cups, fatigue models, and one untouched bowl of soup Vigor had bullied through three couriers. "It indexes relation, not position. Proximity means shared field conditions—same quiet, same background noise. Distance means observational noise. Whoever made this was brilliant, wrong, and expensive enough to leave stress marks on history."
 
 Grim displayed the corrected model aboard Havets. The first projection looked like ordinary arrogance: stars, arcs, destination tags, route confidence. Then Mira stripped away distance and left only shared quiet.
 
@@ -38,11 +38,9 @@ Do not brighten.
 
 "Do not brighten," Fabron repeated. "Less like transport engineering. More like concealment doctrine."
 
-"Low observation," Grim said. "Advanced systems reducing detectable activity to avoid predation, collapse, or unwanted coupling. Kardashev modesty, if one enjoys imprecise charm."
+"Low observation," Grim said. "Advanced systems reducing detectable activity to avoid predation, collapse, or unwanted coupling."
 
-"Put that on a shirt," Lars said, "and sell it to people who hate fun."
-
-Mira ignored him. "If older anchors are communication infrastructure, consciousness projection is not magic or teleportation. It is local embodiment using a field layer that already correlates minds and matter under strict conditions. The Creators copied matter movement and missed the conversation."
+Mira ignored the aside. "If older anchors are communication infrastructure, consciousness projection is not magic or teleportation. It is local embodiment using a field layer that already correlates minds and matter under strict conditions. The Creators copied matter movement and missed the conversation."
 
 No one said Lyra at first.
 

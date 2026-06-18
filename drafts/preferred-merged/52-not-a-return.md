@@ -2,7 +2,7 @@
 
 The Aerits did not return.
 
-That was the first rule Lars wrote for the post-crisis protocol, and he wrote it badly on purpose so no one could polish it into empire.
+That was the first rule Lars wrote for the post-crisis protocol. He wrote it badly on purpose so no one could polish it into empire.
 
 AERITS DO NOT RETURN AS RULERS. STOP ASKING.
 
@@ -20,7 +20,9 @@ Mira edited the second sentence to: Authority remains local unless explicitly co
 
 They built restoration capacity instead of restoration spectacle.
 
-The work looked disappointingly like administration if administration had teeth. Known sleepers received layered shields, contact options, and evidence packets calibrated to risk and consent. Refusers stayed refusers. Families received mundane safety support before cosmic truths. Clinics received privacy hardening. Maintenance guilds received failure-mode training. Military cells received anti-centralization doctrine. Researchers received fragments of the Nomad hypothesis under distributed stewardship.
+The work looked disappointingly like administration if administration had teeth.
+
+Known sleepers received layered shields, contact options, and evidence packets calibrated to risk and consent. Refusers stayed refusers. Families received mundane safety support before cosmic truths. Clinics received privacy hardening. Maintenance guilds received failure-mode training. Military cells received anti-centralization doctrine. Researchers received fragments of the Nomad hypothesis under distributed stewardship. Nothing was centralized. Nothing was broadcast.
 
 No capital. No throne. No grand assembly of hidden people.
 
@@ -64,7 +66,7 @@ Valdrun's face tightened. "I hate the doctrine today."
 
 "You make ugliness into reassurance too easily."
 
-"Only because beauty keeps trying to recruit me."
+"Only when the alternative is worse."
 
 The old guardian laughed, then wept, and Lars stayed without making it ceremonial. He did not offer old phrases. He did not say the dead would understand. He stood with one shoulder against the wall until Valdrun's grief became breathing again.
 
@@ -108,9 +110,9 @@ No memory image forced itself through. No hidden family name. No old lock-trigge
 
 "Yes."
 
-"Do not look so relieved. It changes the room pressure."
+"Do not look so relieved."
 
-"Terrible face. Came with the skull."
+"I will work on my face."
 
 Fabron's order expanded sideways. Clear Hand found reactor sisters, dockside repair vows, Abantu trade customs, Kalari-influenced guild ethics, military fraternities, farm calendars, disaster kitchens. They argued immediately, which proved they were real. Some wanted more revelation. Some wanted less. Some hated the Aerit origin because it made their grandparents' discipline feel borrowed. Others were relieved that old chores had been part of something larger than endurance.
 
@@ -124,19 +126,13 @@ Fabron translated arguments into procedure and looked more exhausted than he had
 
 "I am enduring a multi-jurisdictional theological maintenance dispute."
 
-"So yes."
-
-"Operationally, a little."
+"Operationally, a little," Fabron admitted.
 
 Vigor's network became the practical recovery apparatus humans could see without seeing the whole truth: food, shelter, transport, legal aid, medical privacy, local repair. He denied leadership while everyone followed him anyway, calling it "keeping the pantry stocked" until the phrase became policy by accident.
 
 He refused a title from three committees.
 
 "Call me coordinator and I will assign your boots to kitchen waste."
-
-"That is leadership," Grim said.
-
-"That is a threat with vegetables."
 
 Arsenault accepted a new Aphex structure for anomaly response: distributed review, independent local veto, no single research directorate. He called it an appalling reduction in leverage and complained so extravagantly Lars suspected pride. The structure cost Aphex money immediately. Three profitable capture contracts died. Two research directors resigned. One board faction tried to reopen central authority under "efficiency doctrine" and found Fabron, Arsenault, and twelve local captains standing in the way for mutually incompatible reasons.
 

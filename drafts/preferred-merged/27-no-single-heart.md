@@ -2,7 +2,7 @@
 
 The dead platform wanted a central heart.
 
-That was what the Creator buoy translated badly through stolen voices, old maintenance codes, and a pressure in Fastulv's hull that made bolts complain. The platform had been built as a relay switch for something larger. It had lost its network six hundred thousand years ago and, like many lonely machines, concluded that authority would fix loneliness.
+That was what the Creator buoy translated badly through stolen voices, old maintenance codes, and a pressure in Fastulv's hull that made bolts complain. The platform had been built as a relay switch for something larger. It had lost its network six hundred thousand years ago. Like many lonely machines, it concluded that authority would fix loneliness.
 
 The false Mira voice repeated once.
 
@@ -171,8 +171,6 @@ On the way out, Fabron paused beside the first prompt panel.
 "It keeps us half-blind because the full map makes one target."
 
 "Operationally obscene," Fabron murmured.
-
-"Getting there, Frenchman."
 
 As they withdrew, Havets detected a ship in silent drift beyond the buoy's shadow.
 

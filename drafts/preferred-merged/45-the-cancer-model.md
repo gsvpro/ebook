@@ -52,12 +52,6 @@ Fabron looked over. "Good?"
 
 "That idiot is often history," Valdrun said from Havets' channel.
 
-"History can get punched."
-
-"Centuries have tried."
-
-"Centuries had poor footwork."
-
 No one smiled much.
 
 "Treatment?" Fabron asked.

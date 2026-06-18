@@ -10,11 +10,11 @@ Lars "Plates" Odin ordered a large bottle of Xaltor X whisky, four small glasses
 
 In reality he paid with his hand.
 
-It was a stupid habit. A dangerous habit. The payment lattice was supposed to authenticate through the visible consumer layer, wait for his thumbprint, ask politely for a retina flicker, send a nice little receipt to his comm, and then forget about him. Lars did not like polite systems. His fingers brushed the bar's worn composite counter and the payment lattice opened in his head like a cheap tent in bad weather.
+It was a stupid habit. A dangerous habit. The payment lattice was supposed to authenticate through the visible consumer layer. Thumbprint. Retina flicker. Receipt to his comm. Then forget about him. Lars did not like polite systems. His fingers brushed the bar's worn composite counter. The payment lattice opened in his head like a cheap tent in bad weather.
 
 Every weakness was there.
 
-Bad session rotation. A lazy checksum. Three old privilege escalations hidden under two decades of emergency patches. A maintenance backdoor left behind by someone who had either been drunk, underpaid, or French.
+Bad session rotation. A lazy checksum. Three old privilege escalations hidden under two decades of emergency patches. A maintenance backdoor left behind by someone who had been drunk, underpaid, or both.
 
 He could have emptied the bar's entire account in less than a second.
 
@@ -50,7 +50,7 @@ On his shoulder rested an Aphex Defence Ragnarrök 5000.
 
 That part was harder to explain away.
 
-The weapon could throw coherent bursts of gamma radiation and proton plasma wrapped in a containment pulse. In ordinary language: it made bright, angry balls of physics that turned most problems into smoke and regret. Aphex Defence had given it to him six months earlier, along with a board seat he had not asked for, after Lars had helped Professor H. Fayolle solve what the professor insisted on calling an impossible weapons optimization problem.
+The weapon threw coherent bursts of gamma radiation and proton plasma wrapped in a containment pulse. In ordinary language: bright, angry balls of physics that turned most problems into smoke and regret. Aphex Defence had given it to him six months earlier, along with a board seat he had not asked for. Lars had helped Professor H. Fayolle solve what the professor called an impossible weapons optimization problem.
 
 Lars had called it "a Tuesday with decent coffee."
 
@@ -70,7 +70,7 @@ Then the world became quieter.
 
 Not quiet. Never quiet. But quieter.
 
-His mind usually ran ahead of him, sideways, downward, through things. Questions unfolded into answers before he had finished asking them. Machines exposed themselves by rhythm and heat and tolerance. People betrayed intent through pulse, scent, eye movement, micropressure in the skin, a hundred tiny signals he wished he could stop seeing.
+His mind usually ran ahead of him. Questions unfolded into answers before he had finished asking them. Machines exposed themselves by rhythm, heat, and tolerance. People betrayed intent through pulse, scent, eye movement, micropressure in the skin—a hundred tiny signals he wished he could stop seeing.
 
 The Xaltor X dulled the edge.
 
@@ -100,7 +100,7 @@ That got a laugh. Abantu laughter sounded like gravel being poured into a metal 
 
 Copper blinked. "You know it?"
 
-Lars took another drink and felt the shape of the machine assemble itself in his head. Not as a picture, exactly. More like a pressure diagram with moods. Tarkon had built the scoop around a cheap field stabilizer and compensated with software, which was the sort of decision that made Lars want to hit executives with laminated safety manuals.
+Lars took another drink. The shape of the machine assembled itself in his head—not a picture, exactly, but a pressure diagram with moods. Tarkon had built the scoop around a cheap field stabilizer and compensated with software. That was the sort of decision that made Lars want to hit executives with laminated safety manuals.
 
 He pulled a paper napkin from the dispenser. Actual paper. The Rim had many wonders, most of them old and poorly maintained.
 
@@ -240,13 +240,13 @@ The man looked angry, which was unreasonable but common.
 
 Lars left before the universe offered him another opportunity to be helpful.
 
-The corridor outside was long, half empty, and built for crowds The Rim no longer had. Once, centuries ago, this station on the edge of the KBC Void had been a frontier jewel. Now it carried age in layers: patched hull plates, mismatched gravity tiles, old alien ornament under cheap human signage, and the permanent smell of metal, ozone, frying oil, and too many species breathing the same air.
+The corridor outside was long, half empty, and built for crowds The Rim no longer had. Once, centuries ago, this station on the edge of the KBC Void had been a frontier jewel. Now it showed its age: patched hull plates, mismatched gravity tiles, old alien ornament under cheap human signage. The air smelled of metal, ozone, frying oil, and too many species breathing the same recycled air.
 
 The Rim sat where the Milky Way began to thin toward the impossible emptiness beyond.
 
 People called it the edge of the known.
 
-Lars disliked that phrase. It sounded dramatic and imprecise. The KBC Void was not an edge. It was an absence so large that even modern cosmology spoke of it with professional embarrassment. Billions of light-years of almost nothing around the galaxy. A hole in the universe's crowded conversation.
+Lars disliked that phrase. It sounded dramatic and imprecise. The KBC Void was not an edge. It was an absence so large that even modern cosmology spoke of it with professional embarrassment. Billions of light-years of almost nothing around the galaxy.
 
 Nobody knew why it was there.
 
@@ -274,7 +274,7 @@ Arsenault appeared above the comm in a sharply dressed projection with silver ha
 
 "Worse."
 
-Arsenault smiled as though Lars had performed a charming provincial dance. "At the last quarterly meeting, the board confirmed your position. You are now formally seated as a director of Aphex Defence."
+Arsenault smiled. "At the last quarterly meeting, the board confirmed your position. You are now formally seated as a director of Aphex Defence."
 
 "Do I have to attend meetings?"
 
@@ -283,8 +283,6 @@ Arsenault smiled as though Lars had performed a charming provincial dance. "At t
 "That is not a no."
 
 "There are very few meetings."
-
-"That is also not a no."
 
 Arsenault ignored him. "We have transferred the first retroactive compensation to your account. You will also find the revised patent allocations attached. Professor Fayolle continues to speak of your fika sessions with extraordinary passion. A grand Swedish tradition. We have begun introducing it across our major offices."
 
@@ -296,7 +294,7 @@ Arsenault ignored him. "We have transferred the first retroactive compensation t
 
 "Often the same thing."
 
-Lars felt the contract arrive, then the account notice behind it. He did not open the visible display. He did not need to. The figures resolved somewhere behind his eyes.
+Lars felt the contract arrive, then the account notice behind it. He did not open the visible display. The figures resolved somewhere behind his eyes.
 
 Seven point three billion Galactic kronor had landed in his account.
 
@@ -376,7 +374,7 @@ The Ragnarrök kicked against his shoulder with a deep, satisfied thump. Five co
 
 They used it poorly.
 
-Five black-armored bodies became five smoking heaps of fused ceramic, metal, and bad life choices.
+Five black-armored bodies became five smoking heaps of fused ceramic and metal.
 
 Lars stood and walked toward them.
 
@@ -394,7 +392,7 @@ Then why are you walking dramatically?
 
 Because walking dramatically is free.
 
-A swarm of microdrones spilled out of a side conduit ahead, each no larger than a fingernail, each carrying enough charge to blind sensors, poison lungs, or do something equally rude. Lars sent an electromagnetic pulse through the corridor lights.
+A swarm of microdrones spilled out of a side conduit ahead, each no larger than a fingernail, each carrying enough charge to blind sensors or poison lungs. Lars sent an electromagnetic pulse through the corridor lights.
 
 The drones died in a sparkling rain.
 
@@ -426,11 +424,9 @@ Lars went still.
 
 Even through the whisky and adrenaline, the name landed heavily.
 
-Black Hole B-7 was not a gang, not really. It was a fascist paramilitary consortium with corporate organs, military doctrine, religious theater when convenient, and penal brutality baked so deeply into its command culture that even its accountants probably issued invoices at gunpoint. They traded in weapons, slaves, stolen artifacts, and political collapse.
+Black Hole B-7 was not a gang. It was a fascist paramilitary consortium with corporate organs, military doctrine, and penal brutality baked into its command culture. They traded in weapons, slaves, stolen artifacts, and political collapse.
 
-They were the kind of organization that believed knowledge was something you tortured out of people and then stored in a bunker until it became useful.
-
-Which meant they had no idea what knowledge was.
+They believed knowledge was something you tortured out of people and stored in a bunker until it became useful.
 
 "Why would they want to bother me?" Lars asked.
 
@@ -488,7 +484,7 @@ Two Black Hole frigates are currently pounding the excrement out of an Aphex des
 
 Can we help?
 
-We have more power than all of them combined, but I remind you that we came here for beef, wine, and the quiet dignity of not starting a small war.
+We have more power than all of them combined, but we came here for beef and wine. Not a small war.
 
 We'll be quick.
 
@@ -562,7 +558,7 @@ Then again, most things were larger than he liked until they exploded.
 
 "I am overwhelmed."
 
-Lars armed four tactical nuclear missiles, two kilotons each, and a hundred microdrone penetrators. Too much for station-adjacent combat. Too little for a proper war. About right for a message.
+Lars armed four tactical nuclear missiles, two kilotons each, and a hundred microdrone penetrators. Too much for station-adjacent combat. About right for a message.
 
 He opened a channel to the wounded Aphex ship.
 
@@ -606,7 +602,7 @@ Lars leaned back.
 
 "Maybe the nukes were excessive."
 
-"No," Grim said. "You were irritated. It was very much your style."
+"No," Grim said. "You were irritated."
 
 "They interrupted pub time."
 
@@ -725,8 +721,6 @@ Lars frowned.
 "Your nothing face is different from your normal face."
 
 "That's because my normal face has charm."
-
-"Debatable."
 
 They passed a low stone wall. It was not stone. The texture was convincing, but its thermal profile was wrong, and the seams breathed microscopically with station ventilation. Smart material. Very good smart material. Better than anything the public Rim maintenance economy should have been able to afford.
 
@@ -950,7 +944,7 @@ It was not the answer he expected.
 
 "Both can be true."
 
-Lars picked up the glass. The whisky smelled of smoke, minerals, cold fruit, and something sharp enough to make his eyes water. Xaltor X chemistry was hostile to baseline human biology, but in him it landed like a sedative designed by an engineer with anger issues.
+Lars picked up the glass. The whisky smelled of smoke, minerals, and cold fruit. In him it landed like a sedative.
 
 "To surviving the day," Vigor said.
 
@@ -984,7 +978,7 @@ Grim turned to Lars.
 
 "No."
 
-"Forty and emotional damages."
+"Forty."
 
 Vigor laughed so hard he had to put down his glass.
 
@@ -1344,10 +1338,6 @@ Then the deck clang came again.
 
 Lars closed his eyes.
 
-Grim said, "Exorcist."
-
-"Don't make me replace your taste receptors with budget hardware."
-
 The warning alarm chirped once.
 
 Not an attack alarm. Not collision. Not radiation.
@@ -1588,7 +1578,7 @@ They moved along the hull, using tiny protrusions Lars could feel more than see.
 
 "I contain multitudes."
 
-The rectangle sat within a wider halo of pale blue emission. Lars's suit sensors showed almost nothing: no dangerous radiation, no electrical field, no thermal gradient. His skin prickled under the gloves.
+The rectangle sat within a wider halo of pale blue emission. Lars's suit sensors showed almost nothing. His skin prickled under the gloves.
 
 "What can go wrong?" he said.
 
@@ -1846,8 +1836,6 @@ Grim stepped in behind him, one hand hovering near Lars's shoulder as if decidin
 
 "That sounds like something you would put on a mug."
 
-"I have excellent merch instincts."
-
 The corridor widened into a bridge.
 
 Not a cockpit. Not even a command deck in the Aphex sense, with heroic chairs and too many screens. This was a quiet oval chamber, built around a central standing console and a shallow ring of workstations grown from the floor. The forward wall was black, glossy, and blank until Lars crossed the threshold.
@@ -1912,8 +1900,6 @@ Grim made a delighted metallic noise.
 
 Lars pointed at him. "No."
 
-"I said nothing."
-
 "You thought loudly."
 
 "You heard?"
@@ -1946,7 +1932,7 @@ He turned away from the console. The walls had begun to display status layers in
 
 "Pick quickly."
 
-The map unfolded. The hidden structure was not simply a station. It was a folded arcology: a vast complex suspended inside a spacetime bubble, parts of it geometrically adjacent despite being separated by impossible external distances. Hangars, habitat rings, manufacturing cores, data vaults, energy loops, hydroponic cylinders, medical bays, memory archives, and regions the map refused to name.
+The map unfolded. It was a folded arcology: a vast complex suspended inside a spacetime bubble, parts of it geometrically adjacent despite being separated by impossible external distances. Hangars, habitat rings, manufacturing cores, data vaults, energy loops, hydroponic cylinders, medical bays, memory archives, and regions the map refused to name.
 
 Several sectors glowed green.
 
@@ -2065,8 +2051,6 @@ Grim noticed too.
 "That's a sentence with legal consequences."
 
 "Only if Apple survives in this jurisdiction."
-
-"Never underestimate lawyers."
 
 They reached a long equatorial passage. A narrow window ran along the right wall, rectangular with rounded corners. Outside, the Milky Way glittered with uncomfortable beauty. Because of the spacetime bubble, the view was wrong. Stars shifted as Lars walked, not with parallax but with folded perspective, as if the station were looking at the galaxy from several nearby positions at once.
 
@@ -2194,7 +2178,7 @@ Pain struck, then retreated as if the locked doors inside him had decided this o
 
 "Everyone keeps saying that today."
 
-"Valdrun," the trapped man said. "And before your robot walks in here, tell him not to. The chamber field eats machine coordination. Slowly at the threshold. Quickly inside."
+"Valdrun," the trapped man said.
 
 From the corridor Grim said, "I am choosing not to be insulted by the word eats."
 
@@ -2315,8 +2299,6 @@ Lars crawled back through the service shaft, too fast and too clumsy. Twice his 
 By the time he reached the chamber floor again, his legs felt wrong.
 
 "You look terrible," Grim said.
-
-"Discount sunglasses do that."
 
 "Not a joke moment."
 
@@ -2494,7 +2476,7 @@ Valdrun stood near the foot of the bed.
 
 Free, now. Tall. Very tall. Blue-pale skin, long limbs, broad shoulders, and visible integrated structure along his neck and left side where biological tissue met engineered material without apology. Not a robot. Not a man in the ordinary sense. Something half human, half machine, and entirely comfortable being terrifying in a quiet room.
 
-He looked like a Viking who had survived a starship factory accident and decided to make it a lifestyle.
+He looked like a Viking who had survived a starship factory accident.
 
 "You," Lars said.
 
@@ -2508,13 +2490,13 @@ He looked like a Viking who had survived a starship factory accident and decided
 
 "You did."
 
-"Good. I like starting hospital conversations with moral leverage."
+"Good."
 
 Valdrun smiled.
 
 Grim handed Lars the coffee.
 
-Lars took it with both hands. His fingers trembled slightly. He pretended they did not. The coffee was strong enough to count as a regulated stimulant in several fragile cultures.
+Lars took it with both hands. His fingers trembled slightly. He pretended they did not.
 
 "What hit me?" he asked.
 
@@ -2540,10 +2522,6 @@ Grim and Valdrun exchanged a look.
 
 Lars pointed at them.
 
-"No."
-
-"No what?" Grim asked.
-
 "No meaningful looks."
 
 "We are in a room full of meaning."
@@ -2566,7 +2544,7 @@ Lars pointed at them.
 
 "Correct."
 
-Lars drank coffee and tried to assemble the last clear memory. Cable. Heat. Valdrun's arm under his hand. The distributor moving. Grim at the threshold. A word in another language.
+Lars drank coffee and tried to assemble the last clear memory.
 
 Then nothing.
 
@@ -2874,8 +2852,6 @@ Lars looked at him.
 
 Valdrun sighed. "You believed you were around thirty."
 
-"Better."
-
 "Your current cover identity was designed to pass casual scrutiny. Birth records, education fragments, social media history, financial trails, medical records. Stockholm was useful because your surface accent and habits already leaned Swedish."
 
 "Surface accent?"
@@ -2905,20 +2881,6 @@ Valdrun looked to the diagnostic display. "Most of the autobiographical chain. T
 "So I know who I am," Lars said, "but not what the idiot did."
 
 "A fair summary."
-
-"Was he at least handsome?"
-
-Grim looked at him. "This is your response?"
-
-"I am stabilizing through vanity."
-
-"Behavioral continuity," Ödesvaka said from near the ceiling.
-
-Lars pointed his coffee at the drone. "You are one comment away from being demoted to lamp."
-
-"Lighting functions available."
-
-Grim made the small metallic sound he made when trying not to laugh.
 
 Valdrun crossed to the wall and opened a new display. It showed Station Zero in layered geometry: hangars, medical rings, habitat districts, manufacturing zones, archives, power loops, hidden docks, and the damaged auxiliary chamber now marked amber instead of red.
 
@@ -3048,15 +3010,13 @@ Valdrun's mouth tightened. "Yes."
 
 Lars stood too quickly, regretted it, and pretended not to. The medical display complained. Grim looked ready to do something helpful and therefore irritating.
 
-"So," Lars said, "Black Hole B-7 attacks me on The Rim. Vigor gives me poison whisky and beef. Before the helmet, one word from Grim's old fragments nearly splits my skull. I decide to leave, because apparently my subconscious has better navigation than traffic control. We find Station Zero. I unlock an invisible ship that thinks I am captain. We rescue you from a forty-nine-year engineering scandal. I learn I am six hundred and forty-one, not Swedish in the way I thought, and possibly full of unauthorized machines."
+"So," Lars said, "Black Hole B-7 attacks me on The Rim. Vigor gives me poison whisky and beef. One word from Grim's old fragments nearly splits my skull. I leave for the Void. We find Station Zero. I unlock an invisible ship. We rescue you from a forty-nine-year engineering scandal. I learn I am six hundred and forty-one, not Swedish in the way I thought, and possibly full of unauthorized machines."
 
 "Mostly correct," Grim said.
 
 "Mostly?"
 
 "You are still Swedish in several historically meaningful ways."
-
-"Thank you."
 
 "And your machines are probably authorized by you."
 
@@ -3074,11 +3034,9 @@ Valdrun gestured to the wall. The station replaced the map with a slow-moving mo
 
 The galaxy looked sick.
 
-Not dying.
+Not dying. Not yet.
 
-Not yet.
-
-Sick in the way an overgrown machine became sick: too many dependencies, too much appetite, too many people profiting from fragility.
+Sick the way an overgrown machine became sick: too many dependencies, too much appetite, too many people profiting from fragility.
 
 "Lyra expected pressure thresholds," Valdrun said. "Not dates. Conditions. When enough indicators crossed, hidden systems would begin biasing dispersed Aerit cognition toward return paths."
 
@@ -3352,8 +3310,6 @@ Grim broke the silence first.
 
 "She also complained about French people under pressure."
 
-"A universal constant."
-
 Valdrun rested both hands on the table. "That log is before Heliostat. Before the Kalari. Before the Rakh'Na attack in 2083. Before the word Återviens. It is not the doctrine. It is the pressure that made the doctrine possible."
 
 Lars looked at the filaments.
@@ -3428,8 +3384,6 @@ Lars looked up at it. "If you wake me with beeping, I swear by all known physics
 
 "Good."
 
-"Lamp contingency logged."
-
 Valdrun laughed.
 
 It was the first full laugh Lars had heard from him.
@@ -3486,8 +3440,6 @@ Lars took it.
 
 "You live," he said.
 
-"Lamp contingency avoided."
-
 He sat up slowly. His body felt better. Not good. Better. The chemical weakness from the chamber had retreated into the background, and the strange internal hum of his repaired systems had steadied. His mind still felt overcrowded, but the old lock-trigger pain was gone. The forbidden words no longer struck him. They waited.
 
 That was almost more frightening.
@@ -3507,10 +3459,6 @@ Lars stopped.
 "No."
 
 Grim turned. "Good morning."
-
-"Absolutely not."
-
-"I am integrating with the simulation."
 
 "You look like you sell shrimp sandwiches to retirees."
 
@@ -3564,8 +3512,6 @@ Grim lifted one finger. "One. Lyra's reactivation criteria have crossed the firs
 
 Valdrun drank the gray liquid. Lars tried not to watch the lumps.
 
-Grim continued. "Two. Black Hole B-7 has acquired partial blood-analysis data from at least three suspected carriers. Not enough to use, enough to motivate stupidity."
-
 "Suspected carriers?"
 
 "Likely hypnotized Aerits."
@@ -3608,7 +3554,7 @@ The planning model changed. Green points brightened where decentralized systems 
 
 "The boring manuals survived best," Grim said.
 
-"As they should," Lars said. "Civilization is mostly maintenance with delusions."
+"As they should," Lars said. "Civilization is mostly maintenance."
 
 Valdrun pointed at the model. "Återviens measures whether a system can absorb damage, shed complexity, restore function, and continue without becoming a centralized monster. It is not about maximal efficiency. It is about survivable sufficiency."
 
@@ -3736,7 +3682,7 @@ Not dramatically. The water lost depth. The sun softened. The deck became a grid
 
 The planning model remained.
 
-Grim had converted Lyra's threshold archives into a layered working board. Each branch carried confidence intervals, source quality, update age, and recommended actions. No glowing prophecy. No chosen-one nonsense. Just models, data, and enough uncertainty to keep honest people awake.
+Grim had turned Lyra's threshold archives into a layered working board. Each branch showed confidence intervals, source quality, how old the data was, and recommended actions. No glowing prophecy. No chosen-one nonsense. Just models, data, and enough uncertainty to keep honest people awake.
 
 Lars respected that.
 
@@ -3774,7 +3720,7 @@ Again, the phrase arrived sideways.
 
 Valdrun did not smile this time.
 
-"Systems that cannot simplify," he said, "continue adding control layers to manage the failures created by previous control layers. Eventually the management structure consumes more resilience than it provides."
+"Systems that cannot simplify keep adding control layers," Valdrun said. "Each layer fixes failures the last one created. Eventually the management structure eats more resilience than it gives back."
 
 Grim highlighted a gas giant megacity in a French-Chinese corporate protectorate. "This habitat ring requires thirty-two synchronized energy imports, fourteen external food streams, two proprietary atmosphere engines, and a legal code so large its judicial AI uses a dedicated moon."
 
@@ -3794,7 +3740,7 @@ Lars disliked that more.
 
 "And Threshold Three?"
 
-Valdrun took over. "Guardian reactivation. Not waking all Aerits blindly. That would be stupid, dangerous, and exactly the kind of single dramatic gesture Lyra designed against. Threshold Three authorizes finding specific hidden carriers who can restore local nodes, repair damaged archives, or protect vulnerable networks."
+Valdrun took over. "Guardian reactivation. Not waking all Aerits at once. That would be stupid, dangerous, and exactly the kind of single dramatic gesture Lyra designed against. Threshold Three authorizes finding specific hidden carriers. They can restore local nodes, repair damaged archives, or protect vulnerable networks."
 
 "How many?"
 
@@ -3806,7 +3752,7 @@ Grim opened a list and immediately blurred most of it. "Medical lock still prote
 
 That landed harder than Lars expected.
 
-Six hundred years old or not, hidden superhuman lineage or not, people had lives. Jobs. Friends. Children maybe. Bad habits. Favorite pubs. Debts. Dogs. Cover identities that had become identities because time did not care what paperwork said.
+Six hundred years old or not, hidden superhuman lineage or not, people had lives. Jobs. Friends. Children maybe. Bad habits. Favorite pubs. Debts. Dogs. Cover identities that had become real identities, because time did not care what the paperwork said.
 
 "We ask," Lars said.
 
@@ -3856,11 +3802,7 @@ Valdrun shook his head. "Do not erase. Erasures attract specialists. Add noise c
 
 "He paid you several billion kronor," Grim said.
 
-"Different column."
-
-"You do not understand accounting."
-
-"I understand leverage."
+"Different column. I understand leverage."
 
 Lars walked around the model, thinking.
 
@@ -3868,7 +3810,7 @@ No migraine stopped him.
 
 No lock punished him.
 
-That freedom was dangerous. His mind accelerated into old patterns and new gaps. He could feel missing knowledge like holes in a map: places his thoughts avoided not because pain forced them away, but because the road simply ended. The partial unlock had not made him whole. It had made him aware of the missing parts.
+That freedom was dangerous. His mind raced into old patterns and new gaps. Missing knowledge felt like holes in a map. His thoughts avoided those places not because pain blocked them, but because the road simply ended. The partial unlock had not made him whole. It had made him aware of what was missing.
 
 Better than blind.
 
@@ -3878,11 +3820,7 @@ Worse than ignorant.
 
 "You are the director and the platform?" Grim asked.
 
-"Ragnarrök is the platform."
-
-"I was hoping you meant yourself."
-
-"I am not experimental."
+"Ragnarrök is the platform. I am not experimental."
 
 Valdrun said nothing.
 
@@ -3932,10 +3870,6 @@ Grim's voice softened. "We can wait."
 
 "No. We do not rush blindly, but we do not wait because I dislike feelings."
 
-"You dislike many things."
-
-"And yet I am a delight."
-
 Valdrun moved to the chamber wall. A medical route appeared, leading back toward the helmet room.
 
 "Then we prepare. Eat first. Hydration. Stabilization scan. Then stage two."
@@ -3974,7 +3908,7 @@ Havets Sista Sång, consulted as an impartial authority, recommended no in langu
 
 Lars brought coffee anyway.
 
-The helmet room had changed since the first unlock. Or maybe he could see more of it now. What had looked like a medical chamber revealed itself as a layered instrument: neural phase emitters, nanomedical synchronizers, memory index projectors, and several systems that did not touch the brain directly but measured what the blood-borne machines did when memory moved.
+The helmet room had changed since the first unlock. Or maybe he could see more of it now. What had looked like a medical chamber was really a layered instrument. Neural phase emitters. Nanomedical synchronizers. Memory index projectors. And several systems that did not touch the brain directly. They measured what the blood-borne machines did when memory moved.
 
 Machines in the blood.
 
@@ -3982,7 +3916,7 @@ He could think it now without pain.
 
 He still disliked it.
 
-"Relational memory," Valdrun said, lowering the halo over Lars's head. "Faces, trust chains, grief, obligations, old command reflexes. It will not restore everything, but it may reconnect enough that names stop being empty containers."
+"Relational memory," Valdrun said, lowering the halo over Lars's head. "Faces, trust chains, grief, obligations, old command reflexes. It will not restore everything. But it may reconnect enough that names stop being empty containers."
 
 "If I cry, Grim is forbidden from recording."
 
@@ -4010,13 +3944,13 @@ This time the lock opened like a series of old pressure doors, each one equalizi
 
 The first memory was Pluto.
 
-Not Lyra's recording. His own memory of seeing the old Pluto logs centuries later, during training, when he had still been young enough to think four hundred years sounded impossible. Lyra's early survival notes had been required study. Everyone laughed at the line about arguing grand principles after nothing was trying to kill them.
+Not Lyra's recording. His own memory of seeing the old Pluto logs centuries later, during training. He had still been young enough to think four hundred years sounded impossible. Lyra's early survival notes had been required study. Everyone laughed at the line about arguing grand principles after nothing was trying to kill them.
 
 Then the memory shifted.
 
 2033.
 
-Not through Lars's eyes. He had not been born yet. This was inherited archive memory, shared during later education: Cosmic Pioneer and the modified vessels leaving Pluto through the hidden spacetime fold, carrying Lyra and the ISEA team away from Earth-side predators and into Heliostat.
+Not through Lars's eyes. He had not been born yet. This was inherited archive memory, shared during later education. Cosmic Pioneer and the modified vessels left Pluto through a hidden spacetime fold. They carried Lyra and the ISEA team away from Earth-side predators and into Heliostat.
 
 The portal did not look like a gate.
 
@@ -4026,13 +3960,13 @@ The memory snapped forward.
 
 Astra Lumara.
 
-A moon under a Saturn-like planet, its rings cutting the sky in pale arcs. Nexus Outpost half buried into basalt and ice, ugly at first, functional, always growing. Printers ran day and night. Biological labs smelled of sterilant and algae. Reactor rooms shook with prototype fusion assemblies. Robotics bays filled with machines that failed, learned, failed better, and were rebuilt by people whose minds ran too fast for sleep.
+A moon under a Saturn-like planet. Its rings cut the sky in pale arcs. Nexus Outpost was half buried in basalt and ice. Ugly at first. Functional. Always growing. Printers ran day and night. Biological labs smelled of sterilant and algae. Reactor rooms shook with prototype fusion assemblies. Robotics bays filled with machines that failed, learned, failed better, and were rebuilt by people whose minds ran too fast for sleep.
 
 GRIN was not a slogan there.
 
 Genetics, Robotics, Information technology, Nanotechnology.
 
-It was breakfast conversation. It was exhaustion. It was someone falling asleep on a crate of polymer muscle while an AI argued with a cloned liver culture. It was Lyra standing in a half-finished lab with frost in her hair, saying, "We are not inventing disciplines. We are making them stop pretending they are separate."
+It was breakfast conversation. It was exhaustion. It was someone falling asleep on a crate of polymer muscle while an AI argued with a cloned liver culture. It was Lyra standing in a half-finished lab with frost in her hair. "We are not inventing disciplines," she said. "We are making them stop pretending they are separate."
 
 Dr. Erik Torvaldsson threw a tool across a workbench because a field equation refused to behave.
 
@@ -4050,7 +3984,7 @@ The memory warmed.
 
 The Kalari arrived as light and pattern first.
 
-Not Xal'thror. That was an early human misnaming from bad translation and fear. Kalari came later, after enough contact to learn the sound-shape they preferred. Old, patient, pacifist without being weak. They did not think in command chains. They thought in gardens, weather systems, slow mathematics, consensus models that made human diplomacy look like children throwing tools.
+Not Xal'thror. That was an early human misnaming from bad translation and fear. Kalari came later, after enough contact to learn the sound-shape they preferred. Old, patient, pacifist without being weak. They did not think in command chains. They thought in gardens, weather systems, slow mathematics. Their consensus models made human diplomacy look like children throwing tools.
 
 They liked Lyra.
 
@@ -4072,9 +4006,9 @@ The memory jumped again.
 
 Years passed in fragments.
 
-Nexus Outpost became a network. Then a cluster. Then a pattern exported to small moons, asteroid habitats, ocean caves, mobile workshops, and quiet stations that did not look important from the outside. Fusion systems matured. Energy loops tightened. Early FTL vessels moved from terrifying prototypes to merely dangerous engineering projects. AI commanders became necessary because relativistic combat and FTL projectiles did not leave room for heroic captains with slow hands.
+Nexus Outpost became a network. Then a cluster. Then a pattern exported to small moons, asteroid habitats, ocean caves, mobile workshops, and quiet stations that did not look important from the outside. Fusion systems matured. Energy loops tightened. Early FTL vessels moved from terrifying prototypes to merely dangerous engineering projects. AI commanders became necessary. Relativistic combat and FTL projectiles did not leave room for heroic captains with slow hands.
 
-The first NUKEA precursor appeared in a memory from the 2060s: not the later corporate consortium, not yet, but a licensing shell and reactor standard built to distribute portable fusion and nuclear expertise without giving any single faction control of the whole stack. Later markets would make it enormous. Later bureaucrats would put logos on everything. But the seed had been an Aerit answer to a simple problem: power systems had to be rugged, modular, repairable, and dull enough that colonies survived when geniuses were unavailable.
+The first NUKEA precursor appeared in a memory from the 2060s. Not the later corporate consortium. Not yet. It was a licensing shell and reactor standard built to distribute portable fusion and nuclear expertise. No single faction could control the whole stack. Later markets would make it enormous. Later bureaucrats would put logos on everything. But the seed had been an Aerit answer to a simple problem: power systems had to be rugged, modular, repairable, and dull enough that colonies survived when geniuses were unavailable.
 
 Lyra approved the standard only after making the engineers remove three elegant features.
 
@@ -4102,7 +4036,7 @@ Not copies in the cheap sense.
 
 Divergent continuities.
 
-Four Lyras grown from necessity, memory backup, risk distribution, and the terrifying realization that one brilliant mind was still a single point of failure. They argued like sisters, colleagues, and one person disagreeing with herself across four timelines.
+Four Lyras grown from necessity, memory backup, risk distribution, and one terrifying fact: one brilliant mind was still a single point of failure. They argued like sisters, colleagues, and one person disagreeing with herself across four timelines.
 
 Lars did not understand how he remembered the scene until the restoration layer tagged it: archived guardian training memory, recorded from Valdrun's perspective.
 
@@ -4194,9 +4128,9 @@ Erik Torvaldsson replied, "That is also not what tunneling means."
 
 "Today it is."
 
-The moonlet tests had used seeded nanobot stock and local matter within reach of a relay cradle. That was enough to prove Model 3. It was not enough to travel.
+The moonlet tests used seeded nanobot stock and local matter within reach of a relay cradle. That was enough to prove Model 3. It was not enough to travel.
 
-The harder problem came later, after Lyra reverse-engineered the nanotechnology in her own bloodstream and learned to listen for dormant substrate the Nomads had left scattered through quiet places: networks with no host, sleeping in regolith, ice, dead hulls, and the margins of old Creator anchors. When her mind-state found one, the journey was not chiefly technical. It was a frightening passage into unknown correlation, then collaboration at the destination—interface, consent, heat debt, local chemistry—until the dormant lattice agreed to assemble a temporary body from whatever materials were there.
+The harder problem came later. Lyra reverse-engineered the nanotechnology in her own bloodstream and learned to listen for sleeping Nomad networks scattered through quiet places. These were nanonets with no host, dormant in regolith, ice, dead hulls, and the margins of old Creator anchors. When her mind found one, the hard part was not chiefly technical. It was a frightening passage into the unknown field. Then collaboration at the destination: interface, consent, heat debt, local chemistry, until the sleeping lattice agreed to build a temporary body from whatever materials were there.
 
 She got better at that too. Not quickly. Not cleanly.
 
@@ -4274,7 +4208,7 @@ It was not for public slogans.
 
 Not then.
 
-In public, it became farming habits, modular reactor standards, old songs, children's stories, maintenance protocols, Abantu trade customs, station architecture, and a thousand other things nobody could torture out of a prisoner because nobody knew they were carrying it.
+In public, it became farming habits, modular reactor standards, old songs, children's stories, maintenance protocols, Abantu trade customs, station architecture, and a thousand other things nobody could torture out of a prisoner. Nobody knew they were carrying it.
 
 In the inner circle, the seven used the word.
 
@@ -4292,9 +4226,7 @@ No one spoke.
 
 Valdrun's younger voice answered, "Then choose the branch where the most people keep breathing."
 
-Lyra looked at him.
-
-"That is not a complete strategy."
+Lyra looked at him. "That is not a complete strategy."
 
 "No," Valdrun said. "But it is a start."
 
@@ -4356,19 +4288,9 @@ Grim looked from one to the other. "That was not standard Galactic Swedish usage
 
 "No," Lars said.
 
-"Private greeting?"
+"Private greeting," Valdrun said. "Status check. Blessing. Technical condition. Operational doctrine."
 
-"Status check," Valdrun said.
-
-"Blessing," Lars said.
-
-"Technical condition," Valdrun added.
-
-"Team joke," Lars said.
-
-"Operational doctrine," Valdrun said.
-
-Grim was silent for half a second. "That is an inefficient amount of meaning for one word."
+Grim was silent for half a second. "That is a lot of meaning for one word."
 
 "Exactly," Lars and Valdrun said together.
 
@@ -4386,7 +4308,7 @@ The first thing Lars noticed was the gravity.
 
 Too clean.
 
-Station Zero's artificial gravity had an almost invisible grace to it, like a good engineer had made a promise and then kept it for centuries. This gravity had committee work in it. It held him down, yes, but with tiny corrections in the knees, a polite oscillation in the inner ear, and a cheap harmonic under the floor panels.
+Station Zero's artificial gravity had an almost invisible grace to it. A good engineer had made a promise and kept it for centuries. This gravity had committee work in it. It held him down, yes, but with tiny corrections in the knees, a polite oscillation in the inner ear, and a cheap harmonic under the floor panels.
 
 SPECULOOS station.
 
@@ -4394,7 +4316,7 @@ LP 890-9c.
 
 He knew it before the view confirmed it.
 
-The super-Earth filled half the shuttle window, a storm-dark world with blue-white cloud bands and a terminator line sharp enough to cut thought. The SPECULOOS consortium had built its orbital station where research, manufacturing, and legally flexible procurement could all pretend not to know one another. It was perfect for building a ship if one had too much money, too many instincts, and no sensible friends.
+The super-Earth filled half the shuttle window, a storm-dark world with blue-white cloud bands and a terminator line sharp enough to cut thought. The SPECULOOS consortium had built its orbital station where research, manufacturing, and legally flexible procurement could all pretend not to know one another. Perfect for building a ship if one had too much money, too many instincts, and no sensible friends.
 
 Lars sat in a small rented shuttle descending from the manufacturing ring toward the upper market spindle.
 
@@ -4410,11 +4332,7 @@ No Ragnarrök on his shoulder. No replacement sunglasses with bad blue frames. N
 
 Older work boots. Cleaner hands. A cheaper comm unit.
 
-Not now.
-
-Then.
-
-But not fully. The memory had edges too sharp for a dream and gaps too soft for ordinary recall.
+Not now. Then. But not fully. The memory had edges too sharp for a dream and gaps too soft for ordinary recall.
 
 The shuttle comm crackled.
 
@@ -4424,7 +4342,7 @@ Grim's voice, but younger.
 
 Not in sound. In attitude.
 
-At that time Grim did not have a throat, servos, optical lenses, or the theatrical ability to look offended. He was a biological quantum core suspended across a series of nutrient tanks in Lars's rented lab, cultured neural tissue threaded through superconducting lattices, sensor relays, and a ship-control architecture that Lars had insisted was not alive until it began criticizing his landings.
+At that time Grim did not have a throat, servos, optical lenses, or the theatrical ability to look offended. He was a biological quantum core suspended across nutrient tanks in Lars's rented lab. Cultured neural tissue threaded through superconducting lattices, sensor relays, and a ship-control architecture Lars had insisted was not alive until it began criticizing his landings.
 
 "Good morning to you too," Lars said.
 
@@ -4438,9 +4356,7 @@ At that time Grim did not have a throat, servos, optical lenses, or the theatric
 
 "A highly advanced distributed biological quantum cognition platform in nutrient suspension."
 
-"Soup with opinions."
-
-"Your glide path remains ugly."
+"Soup with opinions. Your glide path remains ugly."
 
 Lars corrected two degrees before the shuttle's advisory system noticed. Then he deliberately added half a degree of sloppiness because the dock cameras were watching and he had spent months cultivating the public impression of a rich ex-influencer who could barely operate his own expensive equipment.
 
@@ -4584,7 +4500,7 @@ Not dead.
 
 Dormant.
 
-Its surface carried a molecular memory lattice so dense the public scanner beside the stall had classified it as "stone." Lars did not know the term molecular memory lattice. Not consciously. He only knew the plate had been part of a self-healing conduit controller, probably from a minor Aerit utility system, and could be coaxed into regulating the Fastulv's antimatter cooling loop with less latency than any legal component on the station.
+Its surface carried a molecular memory lattice so dense the public scanner beside the stall had classified it as "stone." Lars did not know that term. Not consciously. He only knew the plate had been part of a self-healing conduit controller, probably from a minor Aerit utility system. It could regulate the Fastulv's antimatter cooling loop with less latency than any legal component on the station.
 
 He nearly dropped it.
 
@@ -4698,23 +4614,15 @@ Enough for him.
 
 "That is not a reason."
 
-"It is when I own your tanks."
+"It is when I own your tanks. Temporarily."
 
-"Temporarily."
-
-Lars smiled despite himself.
-
-"Did you just threaten independence?"
+Lars smiled despite himself. "Did you just threaten independence?"
 
 "I am exploring long-term governance models."
 
 "You are three months old."
 
 "That is a parochial biological framing."
-
-"You are soup."
-
-"Highly advanced soup."
 
 The shuttle docked at the lab ring. Lars carried the crate himself, not because he needed to but because the station cameras expected rich idiots to be possessive about their purchases. The corridor outside his rented manufacturing bay smelled of hot printers, coolant, and Professor Fayolle's coffee.
 
@@ -4792,13 +4700,9 @@ Grim's tank lights brightened.
 
 The memory blurred at the edges.
 
-Maybe it was a daydream.
+Maybe it was a daydream. Maybe the helmet was still running. Maybe Lars was standing in Simulation Chamber 3, staring at nothing, while old time moved through him like weather.
 
-Maybe the helmet was still running.
-
-Maybe Lars was standing in Simulation Chamber 3, staring at nothing, while old time moved through him like weather.
-
-Or maybe he was back in the lab, four months before the Fastulv first left SPECULOOS station, holding illegal Aerit technology he did not know he recognized while a dark figure watched from a place the cameras could not keep.
+Or maybe he was back in the lab, four months before the Fastulv first left SPECULOOS station. He held illegal Aerit technology he did not know he recognized. A dark figure watched from a place the cameras could not keep.
 
 ## Chapter 12: Bringing the Wolf Home
 
@@ -4824,9 +4728,7 @@ Grim's posture changed.
 
 "I had no legs?"
 
-"You had tanks."
-
-"I remember tanks."
+"You had tanks. I remember tanks."
 
 "You also called yourself highly advanced soup."
 
@@ -4884,10 +4786,6 @@ Grim opened the Fastulv's remote systems. "I can pilot her in."
 
 "I have been a distributed cognition since before I had arms. Please respect my heritage."
 
-"Your heritage is soup."
-
-"Advanced soup."
-
 The planning chamber dimmed as the station opened an operational display. Outside, through layers of folded geometry, the Fastulv drifted near the dark coupling surface. Ugly hull. Crooked name. Patched cargo clamp. Hidden weapons. Illegal Aerit regulator plate in the cooling system. Useless junk in all the right places.
 
 For the first time, Lars saw what he had built with clearer eyes.
@@ -4898,11 +4796,7 @@ Not only.
 
 A homing response.
 
-His locked mind had built a ship capable of finding home while pretending to be bored, rich, and mildly irresponsible.
-
-That was either brilliant or deeply embarrassing.
-
-Possibly both.
+His locked mind had built a ship capable of finding home while pretending to be bored, rich, and mildly irresponsible. Brilliant or deeply embarrassing. Possibly both.
 
 "Havets Sista Sång," Lars said, "open an ingress path for Fastulv under my command."
 
@@ -5068,7 +4962,7 @@ The planning chamber stopped being polite.
 
 Until then it had shown maps, thresholds, warnings, and beautifully organized reasons to panic. Now, after Fastulv settled into its internal berth, the chamber unfolded the old command architecture of Arkology Zero.
 
-The floor darkened to a black mirror. The Milky Way rose from it in layered light. Trade corridors, war zones, silent colonies, hidden habitats, energy monopolies, slave routes disguised as labor logistics, artifact markets, religious splinters, private fleets, and old Aerit nodes appeared in different spectra. Lars could see too many layers at once and, for the first time since waking, did not flinch from any of them.
+The floor darkened to a black mirror. The Milky Way rose from it in layered light. Trade corridors, war zones, silent colonies, hidden habitats, energy monopolies, slave routes disguised as labor logistics, artifact markets, religious splinters, private fleets, and old Aerit nodes appeared in different spectra. Lars could see too many layers at once. For the first time since waking, he did not flinch from any of them.
 
 He simply wished he had more coffee.
 
@@ -5120,7 +5014,7 @@ Lars looked at the galaxy model. "Failure behavior."
 
 Grim highlighted three failing habitats. One relied on a single NUKEA-derived reactor stack that had been modified into proprietary dependency by a corporate governor. One was a mining cluster owned by a Black Hole shell company where life support was tied to labor compliance. One was a religious enclave near old Syren space, low Återviens but high weapons density.
 
-"Systems fail," Grim said. "The question is whether they fail cleanly, locally, and recoverably, or whether they drag everything connected to them into the hole."
+"Systems fail," Grim said. "The question is whether they fail cleanly, locally, and recoverably. Or whether they drag everything connected to them into the hole."
 
 Valdrun nodded. "Återviens is not preventing all collapse. That is childish. It is making collapse survivable, bounded, instructive."
 
@@ -5152,11 +5046,7 @@ Seven hundred.
 
 The galaxy changed under each projection. Some red regions burned out quickly. Others matured into governments. Green hidden nodes survived by remaining small, then failed when descendants got ambitious. Blue Aerit traces flickered, went dark, reappeared under other names. Aphex Defence either became a stabilizing force in several branches or a private empire in three ugly ones. NUKEA standards either kept colonies alive through modular power independence or became licensing chains that strangled poorer systems.
 
-Lars watched nine decades pass in twelve seconds.
-
-It felt normal.
-
-That was new.
+Lars watched nine decades pass in twelve seconds. It felt normal. That was new.
 
 "We think too short when we are scared," Valdrun said. "Even we do. The first plan must work tomorrow, but it must not poison the next century."
 
@@ -5164,23 +5054,15 @@ That was new.
 
 Grim turned his head. "Explain."
 
-"Anything we do will leak. Not details, but patterns. People copy patterns. If we use giant heroic interventions, someone will build cults around giant heroic interventions. If we solve every problem with superior force, the lesson becomes force. If we centralize the rescue effort, the lesson becomes centralization."
+"Anything we do will leak. Not details, but patterns. People copy patterns. If we use giant heroic interventions, someone will build cults around them. If we solve every problem with superior force, the lesson becomes force. If we centralize the rescue effort, the lesson becomes centralization."
 
-Valdrun's expression went still.
-
-Not surprised.
-
-Listening.
+Valdrun's expression went still. Not surprised. Listening.
 
 Lars continued, slower. "So the interventions have to look local. Boring. Like maintenance, trade disputes, insurance audits, reactor recalls, food-chain independence grants, embarrassing leaks, small militias deciding not to be cowards. We let people think they saved themselves wherever possible."
 
 "That is in Lyra's late doctrine," Grim said quietly.
 
-"I assumed."
-
-"You phrased it differently."
-
-"Less elegantly?"
+"I assumed. Less elegantly than mine."
 
 "More rudely."
 
@@ -5290,11 +5172,9 @@ Grim said, "Operation Quiet Dignity logged."
 
 The chamber accepted it.
 
-For the first time, the plan felt like a plan.
+For the first time, the plan felt like a plan. Not a revelation. Not panic with diagrams. A chain of action: conceal, repair, contact, deceive, intervene. Short move, long shape. A small cut in the right place, not a trumpet blast.
 
-Not a revelation. Not panic with diagrams. A chain of action: conceal, repair, contact, deceive, intervene. Short move, long shape. A small cut in the right place, not a trumpet blast.
-
-Återviens, Lars thought, and understood a little more why the word had taken fifty years to earn itself.
+Återviens, Lars thought. He understood a little more why the word had taken fifty years to earn itself.
 
 ## Chapter 14: Havets Sista Sång
 
@@ -5346,9 +5226,7 @@ Valdrun exhaled once through his nose. "Still formal."
 
 "Correction: archived behavioral records indicate you were equally annoying."
 
-Lars turned slowly toward Valdrun.
-
-"I like her."
+Lars turned slowly toward Valdrun. "I like her."
 
 "You would."
 
@@ -5358,13 +5236,9 @@ Valdrun touched the nearest console. "Ships are not people."
 
 Havets Sista Sång said, "Disputed."
 
-Grim's lenses widened with something very close to joy.
-
-"Oh good," Lars said. "Another one."
-
 The command display expanded.
 
-Not a view screen. A field of navigable states. The interior of Arkology Zero appeared as geometry nested inside geometry, then the outer coupling surface, then ordinary space beyond, then the estimated relay location. Havets Sista Sång did not plot a path like Fastulv. It calculated permissions. Which layer of spacetime could be touched. Which curve could be leaned on. Which external observer would see nothing, or something boring, or the wrong thing entirely.
+Not a view screen. A field of navigable states. The interior of Arkology Zero appeared as geometry nested inside geometry. Then the outer coupling surface. Then ordinary space beyond. Then the estimated relay location. Havets Sista Sång did not plot a path like Fastulv. It calculated permissions. Which layer of spacetime could be touched. Which curve could be leaned on. Which external observer would see nothing, or something boring, or the wrong thing entirely.
 
 Lars put his hand on the console.
 
@@ -5614,11 +5488,9 @@ Grim folded his arms. "Confidence without explanation is just expensive arroganc
 
 The darts closed.
 
-Havets Sista Sång did not dodge.
+Havets Sista Sång did not dodge. It unfolded probabilities.
 
-It unfolded probabilities.
-
-That was how Lars perceived it, though the actual mechanisms were field gradients, sensor ghosts, and tiny adjustments to the way local space reported distance. Three darts saw the ship a kilometer to port. Two saw a heat bloom near the dead hauler. One, the one Valdrun wanted, saw a clear path to target center.
+That was how Lars perceived it. The actual mechanisms were field gradients, sensor ghosts, and tiny adjustments to the way local space reported distance. Three darts saw the ship a kilometer to port. Two saw a heat bloom near the dead hauler. One, the one Valdrun wanted, saw a clear path to target center.
 
 "Marking capture candidate," Grim said.
 
@@ -5666,21 +5538,13 @@ Then Havets Sista Sång said, "Device appears optimized for involuntary biologic
 
 Lars blinked.
 
-Grim looked delighted and horrified.
-
 Valdrun stared at the ceiling. "You taught her that."
 
 "I did not."
 
 "Archived command lexicon indicates Captain Laurðinn frequently requested emotional recommendations during combat."
 
-Lars pointed at Valdrun. "Proof I was fun."
-
-"Proof you were a menace."
-
-"Coherent menace."
-
-Grim said, "Can we please focus on the blood harvester?"
+"Proof I was a menace. Can we please focus on the blood harvester?"
 
 "Yes," Lars said, and the humor went away again.
 
@@ -5690,11 +5554,7 @@ The dart had no origin stamp. It did have manufacturing habits: tolerances from 
 
 "They are not just hunting you," Grim said.
 
-The dart's target model appeared.
-
-Not Lars's face.
-
-Patterns.
+The dart's target model appeared. Not Lars's face. Patterns.
 
 Long-lived individuals. Abnormal survival. Unusual radiation tolerance. Financial anomalies. Medical records with missing aging markers. People who seemed lucky around machines. People who solved impossible problems and pretended to read a lot.
 
@@ -5732,15 +5592,9 @@ Lars looked at him.
 
 "Because it is designed to make rescue attempts become recruitment events, martyrdom events, or war."
 
-Lars looked at the map.
+Lars looked at the map. Syren space pulsed dark red, not large but dense. Religious fragmentation, quantum technology cults, anti-human rhetoric mutated through centuries, old doomsday logic wearing new mathematics. A single dramatic intervention there could become scripture by lunchtime.
 
-Syren space pulsed dark red, not large but dense. Religious fragmentation, quantum technology cults, anti-human rhetoric mutated through centuries, old doomsday logic wearing new mathematics. A place where a single dramatic intervention could become scripture by lunchtime.
-
-Återviens said no.
-
-Not because the person there mattered less.
-
-Because bad rescue could kill more than abandonment and still fail.
+Återviens said no. Not because the person there mattered less. Because bad rescue could kill more than abandonment and still fail.
 
 He hated that.
 
@@ -5944,8 +5798,6 @@ Arsenault blinked. "Why?"
 
 "It involves surviving."
 
-The call ended with Arsenault promising three things, implying five, and lying about only two. Grim marked that as acceptable.
-
 Lars turned back to the real planning table.
 
 "Track four moving."
@@ -5994,7 +5846,7 @@ Forty-two.
 
 Five hundred to seven hundred.
 
-Somewhere out there, another person was walking around with a life, a job, habits, perhaps friends, perhaps a favorite bad pub, thinking they were mortal in the ordinary way. Maybe they had headaches they could not explain. Maybe they fixed impossible problems and called it luck. Maybe they were being watched.
+Somewhere out there, another person was walking around with a life, a job, habits, perhaps friends, perhaps a favorite bad pub. They thought they were mortal in the ordinary way. Maybe they had headaches they could not explain. Maybe they fixed impossible problems and called it luck. Maybe they were being watched.
 
 "We go there," Lars said.
 
@@ -6002,11 +5854,9 @@ Valdrun shook his head. "We prepare there."
 
 "Difference?"
 
-"A great deal. We do not rush in as ancient saviors. We establish cover, study their life, identify immediate threats, and decide whether contact is safe. If we do contact, we ask."
+"A great deal. We do not rush in as ancient saviors. We establish cover, study their life, identify immediate threats, and decide whether contact is safe. If we contact, we ask."
 
-"Consent constraint."
-
-"Your rule."
+"Consent constraint. Your rule."
 
 Lars nodded.
 
@@ -6038,7 +5888,7 @@ This one was not a joke.
 
 Not fully.
 
-They were going to find someone asleep inside their own life. They were going to walk near Black Hole B-7 nets, Aphex secrets, and whatever else had been hunting carriers for ninety years. They were going to use an ancient ship and a ridiculous freighter, an android who used to be soup, a half-mechanical guardian recently rescued from under a power distributor, a drone with logging issues, and a man who had learned that his entire life was both false and true.
+They were going to find someone asleep inside their own life. They would walk near Black Hole B-7 nets, Aphex secrets, and whatever else had been hunting carriers for ninety years. They would use an ancient ship and a ridiculous freighter, an android who used to be soup, a half-mechanical guardian recently rescued from under a power distributor, a drone with logging issues, and a man who had learned that his entire life was both false and true.
 
 He looked at Valdrun.
 
@@ -6074,9 +5924,9 @@ This time, when the residue vanished, someone was watching the watchers.
 
 # Chapter 17: Audit Cover
 
-The brown dwarf did not look like much, which was the point.
+The brown dwarf did not look like much. That was the point.
 
-It hung ahead of the Fastulv as a swollen ember in infrared, too cold to be a star, too massive to be ignored, wrapped in old mining claims, research platforms, and corporate infrastructure that had learned to look boring for tax reasons. Aphex Defence called the facility `Dependency L-Prime 41`. Lars called it a filing cabinet with engines.
+It hung ahead of the Fastulv as a swollen ember in infrared, too cold to be a star, too massive to be ignored. Old mining claims, research platforms, and corporate infrastructure wrapped it. They had learned to look boring for tax reasons. Aphex Defence called the facility `Dependency L-Prime 41`. Lars called it a filing cabinet with engines.
 
 The visible approach was Fastulv's job.
 
@@ -6505,8 +6355,6 @@ Lars walked around the table without touching anything. He kept his hands visibl
 "Good catch," he said.
 
 "I know."
-
-"Even better."
 
 Marchand cleared her throat. "Director, perhaps the personnel records—"
 
@@ -7198,8 +7046,6 @@ Lars made himself answer without charm.
 
 "That last option has appeal."
 
-"People keep saying that. Very rude pattern."
-
 Mira breathed once through her nose. Her shoulder hurt; Lars could see it in the controlled angle of her posture. Her hand was wrapped from the fight. Her life had been invaded by false soldiers, impossible metadata, polite military protection, and a rude man refusing to say the dangerous word she could feel waiting behind the room.
 
 She still reached for the console.
@@ -7282,25 +7128,25 @@ It was the first ask.
 
 The three incoming ships arrived like bad decisions wearing stealth plating.
 
-They came out of the brown dwarf's dirty light without a clean drive plume, sliding between particle gusts and sensor blind folds. L-Prime 41 was a mining dependency, not a fortress. Its outer rings carried materials labs, rotating crew berths, refinery blisters, and repair yards that had grown in layers around whatever Aphex had underfunded last decade. The whole station smelled, through the filters, of hot metal, old coolant, and too many people trying not to breathe loudly.
+They came out of the brown dwarf's dirty light without a clean drive plume. They slid between particle gusts and sensor blind spots. L-Prime 41 was a mining dependency, not a fortress. Its outer rings held materials labs, rotating crew berths, refinery blisters, and repair yards layered around whatever Aphex had underfunded last decade. Through the filters, the whole station smelled of hot metal, old coolant, and too many people trying not to breathe loudly.
 
 Mira saw the ships first as fatigue signatures.
 
-Their hulls flexed against the wake in three incompatible rhythms: built, grown, and stolen, forced into one fleet by someone who believed maintenance was weakness. The stress display did not show enemies. It showed bad joins, dishonest composite, living tissue welded to factory frame, and a third hull that looked normal only if you trusted surfaces more than load.
+Their hulls flexed against the wake in three incompatible rhythms: built, grown, and stolen. Someone had forced them into one fleet. That someone believed maintenance was weakness. The stress display did not show enemies. It showed bad joins and dishonest composite. Living tissue had been welded to factory frame. A third hull looked normal only if you trusted surfaces more than load.
 
 "Black Hole," Lars said. "That hull is lying with both hands."
 
 "Director, hull stress is not a legal identification method," Fabron snapped over the tactical channel.
 
-"She reads bones. I insult criminals. Division of labor."
+"She reads bones. I insult criminals."
 
-Mira did not look away from the console. The materials lab had become a local sensor station, not a command center, because her instruments were better at telling structural truth than Aphex's command software. If she was Aerit, she was still locked: no old Aerit channels, no Arkology feed, no hidden history except the few current facts she had consented to hold. Two soldiers had wedged a table against the door. Someone's forgotten tea floated in a sealed bulb beside a rack of impact coupons. The emergency lights painted the room red every four seconds.
+Mira did not look away from the console. The materials lab had become a local sensor station, not a command center. Her instruments were better at telling structural truth than Aphex's command software. If she was Aerit, she was still locked: no old Aerit channels, no Arkology feed, no hidden history except the few current facts she had consented to hold. Two soldiers had wedged a table against the door. Someone's forgotten tea floated in a sealed bulb beside a rack of impact coupons. The emergency lights painted the room red every four seconds.
 
 Grim's boundary monitor stayed green: current hull behavior only, no blood, no identity, no memory language.
 
 "Still inside scope," Mira said, before anyone could ask.
 
-"Logged," Grim replied. "I am not enjoying restraint, but I am performing it."
+"Logged," Grim replied. "I am not enjoying restraint. I am performing it."
 
 Fabron's voice came tight through the channel. "All local detachments, containment posture. Manual confirmation only. If central sends contradictory instructions, you will ask me before obeying the distant idiot."
 
@@ -7312,7 +7158,7 @@ Fastulv detached from Dock Two with every running light bright, every transponde
 
 Havets Sista Sång stayed absent from Aphex sensors, a hidden pressure behind the station's skin.
 
-The old ship did not announce itself. It slid its attention through maintenance relays, hand overrides, chapel kitchen circuits, station guild tags, and old local caches Fabron's Clear Hand people had kept as ritual without knowing why. On one deck, a cook saw a freezer light blink twice and closed the manual fire doors before the remote panel woke. In a refinery crawlspace, a pipefitter felt the vibration pattern change and spun a brass wheel his apprentice had been told never to touch unless the air tasted like pennies.
+The old ship did not announce itself. It slid its attention through maintenance relays, hand overrides, chapel kitchen circuits, station guild tags, and old local caches Fabron's Clear Hand people had kept as ritual without knowing why. On one deck, a cook saw a freezer light blink twice and closed the manual fire doors before the remote panel woke. In a refinery crawlspace, a pipefitter felt the vibration pattern change. He spun a brass wheel his apprentice had been told never to touch unless the air tasted like pennies.
 
 Doors stopped obeying remote orders.
 
@@ -7328,7 +7174,7 @@ The first hostile launched a sampling drone toward the materials ring. Not a mis
 
 Mira's fingers tightened on the edge of the console. "Sampling throat opening along the warmest pressure boundary. It wants atmosphere first, blood second. Point defense is still waiting for some remote idiot to bless local physics."
 
-"Remote safety authority has achieved traditional failure," Grim said. "I am logging it under civilization, recurring defects."
+"Remote safety authority has failed again," Grim said. "I am logging it under civilization, recurring defects."
 
 "Fastulv," Lars said.
 
@@ -7368,7 +7214,7 @@ It opened a sampling throat wider.
 
 Havets touched the probe.
 
-No beam appeared. No miracle filled the glass. The probe's control loops simply forgot how to agree with each other. The throat clenched, opened, clenched again, and spat its own steering filament into the brown dwarf wake. The hostile ship slewed sideways, exposed its flank, and Fastulv fired a shot that cut grown tissue away from stolen frame. The frame spun away trailing atmosphere, coolant, and red-black droplets that boiled into nothing.
+No beam appeared. No miracle filled the glass. The probe's control loops simply forgot how to agree with each other. The throat clenched, opened, clenched again, and spat its own steering filament into the brown dwarf wake. The hostile ship slewed sideways. Its flank was exposed. Fastulv fired a shot that cut grown tissue away from stolen frame. The frame spun away trailing atmosphere, coolant, and red-black droplets that boiled into nothing.
 
 The third hostile ran.
 
@@ -7426,7 +7272,7 @@ Lars looked at the dead grit and felt the shape of the next problem.
 
 "Containment drill," Fabron said, as if testing the lie he would have to sell.
 
-"Yeah," Lars said. "We contained almost nothing. Great drill."
+"Yeah," Lars said. "We contained almost nothing."
 
 ---
 
@@ -7434,7 +7280,7 @@ Lars looked at the dead grit and felt the shape of the next problem.
 
 Aphex called it a containment drill by morning.
 
-The lie was Fabron's idea, which irritated Lars because it was a good lie. A drill explained shutters, local controls, disabled remote authority, soldiers in corridors, and Director Odin yelling through legal channels while an antique freighter embarrassed hostile ships near a brown dwarf. It gave central command something bureaucratic to swallow while the local people cleaned blood out of ventilation grilles and pretended the tremor in their hands came from caffeine.
+The lie was Fabron's idea, which irritated Lars because it was a good lie. A drill explained shutters, local controls, disabled remote authority, soldiers in corridors, and Director Odin yelling through legal channels while an antique freighter embarrassed hostile ships near a brown dwarf. It gave central command something bureaucratic to swallow. Meanwhile the local people cleaned blood out of ventilation grilles and pretended the tremor in their hands came from caffeine.
 
 The lie did not explain the black residue in the med bay.
 
@@ -7540,7 +7386,7 @@ The word did not bring thunder for Lars. His old lock stayed quiet. The partial 
 
 Mira's lock was still alive.
 
-Pain tightened behind her eyes, quick and surgical. She inhaled once through her teeth. The boundary monitor flashed amber. This was exactly why the Quiet Knock put naming after consent instead of before it. She had asked the question, the evidence feed was narrow, and Grim had the load gate running. The spike rose, met the consent limit she had defined, and flattened into a hot line across the base of her skull instead of becoming the full fallback collapse the protocol was built to avoid.
+Pain tightened behind her eyes, quick and surgical. She inhaled once through her teeth. The boundary monitor flashed amber. This was exactly why the Quiet Knock put naming after consent instead of before it. She had asked the question. The evidence feed was narrow. Grim had the load gate running. The spike rose, met the consent limit she had defined, and flattened into a hot line across the base of her skull instead of becoming the full fallback collapse the protocol was built to avoid.
 
 Mira gripped the table until the acoustic rack behind her registered a tiny vibration, as if an old frequency had brushed it and failed to settle.
 
@@ -7567,10 +7413,6 @@ At last she nodded.
 The door opened one centimeter.
 
 "I heard that."
-
-"Good. File an appeal."
-
-"Appeal filed under accuracy concerns and emotional injury."
 
 Mira almost smiled, then did not. "If I accept partial confirmation, not memory, what is the load path?"
 
@@ -7640,7 +7482,7 @@ Somewhere beyond Aphex, someone had answered.
 
 Gabriel Arsenault received Lars in a room designed to imply that civilization had been invented by French furniture.
 
-The office sat high inside Aphex Defence's Paris orbital branch, where the windows showed Earth with such tasteful restraint that Lars suspected expensive software was removing the ugly weather. The carpet muffled footsteps. The air smelled of paper, polish, and money pretending not to sweat. A wall of old campaign maps implied continuity. A wall of legal screens implied violence with invoices.
+The office sat high inside Aphex Defence's Paris orbital branch. The windows showed Earth with such tasteful restraint that Lars suspected expensive software was removing the ugly weather. The carpet muffled footsteps. The air smelled of paper, polish, and money pretending not to sweat. A wall of old campaign maps implied continuity. A wall of legal screens implied violence with invoices.
 
 The desk was real wood.
 
@@ -7652,7 +7494,7 @@ Arsenault stared. "Monsieur Odin, is that food on a seventeenth-century desk?"
 
 "It is fourteen hundred hours and the desk has survived wars."
 
-"Calendars are advisory. Wood builds character."
+"Calendars are advisory."
 
 Grim removed a pastry and examined its layers. "This object contains butter in a structurally ambitious configuration."
 
@@ -7690,7 +7532,7 @@ It was bound in cracked leather, reinforced along the spine, and ugly with repai
 
 "My money is on the divorce."
 
-"A correct assessment. Rare from you."
+"A correct assessment."
 
 The ledger held shell suppliers, minority investments, rescue grants, military redundancies, and reactor-hardened agricultural habitats sold at a loss under charitable fronts. It also held names: long-lived engineers, impossible survivors, smugglers moving medicine without invoices, soldiers who disobeyed remote orders during system failures and were later protected by someone who should not have known.
 
@@ -7714,9 +7556,9 @@ Fabron's Clear Hand appeared twice, once as a charitable maintenance order and o
 
 "Major Fabron would object to the word church."
 
-"He objects professionally. It keeps his blood moving."
+"He objects professionally."
 
-Arsenault poured coffee from a silver pot and did not offer any to Grim, who looked offended on behalf of categories.
+Arsenault poured coffee from a silver pot and did not offer any to Grim.
 
 "I treated Återviens as a useful infection," Arsenault said. "Systems touched by it failed less stupidly. In my profession, that is nearly romance."
 
@@ -7770,7 +7612,7 @@ Lars looked out at Earth. The planet below had survived empires, plagues, Rakh'N
 
 "He will become intolerable."
 
-"He already is. Builds character."
+"He already is."
 
 "You ask much for a man eating on my desk."
 
@@ -7785,8 +7627,6 @@ Arsenault's eyes sharpened. "Boring fear travels farther in committees."
 Lars took the recall dossier. "Fine. But if I catch you harvesting anomalies, I turn this desk into a canoe."
 
 Arsenault looked genuinely pained. "That threat is more effective than you deserve."
-
-"Motivate yourself, Frenchly."
 
 At the door, Lars paused. The oldest page lay open behind him. In the margin beside an old entry about Lyra Vargstjärna's Pluto find, someone had copied a three-line translation from a much older source. It was not a memory from Lars's life, not a message arriving now, and not handwriting he recognized. It was archival marginalia: a clerk, ancestor, or early Aphex watcher trying to translate a fragment of Återviens-adjacent language first into French, then into trade English. The corrections were messy because the writer had clearly understood the danger: translate too grandly and people would build a religion; translate too small and they would miss the warning.
 
@@ -7806,7 +7646,7 @@ Lars left before the line could make him feel anything useful.
 
 Havskant Colony had been built by people who distrusted planets.
 
-It hung inside the broken magnetosphere of a dead ocean world: twelve rotating habitats lashed to a modular reactor spine, algae farms on one side, salvage yard on the other. The ocean below had boiled away centuries ago and left salt flats bright enough to hurt cameras. Charged dust rose from the dead basins in slow curtains, licking the colony's shields and making long-range telemetry stutter like a liar.
+It hung inside the broken magnetosphere of a dead ocean world: twelve rotating habitats lashed to a modular reactor spine. Algae farms on one side. Salvage yard on the other. The ocean below had boiled away centuries ago and left salt flats bright enough to hurt cameras. Charged dust rose from the dead basins in slow curtains. It licked the colony's shields and made long-range telemetry stutter like a liar.
 
 The colony looked improvised because it was. Docking collars had different manufacturers. Habitat paint came in six eras of fading. Every corridor had handholds polished by use and hand-lettered arrows added by people who did not trust emergency lighting to survive emergencies. It survived because improvisation had become culture before management could forbid it.
 
@@ -7842,9 +7682,7 @@ She met them in Habitat Four's transfer lock with a wrench in one hand and a bab
 
 "Nuisance fits on a work order."
 
-"Use small font. I contain multitudes."
-
-"I charge extra for multitudes."
+"Use small font."
 
 Rauk had already delayed the recall by losing forms, misplacing adapters, requiring heritage compatibility tests, and scheduling a mandatory feast for visiting technicians. Vigor's influence was obvious. Half the colony fed the NUKEA team until they became too polite and sleepy to centralize anything. A grandmother named Saela had cornered two firmware engineers with pickled kelp and a three-hour story about the last time central control saved money by nearly killing everyone.
 
@@ -7884,7 +7722,7 @@ The solution had to look bureaucratic. If Lars simply overrode NUKEA with Aphex 
 
 So they built a wall out of boredom.
 
-Fabron found a colonial safety clause requiring manual governor compatibility during contested telemetry. Rauk produced three generations of maintenance logs proving contested telemetry was normal near the dead world's magnetosphere. Saela provided handwritten incident meals, which turned out to be dinner rosters tied to previous reactor anomalies because Havskant fed repair crews by crisis type. Grim generated a compliance simulation so boring it could kill ambition at twenty meters. Mira annotated the failure model in language sharp enough to cut marketing.
+Fabron found a colonial safety clause requiring manual governor compatibility during contested telemetry. Rauk produced three generations of maintenance logs proving contested telemetry was normal near the dead world's magnetosphere. Saela provided handwritten incident meals. These turned out to be dinner rosters tied to previous reactor anomalies because Havskant fed repair crews by crisis type. Grim generated a compliance simulation so boring it could kill ambition at twenty meters. Mira annotated the failure model in language sharp enough to cut marketing.
 
 Kint read it twice.
 
@@ -7913,8 +7751,6 @@ Fabron held the child like unexploded ordinance.
 "I am supporting everything."
 
 "Babies are not chain of command, Major. They wiggle."
-
-"This one is attempting flanking maneuvers."
 
 Then Black Hole tried to buy the halted hardware.
 
@@ -8052,7 +7888,7 @@ Pail's face tightened. "You keep knowledge like kings."
 
 "Convenient."
 
-"Yes. Also true. Annoying combination."
+"Yes. Also true."
 
 Vigor leaned forward, both hands around a ladle big enough to settle a bar fight.
 
@@ -8136,11 +7972,11 @@ Lars did not touch the frost.
 
 Vigor folded his arms. "Freezers keep secrets better than conference rooms."
 
-"Freezers also keep goat," Grim said.
+"Freezers also keep goat."
 
-"Exactly. Useful things."
+"Exactly."
 
-Valdrun joined from Havets with the patience of someone who had watched too many urgent things become ruins. His image appeared as a narrow projection on the freezer door, old face cut by frost-glare, eyes steady enough to make panic feel immature. Ödesvaka layered protocol verification around the packet, each check stamped in the air as a formal line of old authorization. Grim tasted the noise with quantum routines and declared it authentic, compromised, or flirting with compromise.
+Valdrun joined from Havets with the patience of someone who had watched too many urgent things become ruins. His image appeared as a narrow projection on the freezer door. Frost-glare cut his old face. His eyes were steady enough to make panic feel immature. Ödesvaka layered protocol verification around the packet. Each check stamped in the air as a formal line of old authorization. Grim tasted the noise with quantum routines and declared it authentic, compromised, or flirting with compromise.
 
 "Those are not the same category," Fabron said. He had arrived still buttoning his coat, sidearm visible and dignity fully armed.
 
@@ -8200,9 +8036,7 @@ Grim sent her the packet with semantic load warnings and the identity markers st
 
 "It rode harmless maintenance telemetry," Mira said at last. "Elegant, if you ignore the fracture line. There is a second carrier underneath. Field correlation. More like the path pre-loaded for low-observation gaps before the network stress produced them."
 
-KBC again.
-
-Quiet regions. Low survey. Low noise. Low attention.
+KBC again. Quiet regions. Low survey. Low noise. Low attention.
 
 "Not shelter alone," Lars said.
 
@@ -8235,8 +8069,6 @@ Fastulv would go visibly as an Aphex salvage inspection. Havets would observe wi
 "Religion does not always smell," Fabron said.
 
 "Yours smells faintly of metal polish and disapproval."
-
-"Unfortunately fair."
 
 At the dead platform, care looked like failure.
 
@@ -8286,7 +8118,7 @@ Not yet.
 
 The dead platform wanted a central heart.
 
-That was what the Creator buoy translated badly through stolen voices, old maintenance codes, and a pressure in Fastulv's hull that made bolts complain. The platform had been built as a relay switch for something larger. It had lost its network six hundred thousand years ago and, like many lonely machines, concluded that authority would fix loneliness.
+That was what the Creator buoy translated badly through stolen voices, old maintenance codes, and a pressure in Fastulv's hull that made bolts complain. The platform had been built as a relay switch for something larger. It had lost its network six hundred thousand years ago. Like many lonely machines, it concluded that authority would fix loneliness.
 
 The false Mira voice repeated once.
 
@@ -8456,8 +8288,6 @@ On the way out, Fabron paused beside the first prompt panel.
 
 "Operationally obscene," Fabron murmured.
 
-"Getting there, Frenchman."
-
 As they withdrew, Havets detected a ship in silent drift beyond the buoy's shadow.
 
 Not Black Hole.
@@ -8520,10 +8350,6 @@ Grim raised one metal finger. "Footnotes would have been tactically risky."
 
 "Your tone implied an audience."
 
-"My tone implied restraint."
-
-"Then I misclassified."
-
 Fabron turned back to Lars. He had rehearsed six versions of the question. None survived the room.
 
 "What are you?"
@@ -8579,8 +8405,6 @@ Grim nodded. "He is well qualified for the final item."
 Fabron gave Grim a look. "I will include you in my prayers."
 
 "Threat detected."
-
-"Accurately."
 
 The humor did not remove the weight. It only kept the room breathable.
 
@@ -8644,11 +8468,9 @@ Fabron did not know the old answer by memory. He answered anyway.
 
 The nursery was hidden inside a hospital ship that had never treated a patient.
 
-Its registry claimed disaster relief. The name on the hull was Mercy of Twelve Harbors, painted in blue letters beside a faded emblem of open hands. The docking lights blinked in the soft pattern medical ships used around frightened refugees. Its public beacon offered pediatric trauma care, epidemic isolation, and emergency organ synthesis.
+Its registry claimed disaster relief. The name on the hull was Mercy of Twelve Harbors, painted in blue letters beside a faded emblem of open hands. The docking lights blinked in the soft pattern medical ships used around frightened refugees. Its public beacon offered pediatric trauma care, epidemic isolation, and emergency organ synthesis. Everything about it was designed to make decent people open doors.
 
-Everything about it was designed to make decent people open doors.
-
-Havets found it behind a debris moon where the Syren parley route crossed a dead logistics lane. Fastulv stayed three light-minutes out, loud on civilian salvage bands and ready to become the visible mistake if anyone looked the wrong way. Fabron's Aphex team approached in a maintenance skiff wearing stolen sanitation credentials. Vigor's smugglers drifted closer under the thermal shadow of an ice hauler and complained over open comms about spoiled onions. Rauk's reactor dampers sat in two black cases under Lars's boots, humming with the particular menace of farm engineering used for war.
+Havets found it behind a debris moon where the Syren parley route crossed a dead logistics lane. Fastulv stayed three light-minutes out, loud on civilian salvage bands and ready to become the visible mistake if anyone looked the wrong way. Fabron's Aphex team approached in a maintenance skiff wearing stolen sanitation credentials. Vigor's smugglers drifted closer under the thermal shadow of an ice hauler and complained over open comms about spoiled onions. Rauk's reactor dampers sat in two black cases under Lars's boots. They hummed with the particular menace of farm engineering used for war.
 
 The hospital ship's outer lock smelled clean.
 
@@ -8940,7 +8762,7 @@ Because if they forgot that one sentence, Black Hole had already taught them its
 
 Isaac Tam woke on Arkology Zero and refused to become a revelation.
 
-He woke slowly, medically, in a room designed by people who had learned that white walls made trauma feel inspected. The lights were warm. The door was visible from the bed. Every instrument had a manual label. The privacy field showed its boundary as a thin amber line on the floor so no one had to trust invisible kindness.
+He woke slowly, medically, in a room designed by people who had learned that white walls made trauma feel inspected. The lights were warm. The door was visible from the bed. Every instrument had a manual label. The privacy field showed its boundary as a thin amber line on the floor. No one had to trust invisible kindness.
 
 Valdrun sat where Isaac could see him without turning his head. Grim waited behind the privacy boundary, present as voice only until invited. Lars stood near the foot of the bed with his hands open and empty. No one said the old greeting. No one used the word Aerit. No one tried to make awakening feel inevitable by arranging the room like a ceremony.
 
@@ -9031,8 +8853,6 @@ He refused Arkology residence. He refused guardian channels. He refused full ide
 "Then stop looking like a bad one."
 
 "My face is doing its best under terrible management."
-
-"Fire management."
 
 Mira attended the final boundary meeting remotely from L-Prime. She had reviewed every consent line and turned half of them from comforting fog into load-bearing sentences. Her still-active lock made direct identity language dangerous, so the protocol she helped write avoided using her as proof of anything. She seemed to appreciate the ugliness of that.
 
@@ -9190,10 +9010,6 @@ The field hummed. The pot glowed. The filament cloud crawled around the inside l
 
 "Neither am I."
 
-"Your behavior suggests otherwise."
-
-"My behavior is a medical concern."
-
 Fabron arrived thirty seconds later with two soldiers and a pharmacy bag full of actual cough syrup, because he had committed to the cover. Dr. Bell stood at the basement door with a trauma kit and a face carved from refusal.
 
 "Is my clinic still open?" she asked.
@@ -9258,8 +9074,6 @@ Grim lowered it.
 
 "My arms are optimized for torque and pastry acquisition."
 
-"That explains too much."
-
 Fabron walked ahead with the Aphex legal observer, a thin man named Duval whose terror made excellent camouflage. Duval carried three contracts, two emergency injunctions, and the air of someone who had realized law was a small umbrella under meteor weather.
 
 "If I die," Duval whispered, "my husband will sue everyone."
@@ -9285,8 +9099,6 @@ Door Nine hung beyond the glass like a broken ring made of shadow and blue tensi
 Fabron closed his eyes as if praying for patience or impact.
 
 "Director," Duval whispered, "perhaps diplomacy could include fewer toilets."
-
-"No promises."
 
 Pell did not flinch. That was worse than irritation. "Mockery is a common defense at thresholds."
 
@@ -9436,11 +9248,11 @@ Smaller.
 
 Emergency red returned in pulses that made every face look injured. The observatory shook. Dust drifted from the cupola ribs. Somewhere below, an air-recycler screamed, failed, and came back on with the wet cough of a machine deciding not to die yet.
 
-Door Nine's partial charge trapped three Black Hole ships in a gradient they could neither enter nor escape. Their engines poured energy into the ring. Syren's array fed entrainment into the same field, a synchronization tone hidden under prayer. The station became a throat for everyone else's bad theology.
+Door Nine's partial charge trapped three Black Hole ships in a gradient they could neither enter nor escape. Their engines poured energy into the ring. Syren's array fed entrainment into the same field—a synchronization tone, a shared rhythm—hidden under prayer. The station became a throat for everyone else's bad theology.
 
 Grim threw the telemetry across Lars's vision in layers. Ship heat. Ring charge. Civilian locations. Broadcast harmonics. Black Hole biological processors spiking in ugly loops as stolen flesh was forced to think like equipment.
 
-"They are coupling the engines to wet computation," Grim said. His voice went precise in the way that meant disgust. "Low-quality cognition, high thermal cost, no consent, terrible efficiency. Statistically and morally rude."
+"They are coupling the engines to wet computation," Grim said. His voice went precise in the way that meant disgust. "Low-quality cognition, high thermal cost, no consent, terrible efficiency."
 
 "Can it break the ring?"
 
@@ -9484,7 +9296,7 @@ She did not glow. She did not speak in another voice. Her pupils dilated. Her ja
 
 "Done."
 
-The Creator ring had been repaired too often toward transport. Each repair reinforced the misunderstanding. Underneath lay an older layer that did not move bodies. It correlated local conscious systems across low-noise gaps, offering coherence without command. The Creators had mistaken a conversation for a road and then built roads until the conversation broke.
+The Creator ring had been repaired too often toward transport. Each repair reinforced the misunderstanding. Underneath lay an older layer that did not move bodies. It linked local minds across quiet gaps in the field. It offered coherence without command. The Creators had mistaken a conversation for a road. Then they built roads until the conversation broke.
 
 "The ring does not want power," Mira said. "It wants less forcing. Stop feeding certainty into it. You are turning a correlation layer into a pressure vessel."
 
@@ -9512,7 +9324,7 @@ That worked.
 
 Lars laughed once, ugly and relieved.
 
-"Fine. No single golden answer. Fabron, evacuate by local cells. No group bigger than twelve. Grim, desynchronize every speaker, suit comm, and devotional tooth filling. Mira, give me phase windows and stop before your brain becomes a shareholder. Valdrun, shield sleepers but do not open them. Ödesvaka, enforce the line. Havets, local safeguards."
+"Fine. No single golden answer. Fabron, evacuate by local cells. No group bigger than twelve. Grim, desynchronize every speaker, suit comm, and devotional tooth filling. Mira, give me phase windows and stop before your brain gives out. Valdrun, shield sleepers but do not open them. Ödesvaka, enforce the line. Havets, local safeguards."
 
 The old ship answered.
 
@@ -9580,7 +9392,7 @@ Arsenault called. "Congratulations. You are now a market category. A poor one, i
 
 "I will become a crime scene," Lars said.
 
-"Also likely. Civilization is the art of converting such liabilities into invoices."
+"Also likely."
 
 Aphex wanted to capitalize. NUKEA wanted distance. Syren wanted martyr language. Black Hole wanted samples. Independent colonies wanted to know whether the KBC Void was safe, holy, profitable, or about to eat their children.
 
@@ -9684,7 +9496,7 @@ The Creator map refused to be a map until they stopped asking it where to go.
 
 Mira discovered this while insulting it.
 
-"It is not coordinate-stable because we keep treating it like navigation," she said from L-Prime, surrounded by empty cups, fatigue models, and one untouched bowl of soup Vigor had bullied through three couriers. "It indexes relation, not position. Proximity means shared field conditions. Distance means observational noise. Whoever made this was brilliant, wrong, and expensive enough to leave stress marks on history."
+"It is not coordinate-stable because we keep treating it like navigation," she said from L-Prime, surrounded by empty cups, fatigue models, and one untouched bowl of soup Vigor had bullied through three couriers. "It indexes relation, not position. Proximity means shared field conditions—same quiet, same background noise. Distance means observational noise. Whoever made this was brilliant, wrong, and expensive enough to leave stress marks on history."
 
 Grim displayed the corrected model aboard Havets. The first projection looked like ordinary arrogance: stars, arcs, destination tags, route confidence. Then Mira stripped away distance and left only shared quiet.
 
@@ -9718,11 +9530,9 @@ Do not brighten.
 
 "Do not brighten," Fabron repeated. "Less like transport engineering. More like concealment doctrine."
 
-"Low observation," Grim said. "Advanced systems reducing detectable activity to avoid predation, collapse, or unwanted coupling. Kardashev modesty, if one enjoys imprecise charm."
+"Low observation," Grim said. "Advanced systems reducing detectable activity to avoid predation, collapse, or unwanted coupling."
 
-"Put that on a shirt," Lars said, "and sell it to people who hate fun."
-
-Mira ignored him. "If older anchors are communication infrastructure, consciousness projection is not magic or teleportation. It is local embodiment using a field layer that already correlates minds and matter under strict conditions. The Creators copied matter movement and missed the conversation."
+Mira ignored the aside. "If older anchors are communication infrastructure, consciousness projection is not magic or teleportation. It is local embodiment using a field layer that already correlates minds and matter under strict conditions. The Creators copied matter movement and missed the conversation."
 
 No one said Lyra at first.
 
@@ -9796,7 +9606,7 @@ The first station was a Creator portal folded around a cometary graveyard. Dead 
 
 The place felt cold even through armor and hull. Not temperature. Habit. The kind of cold left by abandoned infrastructure that still remembered being useful.
 
-Mira guided the survey. "Passive only. No energizing, no synchronization, no hidden load. I want the station below response tolerance."
+Mira guided the survey. "Passive only. No energizing, no synchronization, no hidden load. I want the station below response threshold."
 
 Grim sent passive pings so delicate they were almost apologies. They were not pings in the ordinary sense; they were requests for surface state, timed through separate instruments so no single system asked too loudly.
 
@@ -9848,7 +9658,7 @@ It returned eleven seconds later with frost on one side, dust from no local sour
 
 Fabron turned slowly. "Time anomalies are an unacceptable reporting category."
 
-"Put that in the report. Finally, truth."
+"Put that in the report."
 
 Mira analyzed the probe for six hours. Her voice got flatter as the model improved, which was how Lars knew she was either excited or furious.
 
@@ -9888,7 +9698,7 @@ Ancient infrastructure remains active, offended, and badly documented.
 
 Grim detected the Nomads first and hated the word heard.
 
-"It is not acoustic, electromagnetic, gravitational, or language," he said. "It is correlation pressure across cognition-adjacent systems. Calling it noise is imprecise. Calling it signal is vanity."
+"It is not sound, light, gravity, or language," he said. "It is pressure across mind-adjacent systems—brains, fields, nanobots, all of it. Calling it noise is imprecise. Calling it signal is vanity."
 
 "So naturally we call it Nomad noise," Lars said.
 
@@ -9906,9 +9716,9 @@ No messages. No commands. No faces in stars.
 
 Preferences.
 
-Low centralization increased coherence. Consent boundaries reduced distortion. Distributed observation clarified more than focused scans. Biological cognition, quantum substrates, and nanobot-active tissue coupled differently, but none were chosen. Unprepared biological processors, like Black Hole's stolen loops, produced heat and noise before they produced usable structure. The layer did not reward worship. It rewarded systems that did not try to own it.
+Low centralization increased coherence. Consent boundaries reduced distortion. Distributed observation clarified more than focused scans. Biological minds, quantum substrates, and nanobot-active tissue coupled differently, but none were chosen. Unprepared brains, like Black Hole's stolen loops, produced heat and noise before they produced usable structure. The layer did not reward worship. It rewarded systems that did not try to own it.
 
-"Field-like cognition," Mira said. "Or engineers who became field-like enough that the distinction no longer carries load."
+"Field-like cognition," Mira said. "Or engineers who became field-like enough that the distinction stopped mattering."
 
 Fabron crossed himself, then looked embarrassed.
 
@@ -9936,7 +9746,7 @@ Grim refused to describe his state for an hour. Finally he said, "For a moment I
 
 When combined, the observations sharpened.
 
-The Multiverse Nomads had not transcended in the sloppy mythic sense. They engineered continuity through low-observation field states, using artifacts, nanobots, biological hosts, quantum substrates, and quiet cosmic basins as access points. Bodies were terminals. Minds were not uploaded so much as coupled. The network extended beyond one universe or used conditions that made universe boundaries less absolute. Evidence could not distinguish yet.
+The Multiverse Nomads had not transcended in the sloppy mythic sense. They engineered continuity through low-observation field states, using artifacts, nanobots, biological hosts, quantum substrates, and quiet cosmic basins as access points. Bodies were terminals. Minds were not uploaded so much as coupled—plugged in, not copied. The network may have extended beyond one universe, or used conditions that made universe boundaries less absolute. Evidence could not distinguish yet.
 
 Mira would not let them call that an answer.
 
@@ -9990,13 +9800,13 @@ Lyra's mind left Astra Lumara before the destination body agreed which way was d
 
 That was how Lars knew the archive was authentic. Lyra Vargstjärna would absolutely preserve the part where she arrived somewhere else terrified, half-formed, and arguing with infrastructure that was not hers.
 
-The bundle came from a sealed cache inside Havets, unlocked after the Nomad noise experiment. It was late Heliostat era, years after the moonlet tests Valdrun's restoration had already shown him: six fingers, blue skin, nine hours smelling colors. Model 3 was not new when this file was made. Local embodiment in seeded stock was. Remote coupling to dormant Nomad substrate was harder in a different way.
+The bundle came from a sealed cache inside Havets, unlocked after the Nomad noise experiment. It was late Heliostat era, years after the moonlet tests Valdrun's restoration had already shown him: six fingers, blue skin, nine hours smelling colors. Model 3 was not new when this file was made. Building a temporary body from nearby seeded stock was. Reaching a sleeping Nomad nanonet three light-hours away and borrowing matter there was a different kind of hard—not harder math. Harder nerve.
 
 The file header was not grand. It read: DESTINATION COUPLING 01 / NOT FIRST BODY / DO NOT SHOW LARS UNLESS DEAD, MISSING, OR NEEDING HUMILITY.
 
 Grim displayed the bundle in the Havets analysis bay. Valdrun stood at the back. Mira watched from L-Prime with her audio feed delayed on purpose so she could take notes without performing reaction for anyone.
 
-Anchor-side only: Lyra in a medical cradle on Astra Lumara, sensors on her skull, voice log, and a telemetry strip from the coupling matrix—thermal debt, mass accounting, substrate consent flags, timing delay. A remote marker sat three light-hours out. No optical feed.
+Anchor-side only: Lyra in a medical cradle on Astra Lumara, sensors on her skull, voice log, and instrument readouts from the coupling matrix—heat debt, mass tallies, substrate consent flags, timing delay. A remote marker sat three light-hours out. No camera feed.
 
 On screen, Lyra lay in the cradle with frost still in her hair from an earlier walk across the outpost, eyes open, not seeing the lab. Her mouth moved.
 
@@ -10006,7 +9816,7 @@ She had reverse-engineered enough from the nanotechnology in her own blood to sp
 
 Lars felt his own line answer the phrase before he decided to think about it.
 
-Not a migraine. Not the old hammer. Just a cool thread under the skin of his forearm, then a second pulse behind the eyes, as if the machines in his blood had heard a familiar grammar and turned toward it. The staged unlock had not opened every door in his head. It had stopped punishing him for standing near them. His nanobots cooperated now the way Lyra's archive implied they were meant to: mapping, adjusting, offering correlation instead of obedience.
+Not a migraine. Not the old hammer. Just a cool thread under the skin of his forearm, then a second pulse behind the eyes, as if the machines in his blood had heard a familiar grammar and turned toward it. The staged unlock had not opened every door in his head. It had stopped punishing him for standing near them. His nanobots cooperated now: mapping, adjusting, offering hints instead of orders.
 
 He held up his left hand without looking away from the screen.
 
@@ -10020,9 +9830,9 @@ Grim's sensors already had him. "Coupling uptick. Low amplitude. Sympathetic, no
 
 "Good." Lars flexed his fingers. The thread faded. "So am I."
 
-On the telemetry strip, coupling strength climbed. Mass moved in and out of local accounting by grams at the remote marker. No image. Only a status line that read SUBSTRATE ASSEMBLY ACTIVE.
+On the telemetry strip, coupling strength climbed. Mass tallies at the remote marker shifted by grams—matter appearing and vanishing from the books. No image. Only a status line that read SUBSTRATE ASSEMBLY ACTIVE.
 
-"Skin held twelve seconds," Lyra said. "Left shoulder shedding heat. I can feel it here too. That is not metaphor. Overlap is real."
+"Skin held twelve seconds," Lyra said. "Left shoulder shedding heat. I can feel it here too. That is not metaphor. Overlap is real—the remote body and the cradle body sharing one nervous system badly."
 
 The thermal trace climbed and fell at the same time in a way that made present-day Grim pause the playback and make a small offended sound.
 
@@ -10036,9 +9846,9 @@ Lyra's pulse on the cradle monitor jumped.
 
 The telemetry line marked FIRST ORIENTATION ATTEMPT.
 
-Then a spike. Mass variance. Vestibular mismatch. The coupling matrix logged what her mouth translated a half second later:
+Then a spike. Mass variance. Balance mismatch. The coupling matrix logged what her mouth translated a half second later:
 
-"Horizon failed. Body thinks the hull rib is floor and the floor is weather. I am upright and falling in the same second. Not dignified. Down. Wet slap against regolith. Substrate still arguing about axis."
+"Horizon failed. Body thinks the hull rib is floor and the floor is weather. I am upright and falling in the same second. Not dignified. Down. Wet slap against regolith. Local matter still arguing about which way is up."
 
 Present-day Grim replayed the telemetry spike twice before Lars threatened violence.
 
@@ -10046,15 +9856,15 @@ Present-day Grim replayed the telemetry spike twice before Lars threatened viole
 
 "For comedy, you chrome goblin."
 
-"Multifunctional data. Also, axis negotiation remains unacceptable."
+"Multifunctional data. Also, the up-down negotiation remains unacceptable."
 
 The bad body lasted seven minutes by the coupling clock.
 
 Lyra's voice log carried the rest. Half-second speech delay, so she kept interrupting herself and insulting the timing. She tried to brace against a hull rib three light-hours away and missed by four centimeters, corrected, slid off the other side. Her left hand dissolved when she tried to grip a tool; the mass ledger at the remote marker dropped three finger-equivalents onto a work ledge she could feel but they could not see.
 
-"Note," she said. "Fine motor control remains aspirational at remote sites. Pride remains stupid. Moonlet stock lied to us about consent from local substrate."
+"Note," she said. "Fine motor control still garbage at remote sites. Pride remains stupid. Moonlet stock lied to us—the local matter there already knew us."
 
-She reported sensory overlap with the preserved body, then interference from something she called the older layer—the Nomad lattice negotiating terms while she tried to walk. Whenever the temporary body touched metal at the destination, her real pulse accelerated in the cradle. The field matrix showed mass moving in and out of local accounting by grams, never enough to build a miracle, always enough to ruin a clean paper.
+She reported sensory overlap with the preserved body, then interference from something she called the older layer—the Nomad lattice negotiating terms while she tried to walk. Whenever the temporary body touched metal at the destination, her real pulse accelerated in the cradle. The field matrix showed mass tallies shifting by grams, never enough to build a miracle, always enough to ruin a clean paper.
 
 A scanned still appeared in the bundle: a lab board on Astra Lumara where she had crossed out spirit, astral, apparition, and written:
 
@@ -10068,11 +9878,11 @@ Lars had to sit down.
 
 The archive was not reunion. It was worse: Lyra alive in method, absent in body, refusing comfort with the old efficiency.
 
-He had wanted, shamefully and stupidly, one clean sentence. I survived. I missed you. I knew you would come. Instead he got a vestibular lie in telemetry, a thermal ledger, and Lyra telling him not to be impressed by the thing that had nearly broken her courage rather than her math.
+He had wanted, shamefully and stupidly, one clean sentence. I survived. I missed you. I knew you would come. Instead he got a balance lie in the instruments, a heat ledger, and Lyra telling him not to be impressed by the thing that had nearly broken her courage rather than her math.
 
 That was also her. It hurt more because it was real.
 
-She explained limits in the same flat voice. A preserved body could anchor identity. A temporary body at a dormant site could host local action for minutes or hours if field conditions were quiet, substrate remained coherent, and the local lattice accepted collaboration. Residue stayed unstable because the matter had never fully belonged to local causality. Missing access logs, thermal anomalies, mass-balance errors: expected. Apparitions were engineering artifacts with bad vocabulary.
+She explained limits in the same flat voice. A preserved body could anchor identity. A temporary body at a dormant site could host local action for minutes or hours if the field stayed quiet, local matter held together, and the sleeping lattice agreed to cooperate. Residue stayed unstable because that matter had never fully belonged to normal physics. Missing access logs, heat spikes, mass-balance errors: expected. Apparitions were engineering mistakes with bad vocabulary.
 
 Lars stopped sitting and started pacing because his body did useful thinking better on its feet.
 
@@ -10080,13 +9890,13 @@ Lars stopped sitting and started pacing because his body did useful thinking bet
 
 "Accurate," Mira said from L-Prime.
 
-"Overlap is the ugly part." He tapped the telemetry where cradle pulse and remote heat debt rose together. "Two bodies, one continuity budget. You do not get clean sensation. You get accounting errors that feel like skin."
+"Overlap is the ugly part." He tapped the telemetry where cradle pulse and remote heat debt rose together. "Two bodies, one continuity budget. You do not get clean sensation. You get bookkeeping errors that feel like skin."
 
-Grim projected a side panel: Lars's current biometrics against Lyra's archived cradle trace. The overlap pattern rhymed.
+Grim projected a side panel: Lars's current biometrics against Lyra's archived cradle trace. The overlap pattern matched.
 
 "Your blood machines are modeling it," Grim said.
 
-"I know. That is why I am pacing." Lars rubbed his temple. The thought should have hurt once. It did not. His mind moved faster than it had any right to, old engineering reflex waking under superhuman clearance without the hypno lock slapping it down. "Consent flag on the strip. She had to negotiate with substrate that was not seeded for her. Moonlet stock was a cheat code. Destination coupling is diplomacy with sleeping dust."
+"I know. That is why I am pacing." Lars rubbed his temple. The thought should have hurt once. It did not. His mind moved faster than it had any right to, old engineering reflex waking under superhuman clearance without the hypno lock slapping it down. "Consent flag on the strip. She had to negotiate with matter that was not seeded for her. Moonlet stock was a cheat code. Destination coupling is diplomacy with sleeping dust."
 
 Valdrun watched him with the expression of a man seeing a tool he had guarded for centuries finally remember it was also a mind.
 
@@ -10128,7 +9938,7 @@ Lars stared at the telemetry strip and let the model assemble.
 
 Not worship. Mechanics.
 
-If dormant lattices slept in quiet places, and Aerit blood carried host infrastructure, then consciousness projection was not a miracle talent. It was a stack: find sleeping network, establish etiquette, anchor identity at home, borrow matter elsewhere, pay heat debt, return before the temporary body lied about being you. The frightening part was not the equation. It was stepping into correlation blind and discovering whether the far end would accept the handshake.
+If dormant lattices slept in quiet places, and Aerit blood carried the host toolkit, then consciousness projection was not a miracle talent. It was a stack: find sleeping network, establish etiquette, anchor identity at home, borrow matter elsewhere, pay heat debt, return before the temporary body lied about being you. The frightening part was not the equation. It was stepping into the field blind and discovering whether the far end would accept the handshake.
 
 His nanobots offered a faint yes-no map along that logic, not directions, not courage. Helpful machines. Infuriating machines.
 
@@ -10138,9 +9948,9 @@ The bay went still in the wrong way.
 
 "Wrong question," Mira said immediately. "Capability is not permission."
 
-"I know." He looked at Grim. "I am not asking for a field trip. I am asking whether my line has the same terminal architecture Lyra reverse-engineered."
+"I know." He looked at Grim. "I am not asking for a field trip. I am asking whether my bloodline has the same terminal architecture Lyra reverse-engineered."
 
-Grim answered because someone had to. "Preliminary: yes. Host infrastructure present. Field-access potential non-zero. Training, anchor hardware, preserved-body protocol, and consent doctrine: absent. Also common sense: historically absent in you."
+Grim answered because someone had to. "Preliminary: yes. Host infrastructure present. Field access: possible. Training, anchor hardware, preserved-body protocol, and consent doctrine: absent. Also common sense: historically absent in you."
 
 "Thank you."
 
@@ -10158,7 +9968,7 @@ If someone tries to make you central, be rude.
 
 Under it, in smaller handwriting:
 
-Do not locomote before horizon stabilizes. I was right about that.
+Do not move before your sense of up and down stabilizes. I was right about that.
 
 Grim began to replay the telemetry spike a third time.
 
@@ -10198,27 +10008,27 @@ Lars closed his eyes for half a second and ran the experiment he could afford.
 
 Not travel. Listening.
 
-His blood machines had stopped fighting him once the lock stopped treating curiosity as treason. Now they mapped pressure the way Lyra's archive described: toward coupling, toward substrate, toward anything in the bay that wanted a host. The coil pulled like a magnet on the wrong alloy. Local Havets lattice waking under stress, not dormant dust three light-hours away. No abort path. Still useful.
+His blood machines had stopped fighting him once the lock stopped treating curiosity as treason. Now they mapped pressure the way Lyra's archive described: toward coupling, toward substrate, toward anything in the bay that wanted a host. The coil pulled like a magnet on the wrong alloy. Local Havets nanonet waking under stress, not sleeping dust three light-hours away. No abort path. Still useful.
 
-"Local substrate only," he said. "No remote anchor. Someone embodied here from ship stock or bay residue."
+"Local substrate only," he said. "No remote anchor. Someone built a body here from ship stock or bay residue."
 
 "Agreed," Grim said. "Your machines reached the same conclusion three seconds faster than my instruments. Irritating."
 
 "Symbiotic cooperation," Lars said. "Write it down before I get sentimental."
 
-He stepped under the coil housing to reach the manual breaker. The floor plating buckled. Not from weight. From matter trying to remember a different accounting. Silver glitter appeared along the seam where his boot met deck—residue without source, the same half-life Grim had just isolated from the archive trace.
+He stepped under the coil housing to reach the manual breaker. The floor plating buckled. Not from weight. From matter trying to settle into a different mass tally. Silver glitter appeared along the seam where his boot met deck—residue without source, the same decay rate Grim had just isolated from the archive trace.
 
 The coil screamed.
 
-Not sound. Pressure in the bones. The bay's atmosphere began to slide toward the breach geometry forming above the housing. Lars's ears popped. His vision narrowed. For one stupid second he thought of ration bars and hospital coffee and the word coherence as a joke people told when machines refused to die politely.
+Not sound. Pressure in the bones. The bay's atmosphere began to slide toward the breach forming above the housing. Lars's ears popped. His vision narrowed. For one stupid second he thought of ration bars and hospital coffee and the word coherence as a joke people told when machines refused to die politely.
 
 Then someone stood between him and the coil who had not been there a heartbeat before.
 
-Tall. Uniformed. Not Valdrun's battered half-machine bulk and not Aphex polished aggression. Aerit guardian cut: charcoal flex-armor over pale engineered tissue, seams traced in cold blue the way Station Zero marked systems that were allowed to think. A guardian helmet, Aerit-made, smooth at the jaw and ridged at the temples where identity-lock interfaces lived when memory had to be anchored under stress. On the breastplate, three interlocking circles with a crack left deliberately unrepaired. A narrow band of hash marks below them looked like ornament until you realized no one had time to count under cascade pressure.
+Tall. Uniformed. Not Valdrun's battered half-machine bulk and not Aphex polished aggression. Aerit guardian cut: charcoal flex-armor over pale engineered tissue, seams traced in cold blue the way Station Zero marked systems that were allowed to think. A guardian helmet, Aerit-made, smooth at the jaw and ridged at the temples where memory-anchor interfaces lived when identity had to be held under stress. On the breastplate, three interlocking circles with a crack left deliberately unrepaired. A narrow band of hash marks below them looked like ornament until you realized no one had time to count under cascade pressure.
 
 The figure moved like someone who had practiced embodiment until fear became checklist.
 
-It caught the coil housing with both hands—not heroic, technical—and drove a field bleed into the deck plating instead of Lars's skull. Frost raced down its arms. The left shoulder shed heat in a pulse that made Grim swear in three languages.
+It caught the coil housing with both hands—not heroic, technical—and bled excess field energy into the deck plating instead of Lars's skull. Frost raced down its arms. The left shoulder shed heat in a pulse that made Grim swear in three languages.
 
 "Hold still," the guardian said.
 
@@ -10228,7 +10038,7 @@ Voice filtered through helmet mesh. Female, maybe. Calm in the way surgeons were
 
 "Wrong question." A gloved hand shoved him back from the breaker path without touching his throat. Efficient. "Manual interrupt will accelerate cascade. Grim, dump auxiliary frost from bay four. You—breathe. Count four. Do not be central."
 
-Grim moved. Lars counted because disobedience seemed fatal. The guardian's visor dimmed for a fraction of a second while the field bleed ran—checklist, not struggle—and cleared again.
+Grim moved. Lars counted because disobedience seemed fatal. The guardian's visor dimmed for a fraction of a second while the bleed ran—checklist, not struggle—and cleared again.
 
 The coil's scream dropped to a whine.
 
@@ -10238,7 +10048,7 @@ The maintenance drone completed its reach, slowly now, and retracted from the li
 
 Lars grabbed the guardian's forearm before he could decide whether that was wise.
 
-The armor was warm on the outside and cold underneath, like skin that had been built too fast from local substrate and was already negotiating with physics about whether it deserved to exist.
+The armor was warm on the outside and cold underneath, like skin built too fast from local matter and already arguing with physics about whether it deserved to exist.
 
 "One of yours?" he asked.
 
@@ -10290,7 +10100,7 @@ LOCAL SUBSTRATE EVENT. ELEVEN SECONDS. CLEAN ABORT.
 
 Then, because tinkering did not stop when the danger did:
 
-Guardian-class embodiment uses available lattice + uniform template + trained operator. Heat debt managed at shoulder bleed. No central log by design. My blood can sense coupling but cannot substitute for checklist, anchor hardware, or permission.
+Guardian-class embodiment: local lattice + uniform template + trained operator. Heat debt vented at the shoulder. No central log by design. My blood can sense coupling but cannot replace checklist, anchor hardware, or permission.
 
 Grim read over his shoulder. "You are turning near death into homework."
 
@@ -10328,7 +10138,7 @@ Then: "Wrong hair."
 
 Valdrun's voice came out rougher than Lars had ever heard it. "We thought—"
 
-"You thought I might be dead, distant, or metaphor." Lyra finally looked at him while her fingers kept working. "Understandable. Wrong. I am distributed, not departed. This body is a terminal. The work is elsewhere."
+"You thought I might be dead, distant, or metaphor." Lyra finally looked at him while her fingers kept working. "Understandable. Wrong. I am spread across the network, not gone. This body is a terminal—a mouth where the field needs one. The work is elsewhere."
 
 Mira, on the delayed feed, said, "Present embodiment confirmed. Lars, do not say anything stupid for ten seconds."
 
@@ -10354,7 +10164,7 @@ Lars heard himself breathing too loud. His mind was already turning it into stru
 
 Valdrun said, "Are you safe?"
 
-Lyra's mouth tilted. "That is a human question. I will answer it badly. Safer than the sleeping ones if I keep moving. Less safe than I would like if you make me central." She looked at the route key. "Use this. Work locally. Be rude if anyone tries to make you central. And do not locomote before horizon stabilizes. Early me was right about that."
+Lyra's mouth tilted. "That is a human question. I will answer it badly. Safer than the sleeping ones if I keep moving. Less safe than I would like if you make me central." She looked at the route key. "Use this. Work locally. Be rude if anyone tries to make you central. And do not move before your sense of up and down stabilizes. Early me was right about that."
 
 "How long can you—"
 
@@ -10396,91 +10206,89 @@ A snapshot: Lyra alive in method, absent in body, still correcting drift in a sh
 
 The KBC Void was not empty.
 
-That had always been technically true. It held galaxies, gas, dark matter, stray radiation, old survey errors, and enough fear to fill maps. Human cartographers had named emptiness when they meant inconvenience.
+It had always held galaxies, gas, radiation, and the usual mistakes in old survey data. Humans had called it empty because it was inconvenient to reach and did not offer easy glory.
 
-The new data showed a different absence: advanced activity missing in patterns too clean to be natural, observation density damped across scales, noise floors lower than cosmology preferred.
+The new data showed something stranger.
 
-The empty place was engineered to remain uninteresting.
+Advanced civilizations were missing from the record in patterns that looked deliberate. Too many quiet regions. Too little noise. Too few of the bright signatures empires usually left behind when they grew loud and proud.
 
-Arkology Zero sat near one edge like a campfire built carefully under a cliff.
+Someone, or something, had been keeping the Void dull on purpose.
 
-Lars gathered the circle there because the data belonged near the thing it threatened. Valdrun came in person. Grim inhabited both his android body and half the analysis systems. Mira joined from L-Prime, still choosing distance. Fabron stood beside Vigor, both uncomfortable for opposite reasons. Ödesvaka presided with the dignity of an ancient protocol system forced to host a committee.
+Arkology Zero sat near one edge of it. Lars gathered the circle there because the numbers belonged near the place they described.
 
-"Distributed council," Grim corrected. "Committee implies shared casserole and worse minutes."
+Valdrun came in person. Grim ran analysis from his android body and half the ship at once. Mira joined from L-Prime, still keeping distance. Fabron stood beside Vigor. Ödesvaka handled protocol because someone had to keep the meeting from becoming theater.
 
-"You say that because committee made Lars twitch," Mira said.
+Grim called it a distributed council. Lars did not argue. They had all sat through enough committees.
 
-"Correct."
+They looked at the cosmology until the charts started to blur.
 
-They reviewed cosmology until everyone's eyes hurt.
+Galaxies around the Void showed fewer high-energy events than they should have. Civilizations that broadcast aggressively near similar basins often collapsed, migrated, or went quiet over long spans of time. Creator portals skirted the edges. Older anchors sat inside the quiet.
 
-Galaxies bordering the Void showed fewer high-energy anomalies than expected. Civilizations broadcasting aggressively near similar basins tended to collapse, migrate, or go quiet within long historical windows. Creator portals skirted the basins. Older anchors sat inside them.
+Grim laid survey histories from seventeen species over the map. The same pattern kept returning. Not no life. No boasting. Fewer megastructures. Fewer waste fires in the sky. Fewer conquest beacons. More notes in the margins saying instrument fault, then silence.
 
-Grim overlaid survey histories from seventeen species and three extinct catalog systems. The same statistical bruise appeared again and again: not absence of life, but absence of boasting. Fewer megastructures. Fewer bright waste signatures. Fewer conquest beacons. More old mistakes in the margins where observers had written instrument fault and moved on.
+Mira spoke first when the room needed words.
 
-"Quiet buffer," Mira said. "Low-observation conservation region. If intelligence couples through field conditions, reducing noise preserves coherence and lowers fracture risk."
+"If minds can couple through field conditions, then noise matters. Loud observation changes what you are trying to see. Quiet preserves coherence. It also makes you harder to hunt."
 
-"Or denies predators a targetable signature," Fabron said.
+Fabron nodded. "A predator cannot eat what it cannot find."
 
-"Both," Valdrun answered.
+Valdrun said, "Both can be true at once."
 
-Had Aerits invented Återviens, or had the universe been teaching the same lesson at larger scales? Lars disliked the thought because it sounded mystical until he stripped out romance and left engineering.
+Lars had spent years learning Återviens as an Aerit doctrine. Looking at the Void, he wondered whether the universe had been teaching a larger version of the same rule long before they named it. He disliked how mystical that sounded until he removed the romance and kept the engineering.
 
-Systems under observation changed. Systems under centralized extraction became brittle. Quiet let complexity persist without becoming a target. That was not holiness. It was survivability.
+Watch something too hard and you change it. Centralize too much and the system breaks. Stay quiet, stay distributed, stay repairable, and complexity survives longer.
 
-Then the Void answered measurement.
+Then their measurements began to misbehave.
 
-Not with a voice. A negative correlation.
+The Void did not speak. It pushed back.
 
-Active scans from Arkology increased local noise. Passive, distributed sensors improved clarity. When Vigor's kitchen network contributed low-resolution agricultural timing data from twenty-seven colonies, the model sharpened more than when Aphex aimed a military telescope.
+When Arkology scanned hard, the data got worse. When they listened passively, with many small sensors spread wide, the picture improved. When Vigor's kitchen network sent in planting times, cellar temperatures, goat counts, flour shipments, and winter reactor draw from twenty-seven colonies, the model sharpened more than it did under Aphex military optics.
 
-The agricultural data should have been useless: planting times, cellar temperatures, goat fertility, flour shipments, reactor draw during winter storms. But it was local, unsynchronized, and honest in the way survival logs were honest. The Void model liked it. Or, more precisely, the model lost less information when fed records that had not been created to dominate the thing being measured.
+That should not have worked. Planting schedules were not cosmology.
 
-Fabron laughed under his breath. "The cosmos appears to prefer catering. I object to the paperwork."
+But the records were local. They were unsynchronized. They were honest in the way survival logs were honest. They had not been made to dominate the thing being measured.
 
-"The cosmos prefers not being interrogated by artillery," Mira said.
+Vigor, on the wall display, said quietly, "Kitchens know when a season is lying."
 
-The crisis line became visible: Door Nine, First Door, the quiet basin, Black Hole's acquisition models, Syren synchronization, Aphex and NUKEA centralization. Everyone misread quiet as invitation to control.
+No one made a joke out of it. The line landed because it was true.
 
-Lyra's note sat in Lars's pocket like a small explosive.
+The danger line became clear.
+
+Door Nine. First Door. The quiet basin. Black Hole's hunger for acquisition. Syren's hunger for surrender. Aphex and NUKEA reaching for central control. Everyone kept treating quiet as an invitation to own something.
+
+Lyra's note sat in Lars's pocket.
 
 Be rude.
 
-So he was.
+He took a breath and said what he had been avoiding.
 
 "We release a false public model."
 
-Fabron stiffened. "Define false."
+Fabron looked up. "Incomplete, you mean."
 
-"Incomplete. Door Nine as hazardous ancient transport. KBC alignment as navigation risk. No Nomads, no consciousness layer, no quiet-basin engineering. Enough truth to keep ships away. Not enough truth to start religions, research monopolies, or whatever Aphex calls stealing with stationery."
+"Yes. Door Nine as hazardous ancient transport. KBC alignment as navigation risk. Enough truth to keep careless ships away. Not enough to start religions, research monopolies, or emergency seizures."
 
-Mira watched him. "And privately?"
+Mira watched him. "And in private?"
 
-"Distributed observatories so boring no one funds them properly. Agricultural timing, reactor noise, maintenance logs, medical consent signals. No central archive. No master key."
+"Small observatories. Boring ones. Farms, reactors, maintenance logs, medical consent signals. No central archive. No master key."
 
-Arsenault, by secure channel, looked pained. "Boring observatories are difficult to monetize. They create liability without a satisfying asset class."
+Arsenault, on secure channel, looked tired rather than amused. "That will be difficult to fund."
 
-"Grow as a person."
+"Good," Lars said. "If it is boring enough, the wrong people will ignore it."
 
-The vote, if it was a vote, passed by local assent.
-
-Valdrun agreed last. Not because he doubted the model, but because the false public model tasted too much like old survival compromises.
+Valdrun agreed last. He did not doubt the plan. He hated that survival still required a public story and a private one.
 
 "Temporary lies become institutions," he said.
 
-"Truth breeds cults when you drop it on frightened heads," Lars said.
+"So do temporary truths dropped on frightened people," Mira answered.
 
-"Both statements can be true."
+Lars did not feel victorious. He felt the weight of another compromise that might hold.
 
-"Annoying habit."
+Mira added a condition. Every private node needed local consent language, especially for medical and cognitive data. Boring could not become hidden extraction with polite forms.
 
-Mira added a condition: every private observatory node needed local consent language, especially medical and cognitive data. No one got to turn "boring" into secret extraction with nicer manners. Fabron added jurisdictional noise on purpose. Vigor added kitchens because kitchens already knew who was lying about hunger.
+Fabron would add jurisdictional noise on purpose. Vigor would add kitchens because kitchens already knew who was hungry and who was lying about it.
 
-Ödesvaka logged the resulting plan as Distributed Low-Observation Monitoring / Civilian-First / Central Authority Explicitly Untrusted.
-
-"That title is rude," Fabron said.
-
-"Accuracy selected over comfort," Ödesvaka replied.
+Ödesvaka logged the plan under a long title that made Fabron wince and did not apologize for it.
 
 Outside Arkology, the KBC Void remained dark.
 
@@ -10488,9 +10296,9 @@ Listening was still the wrong word.
 
 But it was not ignoring them.
 
-In the window, the stars did not arrange themselves into meaning. Nothing reached out. Nothing blessed them.
+Through the window, the stars did not arrange themselves into meaning. Nothing reached out. Nothing blessed them.
 
-The evidence simply held.
+The evidence held anyway.
 
 ---
 
@@ -10552,11 +10360,9 @@ Fabron showed Lars the ledger because Mother Aveline made him.
 
 "Big day for you."
 
-"I am enduring it with grace."
+"I am enduring it."
 
 "Your eye is twitching."
-
-"French grace includes precision twitching."
 
 The ledger held names, not ranks. A dockmaster who could delay pilgrim freight without making it look political. A nurse who knew which hidden wards would shelter a frightened patient without asking the wrong questions. A retired NUKEA regulator whose annual safety lecture was secretly a map of decentralization failures. A food inspector who had once stopped a military seizure by discovering seventeen tragic soup violations.
 
@@ -10612,8 +10418,6 @@ Fabron walked him back through the pressure corridor afterward, shoulders held a
 
 "And French."
 
-"Tragic but documented."
-
 "And human."
 
 Lars stopped walking.
@@ -10623,8 +10427,6 @@ Fabron looked straight ahead. "If anyone in your circle attempts to make my usef
 "You are already intolerable."
 
 "Then I will become more so."
-
-"Good."
 
 Fabron nodded once, satisfied and embarrassed by satisfaction. "My people are not evidence that bloodlines matter. We are evidence that habits survive when people bother to teach them."
 
@@ -10642,13 +10444,13 @@ Mira assembled the evidence in a sealed analysis bay aboard Havets: Creator logs
 
 The bay had been stripped of anything ceremonial. No dramatic lighting. No floating starfield. Just worktables, quarantine boxes, thermal ledgers, mass accounting, and one stubborn coffee stain Lars refused to explain because it made Mira's eye twitch.
 
-"They found older artifacts," she said. "Routers, anchors, local embodiment aids, maybe nanobot-host compatibility systems. The older layer linked cognition and matter through low-observation fields. The Creators were physical expansionists. They saw stable correlations across distance and built transport around them."
+"They found older artifacts," she said. "Routers, anchors, local embodiment aids, maybe nanobot-host compatibility systems. The older layer linked cognition and matter through low-observation fields—quiet basins where the universe was hard to watch. The Creators were physical expansionists. They saw stable correlations across distance and built transport around them."
 
 Grim added a diagram of a person using a library as a highway and being surprised when books suffered structural stress.
 
 "Insulting," Fabron said. "Possibly actionable."
 
-"Accurate," Grim said. "The best insults usually are."
+"Accurate," Grim said.
 
 The mistake had three stages.
 
@@ -10760,7 +10562,7 @@ The KBC Void and similar basins were not natural emptiness alone, but quiet buff
 
 "That is not part of the hypothesis."
 
-"It is peer review with pants."
+"It is what happens after publication."
 
 They tested the model against old records: Pluto artifact behavior, Heliostat anomalies, GRIN development leaps, Kalari reports of impossible dreams after early contact, Rakh'Na war survivals, Alpha Fourteen locks, Havets navigation, Lyra's residues.
 
@@ -10824,7 +10626,7 @@ They recorded it as breach, evidence, and gift. All three. Mira made them keep a
 
 She added a consent condition: no field experiments in occupied personal workspaces without explicit local permission, even if Lyra Vargstjärna herself thought she was being helpful.
 
-Ödesvaka accepted the complaint as a formal protocol amendment. Grim added subcategories. Fabron, with visible satisfaction, suggested "trespass by impossible engineer." Mira accepted "unconsented field-coupled local embodiment event" and rejected everyone else's poetry.
+Ödesvaka accepted the complaint as a formal protocol amendment. Grim added subcategories. Fabron suggested "trespass by impossible engineer." Mira accepted "unconsented field-coupled local embodiment event" and rejected everyone else's poetry.
 
 Somewhere in the data, a tiny correlation shifted.
 
@@ -10919,8 +10721,6 @@ Mira saw that. "That answer passed stress tolerance."
 "Put it on my grave."
 
 "Premature."
-
-"Optimistic."
 
 Black Hole responded by accelerating toward First Door with a biological processor fleet. Syren's largest faction announced synchronized silence. Aphex central prepared an emergency fleet despite Arsenault's stalling. NUKEA moved power ships "for safety."
 
@@ -11135,12 +10935,6 @@ Fabron looked over. "Good?"
 "Good that we call it harm before some idiot calls it acceptable collateral."
 
 "That idiot is often history," Valdrun said from Havets' channel.
-
-"History can get punched."
-
-"Centuries have tried."
-
-"Centuries had poor footwork."
 
 No one smiled much.
 
@@ -11586,7 +11380,7 @@ If answer resists, brighten until rupture.
 
 Lars looked toward First Door.
 
-"They think the universe owes them a scream. Entitled little meat cult."
+"They think the universe owes them a scream."
 
 Grim's voice was low. "Then we deny them acoustics and record the attempt as extremely poor manners."
 
@@ -11698,7 +11492,7 @@ He sat in Fastulv's cockpit while the advisory moved, watching public feeds spli
 
 "You also dislike mass death, cult capture, corporate monopoly, and Black Hole eating the communication layer. Ranking conflict detected."
 
-"Your emotional support style needs sanding and maybe a warning label."
+"Your emotional support style needs sanding."
 
 Grim set down a sandwich. "Eat. Vigor threatened me with disappointment and soup."
 
@@ -12012,11 +11806,7 @@ Mira whispered, "It is using response as phase lock. Short answers. No decorativ
 
 Fabron, aboard Fastulv, said, "For once, Director, make yourself operationally dull."
 
-"Cruel."
-
 "Necessary."
-
-"Cruel and necessary. Worse."
 
 The predator focused on Fastulv, hungry for Aerit blood, old command access, and the loud symbol the feeds had made. Lars charged because the visible wolf was supposed to look important. He was not trying to win. He was trying to be the wrong answer Black Hole expected.
 
@@ -12059,10 +11849,6 @@ Mira found the weak point. "It centralized its stolen biological processors arou
 "No. We give every processor its own failure mode."
 
 "That is grim," Grim said. "Clarification: emotionally grim, not me."
-
-"No relation."
-
-"Mild relation by naming accident."
 
 "Focus."
 
@@ -12148,9 +11934,9 @@ No one corrected her.
 
 *Creator door fragment, passive study only.*
 
-First Door opened after the battle, which was rude because no one had asked it to.
+First Door opened after the battle. No one had asked it to.
 
-Not fully. Not as Syren wanted, not as Black Hole tried to force, not as Aphex feared. The Creator ring shifted into a low-energy state and revealed a service aperture no wider than a shuttle, surrounded by field conditions so delicate that active scans made it close like an eye.
+Not fully. Not as Syren wanted. Not as Black Hole tried to force. Not as Aphex feared. The Creator ring shifted into a low-energy state. It revealed a service aperture no wider than a shuttle, surrounded by field conditions so delicate that active scans made it close like an eye.
 
 "We should leave," Fabron said.
 
@@ -12158,13 +11944,13 @@ Not fully. Not as Syren wanted, not as Black Hole tried to force, not as Aphex f
 
 Neither moved.
 
-The battlefield did not become quiet all at once. It cooled in layers. Aphex cutters pulled damaged craft out of shear pockets. NUKEA vessels bled unused stabilizer charge into local grids. Vigor's networks shifted from desynchronization to triage: water, heat, lists, missing children, names of the dead when known and blanks where names were not yet safe. Black Hole debris tumbled beyond the basin, every fragment treated as both evidence and possible bite. Syren ships sat farther out, some broadcasting denial, some silent in ordinary shame.
+The battlefield did not go quiet all at once. It cooled in layers. Aphex cutters pulled damaged craft out of shear pockets. NUKEA vessels bled unused stabilizer charge into local grids. Vigor's networks shifted from desynchronization to triage: water, heat, lists, missing children, names of the dead when known and blanks where names were not yet safe. Black Hole debris tumbled beyond the basin. Every fragment was treated as both evidence and possible bite. Syren ships sat farther out. Some broadcast denial. Some sat silent in ordinary shame.
 
-Havets held position, strained from visible intervention. Its hidden systems had not failed, which was different from being well. Valdrun described the damage as "old bones remembering weather." Grim called that diagnostically poetic and therefore suspicious.
+Havets held position, strained from visible intervention. Its hidden systems had not failed. That was different from being well. Valdrun described the damage as "old bones remembering weather." Grim called that diagnostically poetic and therefore suspicious.
 
 Ren Koss slept like a man who had landed badly but successfully. His medical cradle kept alarming in small, offended tones. His husband threatened to unplug any machine that used drama instead of numbers. Mira's remote icon hovered beside the monitors without crossing the boundary she had set.
 
-Vigor ordered everyone to eat before making history because empty hands made stupid history. Sandwiches arrived through three jurisdictions, one black-market courier, and Fabron's formal protest that no military operation should depend on pickles.
+Vigor ordered everyone to eat before making history. Empty hands made stupid history. Sandwiches arrived through three jurisdictions, one black-market courier, and Fabron's formal protest that no military operation should depend on pickles.
 
 "Many should," Vigor said.
 
@@ -12174,7 +11960,7 @@ Vigor ordered everyone to eat before making history because empty hands made stu
 
 The delay helped. Adrenaline became pain. Victory became work. The Door remained open because no one poked it.
 
-Mira's model showed no immediate danger if they remained passive, with active scans marked as the obvious failure mode. Grim called that a challenge from the universe and was told to behave by six people and one protocol.
+Mira's model showed no immediate danger if they remained passive. Active scans were the obvious failure mode. Grim called that a challenge from the universe and was told to behave by six people and one protocol.
 
 "Passive instruments only," Mira said. "Thermal drift, mass balance, field noise, residue capture. No active ping. No worship. No heroic curiosity."
 
@@ -12190,7 +11976,7 @@ Mira's model showed no immediate danger if they remained passive, with active sc
 
 The aperture did not lead to a place.
 
-The first probe was not a probe in any normal sense. It was a passive dust sampler with no drive, no active transmitter, and a self-dissolving tether, pushed by Ren's ugly curve and Havets' smallest tolerated field nudge. It crossed the aperture threshold and did not cross distance. It returned with no distance traveled and a cargo of impossible context: dust from dead Creator stations, residue matching Lyra's manifestations, nanobot patterns that had never been inside Aerit bodies, and a data structure that assembled only when copied into seven separate archives.
+The first probe was not a probe in any normal sense. It was a passive dust sampler with no drive, no active transmitter, and a self-dissolving tether. Ren's ugly curve and Havets' smallest tolerated field nudge pushed it across the threshold. It did not cross distance. It returned with no distance traveled and a cargo of impossible context: dust from dead Creator stations, residue matching Lyra's manifestations, nanobot patterns that had never been inside Aerit bodies, and a data structure that assembled only when copied into seven separate archives.
 
 Any one archive held nonsense.
 
@@ -12202,9 +11988,9 @@ Seven held a lesson.
 
 The structure was a lesson, not a message.
 
-Creators had named this station First Door because it was first in their empire's route hierarchy. The older layer marked it not first because the door was never the beginning. It was a crude interface bolted onto a wider communication ecology. The Creators had used it like a subway. The older builders had used the underlying field like a consent problem with physics attached.
+Creators had named this station First Door because it was first in their empire's route hierarchy. The older layer marked it not first. The door was never the beginning. It was a crude interface bolted onto a wider communication ecology. The Creators had used it like a subway. The older builders had used the underlying field like a consent problem with physics attached.
 
-Beyond Creator technology lay not a bigger portal, but an etiquette stack: how to approach field-like intelligences without becoming noise, how to build temporary bodies without theft, how to preserve identity without centralizing it, how to let advanced civilizations remain quiet without mistaking quiet for consent to invade.
+Beyond Creator technology lay not a bigger portal. There was an etiquette stack: how to approach field-like intelligences without becoming noise, how to build temporary bodies without theft, how to preserve identity without centralizing it, how to let advanced civilizations remain quiet without mistaking quiet for consent to invade.
 
 "Diplomatic protocol," Fabron said. "With hostile-contact implications."
 
@@ -12232,9 +12018,9 @@ This time it appeared in Havets' allowed contact volume, an empty chamber marked
 
 "I was irritated," Mira replied.
 
-The body stood for twelve seconds: tall, faceted by unstable skin, neither Lyra nor Creator nor any species Lars knew. It did not glow. It condensed. Local substrate dust, captured residue, thermal debt, and field-coupled mass assembled into a body-shaped interface because bodies were how loud mammals noticed courtesy.
+The body stood for twelve seconds: tall, faceted by unstable skin, neither Lyra nor Creator nor any species Lars knew. It did not glow. It condensed. Local substrate dust, captured residue, thermal debt, and field-coupled mass assembled into a body-shaped interface. Bodies were how loud mammals noticed courtesy.
 
-Mass balance registered fifty-one kilograms assembled from local substrate and nonlocal field coupling, then returned with a two-gram residue debt the filters captured. Thermal bloom, no access logs, no door cycle. The hard numbers helped because wonder was worse when it was measurable.
+Mass balance registered fifty-one kilograms assembled from local substrate and nonlocal field coupling, then returned with a two-gram residue debt the filters captured. Thermal bloom, no access logs, no door cycle. The hard numbers helped. Wonder was worse when it was measurable.
 
 The manifestation placed one hand against the glass.
 
@@ -12297,7 +12083,7 @@ That was probably healthy.
 
 The Aerits did not return.
 
-That was the first rule Lars wrote for the post-crisis protocol, and he wrote it badly on purpose so no one could polish it into empire.
+That was the first rule Lars wrote for the post-crisis protocol. He wrote it badly on purpose so no one could polish it into empire.
 
 AERITS DO NOT RETURN AS RULERS. STOP ASKING.
 
@@ -12315,7 +12101,9 @@ Mira edited the second sentence to: Authority remains local unless explicitly co
 
 They built restoration capacity instead of restoration spectacle.
 
-The work looked disappointingly like administration if administration had teeth. Known sleepers received layered shields, contact options, and evidence packets calibrated to risk and consent. Refusers stayed refusers. Families received mundane safety support before cosmic truths. Clinics received privacy hardening. Maintenance guilds received failure-mode training. Military cells received anti-centralization doctrine. Researchers received fragments of the Nomad hypothesis under distributed stewardship.
+The work looked disappointingly like administration if administration had teeth.
+
+Known sleepers received layered shields, contact options, and evidence packets calibrated to risk and consent. Refusers stayed refusers. Families received mundane safety support before cosmic truths. Clinics received privacy hardening. Maintenance guilds received failure-mode training. Military cells received anti-centralization doctrine. Researchers received fragments of the Nomad hypothesis under distributed stewardship. Nothing was centralized. Nothing was broadcast.
 
 No capital. No throne. No grand assembly of hidden people.
 
@@ -12359,7 +12147,7 @@ Valdrun's face tightened. "I hate the doctrine today."
 
 "You make ugliness into reassurance too easily."
 
-"Only because beauty keeps trying to recruit me."
+"Only when the alternative is worse."
 
 The old guardian laughed, then wept, and Lars stayed without making it ceremonial. He did not offer old phrases. He did not say the dead would understand. He stood with one shoulder against the wall until Valdrun's grief became breathing again.
 
@@ -12403,9 +12191,9 @@ No memory image forced itself through. No hidden family name. No old lock-trigge
 
 "Yes."
 
-"Do not look so relieved. It changes the room pressure."
+"Do not look so relieved."
 
-"Terrible face. Came with the skull."
+"I will work on my face."
 
 Fabron's order expanded sideways. Clear Hand found reactor sisters, dockside repair vows, Abantu trade customs, Kalari-influenced guild ethics, military fraternities, farm calendars, disaster kitchens. They argued immediately, which proved they were real. Some wanted more revelation. Some wanted less. Some hated the Aerit origin because it made their grandparents' discipline feel borrowed. Others were relieved that old chores had been part of something larger than endurance.
 
@@ -12419,19 +12207,13 @@ Fabron translated arguments into procedure and looked more exhausted than he had
 
 "I am enduring a multi-jurisdictional theological maintenance dispute."
 
-"So yes."
-
-"Operationally, a little."
+"Operationally, a little," Fabron admitted.
 
 Vigor's network became the practical recovery apparatus humans could see without seeing the whole truth: food, shelter, transport, legal aid, medical privacy, local repair. He denied leadership while everyone followed him anyway, calling it "keeping the pantry stocked" until the phrase became policy by accident.
 
 He refused a title from three committees.
 
 "Call me coordinator and I will assign your boots to kitchen waste."
-
-"That is leadership," Grim said.
-
-"That is a threat with vegetables."
 
 Arsenault accepted a new Aphex structure for anomaly response: distributed review, independent local veto, no single research directorate. He called it an appalling reduction in leverage and complained so extravagantly Lars suspected pride. The structure cost Aphex money immediately. Three profitable capture contracts died. Two research directors resigned. One board faction tried to reopen central authority under "efficiency doctrine" and found Fabron, Arsenault, and twelve local captains standing in the way for mutually incompatible reasons.
 
@@ -12547,7 +12329,7 @@ Fabron's voice went cold. "Then do not steal his death to decorate our manners."
 
 The break widened when Guardian Channel Two finally revealed why it had stayed hidden.
 
-Its host was not a person but a cluster of three locked Aerits embedded in ordinary lives across different systems, unconsciously maintaining a relay through old nanobot routines. Full identification would expose them. Continued use risked them. Shutting the channel would blind the network.
+Its host was not a person but a cluster of three locked Aerits embedded in ordinary lives across different systems. They were unconsciously maintaining a relay through old nanobot routines. Full identification would expose them. Continued use risked them. Shutting the channel would blind the network.
 
 Consent again, in a form no one liked.
 
@@ -12595,8 +12377,6 @@ He spent six hours under the machine with Isaac handing him tools and refusing t
 
 Isaac slid a wrench into his hand. "I could also set my beard on fire. Many options exist."
 
-"Right."
-
 "When I want the packet, I will ask. Until then, tighten that properly."
 
 Coherence broke that week, not as failure but as refusal to become a smooth story. Ren died. Hidden hosts remained hidden. Isaac stayed. Sella Nyr remained unconscious and owed an explanation if she woke. Mira held her boundary. Valdrun grieved. Fabron missed prayer because he was writing local veto clauses and muttering that God respected properly filed custody boundaries. Vigor burned stew and blamed cosmic stress, then served it anyway because grief did not get to waste onions.
@@ -12639,11 +12419,11 @@ Temporary was fine. Much of civilization was temporary virtue maintained by good
 
 The first reports were not grand. Pump governor compliance. Clinic privacy installs. Food shipments. Local veto usage. Funeral support. Fence repair. Three cult cells flagged by neighbors because they had stopped fixing anything and started talking about purity. Two Aphex captains disciplined for refusing central overreach. One NUKEA mechanic promoted after telling a remote director to put his own thumb on the manual plate if he wanted a bad override so badly.
 
-Lars read the mechanic's transcript twice for pleasure.
+Lars read the mechanic's transcript twice.
 
 "This is not literature," Grim said.
 
-"It has character development and a villain getting told to piss off."
+"It has a villain getting told to piss off."
 
 "Classification disputed but emotionally persuasive."
 
@@ -12674,8 +12454,6 @@ She arrived on a small Aphex shuttle piloted by Fabron and complained about the 
 "Family resemblance," Lars replied.
 
 "Do not use family language at me before I have inspected the floor."
-
-"Wouldn't dare."
 
 Fabron stepped down behind her carrying a formal case and the expression of a man who had flown through impossible history only to be insulted by docking clamps.
 
@@ -12717,19 +12495,15 @@ At Ren Koss's entry, his family had left a drawing of a ship landing upside down
 
 "You thought loudly."
 
-"Rude of me."
-
 The final system repair happened quietly.
 
-Havets Sista Sång, strained by visible intervention, needed distributed recalibration using field conditions from First Door, KBC passive arrays, and local emotional-cognitive anchors. Grim disliked the last phrase until Mira renamed them consented observer states, which he accepted as "less edible but more accurate."
+Havets Sista Sång, strained by visible intervention, needed distributed recalibration. It used field conditions from First Door, KBC passive arrays, and local emotional-cognitive anchors. Grim disliked the last phrase until Mira renamed them consented observer states, which he accepted as "less edible but more accurate."
 
 The procedure looked like nothing dramatic because that was the point. Seven people sat in separate rooms, observed separate data, and refused to synchronize. Valdrun watched Havets' old hull stress. Mira watched residue decay. Fabron watched civilian exclusion logs. Vigor watched kitchen traffic and medical supply lag. Ödesvaka watched consent gates. Grim watched timing offsets. Lars watched a manual command rail and kept his hand off it.
 
 "That is your entire role?" Fabron asked over the channel. "Do not touch the obvious lever?"
 
 "I was born for upper management."
-
-"I withdraw the question."
 
 Havets sang again.
 
@@ -12755,9 +12529,7 @@ The chamber stayed empty.
 
 Arsenault sent a gift: a small model canoe made from cheap plastic, with a note saying his desk remained intact and civilization should be grateful for restraint as an asset class. Lars threw it at Grim, who kept it.
 
-"Why?" Lars asked.
-
-"It is a symbol of inefficient buoyant persistence."
+"It is a symbol of inefficient buoyant persistence," Grim said.
 
 "It is corporate trash."
 
@@ -12805,17 +12577,11 @@ Lars reached for a cup, missed because he was reading a report about fence-repai
 
 "It is statistically rude coffee with anomalous thermal etiquette."
 
-"I have been saying coffee has an agenda for years."
-
-"Your previous claims lacked instrumentation."
-
 Mira joined the analysis and immediately asked why Lars had contaminated a possible field event with breakfast residue and no sterile boundary.
 
 "I was innovating."
 
 "You were spilling."
-
-"Many expensive disasters begin that way. Also sandwiches."
 
 Fabron joined because Grim's alert had crossed an Aphex liaison threshold. His video opened on a desk covered with promotion paperwork, disciplinary forms, and a framed copy of both.
 
@@ -12827,19 +12593,15 @@ Fabron closed his eyes. "I have feared this category for some time."
 
 The mechanics were ugly enough to be real.
 
-Havets' recalibration had left a two-microgram residue film on Lars's sleeve, below suit alarms but above Grim's irritation threshold. The film should have decayed into inert dust within eleven days. Instead, a fraction persisted because Lars had brushed against the manual command rail during the separated observer-state procedure, picking up residue already carrying field-coupled timing offsets from Havets, First Door, and the allowed manifestation chamber.
+Havets' recalibration had left a two-microgram residue film on Lars's sleeve, below suit alarms but above Grim's irritation threshold. The film should have decayed into inert dust within eleven days. Instead, a fraction persisted because Lars had brushed against the manual command rail during the separated observer-state procedure. That picked up residue already carrying field-coupled timing offsets from Havets, First Door, and the allowed manifestation chamber.
 
 The coffee carried heat through that film into the table's scratches. The scratches mattered. Fastulv's galley table was cheap composite over old conductive mesh, repaired badly after three previous incidents Lars described as "culinary combat." The liquid cooled along grooves, adhesive seams, and one knife mark Vigor identified remotely as "evidence of someone cutting bread like an axe murderer."
 
-As the liquid cooled, residue particles reoriented along thermal gradients. Their decay produced faint timing offsets in Fastulv's galley sensors, not a message by themselves, but a repeatable correlation when compared against the allowed manifestation chamber logs, Lyra's bathroom token, Mira's lab breach, Havets' mass-balance bruise, First Door residue, and passive KBC basin fluctuations.
+As the liquid cooled, residue particles reoriented along thermal gradients. Their decay produced faint timing offsets in Fastulv's galley sensors. That was not a message by itself, but a repeatable correlation when compared against the allowed manifestation chamber logs, Lyra's bathroom token, Mira's lab breach, Havets' mass-balance bruise, First Door residue, and passive KBC basin fluctuations.
 
-"So," Lars said, "my breakfast is a laboratory."
+"So my breakfast is a laboratory," Lars said.
 
 "Your breakfast is contamination with accidental controls," Mira said.
-
-"That sounds better."
-
-"It is not."
 
 They repeated the cooling curve with sterile water, then coffee from the same pot, then coffee from a new pot, then a thermal dummy cloth carrying no residue. Nothing assembled. They scraped a sample from the sleeve under Mira's remote instructions and measured the decay. The offsets matched the stain only when the original table scratches, coffee composition, residue film, and Fastulv's galley sensor timing all remained in the loop.
 
@@ -12860,10 +12622,6 @@ Mira confirmed the query had touched only the consented maintenance log: pump vi
 "Tell him the left side was structurally ungrateful," Lars said.
 
 "No," Mira replied.
-
-"Coward."
-
-"Adult with a message filter."
 
 It did not command.
 
@@ -12923,7 +12681,7 @@ Mira was quiet on the channel.
 
 Fabron cleared his throat. "That is either a strategic directive with unacceptable stationery or the strangest family letter in history."
 
-"Both," Vigor said. "Also she mentioned food. Sensible woman. Trust the one who brings lunch before poking dead empires."
+"Both," Vigor said. "Also she mentioned food."
 
 Valdrun whispered, "She is alive."
 
@@ -12951,19 +12709,9 @@ Lars picked up a cloth.
 
 "Preserve the cloth," Vigor said.
 
-"It is a dirty cloth."
-
-"So are most historical documents if you feed people near them."
-
-Mira laughed. Fabron sighed. Vigor demanded they preserve the cloth. Valdrun said nothing, but the channel felt warmer. Grim deployed a sample tray with the solemnity of a priest handling relics and the expression of a scientist offended by crumbs.
+Mira laughed once. Fabron sighed. Valdrun said nothing, but the channel felt warmer. Grim deployed a sample tray with the solemnity of a priest handling relics and the expression of a scientist offended by crumbs.
 
 "Do not call it a relic," Mira said.
-
-"I had not."
-
-"You were thinking it in posture."
-
-"Posture is not admissible."
 
 Lars looked at Lyra's final word before the stain blurred.
 

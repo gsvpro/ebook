@@ -8,13 +8,13 @@ Mira assembled the evidence in a sealed analysis bay aboard Havets: Creator logs
 
 The bay had been stripped of anything ceremonial. No dramatic lighting. No floating starfield. Just worktables, quarantine boxes, thermal ledgers, mass accounting, and one stubborn coffee stain Lars refused to explain because it made Mira's eye twitch.
 
-"They found older artifacts," she said. "Routers, anchors, local embodiment aids, maybe nanobot-host compatibility systems. The older layer linked cognition and matter through low-observation fields. The Creators were physical expansionists. They saw stable correlations across distance and built transport around them."
+"They found older artifacts," she said. "Routers, anchors, local embodiment aids, maybe nanobot-host compatibility systems. The older layer linked cognition and matter through low-observation fields—quiet basins where the universe was hard to watch. The Creators were physical expansionists. They saw stable correlations across distance and built transport around them."
 
 Grim added a diagram of a person using a library as a highway and being surprised when books suffered structural stress.
 
 "Insulting," Fabron said. "Possibly actionable."
 
-"Accurate," Grim said. "The best insults usually are."
+"Accurate," Grim said.
 
 The mistake had three stages.
 

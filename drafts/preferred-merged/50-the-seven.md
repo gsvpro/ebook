@@ -58,11 +58,7 @@ Mira whispered, "It is using response as phase lock. Short answers. No decorativ
 
 Fabron, aboard Fastulv, said, "For once, Director, make yourself operationally dull."
 
-"Cruel."
-
 "Necessary."
-
-"Cruel and necessary. Worse."
 
 The predator focused on Fastulv, hungry for Aerit blood, old command access, and the loud symbol the feeds had made. Lars charged because the visible wolf was supposed to look important. He was not trying to win. He was trying to be the wrong answer Black Hole expected.
 
@@ -105,10 +101,6 @@ Mira found the weak point. "It centralized its stolen biological processors arou
 "No. We give every processor its own failure mode."
 
 "That is grim," Grim said. "Clarification: emotionally grim, not me."
-
-"No relation."
-
-"Mild relation by naming accident."
 
 "Focus."
 

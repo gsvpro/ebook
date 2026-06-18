@@ -14,7 +14,7 @@ The first station was a Creator portal folded around a cometary graveyard. Dead 
 
 The place felt cold even through armor and hull. Not temperature. Habit. The kind of cold left by abandoned infrastructure that still remembered being useful.
 
-Mira guided the survey. "Passive only. No energizing, no synchronization, no hidden load. I want the station below response tolerance."
+Mira guided the survey. "Passive only. No energizing, no synchronization, no hidden load. I want the station below response threshold."
 
 Grim sent passive pings so delicate they were almost apologies. They were not pings in the ordinary sense; they were requests for surface state, timed through separate instruments so no single system asked too loudly.
 
@@ -66,7 +66,7 @@ It returned eleven seconds later with frost on one side, dust from no local sour
 
 Fabron turned slowly. "Time anomalies are an unacceptable reporting category."
 
-"Put that in the report. Finally, truth."
+"Put that in the report."
 
 Mira analyzed the probe for six hours. Her voice got flatter as the model improved, which was how Lars knew she was either excited or furious.
 

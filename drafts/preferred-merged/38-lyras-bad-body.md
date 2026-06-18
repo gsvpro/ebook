@@ -4,13 +4,13 @@ Lyra's mind left Astra Lumara before the destination body agreed which way was d
 
 That was how Lars knew the archive was authentic. Lyra Vargstjärna would absolutely preserve the part where she arrived somewhere else terrified, half-formed, and arguing with infrastructure that was not hers.
 
-The bundle came from a sealed cache inside Havets, unlocked after the Nomad noise experiment. It was late Heliostat era, years after the moonlet tests Valdrun's restoration had already shown him: six fingers, blue skin, nine hours smelling colors. Model 3 was not new when this file was made. Local embodiment in seeded stock was. Remote coupling to dormant Nomad substrate was harder in a different way.
+The bundle came from a sealed cache inside Havets, unlocked after the Nomad noise experiment. It was late Heliostat era, years after the moonlet tests Valdrun's restoration had already shown him: six fingers, blue skin, nine hours smelling colors. Model 3 was not new when this file was made. Building a temporary body from nearby seeded stock was. Reaching a sleeping Nomad nanonet three light-hours away and borrowing matter there was a different kind of hard—not harder math. Harder nerve.
 
 The file header was not grand. It read: DESTINATION COUPLING 01 / NOT FIRST BODY / DO NOT SHOW LARS UNLESS DEAD, MISSING, OR NEEDING HUMILITY.
 
 Grim displayed the bundle in the Havets analysis bay. Valdrun stood at the back. Mira watched from L-Prime with her audio feed delayed on purpose so she could take notes without performing reaction for anyone.
 
-Anchor-side only: Lyra in a medical cradle on Astra Lumara, sensors on her skull, voice log, and a telemetry strip from the coupling matrix—thermal debt, mass accounting, substrate consent flags, timing delay. A remote marker sat three light-hours out. No optical feed.
+Anchor-side only: Lyra in a medical cradle on Astra Lumara, sensors on her skull, voice log, and instrument readouts from the coupling matrix—heat debt, mass tallies, substrate consent flags, timing delay. A remote marker sat three light-hours out. No camera feed.
 
 On screen, Lyra lay in the cradle with frost still in her hair from an earlier walk across the outpost, eyes open, not seeing the lab. Her mouth moved.
 
@@ -20,7 +20,7 @@ She had reverse-engineered enough from the nanotechnology in her own blood to sp
 
 Lars felt his own line answer the phrase before he decided to think about it.
 
-Not a migraine. Not the old hammer. Just a cool thread under the skin of his forearm, then a second pulse behind the eyes, as if the machines in his blood had heard a familiar grammar and turned toward it. The staged unlock had not opened every door in his head. It had stopped punishing him for standing near them. His nanobots cooperated now the way Lyra's archive implied they were meant to: mapping, adjusting, offering correlation instead of obedience.
+Not a migraine. Not the old hammer. Just a cool thread under the skin of his forearm, then a second pulse behind the eyes, as if the machines in his blood had heard a familiar grammar and turned toward it. The staged unlock had not opened every door in his head. It had stopped punishing him for standing near them. His nanobots cooperated now: mapping, adjusting, offering hints instead of orders.
 
 He held up his left hand without looking away from the screen.
 
@@ -34,9 +34,9 @@ Grim's sensors already had him. "Coupling uptick. Low amplitude. Sympathetic, no
 
 "Good." Lars flexed his fingers. The thread faded. "So am I."
 
-On the telemetry strip, coupling strength climbed. Mass moved in and out of local accounting by grams at the remote marker. No image. Only a status line that read SUBSTRATE ASSEMBLY ACTIVE.
+On the telemetry strip, coupling strength climbed. Mass tallies at the remote marker shifted by grams—matter appearing and vanishing from the books. No image. Only a status line that read SUBSTRATE ASSEMBLY ACTIVE.
 
-"Skin held twelve seconds," Lyra said. "Left shoulder shedding heat. I can feel it here too. That is not metaphor. Overlap is real."
+"Skin held twelve seconds," Lyra said. "Left shoulder shedding heat. I can feel it here too. That is not metaphor. Overlap is real—the remote body and the cradle body sharing one nervous system badly."
 
 The thermal trace climbed and fell at the same time in a way that made present-day Grim pause the playback and make a small offended sound.
 
@@ -50,9 +50,9 @@ Lyra's pulse on the cradle monitor jumped.
 
 The telemetry line marked FIRST ORIENTATION ATTEMPT.
 
-Then a spike. Mass variance. Vestibular mismatch. The coupling matrix logged what her mouth translated a half second later:
+Then a spike. Mass variance. Balance mismatch. The coupling matrix logged what her mouth translated a half second later:
 
-"Horizon failed. Body thinks the hull rib is floor and the floor is weather. I am upright and falling in the same second. Not dignified. Down. Wet slap against regolith. Substrate still arguing about axis."
+"Horizon failed. Body thinks the hull rib is floor and the floor is weather. I am upright and falling in the same second. Not dignified. Down. Wet slap against regolith. Local matter still arguing about which way is up."
 
 Present-day Grim replayed the telemetry spike twice before Lars threatened violence.
 
@@ -60,15 +60,15 @@ Present-day Grim replayed the telemetry spike twice before Lars threatened viole
 
 "For comedy, you chrome goblin."
 
-"Multifunctional data. Also, axis negotiation remains unacceptable."
+"Multifunctional data. Also, the up-down negotiation remains unacceptable."
 
 The bad body lasted seven minutes by the coupling clock.
 
 Lyra's voice log carried the rest. Half-second speech delay, so she kept interrupting herself and insulting the timing. She tried to brace against a hull rib three light-hours away and missed by four centimeters, corrected, slid off the other side. Her left hand dissolved when she tried to grip a tool; the mass ledger at the remote marker dropped three finger-equivalents onto a work ledge she could feel but they could not see.
 
-"Note," she said. "Fine motor control remains aspirational at remote sites. Pride remains stupid. Moonlet stock lied to us about consent from local substrate."
+"Note," she said. "Fine motor control still garbage at remote sites. Pride remains stupid. Moonlet stock lied to us—the local matter there already knew us."
 
-She reported sensory overlap with the preserved body, then interference from something she called the older layer—the Nomad lattice negotiating terms while she tried to walk. Whenever the temporary body touched metal at the destination, her real pulse accelerated in the cradle. The field matrix showed mass moving in and out of local accounting by grams, never enough to build a miracle, always enough to ruin a clean paper.
+She reported sensory overlap with the preserved body, then interference from something she called the older layer—the Nomad lattice negotiating terms while she tried to walk. Whenever the temporary body touched metal at the destination, her real pulse accelerated in the cradle. The field matrix showed mass tallies shifting by grams, never enough to build a miracle, always enough to ruin a clean paper.
 
 A scanned still appeared in the bundle: a lab board on Astra Lumara where she had crossed out spirit, astral, apparition, and written:
 
@@ -82,11 +82,11 @@ Lars had to sit down.
 
 The archive was not reunion. It was worse: Lyra alive in method, absent in body, refusing comfort with the old efficiency.
 
-He had wanted, shamefully and stupidly, one clean sentence. I survived. I missed you. I knew you would come. Instead he got a vestibular lie in telemetry, a thermal ledger, and Lyra telling him not to be impressed by the thing that had nearly broken her courage rather than her math.
+He had wanted, shamefully and stupidly, one clean sentence. I survived. I missed you. I knew you would come. Instead he got a balance lie in the instruments, a heat ledger, and Lyra telling him not to be impressed by the thing that had nearly broken her courage rather than her math.
 
 That was also her. It hurt more because it was real.
 
-She explained limits in the same flat voice. A preserved body could anchor identity. A temporary body at a dormant site could host local action for minutes or hours if field conditions were quiet, substrate remained coherent, and the local lattice accepted collaboration. Residue stayed unstable because the matter had never fully belonged to local causality. Missing access logs, thermal anomalies, mass-balance errors: expected. Apparitions were engineering artifacts with bad vocabulary.
+She explained limits in the same flat voice. A preserved body could anchor identity. A temporary body at a dormant site could host local action for minutes or hours if the field stayed quiet, local matter held together, and the sleeping lattice agreed to cooperate. Residue stayed unstable because that matter had never fully belonged to normal physics. Missing access logs, heat spikes, mass-balance errors: expected. Apparitions were engineering mistakes with bad vocabulary.
 
 Lars stopped sitting and started pacing because his body did useful thinking better on its feet.
 
@@ -94,13 +94,13 @@ Lars stopped sitting and started pacing because his body did useful thinking bet
 
 "Accurate," Mira said from L-Prime.
 
-"Overlap is the ugly part." He tapped the telemetry where cradle pulse and remote heat debt rose together. "Two bodies, one continuity budget. You do not get clean sensation. You get accounting errors that feel like skin."
+"Overlap is the ugly part." He tapped the telemetry where cradle pulse and remote heat debt rose together. "Two bodies, one continuity budget. You do not get clean sensation. You get bookkeeping errors that feel like skin."
 
-Grim projected a side panel: Lars's current biometrics against Lyra's archived cradle trace. The overlap pattern rhymed.
+Grim projected a side panel: Lars's current biometrics against Lyra's archived cradle trace. The overlap pattern matched.
 
 "Your blood machines are modeling it," Grim said.
 
-"I know. That is why I am pacing." Lars rubbed his temple. The thought should have hurt once. It did not. His mind moved faster than it had any right to, old engineering reflex waking under superhuman clearance without the hypno lock slapping it down. "Consent flag on the strip. She had to negotiate with substrate that was not seeded for her. Moonlet stock was a cheat code. Destination coupling is diplomacy with sleeping dust."
+"I know. That is why I am pacing." Lars rubbed his temple. The thought should have hurt once. It did not. His mind moved faster than it had any right to, old engineering reflex waking under superhuman clearance without the hypno lock slapping it down. "Consent flag on the strip. She had to negotiate with matter that was not seeded for her. Moonlet stock was a cheat code. Destination coupling is diplomacy with sleeping dust."
 
 Valdrun watched him with the expression of a man seeing a tool he had guarded for centuries finally remember it was also a mind.
 
@@ -142,7 +142,7 @@ Lars stared at the telemetry strip and let the model assemble.
 
 Not worship. Mechanics.
 
-If dormant lattices slept in quiet places, and Aerit blood carried host infrastructure, then consciousness projection was not a miracle talent. It was a stack: find sleeping network, establish etiquette, anchor identity at home, borrow matter elsewhere, pay heat debt, return before the temporary body lied about being you. The frightening part was not the equation. It was stepping into correlation blind and discovering whether the far end would accept the handshake.
+If dormant lattices slept in quiet places, and Aerit blood carried the host toolkit, then consciousness projection was not a miracle talent. It was a stack: find sleeping network, establish etiquette, anchor identity at home, borrow matter elsewhere, pay heat debt, return before the temporary body lied about being you. The frightening part was not the equation. It was stepping into the field blind and discovering whether the far end would accept the handshake.
 
 His nanobots offered a faint yes-no map along that logic, not directions, not courage. Helpful machines. Infuriating machines.
 
@@ -152,9 +152,9 @@ The bay went still in the wrong way.
 
 "Wrong question," Mira said immediately. "Capability is not permission."
 
-"I know." He looked at Grim. "I am not asking for a field trip. I am asking whether my line has the same terminal architecture Lyra reverse-engineered."
+"I know." He looked at Grim. "I am not asking for a field trip. I am asking whether my bloodline has the same terminal architecture Lyra reverse-engineered."
 
-Grim answered because someone had to. "Preliminary: yes. Host infrastructure present. Field-access potential non-zero. Training, anchor hardware, preserved-body protocol, and consent doctrine: absent. Also common sense: historically absent in you."
+Grim answered because someone had to. "Preliminary: yes. Host infrastructure present. Field access: possible. Training, anchor hardware, preserved-body protocol, and consent doctrine: absent. Also common sense: historically absent in you."
 
 "Thank you."
 
@@ -172,7 +172,7 @@ If someone tries to make you central, be rude.
 
 Under it, in smaller handwriting:
 
-Do not locomote before horizon stabilizes. I was right about that.
+Do not move before your sense of up and down stabilizes. I was right about that.
 
 Grim began to replay the telemetry spike a third time.
 
@@ -212,27 +212,27 @@ Lars closed his eyes for half a second and ran the experiment he could afford.
 
 Not travel. Listening.
 
-His blood machines had stopped fighting him once the lock stopped treating curiosity as treason. Now they mapped pressure the way Lyra's archive described: toward coupling, toward substrate, toward anything in the bay that wanted a host. The coil pulled like a magnet on the wrong alloy. Local Havets lattice waking under stress, not dormant dust three light-hours away. No abort path. Still useful.
+His blood machines had stopped fighting him once the lock stopped treating curiosity as treason. Now they mapped pressure the way Lyra's archive described: toward coupling, toward substrate, toward anything in the bay that wanted a host. The coil pulled like a magnet on the wrong alloy. Local Havets nanonet waking under stress, not sleeping dust three light-hours away. No abort path. Still useful.
 
-"Local substrate only," he said. "No remote anchor. Someone embodied here from ship stock or bay residue."
+"Local substrate only," he said. "No remote anchor. Someone built a body here from ship stock or bay residue."
 
 "Agreed," Grim said. "Your machines reached the same conclusion three seconds faster than my instruments. Irritating."
 
 "Symbiotic cooperation," Lars said. "Write it down before I get sentimental."
 
-He stepped under the coil housing to reach the manual breaker. The floor plating buckled. Not from weight. From matter trying to remember a different accounting. Silver glitter appeared along the seam where his boot met deck—residue without source, the same half-life Grim had just isolated from the archive trace.
+He stepped under the coil housing to reach the manual breaker. The floor plating buckled. Not from weight. From matter trying to settle into a different mass tally. Silver glitter appeared along the seam where his boot met deck—residue without source, the same decay rate Grim had just isolated from the archive trace.
 
 The coil screamed.
 
-Not sound. Pressure in the bones. The bay's atmosphere began to slide toward the breach geometry forming above the housing. Lars's ears popped. His vision narrowed. For one stupid second he thought of ration bars and hospital coffee and the word coherence as a joke people told when machines refused to die politely.
+Not sound. Pressure in the bones. The bay's atmosphere began to slide toward the breach forming above the housing. Lars's ears popped. His vision narrowed. For one stupid second he thought of ration bars and hospital coffee and the word coherence as a joke people told when machines refused to die politely.
 
 Then someone stood between him and the coil who had not been there a heartbeat before.
 
-Tall. Uniformed. Not Valdrun's battered half-machine bulk and not Aphex polished aggression. Aerit guardian cut: charcoal flex-armor over pale engineered tissue, seams traced in cold blue the way Station Zero marked systems that were allowed to think. A guardian helmet, Aerit-made, smooth at the jaw and ridged at the temples where identity-lock interfaces lived when memory had to be anchored under stress. On the breastplate, three interlocking circles with a crack left deliberately unrepaired. A narrow band of hash marks below them looked like ornament until you realized no one had time to count under cascade pressure.
+Tall. Uniformed. Not Valdrun's battered half-machine bulk and not Aphex polished aggression. Aerit guardian cut: charcoal flex-armor over pale engineered tissue, seams traced in cold blue the way Station Zero marked systems that were allowed to think. A guardian helmet, Aerit-made, smooth at the jaw and ridged at the temples where memory-anchor interfaces lived when identity had to be held under stress. On the breastplate, three interlocking circles with a crack left deliberately unrepaired. A narrow band of hash marks below them looked like ornament until you realized no one had time to count under cascade pressure.
 
 The figure moved like someone who had practiced embodiment until fear became checklist.
 
-It caught the coil housing with both hands—not heroic, technical—and drove a field bleed into the deck plating instead of Lars's skull. Frost raced down its arms. The left shoulder shed heat in a pulse that made Grim swear in three languages.
+It caught the coil housing with both hands—not heroic, technical—and bled excess field energy into the deck plating instead of Lars's skull. Frost raced down its arms. The left shoulder shed heat in a pulse that made Grim swear in three languages.
 
 "Hold still," the guardian said.
 
@@ -242,7 +242,7 @@ Voice filtered through helmet mesh. Female, maybe. Calm in the way surgeons were
 
 "Wrong question." A gloved hand shoved him back from the breaker path without touching his throat. Efficient. "Manual interrupt will accelerate cascade. Grim, dump auxiliary frost from bay four. You—breathe. Count four. Do not be central."
 
-Grim moved. Lars counted because disobedience seemed fatal. The guardian's visor dimmed for a fraction of a second while the field bleed ran—checklist, not struggle—and cleared again.
+Grim moved. Lars counted because disobedience seemed fatal. The guardian's visor dimmed for a fraction of a second while the bleed ran—checklist, not struggle—and cleared again.
 
 The coil's scream dropped to a whine.
 
@@ -252,7 +252,7 @@ The maintenance drone completed its reach, slowly now, and retracted from the li
 
 Lars grabbed the guardian's forearm before he could decide whether that was wise.
 
-The armor was warm on the outside and cold underneath, like skin that had been built too fast from local substrate and was already negotiating with physics about whether it deserved to exist.
+The armor was warm on the outside and cold underneath, like skin built too fast from local matter and already arguing with physics about whether it deserved to exist.
 
 "One of yours?" he asked.
 
@@ -304,7 +304,7 @@ LOCAL SUBSTRATE EVENT. ELEVEN SECONDS. CLEAN ABORT.
 
 Then, because tinkering did not stop when the danger did:
 
-Guardian-class embodiment uses available lattice + uniform template + trained operator. Heat debt managed at shoulder bleed. No central log by design. My blood can sense coupling but cannot substitute for checklist, anchor hardware, or permission.
+Guardian-class embodiment: local lattice + uniform template + trained operator. Heat debt vented at the shoulder. No central log by design. My blood can sense coupling but cannot replace checklist, anchor hardware, or permission.
 
 Grim read over his shoulder. "You are turning near death into homework."
 
@@ -342,7 +342,7 @@ Then: "Wrong hair."
 
 Valdrun's voice came out rougher than Lars had ever heard it. "We thought—"
 
-"You thought I might be dead, distant, or metaphor." Lyra finally looked at him while her fingers kept working. "Understandable. Wrong. I am distributed, not departed. This body is a terminal. The work is elsewhere."
+"You thought I might be dead, distant, or metaphor." Lyra finally looked at him while her fingers kept working. "Understandable. Wrong. I am spread across the network, not gone. This body is a terminal—a mouth where the field needs one. The work is elsewhere."
 
 Mira, on the delayed feed, said, "Present embodiment confirmed. Lars, do not say anything stupid for ten seconds."
 
@@ -368,7 +368,7 @@ Lars heard himself breathing too loud. His mind was already turning it into stru
 
 Valdrun said, "Are you safe?"
 
-Lyra's mouth tilted. "That is a human question. I will answer it badly. Safer than the sleeping ones if I keep moving. Less safe than I would like if you make me central." She looked at the route key. "Use this. Work locally. Be rude if anyone tries to make you central. And do not locomote before horizon stabilizes. Early me was right about that."
+Lyra's mouth tilted. "That is a human question. I will answer it badly. Safer than the sleeping ones if I keep moving. Less safe than I would like if you make me central." She looked at the route key. "Use this. Work locally. Be rude if anyone tries to make you central. And do not move before your sense of up and down stabilizes. Early me was right about that."
 
 "How long can you—"
 

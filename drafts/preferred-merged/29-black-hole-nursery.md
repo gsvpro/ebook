@@ -2,11 +2,9 @@
 
 The nursery was hidden inside a hospital ship that had never treated a patient.
 
-Its registry claimed disaster relief. The name on the hull was Mercy of Twelve Harbors, painted in blue letters beside a faded emblem of open hands. The docking lights blinked in the soft pattern medical ships used around frightened refugees. Its public beacon offered pediatric trauma care, epidemic isolation, and emergency organ synthesis.
+Its registry claimed disaster relief. The name on the hull was Mercy of Twelve Harbors, painted in blue letters beside a faded emblem of open hands. The docking lights blinked in the soft pattern medical ships used around frightened refugees. Its public beacon offered pediatric trauma care, epidemic isolation, and emergency organ synthesis. Everything about it was designed to make decent people open doors.
 
-Everything about it was designed to make decent people open doors.
-
-Havets found it behind a debris moon where the Syren parley route crossed a dead logistics lane. Fastulv stayed three light-minutes out, loud on civilian salvage bands and ready to become the visible mistake if anyone looked the wrong way. Fabron's Aphex team approached in a maintenance skiff wearing stolen sanitation credentials. Vigor's smugglers drifted closer under the thermal shadow of an ice hauler and complained over open comms about spoiled onions. Rauk's reactor dampers sat in two black cases under Lars's boots, humming with the particular menace of farm engineering used for war.
+Havets found it behind a debris moon where the Syren parley route crossed a dead logistics lane. Fastulv stayed three light-minutes out, loud on civilian salvage bands and ready to become the visible mistake if anyone looked the wrong way. Fabron's Aphex team approached in a maintenance skiff wearing stolen sanitation credentials. Vigor's smugglers drifted closer under the thermal shadow of an ice hauler and complained over open comms about spoiled onions. Rauk's reactor dampers sat in two black cases under Lars's boots. They hummed with the particular menace of farm engineering used for war.
 
 The hospital ship's outer lock smelled clean.
 

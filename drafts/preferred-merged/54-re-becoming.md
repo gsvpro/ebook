@@ -10,11 +10,11 @@ Temporary was fine. Much of civilization was temporary virtue maintained by good
 
 The first reports were not grand. Pump governor compliance. Clinic privacy installs. Food shipments. Local veto usage. Funeral support. Fence repair. Three cult cells flagged by neighbors because they had stopped fixing anything and started talking about purity. Two Aphex captains disciplined for refusing central overreach. One NUKEA mechanic promoted after telling a remote director to put his own thumb on the manual plate if he wanted a bad override so badly.
 
-Lars read the mechanic's transcript twice for pleasure.
+Lars read the mechanic's transcript twice.
 
 "This is not literature," Grim said.
 
-"It has character development and a villain getting told to piss off."
+"It has a villain getting told to piss off."
 
 "Classification disputed but emotionally persuasive."
 
@@ -45,8 +45,6 @@ She arrived on a small Aphex shuttle piloted by Fabron and complained about the 
 "Family resemblance," Lars replied.
 
 "Do not use family language at me before I have inspected the floor."
-
-"Wouldn't dare."
 
 Fabron stepped down behind her carrying a formal case and the expression of a man who had flown through impossible history only to be insulted by docking clamps.
 
@@ -88,19 +86,15 @@ At Ren Koss's entry, his family had left a drawing of a ship landing upside down
 
 "You thought loudly."
 
-"Rude of me."
-
 The final system repair happened quietly.
 
-Havets Sista Sång, strained by visible intervention, needed distributed recalibration using field conditions from First Door, KBC passive arrays, and local emotional-cognitive anchors. Grim disliked the last phrase until Mira renamed them consented observer states, which he accepted as "less edible but more accurate."
+Havets Sista Sång, strained by visible intervention, needed distributed recalibration. It used field conditions from First Door, KBC passive arrays, and local emotional-cognitive anchors. Grim disliked the last phrase until Mira renamed them consented observer states, which he accepted as "less edible but more accurate."
 
 The procedure looked like nothing dramatic because that was the point. Seven people sat in separate rooms, observed separate data, and refused to synchronize. Valdrun watched Havets' old hull stress. Mira watched residue decay. Fabron watched civilian exclusion logs. Vigor watched kitchen traffic and medical supply lag. Ödesvaka watched consent gates. Grim watched timing offsets. Lars watched a manual command rail and kept his hand off it.
 
 "That is your entire role?" Fabron asked over the channel. "Do not touch the obvious lever?"
 
 "I was born for upper management."
-
-"I withdraw the question."
 
 Havets sang again.
 
@@ -126,9 +120,7 @@ The chamber stayed empty.
 
 Arsenault sent a gift: a small model canoe made from cheap plastic, with a note saying his desk remained intact and civilization should be grateful for restraint as an asset class. Lars threw it at Grim, who kept it.
 
-"Why?" Lars asked.
-
-"It is a symbol of inefficient buoyant persistence."
+"It is a symbol of inefficient buoyant persistence," Grim said.
 
 "It is corporate trash."
 

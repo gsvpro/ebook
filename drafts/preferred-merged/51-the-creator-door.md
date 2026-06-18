@@ -1,8 +1,8 @@
 # Chapter 51: The Creator Door
 
-First Door opened after the battle, which was rude because no one had asked it to.
+First Door opened after the battle. No one had asked it to.
 
-Not fully. Not as Syren wanted, not as Black Hole tried to force, not as Aphex feared. The Creator ring shifted into a low-energy state and revealed a service aperture no wider than a shuttle, surrounded by field conditions so delicate that active scans made it close like an eye.
+Not fully. Not as Syren wanted. Not as Black Hole tried to force. Not as Aphex feared. The Creator ring shifted into a low-energy state. It revealed a service aperture no wider than a shuttle, surrounded by field conditions so delicate that active scans made it close like an eye.
 
 "We should leave," Fabron said.
 
@@ -10,13 +10,13 @@ Not fully. Not as Syren wanted, not as Black Hole tried to force, not as Aphex f
 
 Neither moved.
 
-The battlefield did not become quiet all at once. It cooled in layers. Aphex cutters pulled damaged craft out of shear pockets. NUKEA vessels bled unused stabilizer charge into local grids. Vigor's networks shifted from desynchronization to triage: water, heat, lists, missing children, names of the dead when known and blanks where names were not yet safe. Black Hole debris tumbled beyond the basin, every fragment treated as both evidence and possible bite. Syren ships sat farther out, some broadcasting denial, some silent in ordinary shame.
+The battlefield did not go quiet all at once. It cooled in layers. Aphex cutters pulled damaged craft out of shear pockets. NUKEA vessels bled unused stabilizer charge into local grids. Vigor's networks shifted from desynchronization to triage: water, heat, lists, missing children, names of the dead when known and blanks where names were not yet safe. Black Hole debris tumbled beyond the basin. Every fragment was treated as both evidence and possible bite. Syren ships sat farther out. Some broadcast denial. Some sat silent in ordinary shame.
 
-Havets held position, strained from visible intervention. Its hidden systems had not failed, which was different from being well. Valdrun described the damage as "old bones remembering weather." Grim called that diagnostically poetic and therefore suspicious.
+Havets held position, strained from visible intervention. Its hidden systems had not failed. That was different from being well. Valdrun described the damage as "old bones remembering weather." Grim called that diagnostically poetic and therefore suspicious.
 
 Ren Koss slept like a man who had landed badly but successfully. His medical cradle kept alarming in small, offended tones. His husband threatened to unplug any machine that used drama instead of numbers. Mira's remote icon hovered beside the monitors without crossing the boundary she had set.
 
-Vigor ordered everyone to eat before making history because empty hands made stupid history. Sandwiches arrived through three jurisdictions, one black-market courier, and Fabron's formal protest that no military operation should depend on pickles.
+Vigor ordered everyone to eat before making history. Empty hands made stupid history. Sandwiches arrived through three jurisdictions, one black-market courier, and Fabron's formal protest that no military operation should depend on pickles.
 
 "Many should," Vigor said.
 
@@ -26,7 +26,7 @@ Vigor ordered everyone to eat before making history because empty hands made stu
 
 The delay helped. Adrenaline became pain. Victory became work. The Door remained open because no one poked it.
 
-Mira's model showed no immediate danger if they remained passive, with active scans marked as the obvious failure mode. Grim called that a challenge from the universe and was told to behave by six people and one protocol.
+Mira's model showed no immediate danger if they remained passive. Active scans were the obvious failure mode. Grim called that a challenge from the universe and was told to behave by six people and one protocol.
 
 "Passive instruments only," Mira said. "Thermal drift, mass balance, field noise, residue capture. No active ping. No worship. No heroic curiosity."
 
@@ -42,7 +42,7 @@ Mira's model showed no immediate danger if they remained passive, with active sc
 
 The aperture did not lead to a place.
 
-The first probe was not a probe in any normal sense. It was a passive dust sampler with no drive, no active transmitter, and a self-dissolving tether, pushed by Ren's ugly curve and Havets' smallest tolerated field nudge. It crossed the aperture threshold and did not cross distance. It returned with no distance traveled and a cargo of impossible context: dust from dead Creator stations, residue matching Lyra's manifestations, nanobot patterns that had never been inside Aerit bodies, and a data structure that assembled only when copied into seven separate archives.
+The first probe was not a probe in any normal sense. It was a passive dust sampler with no drive, no active transmitter, and a self-dissolving tether. Ren's ugly curve and Havets' smallest tolerated field nudge pushed it across the threshold. It did not cross distance. It returned with no distance traveled and a cargo of impossible context: dust from dead Creator stations, residue matching Lyra's manifestations, nanobot patterns that had never been inside Aerit bodies, and a data structure that assembled only when copied into seven separate archives.
 
 Any one archive held nonsense.
 
@@ -54,9 +54,9 @@ Seven held a lesson.
 
 The structure was a lesson, not a message.
 
-Creators had named this station First Door because it was first in their empire's route hierarchy. The older layer marked it not first because the door was never the beginning. It was a crude interface bolted onto a wider communication ecology. The Creators had used it like a subway. The older builders had used the underlying field like a consent problem with physics attached.
+Creators had named this station First Door because it was first in their empire's route hierarchy. The older layer marked it not first. The door was never the beginning. It was a crude interface bolted onto a wider communication ecology. The Creators had used it like a subway. The older builders had used the underlying field like a consent problem with physics attached.
 
-Beyond Creator technology lay not a bigger portal, but an etiquette stack: how to approach field-like intelligences without becoming noise, how to build temporary bodies without theft, how to preserve identity without centralizing it, how to let advanced civilizations remain quiet without mistaking quiet for consent to invade.
+Beyond Creator technology lay not a bigger portal. There was an etiquette stack: how to approach field-like intelligences without becoming noise, how to build temporary bodies without theft, how to preserve identity without centralizing it, how to let advanced civilizations remain quiet without mistaking quiet for consent to invade.
 
 "Diplomatic protocol," Fabron said. "With hostile-contact implications."
 
@@ -84,9 +84,9 @@ This time it appeared in Havets' allowed contact volume, an empty chamber marked
 
 "I was irritated," Mira replied.
 
-The body stood for twelve seconds: tall, faceted by unstable skin, neither Lyra nor Creator nor any species Lars knew. It did not glow. It condensed. Local substrate dust, captured residue, thermal debt, and field-coupled mass assembled into a body-shaped interface because bodies were how loud mammals noticed courtesy.
+The body stood for twelve seconds: tall, faceted by unstable skin, neither Lyra nor Creator nor any species Lars knew. It did not glow. It condensed. Local substrate dust, captured residue, thermal debt, and field-coupled mass assembled into a body-shaped interface. Bodies were how loud mammals noticed courtesy.
 
-Mass balance registered fifty-one kilograms assembled from local substrate and nonlocal field coupling, then returned with a two-gram residue debt the filters captured. Thermal bloom, no access logs, no door cycle. The hard numbers helped because wonder was worse when it was measurable.
+Mass balance registered fifty-one kilograms assembled from local substrate and nonlocal field coupling, then returned with a two-gram residue debt the filters captured. Thermal bloom, no access logs, no door cycle. The hard numbers helped. Wonder was worse when it was measurable.
 
 The manifestation placed one hand against the glass.
 

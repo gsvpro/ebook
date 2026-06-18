@@ -26,7 +26,7 @@ The KBC Void and similar basins were not natural emptiness alone, but quiet buff
 
 "That is not part of the hypothesis."
 
-"It is peer review with pants."
+"It is what happens after publication."
 
 They tested the model against old records: Pluto artifact behavior, Heliostat anomalies, GRIN development leaps, Kalari reports of impossible dreams after early contact, Rakh'Na war survivals, Alpha Fourteen locks, Havets navigation, Lyra's residues.
 
@@ -90,7 +90,7 @@ They recorded it as breach, evidence, and gift. All three. Mira made them keep a
 
 She added a consent condition: no field experiments in occupied personal workspaces without explicit local permission, even if Lyra Vargstjärna herself thought she was being helpful.
 
-Ödesvaka accepted the complaint as a formal protocol amendment. Grim added subcategories. Fabron, with visible satisfaction, suggested "trespass by impossible engineer." Mira accepted "unconsented field-coupled local embodiment event" and rejected everyone else's poetry.
+Ödesvaka accepted the complaint as a formal protocol amendment. Grim added subcategories. Fabron suggested "trespass by impossible engineer." Mira accepted "unconsented field-coupled local embodiment event" and rejected everyone else's poetry.
 
 Somewhere in the data, a tiny correlation shifted.
 

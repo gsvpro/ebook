@@ -56,11 +56,9 @@ Fabron showed Lars the ledger because Mother Aveline made him.
 
 "Big day for you."
 
-"I am enduring it with grace."
+"I am enduring it."
 
 "Your eye is twitching."
-
-"French grace includes precision twitching."
 
 The ledger held names, not ranks. A dockmaster who could delay pilgrim freight without making it look political. A nurse who knew which hidden wards would shelter a frightened patient without asking the wrong questions. A retired NUKEA regulator whose annual safety lecture was secretly a map of decentralization failures. A food inspector who had once stopped a military seizure by discovering seventeen tragic soup violations.
 
@@ -116,8 +114,6 @@ Fabron walked him back through the pressure corridor afterward, shoulders held a
 
 "And French."
 
-"Tragic but documented."
-
 "And human."
 
 Lars stopped walking.
@@ -127,8 +123,6 @@ Fabron looked straight ahead. "If anyone in your circle attempts to make my usef
 "You are already intolerable."
 
 "Then I will become more so."
-
-"Good."
 
 Fabron nodded once, satisfied and embarrassed by satisfaction. "My people are not evidence that bloodlines matter. We are evidence that habits survive when people bother to teach them."
 

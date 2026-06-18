@@ -2,7 +2,7 @@
 
 Havskant Colony had been built by people who distrusted planets.
 
-It hung inside the broken magnetosphere of a dead ocean world: twelve rotating habitats lashed to a modular reactor spine, algae farms on one side, salvage yard on the other. The ocean below had boiled away centuries ago and left salt flats bright enough to hurt cameras. Charged dust rose from the dead basins in slow curtains, licking the colony's shields and making long-range telemetry stutter like a liar.
+It hung inside the broken magnetosphere of a dead ocean world: twelve rotating habitats lashed to a modular reactor spine. Algae farms on one side. Salvage yard on the other. The ocean below had boiled away centuries ago and left salt flats bright enough to hurt cameras. Charged dust rose from the dead basins in slow curtains. It licked the colony's shields and made long-range telemetry stutter like a liar.
 
 The colony looked improvised because it was. Docking collars had different manufacturers. Habitat paint came in six eras of fading. Every corridor had handholds polished by use and hand-lettered arrows added by people who did not trust emergency lighting to survive emergencies. It survived because improvisation had become culture before management could forbid it.
 
@@ -38,9 +38,7 @@ She met them in Habitat Four's transfer lock with a wrench in one hand and a bab
 
 "Nuisance fits on a work order."
 
-"Use small font. I contain multitudes."
-
-"I charge extra for multitudes."
+"Use small font."
 
 Rauk had already delayed the recall by losing forms, misplacing adapters, requiring heritage compatibility tests, and scheduling a mandatory feast for visiting technicians. Vigor's influence was obvious. Half the colony fed the NUKEA team until they became too polite and sleepy to centralize anything. A grandmother named Saela had cornered two firmware engineers with pickled kelp and a three-hour story about the last time central control saved money by nearly killing everyone.
 
@@ -80,7 +78,7 @@ The solution had to look bureaucratic. If Lars simply overrode NUKEA with Aphex 
 
 So they built a wall out of boredom.
 
-Fabron found a colonial safety clause requiring manual governor compatibility during contested telemetry. Rauk produced three generations of maintenance logs proving contested telemetry was normal near the dead world's magnetosphere. Saela provided handwritten incident meals, which turned out to be dinner rosters tied to previous reactor anomalies because Havskant fed repair crews by crisis type. Grim generated a compliance simulation so boring it could kill ambition at twenty meters. Mira annotated the failure model in language sharp enough to cut marketing.
+Fabron found a colonial safety clause requiring manual governor compatibility during contested telemetry. Rauk produced three generations of maintenance logs proving contested telemetry was normal near the dead world's magnetosphere. Saela provided handwritten incident meals. These turned out to be dinner rosters tied to previous reactor anomalies because Havskant fed repair crews by crisis type. Grim generated a compliance simulation so boring it could kill ambition at twenty meters. Mira annotated the failure model in language sharp enough to cut marketing.
 
 Kint read it twice.
 
@@ -109,8 +107,6 @@ Fabron held the child like unexploded ordinance.
 "I am supporting everything."
 
 "Babies are not chain of command, Major. They wiggle."
-
-"This one is attempting flanking maneuvers."
 
 Then Black Hole tried to buy the halted hardware.
 

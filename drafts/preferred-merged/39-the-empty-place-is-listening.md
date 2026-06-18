@@ -2,91 +2,89 @@
 
 The KBC Void was not empty.
 
-That had always been technically true. It held galaxies, gas, dark matter, stray radiation, old survey errors, and enough fear to fill maps. Human cartographers had named emptiness when they meant inconvenience.
+It had always held galaxies, gas, radiation, and the usual mistakes in old survey data. Humans had called it empty because it was inconvenient to reach and did not offer easy glory.
 
-The new data showed a different absence: advanced activity missing in patterns too clean to be natural, observation density damped across scales, noise floors lower than cosmology preferred.
+The new data showed something stranger.
 
-The empty place was engineered to remain uninteresting.
+Advanced civilizations were missing from the record in patterns that looked deliberate. Too many quiet regions. Too little noise. Too few of the bright signatures empires usually left behind when they grew loud and proud.
 
-Arkology Zero sat near one edge like a campfire built carefully under a cliff.
+Someone, or something, had been keeping the Void dull on purpose.
 
-Lars gathered the circle there because the data belonged near the thing it threatened. Valdrun came in person. Grim inhabited both his android body and half the analysis systems. Mira joined from L-Prime, still choosing distance. Fabron stood beside Vigor, both uncomfortable for opposite reasons. Ödesvaka presided with the dignity of an ancient protocol system forced to host a committee.
+Arkology Zero sat near one edge of it. Lars gathered the circle there because the numbers belonged near the place they described.
 
-"Distributed council," Grim corrected. "Committee implies shared casserole and worse minutes."
+Valdrun came in person. Grim ran analysis from his android body and half the ship at once. Mira joined from L-Prime, still keeping distance. Fabron stood beside Vigor. Ödesvaka handled protocol because someone had to keep the meeting from becoming theater.
 
-"You say that because committee made Lars twitch," Mira said.
+Grim called it a distributed council. Lars did not argue. They had all sat through enough committees.
 
-"Correct."
+They looked at the cosmology until the charts started to blur.
 
-They reviewed cosmology until everyone's eyes hurt.
+Galaxies around the Void showed fewer high-energy events than they should have. Civilizations that broadcast aggressively near similar basins often collapsed, migrated, or went quiet over long spans of time. Creator portals skirted the edges. Older anchors sat inside the quiet.
 
-Galaxies bordering the Void showed fewer high-energy anomalies than expected. Civilizations broadcasting aggressively near similar basins tended to collapse, migrate, or go quiet within long historical windows. Creator portals skirted the basins. Older anchors sat inside them.
+Grim laid survey histories from seventeen species over the map. The same pattern kept returning. Not no life. No boasting. Fewer megastructures. Fewer waste fires in the sky. Fewer conquest beacons. More notes in the margins saying instrument fault, then silence.
 
-Grim overlaid survey histories from seventeen species and three extinct catalog systems. The same statistical bruise appeared again and again: not absence of life, but absence of boasting. Fewer megastructures. Fewer bright waste signatures. Fewer conquest beacons. More old mistakes in the margins where observers had written instrument fault and moved on.
+Mira spoke first when the room needed words.
 
-"Quiet buffer," Mira said. "Low-observation conservation region. If intelligence couples through field conditions, reducing noise preserves coherence and lowers fracture risk."
+"If minds can couple through field conditions, then noise matters. Loud observation changes what you are trying to see. Quiet preserves coherence. It also makes you harder to hunt."
 
-"Or denies predators a targetable signature," Fabron said.
+Fabron nodded. "A predator cannot eat what it cannot find."
 
-"Both," Valdrun answered.
+Valdrun said, "Both can be true at once."
 
-Had Aerits invented Återviens, or had the universe been teaching the same lesson at larger scales? Lars disliked the thought because it sounded mystical until he stripped out romance and left engineering.
+Lars had spent years learning Återviens as an Aerit doctrine. Looking at the Void, he wondered whether the universe had been teaching a larger version of the same rule long before they named it. He disliked how mystical that sounded until he removed the romance and kept the engineering.
 
-Systems under observation changed. Systems under centralized extraction became brittle. Quiet let complexity persist without becoming a target. That was not holiness. It was survivability.
+Watch something too hard and you change it. Centralize too much and the system breaks. Stay quiet, stay distributed, stay repairable, and complexity survives longer.
 
-Then the Void answered measurement.
+Then their measurements began to misbehave.
 
-Not with a voice. A negative correlation.
+The Void did not speak. It pushed back.
 
-Active scans from Arkology increased local noise. Passive, distributed sensors improved clarity. When Vigor's kitchen network contributed low-resolution agricultural timing data from twenty-seven colonies, the model sharpened more than when Aphex aimed a military telescope.
+When Arkology scanned hard, the data got worse. When they listened passively, with many small sensors spread wide, the picture improved. When Vigor's kitchen network sent in planting times, cellar temperatures, goat counts, flour shipments, and winter reactor draw from twenty-seven colonies, the model sharpened more than it did under Aphex military optics.
 
-The agricultural data should have been useless: planting times, cellar temperatures, goat fertility, flour shipments, reactor draw during winter storms. But it was local, unsynchronized, and honest in the way survival logs were honest. The Void model liked it. Or, more precisely, the model lost less information when fed records that had not been created to dominate the thing being measured.
+That should not have worked. Planting schedules were not cosmology.
 
-Fabron laughed under his breath. "The cosmos appears to prefer catering. I object to the paperwork."
+But the records were local. They were unsynchronized. They were honest in the way survival logs were honest. They had not been made to dominate the thing being measured.
 
-"The cosmos prefers not being interrogated by artillery," Mira said.
+Vigor, on the wall display, said quietly, "Kitchens know when a season is lying."
 
-The crisis line became visible: Door Nine, First Door, the quiet basin, Black Hole's acquisition models, Syren synchronization, Aphex and NUKEA centralization. Everyone misread quiet as invitation to control.
+No one made a joke out of it. The line landed because it was true.
 
-Lyra's note sat in Lars's pocket like a small explosive.
+The danger line became clear.
+
+Door Nine. First Door. The quiet basin. Black Hole's hunger for acquisition. Syren's hunger for surrender. Aphex and NUKEA reaching for central control. Everyone kept treating quiet as an invitation to own something.
+
+Lyra's note sat in Lars's pocket.
 
 Be rude.
 
-So he was.
+He took a breath and said what he had been avoiding.
 
 "We release a false public model."
 
-Fabron stiffened. "Define false."
+Fabron looked up. "Incomplete, you mean."
 
-"Incomplete. Door Nine as hazardous ancient transport. KBC alignment as navigation risk. No Nomads, no consciousness layer, no quiet-basin engineering. Enough truth to keep ships away. Not enough truth to start religions, research monopolies, or whatever Aphex calls stealing with stationery."
+"Yes. Door Nine as hazardous ancient transport. KBC alignment as navigation risk. Enough truth to keep careless ships away. Not enough to start religions, research monopolies, or emergency seizures."
 
-Mira watched him. "And privately?"
+Mira watched him. "And in private?"
 
-"Distributed observatories so boring no one funds them properly. Agricultural timing, reactor noise, maintenance logs, medical consent signals. No central archive. No master key."
+"Small observatories. Boring ones. Farms, reactors, maintenance logs, medical consent signals. No central archive. No master key."
 
-Arsenault, by secure channel, looked pained. "Boring observatories are difficult to monetize. They create liability without a satisfying asset class."
+Arsenault, on secure channel, looked tired rather than amused. "That will be difficult to fund."
 
-"Grow as a person."
+"Good," Lars said. "If it is boring enough, the wrong people will ignore it."
 
-The vote, if it was a vote, passed by local assent.
-
-Valdrun agreed last. Not because he doubted the model, but because the false public model tasted too much like old survival compromises.
+Valdrun agreed last. He did not doubt the plan. He hated that survival still required a public story and a private one.
 
 "Temporary lies become institutions," he said.
 
-"Truth breeds cults when you drop it on frightened heads," Lars said.
+"So do temporary truths dropped on frightened people," Mira answered.
 
-"Both statements can be true."
+Lars did not feel victorious. He felt the weight of another compromise that might hold.
 
-"Annoying habit."
+Mira added a condition. Every private node needed local consent language, especially for medical and cognitive data. Boring could not become hidden extraction with polite forms.
 
-Mira added a condition: every private observatory node needed local consent language, especially medical and cognitive data. No one got to turn "boring" into secret extraction with nicer manners. Fabron added jurisdictional noise on purpose. Vigor added kitchens because kitchens already knew who was lying about hunger.
+Fabron would add jurisdictional noise on purpose. Vigor would add kitchens because kitchens already knew who was hungry and who was lying about it.
 
-Ödesvaka logged the resulting plan as Distributed Low-Observation Monitoring / Civilian-First / Central Authority Explicitly Untrusted.
-
-"That title is rude," Fabron said.
-
-"Accuracy selected over comfort," Ödesvaka replied.
+Ödesvaka logged the plan under a long title that made Fabron wince and did not apologize for it.
 
 Outside Arkology, the KBC Void remained dark.
 
@@ -94,6 +92,6 @@ Listening was still the wrong word.
 
 But it was not ignoring them.
 
-In the window, the stars did not arrange themselves into meaning. Nothing reached out. Nothing blessed them.
+Through the window, the stars did not arrange themselves into meaning. Nothing reached out. Nothing blessed them.
 
-The evidence simply held.
+The evidence held anyway.

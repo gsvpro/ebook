@@ -2,7 +2,7 @@
 
 Aphex called it a containment drill by morning.
 
-The lie was Fabron's idea, which irritated Lars because it was a good lie. A drill explained shutters, local controls, disabled remote authority, soldiers in corridors, and Director Odin yelling through legal channels while an antique freighter embarrassed hostile ships near a brown dwarf. It gave central command something bureaucratic to swallow while the local people cleaned blood out of ventilation grilles and pretended the tremor in their hands came from caffeine.
+The lie was Fabron's idea, which irritated Lars because it was a good lie. A drill explained shutters, local controls, disabled remote authority, soldiers in corridors, and Director Odin yelling through legal channels while an antique freighter embarrassed hostile ships near a brown dwarf. It gave central command something bureaucratic to swallow. Meanwhile the local people cleaned blood out of ventilation grilles and pretended the tremor in their hands came from caffeine.
 
 The lie did not explain the black residue in the med bay.
 
@@ -108,7 +108,7 @@ The word did not bring thunder for Lars. His old lock stayed quiet. The partial 
 
 Mira's lock was still alive.
 
-Pain tightened behind her eyes, quick and surgical. She inhaled once through her teeth. The boundary monitor flashed amber. This was exactly why the Quiet Knock put naming after consent instead of before it. She had asked the question, the evidence feed was narrow, and Grim had the load gate running. The spike rose, met the consent limit she had defined, and flattened into a hot line across the base of her skull instead of becoming the full fallback collapse the protocol was built to avoid.
+Pain tightened behind her eyes, quick and surgical. She inhaled once through her teeth. The boundary monitor flashed amber. This was exactly why the Quiet Knock put naming after consent instead of before it. She had asked the question. The evidence feed was narrow. Grim had the load gate running. The spike rose, met the consent limit she had defined, and flattened into a hot line across the base of her skull instead of becoming the full fallback collapse the protocol was built to avoid.
 
 Mira gripped the table until the acoustic rack behind her registered a tiny vibration, as if an old frequency had brushed it and failed to settle.
 
@@ -135,10 +135,6 @@ At last she nodded.
 The door opened one centimeter.
 
 "I heard that."
-
-"Good. File an appeal."
-
-"Appeal filed under accuracy concerns and emotional injury."
 
 Mira almost smiled, then did not. "If I accept partial confirmation, not memory, what is the load path?"
 

@@ -22,8 +22,6 @@ Grim lowered it.
 
 "My arms are optimized for torque and pastry acquisition."
 
-"That explains too much."
-
 Fabron walked ahead with the Aphex legal observer, a thin man named Duval whose terror made excellent camouflage. Duval carried three contracts, two emergency injunctions, and the air of someone who had realized law was a small umbrella under meteor weather.
 
 "If I die," Duval whispered, "my husband will sue everyone."
@@ -49,8 +47,6 @@ Door Nine hung beyond the glass like a broken ring made of shadow and blue tensi
 Fabron closed his eyes as if praying for patience or impact.
 
 "Director," Duval whispered, "perhaps diplomacy could include fewer toilets."
-
-"No promises."
 
 Pell did not flinch. That was worse than irritation. "Mockery is a common defense at thresholds."
 

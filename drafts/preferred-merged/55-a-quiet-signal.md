@@ -16,17 +16,11 @@ Lars reached for a cup, missed because he was reading a report about fence-repai
 
 "It is statistically rude coffee with anomalous thermal etiquette."
 
-"I have been saying coffee has an agenda for years."
-
-"Your previous claims lacked instrumentation."
-
 Mira joined the analysis and immediately asked why Lars had contaminated a possible field event with breakfast residue and no sterile boundary.
 
 "I was innovating."
 
 "You were spilling."
-
-"Many expensive disasters begin that way. Also sandwiches."
 
 Fabron joined because Grim's alert had crossed an Aphex liaison threshold. His video opened on a desk covered with promotion paperwork, disciplinary forms, and a framed copy of both.
 
@@ -38,19 +32,15 @@ Fabron closed his eyes. "I have feared this category for some time."
 
 The mechanics were ugly enough to be real.
 
-Havets' recalibration had left a two-microgram residue film on Lars's sleeve, below suit alarms but above Grim's irritation threshold. The film should have decayed into inert dust within eleven days. Instead, a fraction persisted because Lars had brushed against the manual command rail during the separated observer-state procedure, picking up residue already carrying field-coupled timing offsets from Havets, First Door, and the allowed manifestation chamber.
+Havets' recalibration had left a two-microgram residue film on Lars's sleeve, below suit alarms but above Grim's irritation threshold. The film should have decayed into inert dust within eleven days. Instead, a fraction persisted because Lars had brushed against the manual command rail during the separated observer-state procedure. That picked up residue already carrying field-coupled timing offsets from Havets, First Door, and the allowed manifestation chamber.
 
 The coffee carried heat through that film into the table's scratches. The scratches mattered. Fastulv's galley table was cheap composite over old conductive mesh, repaired badly after three previous incidents Lars described as "culinary combat." The liquid cooled along grooves, adhesive seams, and one knife mark Vigor identified remotely as "evidence of someone cutting bread like an axe murderer."
 
-As the liquid cooled, residue particles reoriented along thermal gradients. Their decay produced faint timing offsets in Fastulv's galley sensors, not a message by themselves, but a repeatable correlation when compared against the allowed manifestation chamber logs, Lyra's bathroom token, Mira's lab breach, Havets' mass-balance bruise, First Door residue, and passive KBC basin fluctuations.
+As the liquid cooled, residue particles reoriented along thermal gradients. Their decay produced faint timing offsets in Fastulv's galley sensors. That was not a message by itself, but a repeatable correlation when compared against the allowed manifestation chamber logs, Lyra's bathroom token, Mira's lab breach, Havets' mass-balance bruise, First Door residue, and passive KBC basin fluctuations.
 
-"So," Lars said, "my breakfast is a laboratory."
+"So my breakfast is a laboratory," Lars said.
 
 "Your breakfast is contamination with accidental controls," Mira said.
-
-"That sounds better."
-
-"It is not."
 
 They repeated the cooling curve with sterile water, then coffee from the same pot, then coffee from a new pot, then a thermal dummy cloth carrying no residue. Nothing assembled. They scraped a sample from the sleeve under Mira's remote instructions and measured the decay. The offsets matched the stain only when the original table scratches, coffee composition, residue film, and Fastulv's galley sensor timing all remained in the loop.
 
@@ -71,10 +61,6 @@ Mira confirmed the query had touched only the consented maintenance log: pump vi
 "Tell him the left side was structurally ungrateful," Lars said.
 
 "No," Mira replied.
-
-"Coward."
-
-"Adult with a message filter."
 
 It did not command.
 
@@ -134,7 +120,7 @@ Mira was quiet on the channel.
 
 Fabron cleared his throat. "That is either a strategic directive with unacceptable stationery or the strangest family letter in history."
 
-"Both," Vigor said. "Also she mentioned food. Sensible woman. Trust the one who brings lunch before poking dead empires."
+"Both," Vigor said. "Also she mentioned food."
 
 Valdrun whispered, "She is alive."
 
@@ -162,19 +148,9 @@ Lars picked up a cloth.
 
 "Preserve the cloth," Vigor said.
 
-"It is a dirty cloth."
-
-"So are most historical documents if you feed people near them."
-
-Mira laughed. Fabron sighed. Vigor demanded they preserve the cloth. Valdrun said nothing, but the channel felt warmer. Grim deployed a sample tray with the solemnity of a priest handling relics and the expression of a scientist offended by crumbs.
+Mira laughed once. Fabron sighed. Valdrun said nothing, but the channel felt warmer. Grim deployed a sample tray with the solemnity of a priest handling relics and the expression of a scientist offended by crumbs.
 
 "Do not call it a relic," Mira said.
-
-"I had not."
-
-"You were thinking it in posture."
-
-"Posture is not admissible."
 
 Lars looked at Lyra's final word before the stain blurred.
 

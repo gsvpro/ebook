@@ -166,6 +166,6 @@ If answer resists, brighten until rupture.
 
 Lars looked toward First Door.
 
-"They think the universe owes them a scream. Entitled little meat cult."
+"They think the universe owes them a scream."
 
 Grim's voice was low. "Then we deny them acoustics and record the attempt as extremely poor manners."

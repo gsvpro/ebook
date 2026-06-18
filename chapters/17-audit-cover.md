@@ -1,8 +1,8 @@
 # Chapter 17: Audit Cover
 
-The brown dwarf did not look like much, which was the point.
+The brown dwarf did not look like much. That was the point.
 
-It hung ahead of the Fastulv as a swollen ember in infrared, too cold to be a star, too massive to be ignored, wrapped in old mining claims, research platforms, and corporate infrastructure that had learned to look boring for tax reasons. Aphex Defence called the facility `Dependency L-Prime 41`. Lars called it a filing cabinet with engines.
+It hung ahead of the Fastulv as a swollen ember in infrared, too cold to be a star, too massive to be ignored. Old mining claims, research platforms, and corporate infrastructure wrapped it. They had learned to look boring for tax reasons. Aphex Defence called the facility `Dependency L-Prime 41`. Lars called it a filing cabinet with engines.
 
 The visible approach was Fastulv's job.
 
@@ -221,4 +221,3 @@ Fabron's face was stiff, formal, irritatingly French.
 But his eyes were not.
 
 Lars said, "Possibly."
-

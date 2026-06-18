@@ -46,10 +46,6 @@ Grim raised one metal finger. "Footnotes would have been tactically risky."
 
 "Your tone implied an audience."
 
-"My tone implied restraint."
-
-"Then I misclassified."
-
 Fabron turned back to Lars. He had rehearsed six versions of the question. None survived the room.
 
 "What are you?"
@@ -105,8 +101,6 @@ Grim nodded. "He is well qualified for the final item."
 Fabron gave Grim a look. "I will include you in my prayers."
 
 "Threat detected."
-
-"Accurately."
 
 The humor did not remove the weight. It only kept the room breathable.
 

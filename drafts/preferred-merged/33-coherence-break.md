@@ -14,11 +14,11 @@ Smaller.
 
 Emergency red returned in pulses that made every face look injured. The observatory shook. Dust drifted from the cupola ribs. Somewhere below, an air-recycler screamed, failed, and came back on with the wet cough of a machine deciding not to die yet.
 
-Door Nine's partial charge trapped three Black Hole ships in a gradient they could neither enter nor escape. Their engines poured energy into the ring. Syren's array fed entrainment into the same field, a synchronization tone hidden under prayer. The station became a throat for everyone else's bad theology.
+Door Nine's partial charge trapped three Black Hole ships in a gradient they could neither enter nor escape. Their engines poured energy into the ring. Syren's array fed entrainment into the same field—a synchronization tone, a shared rhythm—hidden under prayer. The station became a throat for everyone else's bad theology.
 
 Grim threw the telemetry across Lars's vision in layers. Ship heat. Ring charge. Civilian locations. Broadcast harmonics. Black Hole biological processors spiking in ugly loops as stolen flesh was forced to think like equipment.
 
-"They are coupling the engines to wet computation," Grim said. His voice went precise in the way that meant disgust. "Low-quality cognition, high thermal cost, no consent, terrible efficiency. Statistically and morally rude."
+"They are coupling the engines to wet computation," Grim said. His voice went precise in the way that meant disgust. "Low-quality cognition, high thermal cost, no consent, terrible efficiency."
 
 "Can it break the ring?"
 
@@ -62,7 +62,7 @@ She did not glow. She did not speak in another voice. Her pupils dilated. Her ja
 
 "Done."
 
-The Creator ring had been repaired too often toward transport. Each repair reinforced the misunderstanding. Underneath lay an older layer that did not move bodies. It correlated local conscious systems across low-noise gaps, offering coherence without command. The Creators had mistaken a conversation for a road and then built roads until the conversation broke.
+The Creator ring had been repaired too often toward transport. Each repair reinforced the misunderstanding. Underneath lay an older layer that did not move bodies. It linked local minds across quiet gaps in the field. It offered coherence without command. The Creators had mistaken a conversation for a road. Then they built roads until the conversation broke.
 
 "The ring does not want power," Mira said. "It wants less forcing. Stop feeding certainty into it. You are turning a correlation layer into a pressure vessel."
 
@@ -90,7 +90,7 @@ That worked.
 
 Lars laughed once, ugly and relieved.
 
-"Fine. No single golden answer. Fabron, evacuate by local cells. No group bigger than twelve. Grim, desynchronize every speaker, suit comm, and devotional tooth filling. Mira, give me phase windows and stop before your brain becomes a shareholder. Valdrun, shield sleepers but do not open them. Ödesvaka, enforce the line. Havets, local safeguards."
+"Fine. No single golden answer. Fabron, evacuate by local cells. No group bigger than twelve. Grim, desynchronize every speaker, suit comm, and devotional tooth filling. Mira, give me phase windows and stop before your brain gives out. Valdrun, shield sleepers but do not open them. Ödesvaka, enforce the line. Havets, local safeguards."
 
 The old ship answered.
 

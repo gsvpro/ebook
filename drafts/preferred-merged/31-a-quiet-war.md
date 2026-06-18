@@ -88,10 +88,6 @@ The field hummed. The pot glowed. The filament cloud crawled around the inside l
 
 "Neither am I."
 
-"Your behavior suggests otherwise."
-
-"My behavior is a medical concern."
-
 Fabron arrived thirty seconds later with two soldiers and a pharmacy bag full of actual cough syrup, because he had committed to the cover. Dr. Bell stood at the basement door with a trauma kit and a face carved from refusal.
 
 "Is my clinic still open?" she asked.

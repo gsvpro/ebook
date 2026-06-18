@@ -2,7 +2,7 @@
 
 Isaac Tam woke on Arkology Zero and refused to become a revelation.
 
-He woke slowly, medically, in a room designed by people who had learned that white walls made trauma feel inspected. The lights were warm. The door was visible from the bed. Every instrument had a manual label. The privacy field showed its boundary as a thin amber line on the floor so no one had to trust invisible kindness.
+He woke slowly, medically, in a room designed by people who had learned that white walls made trauma feel inspected. The lights were warm. The door was visible from the bed. Every instrument had a manual label. The privacy field showed its boundary as a thin amber line on the floor. No one had to trust invisible kindness.
 
 Valdrun sat where Isaac could see him without turning his head. Grim waited behind the privacy boundary, present as voice only until invited. Lars stood near the foot of the bed with his hands open and empty. No one said the old greeting. No one used the word Aerit. No one tried to make awakening feel inevitable by arranging the room like a ceremony.
 
@@ -93,8 +93,6 @@ He refused Arkology residence. He refused guardian channels. He refused full ide
 "Then stop looking like a bad one."
 
 "My face is doing its best under terrible management."
-
-"Fire management."
 
 Mira attended the final boundary meeting remotely from L-Prime. She had reviewed every consent line and turned half of them from comforting fog into load-bearing sentences. Her still-active lock made direct identity language dangerous, so the protocol she helped write avoided using her as proof of anything. She seemed to appreciate the ugliness of that.
 

@@ -16,11 +16,11 @@ Lars did not touch the frost.
 
 Vigor folded his arms. "Freezers keep secrets better than conference rooms."
 
-"Freezers also keep goat," Grim said.
+"Freezers also keep goat."
 
-"Exactly. Useful things."
+"Exactly."
 
-Valdrun joined from Havets with the patience of someone who had watched too many urgent things become ruins. His image appeared as a narrow projection on the freezer door, old face cut by frost-glare, eyes steady enough to make panic feel immature. Ödesvaka layered protocol verification around the packet, each check stamped in the air as a formal line of old authorization. Grim tasted the noise with quantum routines and declared it authentic, compromised, or flirting with compromise.
+Valdrun joined from Havets with the patience of someone who had watched too many urgent things become ruins. His image appeared as a narrow projection on the freezer door. Frost-glare cut his old face. His eyes were steady enough to make panic feel immature. Ödesvaka layered protocol verification around the packet. Each check stamped in the air as a formal line of old authorization. Grim tasted the noise with quantum routines and declared it authentic, compromised, or flirting with compromise.
 
 "Those are not the same category," Fabron said. He had arrived still buttoning his coat, sidearm visible and dignity fully armed.
 
@@ -80,9 +80,7 @@ Grim sent her the packet with semantic load warnings and the identity markers st
 
 "It rode harmless maintenance telemetry," Mira said at last. "Elegant, if you ignore the fracture line. There is a second carrier underneath. Field correlation. More like the path pre-loaded for low-observation gaps before the network stress produced them."
 
-KBC again.
-
-Quiet regions. Low survey. Low noise. Low attention.
+KBC again. Quiet regions. Low survey. Low noise. Low attention.
 
 "Not shelter alone," Lars said.
 
@@ -115,8 +113,6 @@ Fastulv would go visibly as an Aphex salvage inspection. Havets would observe wi
 "Religion does not always smell," Fabron said.
 
 "Yours smells faintly of metal polish and disapproval."
-
-"Unfortunately fair."
 
 At the dead platform, care looked like failure.
 

@@ -100,7 +100,7 @@ He sat in Fastulv's cockpit while the advisory moved, watching public feeds spli
 
 "You also dislike mass death, cult capture, corporate monopoly, and Black Hole eating the communication layer. Ranking conflict detected."
 
-"Your emotional support style needs sanding and maybe a warning label."
+"Your emotional support style needs sanding."
 
 Grim set down a sandwich. "Eat. Vigor threatened me with disappointment and soup."
 
