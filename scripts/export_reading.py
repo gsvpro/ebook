@@ -268,7 +268,7 @@ h1 { margin-top: 0; }
 h2 { margin-top: 3rem; }
 p { margin: 1rem 0; }
 hr { border: 0; border-top: 1px solid #ddd3c4; margin: 2.5rem 0; }
-.chapter-illustration { margin: 1.5rem auto 2rem; text-align: center; }
+.chapter-illustration { margin: 1.25rem auto 1.75rem; max-width: 32rem; text-align: center; }
 .chapter-illustration img { max-width: 100%; height: auto; border: 1px solid #d8d0c2; background: #f7f3ea; }
 .chapter-illustration figcaption { margin-top: 0.5rem; font-size: 0.9rem; font-style: italic; color: #5f574c; }
 """

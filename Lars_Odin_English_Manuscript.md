@@ -4166,6 +4166,12 @@ Erik Torvaldsson replied, "That is also not what tunneling means."
 
 "Today it is."
 
+The moonlet tests had used seeded nanobot stock and local matter within reach of a relay cradle. That was enough to prove Model 3. It was not enough to travel.
+
+The harder problem came later, after Lyra reverse-engineered the nanotechnology in her own bloodstream and learned to listen for dormant substrate the Nomads had left scattered through quiet places: networks with no host, sleeping in regolith, ice, dead hulls, and the margins of old Creator anchors. When her mind-state found one, the journey was not chiefly technical. It was a frightening passage into unknown correlation, then collaboration at the destination—interface, consent, heat debt, local chemistry—until the dormant lattice agreed to assemble a temporary body from whatever materials were there.
+
+She got better at that too. Not quickly. Not cleanly.
+
 Another jump, smaller.
 
 At first it had been a joke.

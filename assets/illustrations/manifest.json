@@ -21,7 +21,97 @@
   },
   "5": {
     "file": "chapter-05-the-helmet.png",
-    "alt": "Pencil study of an ancient helmet interface with lock annotations, damaged wiring, and a partial three-circle symbol.",
-    "caption": "Helmet interface study: identity lock detected."
+    "alt": "Pencil Aerit archive study of a guardian helmet identity-lock interface with memory-anchor annotations and a partial three-circle symbol.",
+    "caption": "Aerit guardian helmet: identity-lock interface study."
+  },
+  "6": {
+    "file": "chapter-06-stronger-coffee.png",
+    "alt": "Pencil notebook sketch of a battered coffee cup, caffeine stains, and a Ragnarrök-style energy equation.",
+    "caption": "Coffee margin notes: less theory, more movement."
+  },
+  "9": {
+    "file": "chapter-09-threshold-models.png",
+    "alt": "Pencil threshold model diagram with overlapping response curves, a lock gate, and noodle-like coherence signal paths.",
+    "caption": "Threshold models and partial mindfield boundaries."
+  },
+  "12": {
+    "file": "chapter-12-bringing-the-wolf-home.png",
+    "alt": "Pencil sketch of Fastulv as a battered civilian freighter with bulky cargo hull, docking clamps, cargo doors, and repair notes.",
+    "caption": "Fastulv: ugly freighter, old scars, same heart."
+  },
+  "15": {
+    "file": "chapter-15-quiet-dignity-fails-politely.png",
+    "alt": "Pencil sketch of melted sunglasses, a beef lot tag, a wine bottle, and a crossed-out apology note.",
+    "caption": "Quiet dignity, after incident review."
+  },
+  "18": {
+    "file": "chapter-18-materials-fatigue.png",
+    "alt": "Pencil materials fatigue plate showing a cracked alloy strip, stress propagation, sensor pins, and tolerance notes.",
+    "caption": "Materials fatigue sample, after test."
+  },
+  "21": {
+    "file": "chapter-21-containment-drill.png",
+    "alt": "Pencil tactical note showing three stealth ships approaching L-Prime 41 and a materials ring cross-section.",
+    "caption": "Containment drill: insert, decoy, seal."
+  },
+  "24": {
+    "file": "chapter-24-nukea-recall.png",
+    "alt": "Pencil archive sketch of Havskant Colony as twelve rotating habitats lashed to a modular reactor spine above bright salt flats, with algae farms, salvage yard, and NUKEA recall tag.",
+    "caption": "Havskant Colony: twelve habitats on a reactor spine above dead salt flats."
+  },
+  "27": {
+    "file": "chapter-27-no-single-heart.png",
+    "alt": "Pencil distributed node diagram with many loose paths and a crossed-out central heart or core.",
+    "caption": "No single heart: local routing only."
+  },
+  "30": {
+    "file": "chapter-30-the-consent-problem.png",
+    "alt": "Pencil guardian protocol form with consent checkboxes, a farm gate latch, witness marks, and stop-authority notes.",
+    "caption": "Consent boundary form, guardian draft."
+  },
+  "33": {
+    "file": "chapter-33-coherence-break.png",
+    "alt": "Pencil emergency diagram of broken coherence signal lines, desynchronized speakers, and separated evacuation routes.",
+    "caption": "Coherence break: desynchronize and localize."
+  },
+  "36": {
+    "file": "chapter-36-dead-subway.png",
+    "alt": "Pencil map fragment of a dead subway-like route system with broken tunnels, sealed stations, and Creator-era symbols.",
+    "caption": "Dead subway map fragment: not navigation."
+  },
+  "38": {
+    "file": "chapter-38-guardian-field-sketch.png",
+    "alt": "Pencil field sketch of an Aerit guardian in charcoal flex-armor steadying a coupling coil, with three interlocking circles, a deliberate crack symbol, and margin notes.",
+    "caption": "Guardian field sketch: local substrate, no roster."
+  },
+  "39": {
+    "file": "chapter-39-the-empty-place-is-listening.png",
+    "alt": "Minimal pencil observatory diagram of the KBC Void with faint gravitational contours and a tiny receiver station.",
+    "caption": "KBC low-observation listening note."
+  },
+  "42": {
+    "file": "chapter-42-the-nomad-hypothesis.png",
+    "alt": "Pencil hypothesis diagram of distributed routes across small cosmological bubbles and engineered coupling notes.",
+    "caption": "The Nomad hypothesis, lowercase until proven."
+  },
+  "45": {
+    "file": "chapter-45-the-cancer-model.png",
+    "alt": "Pencil biological strategy diagram showing monopoly growth, local immune-response nodes, cut lines, and repair-team marks.",
+    "caption": "The cancer model: contain, cut, repair."
+  },
+  "48": {
+    "file": "chapter-48-the-public-lie.png",
+    "alt": "Pencil public hazard advisory with redacted truth blocks, municipal debt ledger marks, signatures, and an airlock gauge.",
+    "caption": "Public advisory with private debt attached."
+  },
+  "51": {
+    "file": "chapter-51-the-creator-door.png",
+    "alt": "Pencil artifact rubbing of a Creator door fragment with passive sensor curves and no-active-ping warning marks.",
+    "caption": "Creator door fragment, passive study only."
+  },
+  "54": {
+    "file": "chapter-54-re-becoming.png",
+    "alt": "Pencil recovery sketch showing identity shards, memory anchors, a consent check, and a quiet signal thread.",
+    "caption": "Re-becoming: remembered with choice."
   }
 }
