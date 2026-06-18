@@ -2,6 +2,10 @@
 
 ## Chapter 1: The Rim
 
+![Pencil sketch of Lars Odin's napkin diagram for a plasma shovel control loop, surrounded by Rim pub details.](../assets/illustrations/chapter-01-the-rim.png)
+
+*Napkin control-loop sketch recovered from The Rim.*
+
 Lars "Plates" Odin ordered a large bottle of Xaltor X whisky, four small glasses, and one Galactic IPA, then pretended to pay with the comm unit on his wrist.
 
 In reality he paid with his hand.
@@ -668,6 +672,10 @@ He only knew the headache was getting worse.
 
 ## Chapter 2: The Farmer
 
+![Pencil notebook plan of a future farm habitat with soil trays, goats, irrigation lines, and repair notes.](../assets/illustrations/chapter-02-the-farmer.png)
+
+*Farm habitat notes: ordinary work, hidden order.*
+
 The Rim's inner market hemisphere had been designed by someone who believed commercial zoning should include weather.
 
 Lars stepped through the pressure arch and into artificial afternoon. The ceiling was a sky. Not a screen, not exactly. A layered atmospheric projection, humidity-managed and optically deep enough that clouds moved with convincing laziness across a blue vault three hundred meters overhead. Birds crossed between them. Real birds, according to the station registry, though Lars suspected half were sensor drones with better manners.
@@ -1266,6 +1274,10 @@ Grim made a sound that might have been a laugh or a servo fault.
 
 ## Chapter 3: The Dark Object
 
+![Pencil sensor-analysis sheet showing a dark object, incomplete orbital arcs, warning symbols, and field-noise traces.](../assets/illustrations/chapter-03-the-dark-object.png)
+
+*Sensor sheet for an object that refuses ordinary categories.*
+
 The Fastulv left The Rim under a filed civilian departure vector, then abandoned that vector eight minutes later.
 
 Lars did not call it abandoning.
@@ -1817,6 +1829,10 @@ A system recognizing a missing component.
 "Home," Lars said, and hated the word as soon as it left him.
 
 ## Chapter 4: The Sea's Last Song
+
+![Pencil archive sketch of Havets Sista Sang with scarred hull plating, waveform notes, and biological cognition tank diagrams.](../assets/illustrations/chapter-04-the-seas-last-song.png)
+
+*Archive study of Havets Sista Sang.*
 
 The invisible ship accepted him like a machine with excellent memory and no concern for his comfort.
 
@@ -2417,6 +2433,10 @@ He heard Ödesvaka report medical emergency with obscene calm.
 Then the chamber, the station, and the impossible blue light went away.
 
 ## Chapter 5: The Helmet
+
+![Pencil study of an ancient helmet interface with lock annotations, damaged wiring, and a partial three-circle symbol.](../assets/illustrations/chapter-05-the-helmet.png)
+
+*Helmet interface study: identity lock detected.*
 
 Something beeped.
 

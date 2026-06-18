@@ -12,6 +12,7 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 import html
+import json
 import re
 import uuid
 import zipfile
@@ -21,6 +22,7 @@ ROOT = Path(__file__).resolve().parents[1]
 EXPORTS = ROOT / "exports"
 TITLE = "Lars Odin"
 AUTHOR = "Pruttipuffan"
+ILLUSTRATIONS = ROOT / "assets" / "illustrations"
 
 
 @dataclass
@@ -29,6 +31,35 @@ class Section:
     markdown: str
     filename: str
     anchor: str
+
+
+@dataclass
+class Illustration:
+    chapter: int
+    file: str
+    alt: str
+    caption: str
+
+
+def load_illustrations() -> dict[int, Illustration]:
+    manifest_path = ILLUSTRATIONS / "manifest.json"
+    if not manifest_path.exists():
+        return {}
+
+    raw = json.loads(manifest_path.read_text(encoding="utf-8"))
+    illustrations: dict[int, Illustration] = {}
+    for chapter, entry in raw.items():
+        chapter_number = int(chapter)
+        image_path = ILLUSTRATIONS / entry["file"]
+        if not image_path.exists():
+            raise FileNotFoundError(f"Illustration missing for chapter {chapter}: {image_path}")
+        illustrations[chapter_number] = Illustration(
+            chapter=chapter_number,
+            file=entry["file"],
+            alt=entry["alt"],
+            caption=entry["caption"],
+        )
+    return illustrations
 
 
 def read_manuscript_parts() -> list[str]:
@@ -54,10 +85,42 @@ def read_manuscript_parts() -> list[str]:
     return parts
 
 
-def combined_markdown(parts: list[str]) -> str:
+def combined_markdown(parts: list[str], illustrations: dict[int, Illustration]) -> str:
     body = "\n\n---\n\n".join(parts)
     body = re.sub(r"^# Lars Odin\s*", "", body, flags=re.M).strip()
-    return f"# {TITLE}\n\n{body}\n"
+    markdown = f"# {TITLE}\n\n{body}\n"
+
+    if not illustrations:
+        return markdown
+
+    lines: list[str] = []
+    for line in markdown.splitlines():
+        lines.append(line)
+        match = re.match(r"^#{1,2}\s+Chapter\s+(\d+):\s+.+$", line)
+        if not match:
+            continue
+
+        chapter = int(match.group(1))
+        illustration = illustrations.get(chapter)
+        if illustration:
+            image_path = f"../assets/illustrations/{illustration.file}"
+            lines.extend(
+                [
+                    "",
+                    f"![{illustration.alt}]({image_path})",
+                    "",
+                    f"*{illustration.caption}*",
+                ]
+            )
+
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def rewrite_epub_image_path(path: str) -> str:
+    prefix = "../assets/illustrations/"
+    if path.startswith(prefix):
+        return f"images/{Path(path).name}"
+    return path
 
 
 def slugify(value: str) -> str:
@@ -71,7 +134,11 @@ def inline_markdown(value: str) -> str:
     return value
 
 
-def markdown_to_html_body(markdown: str, heading_ids: bool = False) -> str:
+def markdown_to_html_body(
+    markdown: str,
+    heading_ids: bool = False,
+    image_path_rewriter=None,
+) -> str:
     body: list[str] = []
     paragraph: list[str] = []
 
@@ -80,14 +147,45 @@ def markdown_to_html_body(markdown: str, heading_ids: bool = False) -> str:
             body.append("<p>" + inline_markdown(" ".join(paragraph)) + "</p>")
             paragraph.clear()
 
-    for line in markdown.splitlines():
+    lines = markdown.splitlines()
+    index = 0
+    while index < len(lines):
+        line = lines[index]
         stripped = line.strip()
         if not stripped:
             flush_paragraph()
+            index += 1
             continue
         if stripped == "---":
             flush_paragraph()
             body.append("<hr />")
+            index += 1
+            continue
+
+        image = re.match(r"^!\[(.*)\]\((.*)\)$", stripped)
+        if image:
+            flush_paragraph()
+            alt = image.group(1)
+            src = image.group(2)
+            if image_path_rewriter:
+                src = image_path_rewriter(src)
+
+            caption = ""
+            if index + 2 < len(lines) and not lines[index + 1].strip():
+                caption_match = re.match(r"^\*(.+)\*$", lines[index + 2].strip())
+                if caption_match:
+                    caption = caption_match.group(1)
+                    index += 2
+
+            figure = [
+                '<figure class="chapter-illustration">',
+                f'<img src="{html.escape(src)}" alt="{html.escape(alt)}" />',
+            ]
+            if caption:
+                figure.append(f"<figcaption>{inline_markdown(caption)}</figcaption>")
+            figure.append("</figure>")
+            body.append("\n".join(figure))
+            index += 1
             continue
 
         heading = re.match(r"^(#{1,6})\s+(.*)$", stripped)
@@ -97,9 +195,11 @@ def markdown_to_html_body(markdown: str, heading_ids: bool = False) -> str:
             title = heading.group(2)
             section_id = f' id="{slugify(title)}"' if heading_ids else ""
             body.append(f"<h{level}{section_id}>{inline_markdown(title)}</h{level}>")
+            index += 1
             continue
 
         paragraph.append(stripped)
+        index += 1
 
     flush_paragraph()
     return "\n".join(body)
@@ -168,6 +268,9 @@ h1 { margin-top: 0; }
 h2 { margin-top: 3rem; }
 p { margin: 1rem 0; }
 hr { border: 0; border-top: 1px solid #ddd3c4; margin: 2.5rem 0; }
+.chapter-illustration { margin: 1.5rem auto 2rem; text-align: center; }
+.chapter-illustration img { max-width: 100%; height: auto; border: 1px solid #d8d0c2; background: #f7f3ea; }
+.chapter-illustration figcaption { margin-top: 0.5rem; font-size: 0.9rem; font-style: italic; color: #5f574c; }
 """
 
 
@@ -218,11 +321,15 @@ def build_ncx(sections: list[Section], uid: str) -> str:
 """
 
 
-def build_opf(sections: list[Section], uid: str) -> str:
+def build_opf(sections: list[Section], uid: str, illustrations: dict[int, Illustration]) -> str:
     modified = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     manifest_chapters = "\n".join(
         f'    <item id="chapter-{index:02d}" href="{section.filename}" media-type="application/xhtml+xml" />'
         for index, section in enumerate(sections, start=1)
+    )
+    manifest_images = "\n".join(
+        f'    <item id="image-{illustration.chapter:02d}" href="images/{illustration.file}" media-type="image/png" />'
+        for illustration in sorted(illustrations.values(), key=lambda item: item.chapter)
     )
     spine_chapters = "\n".join(
         f'    <itemref idref="chapter-{index:02d}" />'
@@ -242,6 +349,7 @@ def build_opf(sections: list[Section], uid: str) -> str:
     <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
     <item id="css" href="style.css" media-type="text/css" />
+{manifest_images}
 {manifest_chapters}
   </manifest>
   <spine toc="ncx">
@@ -251,7 +359,7 @@ def build_opf(sections: list[Section], uid: str) -> str:
 """
 
 
-def build_epub(sections: list[Section], epub_path: Path) -> None:
+def build_epub(sections: list[Section], epub_path: Path, illustrations: dict[int, Illustration]) -> None:
     uid = f"urn:uuid:{uuid.uuid4()}"
     container = """<?xml version="1.0" encoding="UTF-8"?>
 <container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
@@ -263,12 +371,19 @@ def build_epub(sections: list[Section], epub_path: Path) -> None:
     with zipfile.ZipFile(epub_path, "w") as epub:
         epub.writestr("mimetype", "application/epub+zip", compress_type=zipfile.ZIP_STORED)
         epub.writestr("META-INF/container.xml", container)
-        epub.writestr("EPUB/package.opf", build_opf(sections, uid))
+        epub.writestr("EPUB/package.opf", build_opf(sections, uid, illustrations))
         epub.writestr("EPUB/nav.xhtml", build_nav(sections))
         epub.writestr("EPUB/toc.ncx", build_ncx(sections, uid))
         epub.writestr("EPUB/style.css", css())
+        for illustration in illustrations.values():
+            image_path = ILLUSTRATIONS / illustration.file
+            epub.write(image_path, f"EPUB/images/{illustration.file}")
         for section in sections:
-            body = markdown_to_html_body(section.markdown, heading_ids=True)
+            body = markdown_to_html_body(
+                section.markdown,
+                heading_ids=True,
+                image_path_rewriter=rewrite_epub_image_path,
+            )
             epub.writestr(f"EPUB/{section.filename}", xhtml_document(section.title, body))
 
 
@@ -295,6 +410,7 @@ EPUB structure:
 - {chapter_count} chapter files in the reading spine
 - EPUB 3 `nav.xhtml` table of contents
 - EPUB 2 `toc.ncx` table of contents for older readers
+- Chapter-opening illustrations are included when present in `../assets/illustrations/manifest.json`
 
 Generated: {datetime.now().strftime("%Y-%m-%d %H:%M")}
 """,
@@ -305,7 +421,8 @@ Generated: {datetime.now().strftime("%Y-%m-%d %H:%M")}
 def main() -> None:
     EXPORTS.mkdir(exist_ok=True)
     parts = read_manuscript_parts()
-    markdown = combined_markdown(parts)
+    illustrations = load_illustrations()
+    markdown = combined_markdown(parts, illustrations)
     sections = split_chapters(markdown)
 
     if len(sections) != 55:
@@ -314,10 +431,10 @@ def main() -> None:
     (EXPORTS / "lars-odin-preferred-draft.md").write_text(markdown, encoding="utf-8")
     html_body = markdown_to_html_body(markdown, heading_ids=True)
     (EXPORTS / "lars-odin-preferred-draft.html").write_text(html_document(html_body), encoding="utf-8")
-    build_epub(sections, EXPORTS / "lars-odin-preferred-draft.epub")
+    build_epub(sections, EXPORTS / "lars-odin-preferred-draft.epub", illustrations)
     write_readme(len(sections))
 
-    print(f"Generated exports with {len(sections)} chapters")
+    print(f"Generated exports with {len(sections)} chapters and {len(illustrations)} illustrations")
 
 
 if __name__ == "__main__":

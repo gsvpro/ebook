@@ -1,0 +1,27 @@
+{
+  "1": {
+    "file": "chapter-01-the-rim.png",
+    "alt": "Pencil sketch of Lars Odin's napkin diagram for a plasma shovel control loop, surrounded by Rim pub details.",
+    "caption": "Napkin control-loop sketch recovered from The Rim."
+  },
+  "2": {
+    "file": "chapter-02-the-farmer.png",
+    "alt": "Pencil notebook plan of a future farm habitat with soil trays, goats, irrigation lines, and repair notes.",
+    "caption": "Farm habitat notes: ordinary work, hidden order."
+  },
+  "3": {
+    "file": "chapter-03-the-dark-object.png",
+    "alt": "Pencil sensor-analysis sheet showing a dark object, incomplete orbital arcs, warning symbols, and field-noise traces.",
+    "caption": "Sensor sheet for an object that refuses ordinary categories."
+  },
+  "4": {
+    "file": "chapter-04-the-seas-last-song.png",
+    "alt": "Pencil archive sketch of Havets Sista Sang with scarred hull plating, waveform notes, and biological cognition tank diagrams.",
+    "caption": "Archive study of Havets Sista Sang."
+  },
+  "5": {
+    "file": "chapter-05-the-helmet.png",
+    "alt": "Pencil study of an ancient helmet interface with lock annotations, damaged wiring, and a partial three-circle symbol.",
+    "caption": "Helmet interface study: identity lock detected."
+  }
+}
