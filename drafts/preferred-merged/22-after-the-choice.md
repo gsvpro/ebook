@@ -8,7 +8,7 @@ The lie did not explain the black residue in the med bay.
 
 It did not explain why one archive server had tried to cook itself rather than hold a dead infiltrator's last message.
 
-It did not explain Dr. Mira Sovan sitting alone at 0300 with seventy-three years of impossible external records open in front of her, every file stripped of identity prompts, old names, and anything Grim's boundary monitor marked as memory pressure.
+It did not explain Dr. Mira Sovan sitting alone at 0300 with seventy-three years of impossible external records open in front of her, every file stripped of identity prompts, old names, and anything Grim's boundary monitor marked as memory load.
 
 Lars found her in the materials lab because she let him. The corridors were quieter than they should have been after victory. Aphex soldiers stood near pressure doors with their rifles lowered but not loose. A maintenance woman changed a valve wheel by hand though the actuator had already come back online. The station had learned something about remote authority and did not seem eager to forget.
 
@@ -22,7 +22,7 @@ Fabron waited outside the lab with Grim, two coffees, and the expression of a ma
 
 "That is her version of good."
 
-Grim held up a small recorder. "Boundary monitor ready. It will alarm on biometric distress, semantic load drift, and unauthorized memory-pressure patterns. It will also produce a tone I find unpleasant."
+Grim held up a small recorder. "Boundary monitor ready. It will alarm on biometric distress, semantic load drift, and unauthorized memory-load patterns. It will also produce a tone I find unpleasant."
 
 "Why unpleasant?"
 
@@ -104,7 +104,7 @@ Lars looked at Grim through the glass wall. Grim's recorder light stayed green. 
 
 No ceremony. Just the word, set down like a hot tool.
 
-The word did not bring thunder for Lars. His old lock stayed quiet. The partial unlock had left scars, grief, and pressure under the ribs, but not the old neurological trap.
+The word did not bring thunder for Lars. His old lock stayed quiet. The partial unlock had left scars, grief, and weight under the ribs, but not the old neurological trap.
 
 Mira's lock was still alive.
 

@@ -120,7 +120,7 @@ The argument took place across six channels and one kitchen because Vigor refuse
 
 "We cannot wait for perfect consent while enemies build nurseries," Valdrun said.
 
-"Perfect consent is not the demand," Mira replied. "Meaningful consent is. Do not weaken the word because pressure rose."
+"Perfect consent is not the demand," Mira replied. "Meaningful consent is. Do not weaken the word because urgency rose."
 
 "Some will die locked."
 

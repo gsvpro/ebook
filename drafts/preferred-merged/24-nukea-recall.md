@@ -74,7 +74,7 @@ Kint objected. She had a binder full of approvals and the brittle courage of a c
 
 "Told them," Rauk said. "Used smaller words, too."
 
-The solution had to look bureaucratic. If Lars simply overrode NUKEA with Aphex pressure, the next supervisor would arrive with lawyers and a cleaner knife. The halt had to grow from Havskant's own records.
+The solution had to look bureaucratic. If Lars simply overrode NUKEA with Aphex leverage, the next supervisor would arrive with lawyers and a cleaner knife. The halt had to grow from Havskant's own records.
 
 So they built a wall out of boredom.
 

@@ -38,7 +38,7 @@ Their leader called herself Mother Pell, though she was thirty-two, cybernetical
 
 She welcomed them beneath the cupola.
 
-Door Nine hung beyond the glass like a broken ring made of shadow and blue tension. It did not glow so much as disagree with the darkness around it. Sensor ghosts crawled along its inner edge. The old object had mass, but not enough. It had field pressure, but not in the right place. It was Creator work trying to imitate something older, and the imitation had aged badly.
+Door Nine hung beyond the glass like a broken ring made of shadow and blue tension. It did not glow so much as disagree with the darkness around it. Sensor ghosts crawled along its inner edge. The old object had mass, but not enough. It had field tension, but not in the right place. It was Creator work trying to imitate something older, and the imitation had aged badly.
 
 "We stand before the silence that birthed all roads," Pell said.
 

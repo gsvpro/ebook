@@ -70,7 +70,7 @@ Fabron turned slowly. "Time anomalies are an unacceptable reporting category."
 
 Mira analyzed the probe for six hours. Her voice got flatter as the model improved, which was how Lars knew she was either excited or furious.
 
-"Not time travel in the dramatic sense. Field correlation across probable local states. The communication layer is loading nearby possibilities into matter systems below design tolerance. The probe did not visit the future. It coupled to a nearby state where your sentence already existed as a pressure pattern. Consciousness projection could ride that if coupled to prepared substrate. Bad models call it prophecy or ghosts."
+"Not time travel in the dramatic sense. Field correlation across probable local states. The communication layer is loading nearby possibilities into matter systems below design tolerance. The probe did not visit the future. It coupled to a nearby state where your sentence already existed as a field pattern. Consciousness projection could ride that if coupled to prepared substrate. Bad models call it prophecy or ghosts."
 
 "And a good model?"
 

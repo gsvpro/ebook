@@ -176,7 +176,7 @@ Not with innocence. Not with evil. With an unfinished hunger for continuity.
 
 It asked, in no language Lars knew, whether it had been made wrong.
 
-The question arrived through field vibration, vat pressure, and the part of the room that older machines used for almost-meaning. Grim tried to categorize it and failed loudly.
+The question arrived through field vibration, vat compression, and the part of the room that older machines used for almost-meaning. Grim tried to categorize it and failed loudly.
 
 "Possible proto-person. Possible interface echo. Possible suffering-shaped control loop. Probability distribution unacceptable. I require a better universe."
 

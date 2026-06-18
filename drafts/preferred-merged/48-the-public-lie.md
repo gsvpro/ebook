@@ -178,7 +178,7 @@ Pail flinched, then nodded. "Will you tell us someday?"
 
 Pail was quiet.
 
-Lars softened because the man had come to ask instead of preach. "You want all of it now because the smaller story lied to you. I get it. But people panic when the pressure changes too fast. First you stabilize the room. Then you tell them more."
+Lars softened because the man had come to ask instead of preach. "You want all of it now because the smaller story lied to you. I get it. But people panic when the story changes too fast. First you stabilize the room. Then you tell them more."
 
 Pail wiped his eyes with the heel of his hand, angry at the evidence of them. "I can tell people to breathe."
 

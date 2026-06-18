@@ -32,7 +32,7 @@ Coherence was partial.
 
 That had to be enough.
 
-Each function had a stop condition. Valdrun could not expose Havets again without distributed assent. Lars could not pursue if Fastulv's bait role started costing civilian lanes. Vigor could not push repair networks into danger they had not accepted. Ödesvaka could close Arkology gates against any guardian, including Lars. Guardian Channel Two could refuse routing without explaining why. Ren could stop flying if the partial memory load crossed his medical boundary. Mira could terminate analysis if identity pressure entered the channel.
+Each function had a stop condition. Valdrun could not expose Havets again without distributed assent. Lars could not pursue if Fastulv's bait role started costing civilian lanes. Vigor could not push repair networks into danger they had not accepted. Ödesvaka could close Arkology gates against any guardian, including Lars. Guardian Channel Two could refuse routing without explaining why. Ren could stop flying if the partial memory load crossed his medical boundary. Mira could terminate analysis if identity load entered the channel.
 
 The seven were not power.
 

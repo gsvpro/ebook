@@ -2,7 +2,7 @@
 
 Grim detected the Nomads first and hated the word heard.
 
-"It is not sound, light, gravity, or language," he said. "It is pressure across mind-adjacent systems—brains, fields, nanobots, all of it. Calling it noise is imprecise. Calling it signal is vanity."
+"It is not sound, light, gravity, or language," he said. "It is force across mind-adjacent systems—brains, fields, nanobots, all of it. Calling it noise is imprecise. Calling it signal is vanity."
 
 "So naturally we call it Nomad noise," Lars said.
 

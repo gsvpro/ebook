@@ -14,7 +14,7 @@ Anchor-side only: Lyra in a medical cradle on Astra Lumara, sensors on her skull
 
 On screen, Lyra lay in the cradle with frost still in her hair from an earlier walk across the outpost, eyes open, not seeing the lab. Her mouth moved.
 
-"Coupling strip woke late," she said. Her voice was flat with concentration. "Filling the gap. Seconds of black. Pressure without direction. Then the sensation of being asked questions by dust. Dormant nanobots with no host. A lattice left by engineers who had stopped needing bodies long before we learned to feel shame about vacuum."
+"Coupling strip woke late," she said. Her voice was flat with concentration. "Filling the gap. Seconds of black. Compression without direction. Then the sensation of being asked questions by dust. Dormant nanobots with no host. A lattice left by engineers who had stopped needing bodies long before we learned to feel shame about vacuum."
 
 She had reverse-engineered enough from the nanotechnology in her own blood to speak their dialect badly.
 
@@ -212,7 +212,7 @@ Lars closed his eyes for half a second and ran the experiment he could afford.
 
 Not travel. Listening.
 
-His blood machines had stopped fighting him once the lock stopped treating curiosity as treason. Now they mapped pressure the way Lyra's archive described: toward coupling, toward substrate, toward anything in the bay that wanted a host. The coil pulled like a magnet on the wrong alloy. Local Havets nanonet waking under stress, not sleeping dust three light-hours away. No abort path. Still useful.
+His blood machines had stopped fighting him once the lock stopped treating curiosity as treason. Now they mapped pull the way Lyra's archive described: toward coupling, toward substrate, toward anything in the bay that wanted a host. The coil pulled like a magnet on the wrong alloy. Local Havets nanonet waking under stress, not sleeping dust three light-hours away. No abort path. Still useful.
 
 "Local substrate only," he said. "No remote anchor. Someone built a body here from ship stock or bay residue."
 
@@ -224,11 +224,11 @@ He stepped under the coil housing to reach the manual breaker. The floor plating
 
 The coil screamed.
 
-Not sound. Pressure in the bones. The bay's atmosphere began to slide toward the breach forming above the housing. Lars's ears popped. His vision narrowed. For one stupid second he thought of ration bars and hospital coffee and the word coherence as a joke people told when machines refused to die politely.
+Not sound. Force in the bones. The bay's atmosphere began to slide toward the breach forming above the housing. Lars's ears popped. His vision narrowed. For one stupid second he thought of ration bars and hospital coffee and the word coherence as a joke people told when machines refused to die politely.
 
 Then someone stood between him and the coil who had not been there a heartbeat before.
 
-Tall. Uniformed. Not Valdrun's battered half-machine bulk and not Aphex polished aggression. Aerit guardian cut: charcoal flex-armor over pale engineered tissue, seams traced in cold blue the way Station Zero marked systems that were allowed to think. A guardian helmet, Aerit-made, smooth at the jaw and ridged at the temples where memory-anchor interfaces lived when identity had to be held under stress. On the breastplate, three interlocking circles with a crack left deliberately unrepaired. A narrow band of hash marks below them looked like ornament until you realized no one had time to count under cascade pressure.
+Tall. Uniformed. Not Valdrun's battered half-machine bulk and not Aphex polished aggression. Aerit guardian cut: charcoal flex-armor over pale engineered tissue, seams traced in cold blue the way Station Zero marked systems that were allowed to think. A guardian helmet, Aerit-made, smooth at the jaw and ridged at the temples where memory-anchor interfaces lived when identity had to be held under stress. On the breastplate, three interlocking circles with a crack left deliberately unrepaired. A narrow band of hash marks below them looked like ornament until you realized no one had time to count under cascade overload.
 
 The figure moved like someone who had practiced embodiment until fear became checklist.
 

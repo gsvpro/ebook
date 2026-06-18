@@ -4,7 +4,7 @@ The signal came through a kitchen freezer because Vigor distrusted elegant commu
 
 One moment Lars stared at frozen goat. The next, frost on the back wall rearranged into seven broken circles and a line of old Aerit compression that made his restored memory lean forward like a dog hearing its name.
 
-No pain spike. No locked-door recoil. Only pressure under the ribs.
+No pain spike. No locked-door recoil. Only weight under the ribs.
 
 The cold room seemed to get larger. Condensation trembled on meat hooks. Somewhere beyond the insulated walls, the last dishes from Vigor's midnight meal clattered in warm water while a room full of tired people pretended they were only feeding each other.
 
@@ -140,7 +140,7 @@ Then the platform transmitted in Mira's voice.
 
 "Coherence?"
 
-The word came through Fastulv's speakers, Havets's hidden channel, and the suit bones at the same time. It was Mira's tone, Mira's clipped pressure on the consonants, Mira's refusal to decorate a question. It was not Mira.
+The word came through Fastulv's speakers, Havets's hidden channel, and the suit bones at the same time. It was Mira's tone, Mira's clipped bite on the consonants, Mira's refusal to decorate a question. It was not Mira.
 
 Sixty light-minutes away, she stared at her own waveform on L-Prime. Her face went still in the way materials go still before fracture.
 

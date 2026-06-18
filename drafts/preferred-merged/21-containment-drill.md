@@ -30,7 +30,7 @@ Fabron's voice came tight through the channel. "All local detachments, containme
 
 Fastulv detached from Dock Two with every running light bright, every transponder loud, and its visible weapons arranged like an elderly freighter trying very hard to look suicidal. Lars wanted the hostile ships to see the wolf. He wanted them to believe all the old violence was outside, rusty and theatrical, away from the station's soft blood.
 
-Havets Sista Sång stayed absent from Aphex sensors, a hidden pressure behind the station's skin.
+Havets Sista Sång stayed absent from Aphex sensors, a hidden presence behind the station's skin.
 
 The old ship did not announce itself. It slid its attention through maintenance relays, hand overrides, chapel kitchen circuits, station guild tags, and old local caches Fabron's Clear Hand people had kept as ritual without knowing why. On one deck, a cook saw a freezer light blink twice and closed the manual fire doors before the remote panel woke. In a refinery crawlspace, a pipefitter felt the vibration pattern change. He spun a brass wheel his apprentice had been told never to touch unless the air tasted like pennies.
 

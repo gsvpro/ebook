@@ -94,8 +94,7 @@ Something moved at the edge of memory.
 
 Not a memory.
 
-A pressure.
-
+A pull.
 Her hand rose to the back of her neck before she could stop it.
 
 The ache faded.

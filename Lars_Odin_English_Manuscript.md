@@ -320,7 +320,7 @@ The corridor became too quiet.
 
 Lars stopped walking.
 
-The pressure changed.
+Something shifted.
 
 Not enough for a normal person to notice. A tiny compression front moving through recycled air. Heat rising behind it. Electromagnetic noise blooming in an ugly, disciplined pattern.
 
@@ -618,7 +618,7 @@ Not a god.
 
 Not nonsense.
 
-A signal, maybe. A statistical pressure. A pattern too faint for instruments and too persistent for imagination.
+A signal, maybe. A statistical pull. A pattern too faint for instruments and too persistent for imagination.
 
 The back of his neck began to ache.
 
@@ -1576,7 +1576,7 @@ Lars pushed himself into the halo.
 
 The scan hit him in less than a microsecond.
 
-His suit did not detect it. His body did. A cold, precise pressure passed through his bones, blood, nerves, and skull. Not destructive. Evaluative. It ran through him with the intimacy of a medical procedure and the speed of a weapons lock.
+His suit did not detect it. His body did. A cold, precise force passed through his bones, blood, nerves, and skull. Not destructive. Evaluative. It ran through him with the intimacy of a medical procedure and the speed of a weapons lock.
 
 His hands tingled.
 
@@ -1592,7 +1592,7 @@ Lars put his hand there.
 
 "I noticed."
 
-The pressure returned, this time inside his mind.
+The pull returned, this time inside his mind.
 
 Not thought reading. That was too crude a phrase. It was pattern comparison. Neural architecture. Blood chemistry. Unknown machines in his bloodstream responding before he knew they were there.
 
@@ -1604,7 +1604,7 @@ The scan deepened.
 
 Images sparked behind his eyes: a child running along a white corridor; a blue-white man laughing; a woman's hand resting on a control surface; seven points of light arranged around a dark center; a word he could not hear without pain.
 
-Then the pressure vanished.
+Then it vanished.
 
 Lars gasped.
 
@@ -1676,7 +1676,7 @@ He killed it before it could stand up.
 
 "No one wants those."
 
-They walked thirty meters to a wall console. It had no buttons. No screen in the ordinary sense. When Lars approached, symbols surfaced in pale green and blue layers, some visible, some sitting above visibility like pressure behind the eyes.
+They walked thirty meters to a wall console. It had no buttons. No screen in the ordinary sense. When Lars approached, symbols surfaced in pale green and blue layers, some visible, some sitting above visibility like weight behind the eyes.
 
 Grim adjusted his optics again.
 
@@ -2712,7 +2712,7 @@ For once, Lars did not answer.
 
 The pattern began to move.
 
-At first it was only light. Then timing. Then pressure. The emitters pulsed in ratios that did not repeat but never became random. His breathing tried to follow them. His pulse corrected. Somewhere in his blood, systems he did not remember owning answered.
+At first it was only light. Then timing. Then compression. The emitters pulsed in ratios that did not repeat but never became random. His breathing tried to follow them. His pulse corrected. Somewhere in his blood, systems he did not remember owning answered.
 
 The headache changed shape.
 
@@ -3004,7 +3004,7 @@ That was one of the hardest parts.
 
 Being known by a stranger.
 
-"Why now?" Lars asked. "Not destiny. Not poetry. Why did the pressure spike now?"
+"Why now?" Lars asked. "Not destiny. Not poetry. Why did the signal spike now?"
 
 Valdrun gestured to the wall. The station replaced the map with a slow-moving model of the Milky Way: traffic corridors, conflict zones, collapsed colonies, energy consumption clusters, signal noise, corporate sovereignties, war fronts, quarantine regions, slave routes hidden under euphemistic logistics tags, and several expanding territories marked with Black Hole B-7 influence.
 
@@ -3014,7 +3014,7 @@ Not dying. Not yet.
 
 Sick the way an overgrown machine became sick: too many dependencies, too much appetite, too many people profiting from fragility.
 
-"Lyra expected pressure thresholds," Valdrun said. "Not dates. Conditions. When enough indicators crossed, hidden systems would begin biasing dispersed Aerit cognition toward return paths."
+"Lyra expected activation thresholds," Valdrun said. "Not dates. Conditions. When enough indicators crossed, hidden systems would begin biasing dispersed Aerit cognition toward return paths."
 
 "Indicators."
 
@@ -3284,9 +3284,9 @@ Grim broke the silence first.
 
 "That is deeply unfair to her."
 
-"She also complained about French people under pressure."
+"She also complained about French people under strain."
 
-Valdrun rested both hands on the table. "That log is before Heliostat. Before the Kalari. Before the Rakh'Na attack in 2083. Before the word Återviens. It is not the doctrine. It is the pressure that made the doctrine possible."
+Valdrun rested both hands on the table. "That log is before Heliostat. Before the Kalari. Before the Rakh'Na attack in 2083. Before the word Återviens. It is not the doctrine. It is the strain that made the doctrine possible."
 
 Lars looked at the filaments.
 
@@ -4844,7 +4844,7 @@ No pain.
 
 No lock.
 
-Only the strange pressure of command access recognizing him.
+Only the strange pull of command access recognizing him.
 
 "Bring her in."
 
@@ -5036,7 +5036,7 @@ Lars continued, slower. "So the interventions have to look local. Boring. Like m
 
 "Then mine is better."
 
-The planning chamber accepted the principle. The model shifted, replacing several direct intervention arrows with softer pressure loops: anonymous technical fixes, cultural seeding, targeted exposure of predatory actors, hidden evacuation routes, quiet restoration of local manufacturing, and communication protocols disguised as ordinary trade redundancy.
+The planning chamber accepted the principle. The model shifted, replacing several direct intervention arrows with softer influence loops: anonymous technical fixes, cultural seeding, targeted exposure of predatory actors, hidden evacuation routes, quiet restoration of local manufacturing, and communication protocols disguised as ordinary trade redundancy.
 
 "We need names," Lars said. "Not for the whole thing. For the first operation."
 

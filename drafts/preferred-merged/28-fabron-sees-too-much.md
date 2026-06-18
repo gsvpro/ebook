@@ -52,7 +52,7 @@ Fabron turned back to Lars. He had rehearsed six versions of the question. None 
 
 Lars hated the question less than expected. Fabron was not asking as zealot or collector. He was asking as an officer who had realized the battlefield extended under his childhood and had the decency to be angry about it.
 
-"Aerit," Lars said. "Human-adjacent, not exactly human anymore. Pluto artifact contact, survival, GRIN, Kalari pressure, Heliostat mistakes, and fifty years of very expensive stupidity wearing lab coats. Not gods. Old idiots who learned maintenance before dying got boring."
+"Aerit," Lars said. "Human-adjacent, not exactly human anymore. Pluto artifact contact, survival, GRIN, Kalari strain, Heliostat mistakes, and fifty years of very expensive stupidity wearing lab coats. Not gods. Old idiots who learned maintenance before dying got boring."
 
 Fabron absorbed this without screaming.
 
@@ -84,7 +84,7 @@ Fabron opened the paper notebook. Between notes on the survey platform and Mira'
 
 Lars saw the emblem and memory stirred.
 
-Not a migraine. Not the old lock. A pressure of recovered things behind the ribs: Heliostat corridors full of tired people making culture out of emergency procedure. Lyra arguing that encryption died when keys died, but a habit could survive being misunderstood. Someone painting three circles on a pump casing because the pump had saved fifty children and deserved a mark that said do not centralize this.
+Not a migraine. Not the old lock. A weight of recovered things behind the ribs: Heliostat corridors full of tired people making culture out of emergency procedure. Lyra arguing that encryption died when keys died, but a habit could survive being misunderstood. Someone painting three circles on a pump casing because the pump had saved fifty children and deserved a mark that said do not centralize this.
 
 "Not your branch," Lars said. "But I know the ancestor pattern."
 

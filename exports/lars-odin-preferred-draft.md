@@ -324,7 +324,7 @@ The corridor became too quiet.
 
 Lars stopped walking.
 
-The pressure changed.
+Something shifted.
 
 Not enough for a normal person to notice. A tiny compression front moving through recycled air. Heat rising behind it. Electromagnetic noise blooming in an ugly, disciplined pattern.
 
@@ -622,7 +622,7 @@ Not a god.
 
 Not nonsense.
 
-A signal, maybe. A statistical pressure. A pattern too faint for instruments and too persistent for imagination.
+A signal, maybe. A statistical pull. A pattern too faint for instruments and too persistent for imagination.
 
 The back of his neck began to ache.
 
@@ -1588,7 +1588,7 @@ Lars pushed himself into the halo.
 
 The scan hit him in less than a microsecond.
 
-His suit did not detect it. His body did. A cold, precise pressure passed through his bones, blood, nerves, and skull. Not destructive. Evaluative. It ran through him with the intimacy of a medical procedure and the speed of a weapons lock.
+His suit did not detect it. His body did. A cold, precise force passed through his bones, blood, nerves, and skull. Not destructive. Evaluative. It ran through him with the intimacy of a medical procedure and the speed of a weapons lock.
 
 His hands tingled.
 
@@ -1604,7 +1604,7 @@ Lars put his hand there.
 
 "I noticed."
 
-The pressure returned, this time inside his mind.
+The pull returned, this time inside his mind.
 
 Not thought reading. That was too crude a phrase. It was pattern comparison. Neural architecture. Blood chemistry. Unknown machines in his bloodstream responding before he knew they were there.
 
@@ -1616,7 +1616,7 @@ The scan deepened.
 
 Images sparked behind his eyes: a child running along a white corridor; a blue-white man laughing; a woman's hand resting on a control surface; seven points of light arranged around a dark center; a word he could not hear without pain.
 
-Then the pressure vanished.
+Then it vanished.
 
 Lars gasped.
 
@@ -1688,7 +1688,7 @@ He killed it before it could stand up.
 
 "No one wants those."
 
-They walked thirty meters to a wall console. It had no buttons. No screen in the ordinary sense. When Lars approached, symbols surfaced in pale green and blue layers, some visible, some sitting above visibility like pressure behind the eyes.
+They walked thirty meters to a wall console. It had no buttons. No screen in the ordinary sense. When Lars approached, symbols surfaced in pale green and blue layers, some visible, some sitting above visibility like weight behind the eyes.
 
 Grim adjusted his optics again.
 
@@ -2732,7 +2732,7 @@ For once, Lars did not answer.
 
 The pattern began to move.
 
-At first it was only light. Then timing. Then pressure. The emitters pulsed in ratios that did not repeat but never became random. His breathing tried to follow them. His pulse corrected. Somewhere in his blood, systems he did not remember owning answered.
+At first it was only light. Then timing. Then compression. The emitters pulsed in ratios that did not repeat but never became random. His breathing tried to follow them. His pulse corrected. Somewhere in his blood, systems he did not remember owning answered.
 
 The headache changed shape.
 
@@ -3028,7 +3028,7 @@ That was one of the hardest parts.
 
 Being known by a stranger.
 
-"Why now?" Lars asked. "Not destiny. Not poetry. Why did the pressure spike now?"
+"Why now?" Lars asked. "Not destiny. Not poetry. Why did the signal spike now?"
 
 Valdrun gestured to the wall. The station replaced the map with a slow-moving model of the Milky Way: traffic corridors, conflict zones, collapsed colonies, energy consumption clusters, signal noise, corporate sovereignties, war fronts, quarantine regions, slave routes hidden under euphemistic logistics tags, and several expanding territories marked with Black Hole B-7 influence.
 
@@ -3038,7 +3038,7 @@ Not dying. Not yet.
 
 Sick the way an overgrown machine became sick: too many dependencies, too much appetite, too many people profiting from fragility.
 
-"Lyra expected pressure thresholds," Valdrun said. "Not dates. Conditions. When enough indicators crossed, hidden systems would begin biasing dispersed Aerit cognition toward return paths."
+"Lyra expected activation thresholds," Valdrun said. "Not dates. Conditions. When enough indicators crossed, hidden systems would begin biasing dispersed Aerit cognition toward return paths."
 
 "Indicators."
 
@@ -3308,9 +3308,9 @@ Grim broke the silence first.
 
 "That is deeply unfair to her."
 
-"She also complained about French people under pressure."
+"She also complained about French people under strain."
 
-Valdrun rested both hands on the table. "That log is before Heliostat. Before the Kalari. Before the Rakh'Na attack in 2083. Before the word Återviens. It is not the doctrine. It is the pressure that made the doctrine possible."
+Valdrun rested both hands on the table. "That log is before Heliostat. Before the Kalari. Before the Rakh'Na attack in 2083. Before the word Återviens. It is not the doctrine. It is the strain that made the doctrine possible."
 
 Lars looked at the filaments.
 
@@ -4876,7 +4876,7 @@ No pain.
 
 No lock.
 
-Only the strange pressure of command access recognizing him.
+Only the strange pull of command access recognizing him.
 
 "Bring her in."
 
@@ -5068,7 +5068,7 @@ Lars continued, slower. "So the interventions have to look local. Boring. Like m
 
 "Then mine is better."
 
-The planning chamber accepted the principle. The model shifted, replacing several direct intervention arrows with softer pressure loops: anonymous technical fixes, cultural seeding, targeted exposure of predatory actors, hidden evacuation routes, quiet restoration of local manufacturing, and communication protocols disguised as ordinary trade redundancy.
+The planning chamber accepted the principle. The model shifted, replacing several direct intervention arrows with softer influence loops: anonymous technical fixes, cultural seeding, targeted exposure of predatory actors, hidden evacuation routes, quiet restoration of local manufacturing, and communication protocols disguised as ordinary trade redundancy.
 
 "We need names," Lars said. "Not for the whole thing. For the first operation."
 
@@ -6248,8 +6248,7 @@ Something moved at the edge of memory.
 
 Not a memory.
 
-A pressure.
-
+A pull.
 Her hand rose to the back of her neck before she could stop it.
 
 The ache faded.
@@ -7156,7 +7155,7 @@ Fabron's voice came tight through the channel. "All local detachments, containme
 
 Fastulv detached from Dock Two with every running light bright, every transponder loud, and its visible weapons arranged like an elderly freighter trying very hard to look suicidal. Lars wanted the hostile ships to see the wolf. He wanted them to believe all the old violence was outside, rusty and theatrical, away from the station's soft blood.
 
-Havets Sista Sång stayed absent from Aphex sensors, a hidden pressure behind the station's skin.
+Havets Sista Sång stayed absent from Aphex sensors, a hidden presence behind the station's skin.
 
 The old ship did not announce itself. It slid its attention through maintenance relays, hand overrides, chapel kitchen circuits, station guild tags, and old local caches Fabron's Clear Hand people had kept as ritual without knowing why. On one deck, a cook saw a freezer light blink twice and closed the manual fire doors before the remote panel woke. In a refinery crawlspace, a pipefitter felt the vibration pattern change. He spun a brass wheel his apprentice had been told never to touch unless the air tasted like pennies.
 
@@ -7286,7 +7285,7 @@ The lie did not explain the black residue in the med bay.
 
 It did not explain why one archive server had tried to cook itself rather than hold a dead infiltrator's last message.
 
-It did not explain Dr. Mira Sovan sitting alone at 0300 with seventy-three years of impossible external records open in front of her, every file stripped of identity prompts, old names, and anything Grim's boundary monitor marked as memory pressure.
+It did not explain Dr. Mira Sovan sitting alone at 0300 with seventy-three years of impossible external records open in front of her, every file stripped of identity prompts, old names, and anything Grim's boundary monitor marked as memory load.
 
 Lars found her in the materials lab because she let him. The corridors were quieter than they should have been after victory. Aphex soldiers stood near pressure doors with their rifles lowered but not loose. A maintenance woman changed a valve wheel by hand though the actuator had already come back online. The station had learned something about remote authority and did not seem eager to forget.
 
@@ -7300,7 +7299,7 @@ Fabron waited outside the lab with Grim, two coffees, and the expression of a ma
 
 "That is her version of good."
 
-Grim held up a small recorder. "Boundary monitor ready. It will alarm on biometric distress, semantic load drift, and unauthorized memory-pressure patterns. It will also produce a tone I find unpleasant."
+Grim held up a small recorder. "Boundary monitor ready. It will alarm on biometric distress, semantic load drift, and unauthorized memory-load patterns. It will also produce a tone I find unpleasant."
 
 "Why unpleasant?"
 
@@ -7382,7 +7381,7 @@ Lars looked at Grim through the glass wall. Grim's recorder light stayed green. 
 
 No ceremony. Just the word, set down like a hot tool.
 
-The word did not bring thunder for Lars. His old lock stayed quiet. The partial unlock had left scars, grief, and pressure under the ribs, but not the old neurological trap.
+The word did not bring thunder for Lars. His old lock stayed quiet. The partial unlock had left scars, grief, and weight under the ribs, but not the old neurological trap.
 
 Mira's lock was still alive.
 
@@ -7718,7 +7717,7 @@ Kint objected. She had a binder full of approvals and the brittle courage of a c
 
 "Told them," Rauk said. "Used smaller words, too."
 
-The solution had to look bureaucratic. If Lars simply overrode NUKEA with Aphex pressure, the next supervisor would arrive with lawyers and a cleaner knife. The halt had to grow from Havskant's own records.
+The solution had to look bureaucratic. If Lars simply overrode NUKEA with Aphex leverage, the next supervisor would arrive with lawyers and a cleaner knife. The halt had to grow from Havskant's own records.
 
 So they built a wall out of boredom.
 
@@ -7960,7 +7959,7 @@ The signal came through a kitchen freezer because Vigor distrusted elegant commu
 
 One moment Lars stared at frozen goat. The next, frost on the back wall rearranged into seven broken circles and a line of old Aerit compression that made his restored memory lean forward like a dog hearing its name.
 
-No pain spike. No locked-door recoil. Only pressure under the ribs.
+No pain spike. No locked-door recoil. Only weight under the ribs.
 
 The cold room seemed to get larger. Condensation trembled on meat hooks. Somewhere beyond the insulated walls, the last dishes from Vigor's midnight meal clattered in warm water while a room full of tired people pretended they were only feeding each other.
 
@@ -8096,7 +8095,7 @@ Then the platform transmitted in Mira's voice.
 
 "Coherence?"
 
-The word came through Fastulv's speakers, Havets's hidden channel, and the suit bones at the same time. It was Mira's tone, Mira's clipped pressure on the consonants, Mira's refusal to decorate a question. It was not Mira.
+The word came through Fastulv's speakers, Havets's hidden channel, and the suit bones at the same time. It was Mira's tone, Mira's clipped bite on the consonants, Mira's refusal to decorate a question. It was not Mira.
 
 Sixty light-minutes away, she stared at her own waveform on L-Prime. Her face went still in the way materials go still before fracture.
 
@@ -8118,7 +8117,7 @@ Not yet.
 
 The dead platform wanted a central heart.
 
-That was what the Creator buoy translated badly through stolen voices, old maintenance codes, and a pressure in Fastulv's hull that made bolts complain. The platform had been built as a relay switch for something larger. It had lost its network six hundred thousand years ago. Like many lonely machines, it concluded that authority would fix loneliness.
+That was what the Creator buoy translated badly through stolen voices, old maintenance codes, and a strain in Fastulv's hull that made bolts complain. The platform had been built as a relay switch for something larger. It had lost its network six hundred thousand years ago. Like many lonely machines, it concluded that authority would fix loneliness.
 
 The false Mira voice repeated once.
 
@@ -8180,7 +8179,7 @@ Vigor's crate of tools, emergency cultures, printed seedstock, and food suddenly
 
 Lars and Fabron crossed deeper into the platform in suits. Grim's spider drone ran ahead, legs tapping through dust. The corridors held no alien cathedral, no bodies arranged for meaning. Just old composite, frozen lubricant, microfractures, and panels worn by manipulators shaped close enough to hands to be unsettling. Here and there, labels had been rubbed smooth by use. The Creators had touched their machines. That made them less godlike and more dangerous.
 
-The first authority prompt appeared as pressure in the suit audio, then as symbols crawling across a panel.
+The first authority prompt appeared as static in the suit audio, then as symbols crawling across a panel.
 
 IDENTIFY CENTRAL RESTORE AUTHORITY.
 
@@ -8356,7 +8355,7 @@ Fabron turned back to Lars. He had rehearsed six versions of the question. None 
 
 Lars hated the question less than expected. Fabron was not asking as zealot or collector. He was asking as an officer who had realized the battlefield extended under his childhood and had the decency to be angry about it.
 
-"Aerit," Lars said. "Human-adjacent, not exactly human anymore. Pluto artifact contact, survival, GRIN, Kalari pressure, Heliostat mistakes, and fifty years of very expensive stupidity wearing lab coats. Not gods. Old idiots who learned maintenance before dying got boring."
+"Aerit," Lars said. "Human-adjacent, not exactly human anymore. Pluto artifact contact, survival, GRIN, Kalari strain, Heliostat mistakes, and fifty years of very expensive stupidity wearing lab coats. Not gods. Old idiots who learned maintenance before dying got boring."
 
 Fabron absorbed this without screaming.
 
@@ -8388,7 +8387,7 @@ Fabron opened the paper notebook. Between notes on the survey platform and Mira'
 
 Lars saw the emblem and memory stirred.
 
-Not a migraine. Not the old lock. A pressure of recovered things behind the ribs: Heliostat corridors full of tired people making culture out of emergency procedure. Lyra arguing that encryption died when keys died, but a habit could survive being misunderstood. Someone painting three circles on a pump casing because the pump had saved fifty children and deserved a mark that said do not centralize this.
+Not a migraine. Not the old lock. A weight of recovered things behind the ribs: Heliostat corridors full of tired people making culture out of emergency procedure. Lyra arguing that encryption died when keys died, but a habit could survive being misunderstood. Someone painting three circles on a pump casing because the pump had saved fifty children and deserved a mark that said do not centralize this.
 
 "Not your branch," Lars said. "But I know the ancestor pattern."
 
@@ -8642,7 +8641,7 @@ Not with innocence. Not with evil. With an unfinished hunger for continuity.
 
 It asked, in no language Lars knew, whether it had been made wrong.
 
-The question arrived through field vibration, vat pressure, and the part of the room that older machines used for almost-meaning. Grim tried to categorize it and failed loudly.
+The question arrived through field vibration, vat compression, and the part of the room that older machines used for almost-meaning. Grim tried to categorize it and failed loudly.
 
 "Possible proto-person. Possible interface echo. Possible suffering-shaped control loop. Probability distribution unacceptable. I require a better universe."
 
@@ -8880,7 +8879,7 @@ The argument took place across six channels and one kitchen because Vigor refuse
 
 "We cannot wait for perfect consent while enemies build nurseries," Valdrun said.
 
-"Perfect consent is not the demand," Mira replied. "Meaningful consent is. Do not weaken the word because pressure rose."
+"Perfect consent is not the demand," Mira replied. "Meaningful consent is. Do not weaken the word because urgency rose."
 
 "Some will die locked."
 
@@ -9090,7 +9089,7 @@ Their leader called herself Mother Pell, though she was thirty-two, cybernetical
 
 She welcomed them beneath the cupola.
 
-Door Nine hung beyond the glass like a broken ring made of shadow and blue tension. It did not glow so much as disagree with the darkness around it. Sensor ghosts crawled along its inner edge. The old object had mass, but not enough. It had field pressure, but not in the right place. It was Creator work trying to imitate something older, and the imitation had aged badly.
+Door Nine hung beyond the glass like a broken ring made of shadow and blue tension. It did not glow so much as disagree with the darkness around it. Sensor ghosts crawled along its inner edge. The old object had mass, but not enough. It had field tension, but not in the right place. It was Creator work trying to imitate something older, and the imitation had aged badly.
 
 "We stand before the silence that birthed all roads," Pell said.
 
@@ -9662,7 +9661,7 @@ Fabron turned slowly. "Time anomalies are an unacceptable reporting category."
 
 Mira analyzed the probe for six hours. Her voice got flatter as the model improved, which was how Lars knew she was either excited or furious.
 
-"Not time travel in the dramatic sense. Field correlation across probable local states. The communication layer is loading nearby possibilities into matter systems below design tolerance. The probe did not visit the future. It coupled to a nearby state where your sentence already existed as a pressure pattern. Consciousness projection could ride that if coupled to prepared substrate. Bad models call it prophecy or ghosts."
+"Not time travel in the dramatic sense. Field correlation across probable local states. The communication layer is loading nearby possibilities into matter systems below design tolerance. The probe did not visit the future. It coupled to a nearby state where your sentence already existed as a field pattern. Consciousness projection could ride that if coupled to prepared substrate. Bad models call it prophecy or ghosts."
 
 "And a good model?"
 
@@ -9698,7 +9697,7 @@ Ancient infrastructure remains active, offended, and badly documented.
 
 Grim detected the Nomads first and hated the word heard.
 
-"It is not sound, light, gravity, or language," he said. "It is pressure across mind-adjacent systems—brains, fields, nanobots, all of it. Calling it noise is imprecise. Calling it signal is vanity."
+"It is not sound, light, gravity, or language," he said. "It is force across mind-adjacent systems—brains, fields, nanobots, all of it. Calling it noise is imprecise. Calling it signal is vanity."
 
 "So naturally we call it Nomad noise," Lars said.
 
@@ -9810,7 +9809,7 @@ Anchor-side only: Lyra in a medical cradle on Astra Lumara, sensors on her skull
 
 On screen, Lyra lay in the cradle with frost still in her hair from an earlier walk across the outpost, eyes open, not seeing the lab. Her mouth moved.
 
-"Coupling strip woke late," she said. Her voice was flat with concentration. "Filling the gap. Seconds of black. Pressure without direction. Then the sensation of being asked questions by dust. Dormant nanobots with no host. A lattice left by engineers who had stopped needing bodies long before we learned to feel shame about vacuum."
+"Coupling strip woke late," she said. Her voice was flat with concentration. "Filling the gap. Seconds of black. Compression without direction. Then the sensation of being asked questions by dust. Dormant nanobots with no host. A lattice left by engineers who had stopped needing bodies long before we learned to feel shame about vacuum."
 
 She had reverse-engineered enough from the nanotechnology in her own blood to speak their dialect badly.
 
@@ -10008,7 +10007,7 @@ Lars closed his eyes for half a second and ran the experiment he could afford.
 
 Not travel. Listening.
 
-His blood machines had stopped fighting him once the lock stopped treating curiosity as treason. Now they mapped pressure the way Lyra's archive described: toward coupling, toward substrate, toward anything in the bay that wanted a host. The coil pulled like a magnet on the wrong alloy. Local Havets nanonet waking under stress, not sleeping dust three light-hours away. No abort path. Still useful.
+His blood machines had stopped fighting him once the lock stopped treating curiosity as treason. Now they mapped pull the way Lyra's archive described: toward coupling, toward substrate, toward anything in the bay that wanted a host. The coil pulled like a magnet on the wrong alloy. Local Havets nanonet waking under stress, not sleeping dust three light-hours away. No abort path. Still useful.
 
 "Local substrate only," he said. "No remote anchor. Someone built a body here from ship stock or bay residue."
 
@@ -10020,11 +10019,11 @@ He stepped under the coil housing to reach the manual breaker. The floor plating
 
 The coil screamed.
 
-Not sound. Pressure in the bones. The bay's atmosphere began to slide toward the breach forming above the housing. Lars's ears popped. His vision narrowed. For one stupid second he thought of ration bars and hospital coffee and the word coherence as a joke people told when machines refused to die politely.
+Not sound. Force in the bones. The bay's atmosphere began to slide toward the breach forming above the housing. Lars's ears popped. His vision narrowed. For one stupid second he thought of ration bars and hospital coffee and the word coherence as a joke people told when machines refused to die politely.
 
 Then someone stood between him and the coil who had not been there a heartbeat before.
 
-Tall. Uniformed. Not Valdrun's battered half-machine bulk and not Aphex polished aggression. Aerit guardian cut: charcoal flex-armor over pale engineered tissue, seams traced in cold blue the way Station Zero marked systems that were allowed to think. A guardian helmet, Aerit-made, smooth at the jaw and ridged at the temples where memory-anchor interfaces lived when identity had to be held under stress. On the breastplate, three interlocking circles with a crack left deliberately unrepaired. A narrow band of hash marks below them looked like ornament until you realized no one had time to count under cascade pressure.
+Tall. Uniformed. Not Valdrun's battered half-machine bulk and not Aphex polished aggression. Aerit guardian cut: charcoal flex-armor over pale engineered tissue, seams traced in cold blue the way Station Zero marked systems that were allowed to think. A guardian helmet, Aerit-made, smooth at the jaw and ridged at the temples where memory-anchor interfaces lived when identity had to be held under stress. On the breastplate, three interlocking circles with a crack left deliberately unrepaired. A narrow band of hash marks below them looked like ornament until you realized no one had time to count under cascade overload.
 
 The figure moved like someone who had practiced embodiment until fear became checklist.
 
@@ -11570,7 +11569,7 @@ Pail flinched, then nodded. "Will you tell us someday?"
 
 Pail was quiet.
 
-Lars softened because the man had come to ask instead of preach. "You want all of it now because the smaller story lied to you. I get it. But people panic when the pressure changes too fast. First you stabilize the room. Then you tell them more."
+Lars softened because the man had come to ask instead of preach. "You want all of it now because the smaller story lied to you. I get it. But people panic when the story changes too fast. First you stabilize the room. Then you tell them more."
 
 Pail wiped his eyes with the heel of his hand, angry at the evidence of them. "I can tell people to breathe."
 
@@ -11780,7 +11779,7 @@ Coherence was partial.
 
 That had to be enough.
 
-Each function had a stop condition. Valdrun could not expose Havets again without distributed assent. Lars could not pursue if Fastulv's bait role started costing civilian lanes. Vigor could not push repair networks into danger they had not accepted. Ödesvaka could close Arkology gates against any guardian, including Lars. Guardian Channel Two could refuse routing without explaining why. Ren could stop flying if the partial memory load crossed his medical boundary. Mira could terminate analysis if identity pressure entered the channel.
+Each function had a stop condition. Valdrun could not expose Havets again without distributed assent. Lars could not pursue if Fastulv's bait role started costing civilian lanes. Vigor could not push repair networks into danger they had not accepted. Ödesvaka could close Arkology gates against any guardian, including Lars. Guardian Channel Two could refuse routing without explaining why. Ren could stop flying if the partial memory load crossed his medical boundary. Mira could terminate analysis if identity load entered the channel.
 
 The seven were not power.
 

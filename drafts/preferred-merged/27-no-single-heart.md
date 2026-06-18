@@ -2,7 +2,7 @@
 
 The dead platform wanted a central heart.
 
-That was what the Creator buoy translated badly through stolen voices, old maintenance codes, and a pressure in Fastulv's hull that made bolts complain. The platform had been built as a relay switch for something larger. It had lost its network six hundred thousand years ago. Like many lonely machines, it concluded that authority would fix loneliness.
+That was what the Creator buoy translated badly through stolen voices, old maintenance codes, and a strain in Fastulv's hull that made bolts complain. The platform had been built as a relay switch for something larger. It had lost its network six hundred thousand years ago. Like many lonely machines, it concluded that authority would fix loneliness.
 
 The false Mira voice repeated once.
 
@@ -64,7 +64,7 @@ Vigor's crate of tools, emergency cultures, printed seedstock, and food suddenly
 
 Lars and Fabron crossed deeper into the platform in suits. Grim's spider drone ran ahead, legs tapping through dust. The corridors held no alien cathedral, no bodies arranged for meaning. Just old composite, frozen lubricant, microfractures, and panels worn by manipulators shaped close enough to hands to be unsettling. Here and there, labels had been rubbed smooth by use. The Creators had touched their machines. That made them less godlike and more dangerous.
 
-The first authority prompt appeared as pressure in the suit audio, then as symbols crawling across a panel.
+The first authority prompt appeared as static in the suit audio, then as symbols crawling across a panel.
 
 IDENTIFY CENTRAL RESTORE AUTHORITY.
 
