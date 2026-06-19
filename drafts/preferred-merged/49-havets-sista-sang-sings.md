@@ -106,7 +106,7 @@ Fabron: yes. Civilian harm outweighs secrecy. I dislike this sentence.
 
 Valdrun: yes. We have hidden long enough to remember why hiding mattered.
 
-Ödesvaka: authorization granted, exposure objection logged, future containment review mandatory.
+Ödesvaka, from Arkology Zero: authorization granted, exposure objection logged, future containment review mandatory.
 
 Vigor: sing, old ship; we'll mend the fence after.
 

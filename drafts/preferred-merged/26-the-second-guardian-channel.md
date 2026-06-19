@@ -20,7 +20,7 @@ Vigor folded his arms. "Freezers keep secrets better than conference rooms."
 
 "Exactly."
 
-Valdrun joined from Havets with the patience of someone who had watched too many urgent things become ruins. His image appeared as a narrow projection on the freezer door. Frost-glare cut his old face. His eyes were steady enough to make panic feel immature. Ödesvaka layered protocol verification around the packet. Each check stamped in the air as a formal line of old authorization. Grim tasted the noise with quantum routines and declared it authentic, compromised, or flirting with compromise.
+Valdrun joined from Havets with the patience of someone who had watched too many urgent things become ruins. His image appeared as a narrow projection on the freezer door. Frost-glare cut his old face. His eyes were steady enough to make panic feel immature. From Arkology Zero, Ödesvaka layered protocol verification around the packet. Each check stamped in the air as a formal line of old authorization. Grim tasted the noise with quantum routines and declared it authentic, compromised, or flirting with compromise.
 
 "Those are not the same category," Fabron said. He had arrived still buttoning his coat, sidearm visible and dignity fully armed.
 
@@ -46,11 +46,11 @@ The old greeting sat in the cold like a live wire.
 
 Valdrun answered first. "Coherence uncertain."
 
-Ödesvaka added, "Record state: partial. Compliance with central gathering prohibition: currently maintained. Suspicion level: deserved."
+Ödesvaka added from Arkology Zero, "Record state: partial. Compliance with central gathering prohibition: currently maintained. Suspicion level: deserved."
 
 "It asked for a status phrase, not a deposition," Lars said.
 
-"Protocol survives enthusiasm," Ödesvaka replied.
+"Protocol survives enthusiasm," Ödesvaka replied from Arkology Zero.
 
 The channel offered coordinates for a dead survey platform near the awakened Creator buoy. Its checksum used guardian knowledge no modern system should hold, but its route passed through civilian networks, farm cooperatives, and one children's educational archive on Havskant. The archive had stored the packet in a lesson about extinct orbital shapes because a teacher two generations ago had liked strange machines and refused to delete harmless old data.
 
@@ -94,7 +94,7 @@ KBC again. Quiet regions. Low survey. Low noise. Low attention.
 
 "Do not sound relieved. Evidence can still ruin your day."
 
-They argued for three hours in the cold and then in the kitchen because Vigor threatened to beat them with a ladle if they made the goat sweat. Fabron wanted a military verification team. Vigor wanted three smugglers and a cook. Valdrun wanted patience. Ödesvaka wanted seventeen safeguards. Grim wanted to attach himself to the packet and follow it backward, which everyone vetoed so fast he looked offended.
+They argued for three hours in the cold and then in the kitchen because Vigor threatened to beat them with a ladle if they made the goat sweat. Fabron wanted a military verification team. Vigor wanted three smugglers and a cook. Valdrun wanted patience. Ödesvaka, from Arkology Zero, wanted seventeen safeguards. Grim wanted to attach himself to the packet and follow it backward, which everyone vetoed so fast he looked offended.
 
 "I would have used a tether."
 

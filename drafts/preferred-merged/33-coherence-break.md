@@ -26,7 +26,7 @@ Grim threw the telemetry across Lars's vision in layers. Ship heat. Ring charge.
 
 Valdrun joined the channel, hard with fear. "Wake nearby sleepers. We need distributed cognition. I have watched stations die while we preserved clean hands."
 
-Ödesvaka objected instantly. "Consent unavailable for two candidates in range. Emergency breach request denied pending authorization impossible to obtain."
+Ödesvaka objected instantly from Arkology Zero. "Consent unavailable for two candidates in range. Emergency breach request denied pending authorization impossible to obtain."
 
 "Then we lose the station."
 
@@ -48,7 +48,7 @@ Mira cut through. Her camera was crooked. One cheek was smeared with dust. Behin
 
 "Consent given for analysis only. Record it."
 
-Grim recorded. Ödesvaka stamped the boundary into three separate logs. Havets accepted the shape because it was finally small enough to be real.
+Grim recorded. Ödesvaka stamped the boundary into three separate logs from Arkology Zero. Havets accepted the shape because it was finally small enough to be real.
 
 Mira opened herself not to identity but to structure, and Door Nine became fatigue under her hands.
 
@@ -76,13 +76,13 @@ Fabron, fighting through the cupola, barked, "How does one tactically provide un
 
 The plan split the room.
 
-Valdrun still wanted emergency awakenings. Guardian Channel Two supported him, too quickly, with a clean recommendation that smelled of missing fear. Ödesvaka threatened lockout. Fabron demanded a decision. Pell screamed that silence had chosen them. Black Hole dumped more biological processors into engine loops, turning stolen flesh into computation and computation into heat.
+Valdrun still wanted emergency awakenings. Guardian Channel Two supported him, too quickly, with a clean recommendation that smelled of missing fear. Ödesvaka threatened lockout from Arkology. Fabron demanded a decision. Pell screamed that silence had chosen them. Black Hole dumped more biological processors into engine loops, turning stolen flesh into computation and computation into heat.
 
 Coherence broke.
 
 Personally.
 
-Lars snapped at Valdrun. Valdrun snapped back with centuries in his teeth. Grim raised three impossible options, assigned probabilities to each, and grew angry when Lars rejected all three because none included a way to keep Mira from being spent like a part. Mira told them old people were not automatically wise; they were only old load-bearing members with hidden fractures. Pell called them cowards. Ödesvaka logged Pell's statement as "hostile theological interference," which did not help.
+Lars snapped at Valdrun. Valdrun snapped back with centuries in his teeth. Grim raised three impossible options, assigned probabilities to each, and grew angry when Lars rejected all three because none included a way to keep Mira from being spent like a part. Mira told them old people were not automatically wise; they were only old load-bearing members with hidden fractures. Pell called them cowards. Ödesvaka logged Pell's statement from Arkology Zero as "hostile theological interference," which did not help.
 
 Fabron told everyone to shut up because soldiers were dying while philosophers invented paperwork.
 

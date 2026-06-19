@@ -82,7 +82,7 @@ Mira's expression hardened. "The residue half-life matches the bad body journal.
 
 The personal line bothered Lars more than the equation. He had been rejecting thrones so hard he had nearly rejected help that did not command.
 
-Mira looked at him. "I did not consent to a manifestation in my lab. Helpful is not a consent category."
+Mira looked at him on the channel from L-Prime. "I did not consent to a manifestation in my lab. Helpful is not a consent category."
 
 "No," Lars said. "You did not."
 
@@ -90,7 +90,7 @@ They recorded it as breach, evidence, and gift. All three. Mira made them keep a
 
 She added a consent condition: no field experiments in occupied personal workspaces without explicit local permission, even if Lyra Vargstjärna herself thought she was being helpful.
 
-Ödesvaka accepted the complaint as a formal protocol amendment. Grim added subcategories. Fabron suggested "trespass by impossible engineer." Mira accepted "unconsented field-coupled local embodiment event" and rejected everyone else's poetry.
+Ödesvaka accepted the complaint from Arkology Zero as a formal protocol amendment. Grim added subcategories. Fabron suggested "trespass by impossible engineer." Mira accepted "unconsented field-coupled local embodiment event" and rejected everyone else's poetry.
 
 Somewhere in the data, a tiny correlation shifted.
 

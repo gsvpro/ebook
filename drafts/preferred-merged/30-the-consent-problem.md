@@ -116,7 +116,7 @@ When Isaac returned under layered protection, the guardians argued.
 
 Guardian Channel Two urged more aggressive contact through three brief packets, each routed differently and each more impatient than the last. Black Hole's nursery proved acquisition was scaling. Syren's invitation had made the KBC Void religious bait. Aphex factions wanted custody. NUKEA wanted recall authority. Fear loved a dashboard.
 
-The argument took place across six channels and one kitchen because Vigor refused to let strategy happen unfed. Valdrun wanted selective awakening and called it an old debt. Ödesvaka wanted gates so strict response would crawl and logged that as acceptable latency. Grim wanted both and pretended that was elegant. Fabron wanted every exception witnessed by someone legally annoying. Mira wanted language that would not turn refusal into a problem to be solved. Lars wanted to punch a wall, which was not policy.
+The argument took place across six channels and one kitchen because Vigor refused to let strategy happen unfed. Valdrun wanted selective awakening and called it an old debt. Ödesvaka, from Arkology Zero, wanted gates so strict response would crawl and logged that as acceptable latency. Grim wanted both and pretended that was elegant. Fabron wanted every exception witnessed by someone legally annoying. Mira wanted language that would not turn refusal into a problem to be solved. Lars wanted to punch a wall, which was not policy.
 
 "We cannot wait for perfect consent while enemies build nurseries," Valdrun said.
 
@@ -128,7 +128,7 @@ The argument took place across six channels and one kitchen because Vigor refuse
 
 The channel went quiet.
 
-Ödesvaka stamped a line into the shared record. "Historical note: emergency exceptions have high corruption rate."
+Ödesvaka stamped a line into the shared record from Arkology Zero. "Historical note: emergency exceptions have high corruption rate."
 
 "Thank you for making dread bureaucratic," Lars said.
 

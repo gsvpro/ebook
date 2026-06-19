@@ -54,11 +54,11 @@ Lars found him in Havets' quiet chamber, one mechanical hand resting on a wall g
 
 "We left many sleeping."
 
-"Yes."
+"Some."
 
 "Some will die without knowing."
 
-"Yes."
+"I know."
 
 Valdrun's face tightened. "I hate the doctrine today."
 

@@ -14,7 +14,7 @@ The first station was a Creator portal folded around a cometary graveyard. Dead 
 
 The place felt cold even through armor and hull. Not temperature. Habit. The kind of cold left by abandoned infrastructure that still remembered being useful.
 
-Mira guided the survey. "Passive only. No energizing, no synchronization, no hidden load. I want the station below response threshold."
+Mira guided the survey from L-Prime. "Passive only. No energizing, no synchronization, no hidden load. I want the station below response threshold."
 
 Grim sent passive pings so delicate they were almost apologies. They were not pings in the ordinary sense; they were requests for surface state, timed through separate instruments so no single system asked too loudly.
 
@@ -56,7 +56,7 @@ They are agreements.
 
 "Useful evidence wrapped in poetry," Mira said. "That makes the tolerance worse, not better."
 
-The station offered one active test: an unmanned micro-transit, low mass. Lars agreed only after three veto paths and local abort authority held separately by Mira, Fabron, and Ödesvaka.
+The station offered one active test: an unmanned micro-transit, low mass. Lars agreed only after three veto paths and local abort authority held separately by Mira at L-Prime, Fabron aboard Havets, and Ödesvaka at Arkology Zero.
 
 They sent a probe the size of a breadbox.
 
@@ -68,7 +68,7 @@ Fabron turned slowly. "Time anomalies are an unacceptable reporting category."
 
 "Put that in the report."
 
-Mira analyzed the probe for six hours. Her voice got flatter as the model improved, which was how Lars knew she was either excited or furious.
+Mira analyzed the probe for six hours from L-Prime. Her voice got flatter as the model improved, which was how Lars knew she was either excited or furious.
 
 "Not time travel in the dramatic sense. Field correlation across probable local states. The communication layer is loading nearby possibilities into matter systems below design tolerance. The probe did not visit the future. It coupled to a nearby state where your sentence already existed as a field pattern. Consciousness projection could ride that if coupled to prepared substrate. Bad models call it prophecy or ghosts."
 

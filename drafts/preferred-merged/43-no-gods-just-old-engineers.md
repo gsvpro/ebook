@@ -60,9 +60,11 @@ The public noise was almost easier because it could be insulted.
 
 The private conversations were harder.
 
-Valdrun admitted he had wanted Lars central because he was tired. Six centuries of watchfulness made command look merciful. Ödesvaka logged the admission without mockery. Grim admitted he preferred central models when distributed emotion became difficult to parse. Vigor admitted usefulness sometimes tempted him toward permission. Fabron admitted his order could become exactly what it opposed if fear made ritual rigid.
+The private confessions came over the guardian channel, not in one room. Valdrun spoke from Havets. Ödesvaka logged from Arkology Zero without mockery. Grim, Vigor, and Fabron joined where they stood. Mira's square stayed at L-Prime.
 
-Mira listened, then said, "I am afraid that if I ask for more memory, I will lose the life I built without it."
+Valdrun admitted he had wanted Lars central because he was tired. Six centuries of watchfulness made command look merciful. Grim admitted he preferred central models when distributed emotion became difficult to parse. Vigor admitted usefulness sometimes tempted him toward permission. Fabron admitted his order could become exactly what it opposed if fear made ritual rigid.
+
+Mira said, "I am afraid that if I ask for more memory, I will lose the life I built without it."
 
 No one answered quickly.
 

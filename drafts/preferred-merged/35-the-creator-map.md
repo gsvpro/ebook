@@ -54,7 +54,7 @@ Not Door Nine. Too public, too contaminated by Syren synchronization, Black Hole
 
 Mira insisted on joining remotely. Her boundary remained active: structural analysis, field exposure below threshold, no memory prompts, stop on request.
 
-Fabron insisted on written veto authority because the previous crisis had taught him that ancient machinery did not respect bravery as a control mechanism. Ödesvaka split abort permissions into local shards. Grim complained that the experiment was "methodologically untidy and therefore annoyingly correct."
+Fabron insisted on written veto authority because the previous crisis had taught him that ancient machinery did not respect bravery as a control mechanism. Ödesvaka, from Arkology Zero, split abort permissions into local shards. Grim complained that the experiment was "methodologically untidy and therefore annoyingly correct."
 
 The rogue planet had no sun. It moved through interstellar dark with frozen nitrogen skin and old impact scars. Havets approached on passive cooling, most of its active systems dimmed until the ship felt like a sleeping animal. Fastulv hung farther out as visible salvage cover, broadcasting boring legal noise into the cold.
 
@@ -78,7 +78,7 @@ On L-Prime, Mira's feed froze, then returned with a new crack pattern in her mod
 
 "Still me," she said immediately.
 
-"Recorded," Ödesvaka replied. "Identity continuity not externally assigned."
+"Recorded," Ödesvaka replied from Arkology Zero. "Identity continuity not externally assigned."
 
 Then it passed.
 

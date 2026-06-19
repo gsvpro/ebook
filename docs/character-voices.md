@@ -41,6 +41,11 @@ Never:
 - Gives polished speeches unless he is mocking polished speeches.
 - Explains feelings directly for long.
 - Sounds reverent without immediately kicking the reverence.
+- Uses dual-truth lines like "both can be true" as a catchphrase. Leave that to Vigor's lazy wisdom or Valdrun's old doctrine, not Lars.
+
+Signature farewell (use sparingly):
+
+- "See you later" / "See you a little later" / plain "Later." — emotional evasion, not goodbye poetry. A few times per book is enough.
 
 Example:
 

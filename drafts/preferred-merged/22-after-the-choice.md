@@ -152,7 +152,7 @@ Her question was simple: immediate danger because of what she was, or because of
 
 Grim displayed three branches: Black Hole sampling patterns, Aphex metadata leakage, and the void-aligned coordinate family. Each branch had probabilities. Mira hated the softer ones and made him relabel them assumptions.
 
-"Both," Lars said. "Today mostly because some bastard thinks you can point at the quiet room."
+"Both angles," Lars said. "Today mostly because some bastard thinks you can point at the quiet room."
 
 "KBC?"
 

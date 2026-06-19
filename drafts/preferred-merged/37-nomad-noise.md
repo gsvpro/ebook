@@ -30,7 +30,7 @@ Lars noticed and said nothing. Rejecting mysticism did not require mocking every
 
 They built an experiment aboard Havets.
 
-Seven independent observers, no central live feed. Lars, Grim, Valdrun, Mira remote, Fabron, Vigor, and Ödesvaka each received a different slice of the same field event. No one would see the full model until after recording. Each had a local abort. Each kept local clocks, local environmental logs, local emotional-state notes if they were brave enough or Grim bullied them.
+Seven independent observers, no central live feed. Lars, Grim, Valdrun, Mira remote at L-Prime, Fabron, Vigor, and Ödesvaka at Arkology Zero each received a different slice of the same field event. No one would see the full model until after recording. Each had a local abort. Each kept local clocks, local environmental logs, local emotional-state notes if they were brave enough or Grim bullied them.
 
 "The least efficient experiment I have ever admired," Grim said. "Seven observers, zero shared plate. Scientifically rude. Structurally correct."
 
@@ -46,7 +46,7 @@ Vigor smelled bread from a station kitchen burned two centuries ago and cried wh
 
 Grim refused to describe his state for an hour. Finally he said, "For a moment I was not alone in being distributed. The category included company. I disliked how much I liked it."
 
-Ödesvaka reported no subjective event. It did, however, produce a protocol addendum in a format older than its current archive schema and then refused to speculate on whether that counted as embarrassment.
+Ödesvaka at Arkology Zero reported no subjective event. It did, however, produce a protocol addendum in a format older than its current archive schema and then refused to speculate on whether that counted as embarrassment.
 
 When combined, the observations sharpened.
 

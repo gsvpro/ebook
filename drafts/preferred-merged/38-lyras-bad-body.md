@@ -10,7 +10,7 @@ The file header was not grand. It read: DESTINATION COUPLING 01 / NOT FIRST BODY
 
 Grim displayed the bundle in the Havets analysis bay. Valdrun stood at the back. Mira watched from L-Prime with her audio feed delayed on purpose so she could take notes without performing reaction for anyone.
 
-Anchor-side only: Lyra in a medical cradle on Astra Lumara, sensors on her skull, voice log, and instrument readouts from the coupling matrix—heat debt, mass tallies, substrate consent flags, timing delay. A remote marker sat three light-hours out. No camera feed.
+Anchor-side only: Lyra in a medical cradle on Astra Lumara, sensors on her skull, voice log, and instrument readouts from the coupling matrix—overlap load, mass tallies, substrate consent flags, anchor vitals, timing delay. A remote marker sat three light-hours out. No camera feed.
 
 On screen, Lyra lay in the cradle with frost still in her hair from an earlier walk across the outpost, eyes open, not seeing the lab. Her mouth moved.
 
@@ -36,11 +36,11 @@ Grim's sensors already had him. "Coupling uptick. Low amplitude. Sympathetic, no
 
 On the telemetry strip, coupling strength climbed. Mass tallies at the remote marker shifted by grams—matter appearing and vanishing from the books. No image. Only a status line that read SUBSTRATE ASSEMBLY ACTIVE.
 
-"Skin held twelve seconds," Lyra said. "Left shoulder shedding heat. I can feel it here too. That is not metaphor. Overlap is real—the remote body and the cradle body sharing one nervous system badly."
+"Skin held twelve seconds," Lyra said. "Left shoulder lagging in the assembly map. I can feel it in the cradle too. That is not metaphor. Overlap is real—the remote body and the anchor sharing one nervous system badly."
 
-The thermal trace climbed and fell at the same time in a way that made present-day Grim pause the playback and make a small offended sound.
+The overlap trace climbed and fell at the same time in a way that made present-day Grim pause the playback and make a small offended sound.
 
-"Heat debt," he said.
+"Anchor load," he said.
 
 "Later," Lars said.
 
@@ -74,7 +74,7 @@ A scanned still appeared in the bundle: a lab board on Astra Lumara where she ha
 
 FIELD-COUPLED REMOTE EMBODIMENT. DORMANT SUBSTRATE. LOCAL ASSEMBLY FAILURE. DO NOT LET POETS NEAR THIS.
 
-Mira laughed once, then covered her mouth.
+Mira laughed once from L-Prime, then covered her mouth.
 
 Back in the voice log, Lyra's eyes focused for a moment on the cradle-room recorder. "If you hear this, Lars, fix your face. I did not vanish into magic. I learned embodiment in a lab, then learned travel by listening for sleeping networks the old engineers left everywhere. The Pluto artifact was not primarily transport. It was access etiquette. The Creators found similar systems and built doors around them. We are stupider because we should have inherited their mistakes and instead manufactured fresh ones at every new address."
 
@@ -82,19 +82,21 @@ Lars had to sit down.
 
 The archive was not reunion. It was worse: Lyra alive in method, absent in body, refusing comfort with the old efficiency.
 
-He had wanted, shamefully and stupidly, one clean sentence. I survived. I missed you. I knew you would come. Instead he got a balance lie in the instruments, a heat ledger, and Lyra telling him not to be impressed by the thing that had nearly broken her courage rather than her math.
+He had wanted, shamefully and stupidly, one clean sentence. I survived. I missed you. I knew you would come. Instead he got a balance lie in the instruments, a coupling ledger, and Lyra telling him not to be impressed by the thing that had nearly broken her courage rather than her math.
 
 That was also her. It hurt more because it was real.
 
-She explained limits in the same flat voice. A preserved body could anchor identity. A temporary body at a dormant site could host local action for minutes or hours if the field stayed quiet, local matter held together, and the sleeping lattice agreed to cooperate. Residue stayed unstable because that matter had never fully belonged to normal physics. Missing access logs, heat spikes, mass-balance errors: expected. Apparitions were engineering mistakes with bad vocabulary.
+She explained limits in the same flat voice. A preserved body could anchor identity. A temporary body at a dormant site could host local action for minutes or hours if the field stayed quiet, local matter held together, and the sleeping lattice agreed to cooperate. Residue stayed unstable because that matter had never fully belonged to normal physics. Missing access logs, coupling spikes in the cradle, mass-balance errors: expected. You could not measure a consciousness crossing the field the way you measured temperature. You measured the anchor—brain activity, pulse, stress—and inferred the rest. Apparitions were engineering mistakes with bad vocabulary.
 
 Lars stopped sitting and started pacing because his body did useful thinking better on its feet.
 
-"Anchor, stasis, coupling, temporary substrate, return path," he said. "She kept the boring stack. Model Four was suicide with paperwork. Model Three is maintenance with a spare body somewhere else."
+"Anchor, stasis, field crossing, temporary substrate, return path," he said. "She kept the boring stack. Model Four was suicide with paperwork. Model Three is maintenance with a spare body somewhere else."
+
+"A top in the field," he added, mostly to himself. "Not heat you can log at the destination. The anchor pays. Nanobots do the rude work of finding the other excitation."
 
 "Accurate," Mira said from L-Prime.
 
-"Overlap is the ugly part." He tapped the telemetry where cradle pulse and remote heat debt rose together. "Two bodies, one continuity budget. You do not get clean sensation. You get bookkeeping errors that feel like skin."
+"Overlap is the ugly part." He tapped the telemetry where cradle pulse and remote assembly load rose together. "Two bodies, one continuity budget. The field does not give you a clean read on the traveler. It gives you the anchor panicking in sympathy."
 
 Grim projected a side panel: Lars's current biometrics against Lyra's archived cradle trace. The overlap pattern matched.
 
@@ -108,7 +110,7 @@ Valdrun watched him with the expression of a man seeing a tool he had guarded fo
 
 "I am thinking." Lars stopped at the lab board still on screen. "There is a difference. Enjoyment would be immoral. Thinking is overdue."
 
-"Do not call this immortality," Lyra said on the log. "Immortality is what frightened people call maintenance when they want guarantees. There is continuity, error correction, consent, heat debt, and loss."
+"Do not call this immortality," Lyra said on the log. "Immortality is what frightened people call maintenance when they want guarantees. There is continuity, error correction, consent, overlap cost, and loss."
 
 Valdrun wept without hiding it.
 
@@ -116,7 +118,7 @@ On the telemetry strip, a second orientation attempt registered. Slower. More co
 
 "Acceptable," Lyra said on the log. "Ear not load-bearing."
 
-Mira's mouth twisted. "She was alone."
+Mira's mouth twisted on the delayed feed. "She was alone."
 
 "At that site," Lars said.
 
@@ -130,29 +132,27 @@ The voice log ended with warning.
 
 Then, in a separate addendum filed three hours later in shaking handwriting:
 
-At destination, during overlap, I sensed another presence. Tall. Indistinct. Failing at edges. Not human. Not Creator. Gone before I could negotiate. Remote substrate left silver residue and a cold patch in the thermal map where feet had not quite been. I do not know if it was witness, artifact, or my own fear wearing geometry. Log the dust. Do not worship the silhouette.
+At destination, during overlap, I sensed another presence. Tall. Indistinct. Failing at edges. Not human. Not Creator. Gone before I could negotiate. Remote substrate left silver residue and a cold mass trace where feet had not quite been. I do not know if it was witness, artifact, or my own fear wearing geometry. Log the dust. Do not worship the silhouette.
 
-Grim overlaid the addendum against the telemetry archive. The cold patch matched. Silver particulate decay in the mass trace matched no known nanomaterial except the residue from Door Nine and the probe. The silhouette remained unphotographed. Evidence around a shape did not make the shape true.
+Grim overlaid the addendum against the telemetry archive. The cold patch matched. Silver particulate decay in the mass trace matched Door Nine residue and the dead-subway probe within tolerance. No image. Evidence around a shape did not make the shape legible.
 
-"Nomad?" Fabron asked, already unhappy with the term.
+"Field event," Fabron said, already unhappy with every noun in the room.
 
-"Maybe," Mira said. "Maybe a manifestation agent. Maybe coupling artifact. The dust is evidence. The silhouette is not."
+"Coupling artifact at minimum," Mira said from L-Prime. "Operator category unknown. The dust is real. The silhouette is not data."
 
-Lars stared at the telemetry strip and let the model assemble.
+Lars stared at the telemetry strip and let the model assemble without poetry.
 
-Not worship. Mechanics.
+If dormant lattices slept in quiet places, and Aerit blood carried host infrastructure, then the archive was describing a stack: anchor at home, cross the consciousness field, borrow matter elsewhere, return before the temporary body lied about being anyone. The frightening part was not the equation. It was that someone had already walked it badly enough to file warnings.
 
-If dormant lattices slept in quiet places, and Aerit blood carried the host toolkit, then consciousness projection was not a miracle talent. It was a stack: find sleeping network, establish etiquette, anchor identity at home, borrow matter elsewhere, pay heat debt, return before the temporary body lied about being you. The frightening part was not the equation. It was stepping into the field blind and discovering whether the far end would accept the handshake.
+His nanobots offered a faint map along that logic—not directions, not names. Helpful machines. Infuriating machines.
 
-His nanobots offered a faint yes-no map along that logic, not directions, not courage. Helpful machines. Infuriating machines.
-
-"Could I do it?" he asked.
+"Could my line run the same stack?" he asked.
 
 The bay went still in the wrong way.
 
 "Wrong question," Mira said immediately. "Capability is not permission."
 
-"I know." He looked at Grim. "I am not asking for a field trip. I am asking whether my bloodline has the same terminal architecture Lyra reverse-engineered."
+"I know." He looked at Grim. "I am not asking for a field trip. I am asking whether host infrastructure is present in the same architecture she reverse-engineered."
 
 Grim answered because someone had to. "Preliminary: yes. Host infrastructure present. Field access: possible. Training, anchor hardware, preserved-body protocol, and consent doctrine: absent. Also common sense: historically absent in you."
 
@@ -160,7 +160,7 @@ Grim answered because someone had to. "Preliminary: yes. Host infrastructure pre
 
 "You are welcome. Do not make me repeat the common sense finding."
 
-Lars nodded once. The curiosity did not switch off. It never did when a system finally stopped hiding behind pain. He filed the model next to the overlap trace and the thermal ledger and kept watching the strip.
+Lars nodded once. The curiosity did not switch off. It never did when a system finally stopped hiding behind pain. He filed the model next to the overlap trace and the coupling ledger and kept watching the strip.
 
 No gods, he told himself.
 
@@ -198,15 +198,15 @@ Lars was already moving.
 
 Valdrun could not move fast enough through Havets' lower decks without tearing something. Grim could. Lars took the android and left the archive playback running on the substrate-slip telemetry because spite was sometimes structural.
 
-The unused storage bay smelled like cold metal and old insulation. A maintenance drone hung frozen mid-reach toward a live field coil, manipulator trembling. The coil's housing had begun to sweat frost on one side and char on the other. Heat debt, Lyra's voice said in Lars's head, and he hated that his memories now arrived as engineering insults.
+The unused storage bay smelled like cold metal and old insulation. A maintenance drone hung frozen mid-reach toward a live field coil, manipulator trembling. The coil's housing had begun to sweat frost on one side and char on the other. Field overload, Lyra's voice said in Lars's head, and he hated that his memories now arrived as engineering insults.
 
 "Abort path?" he asked.
 
-"Local abort is dead," Grim said. "Coupling locked when the cache opened. Something downstream answered the archive bundle like a handshake."
+"Local abort is dead," Grim said. "Coupling locked when the cache opened. Something downstream answered the bundle like a handshake."
 
-"Lyra?"
+"Same residue class as the file?"
 
-"Signature family. Not individual. I dislike how much that sentence already exists in my vocabulary."
+"Matching parameters. Operator unidentified. I dislike how quickly that sentence became useful."
 
 Lars closed his eyes for half a second and ran the experiment he could afford.
 
@@ -218,7 +218,7 @@ His blood machines had stopped fighting him once the lock stopped treating curio
 
 "Agreed," Grim said. "Your machines reached the same conclusion three seconds faster than my instruments. Irritating."
 
-"Symbiotic cooperation," Lars said. "Write it down before I get sentimental."
+"Write it down before I get sentimental."
 
 He stepped under the coil housing to reach the manual breaker. The floor plating buckled. Not from weight. From matter trying to settle into a different mass tally. Silver glitter appeared along the seam where his boot met deck—residue without source, the same decay rate Grim had just isolated from the archive trace.
 
@@ -228,13 +228,15 @@ Not sound. Force in the bones. The bay's atmosphere began to slide toward the br
 
 Then someone stood between him and the coil who had not been there a heartbeat before.
 
-Tall. Uniformed. Not Valdrun's battered half-machine bulk and not Aphex polished aggression. Aerit guardian cut: charcoal flex-armor over pale engineered tissue, seams traced in cold blue the way Station Zero marked systems that were allowed to think. A guardian helmet, Aerit-made, smooth at the jaw and ridged at the temples where memory-anchor interfaces lived when identity had to be held under stress. On the breastplate, three interlocking circles with a crack left deliberately unrepaired. A narrow band of hash marks below them looked like ornament until you realized no one had time to count under cascade overload.
+Too tall by a handspan. Aerit guardian cut anyway: charcoal flex-armor over pale engineered tissue, seams traced in cold blue the way Station Zero marked systems that were allowed to think. The uniform hung wrong on the frame—collar too high, pauldrons fighting the shoulders, one boot formed correctly while the other still negotiated with the deck plate. On the breastplate, three interlocking circles with a crack left deliberately unrepaired. Lars knew that symbol from childhood stories and chapel walls. Not Valdrun's battered half-machine bulk. Not one of the seven guardians he had been taught to count.
 
-The figure moved like someone who had practiced embodiment until fear became checklist.
+A guardian helmet, Aerit-made, smooth at the jaw and ridged at the temples where memory-anchor interfaces lived when identity had to be held under stress. The face beneath was worse than the armor: cheekbones almost right, eyes delayed behind the visor, hair assembled as a blunt dark cut that belonged to someone else.
 
-It caught the coil housing with both hands—not heroic, technical—and bled excess field energy into the deck plating instead of Lars's skull. Frost raced down its arms. The left shoulder shed heat in a pulse that made Grim swear in three languages.
+The figure moved like someone running a checklist through panic they had trained into procedure.
 
-"Hold still," the guardian said.
+It caught the coil housing with both hands—not heroic, technical—and bled excess field energy into the deck plating instead of Lars's skull. Frost raced down its arms. The left shoulder flickered at the substrate seam, assembly lagging where the temporary body had not fully coupled.
+
+"Hold still," it said.
 
 Voice filtered through helmet mesh. Female, maybe. Calm in the way surgeons were calm when the room was on fire.
 
@@ -242,7 +244,7 @@ Voice filtered through helmet mesh. Female, maybe. Calm in the way surgeons were
 
 "Wrong question." A gloved hand shoved him back from the breaker path without touching his throat. Efficient. "Manual interrupt will accelerate cascade. Grim, dump auxiliary frost from bay four. You—breathe. Count four. Do not be central."
 
-Grim moved. Lars counted because disobedience seemed fatal. The guardian's visor dimmed for a fraction of a second while the bleed ran—checklist, not struggle—and cleared again.
+Grim moved. Lars counted because disobedience seemed fatal. The figure's visor dimmed for a fraction of a second while the bleed ran—checklist, not struggle—and cleared again.
 
 The coil's scream dropped to a whine.
 
@@ -250,11 +252,11 @@ Atmosphere steadied.
 
 The maintenance drone completed its reach, slowly now, and retracted from the live coupling as if nothing had tried to kill anyone.
 
-Lars grabbed the guardian's forearm before he could decide whether that was wise.
+Lars grabbed the figure's forearm before he could decide whether that was wise.
 
-The armor was warm on the outside and cold underneath, like skin built too fast from local matter and already arguing with physics about whether it deserved to exist.
+The armor was warm outside and cold underneath, like skin built too fast from local matter and already arguing with physics about whether it deserved to exist.
 
-"One of yours?" he asked.
+"Who sent you?" he asked.
 
 The helmet turned toward him. He could not see eyes. He saw his own reflection distorted in the visor and, behind it, the faintest Aerit symbol pulsing once at the temple—memory anchor, not decoration.
 
@@ -264,25 +266,25 @@ The helmet turned toward him. He could not see eyes. He saw his own reflection d
 
 "Absent from your count." A beat. "Coherence?"
 
-It might have been a joke. It might have been status. With Aerits, the two were often the same maintenance category.
+It might have been a joke. It might have been status. With field work, the two were often the same maintenance category.
 
-"Lyra—"
+Lars opened his mouth, closed it, and answered because the room was still alive.
 
-"No." The word arrived without cruelty and without room. "Do not centralize. Do not chase. Do not make one door into a throne. Use the route key. Use the method. Do not try to own the guard."
+"Coherence."
 
 The left hand dissolved at the fingers first.
 
 Silver dust.
 
-Not glitter. Structured residue, decaying along the same impossible half-life as the archive trace, as Door Nine, as the cold patch in Lyra's filed addendum. The guardian released the coil housing. The body held for two more seconds—long enough for Lars to see the crack symbol on the breastplate smear at the edges—and then the uniform collapsed inward without a person inside it, leaving a cold patch on the deck and a smell like sterilized alloy.
+Not glitter. Structured residue, decaying along the same impossible half-life as the archive trace, as Door Nine, as the cold patch in Lyra's filed addendum. The figure released the coil housing. The body held for two more seconds—long enough for Lars to see the crack symbol on the breastplate smear at the edges—and then the uniform collapsed inward without a person inside it, leaving a cold patch on the deck and a smell like sterilized alloy.
 
 Grim arrived at his side with frost vents still screaming from bay four.
 
-"Body event duration: eleven seconds," he said. "No entry logs. No departure logs. Local substrate expenditure within Model 3 parameters. Guardian-class remote embodiment."
+"Body event duration: eleven seconds," he said. "No entry logs. No departure logs. Local substrate expenditure within Model 3 parameters. Aerit guardian symbology on remote embodiment. Operator not on any roster we hold."
 
-"One of hers," Lars said.
+"Same method as the file," Lars said.
 
-"One of someone," Grim corrected. "Identity unresolved. Uniform template matches inner-circle guardian doctrine. Operator unknown."
+"Same method class," Grim corrected. "Identity unresolved. Do not build a person from a uniform that failed."
 
 Valdrun caught up in the corridor, breathing hard, furious in the quiet way of people who had spent forty-nine years under furniture and disliked almost dying twice in one month.
 
@@ -290,21 +292,23 @@ Valdrun caught up in the corridor, breathing hard, furious in the quiet way of p
 
 Lars looked at the silver dust already fading into ordinary metal fatigue.
 
-"A uniform," he said. "Aerit aesthetics. Symbols we were taught not to wear in public. Someone who knew the coil, the doctrine, and my bad habit of running toward danger before the room agrees."
+"Guardian marks," he said. "Our symbols on a body that did not fit. Wrong height. Wrong face. No roster. Someone who knew the coil and my bad habit of running toward danger before the room agrees."
 
-"Lyra?"
+"Operator?" Valdrun asked.
 
-"No." He swallowed. "Not her voice. Not her timing. Her school, maybe. Or someone else's."
+"Unknown." Lars swallowed. "Not one of the seven. New kind of guard, maybe. Same method as the file. Different mouth. We do not have enough to name it."
 
-They sealed the bay. Grim filed the incident under seventeen overlapping categories, all of them rude. Mira, on L-Prime, listened to the sensor replay and said only, "Good. That means the method is live. Bad that it had to prove itself on Lars."
+Valdrun's jaw tightened. "I know the symbols. I do not know that roster."
+
+They sealed the bay. Grim filed the incident under seventeen overlapping categories, all of them rude. Mira, on L-Prime, listened to the sensor replay and said only, "Good. That means the method is live in the present. Bad that it had to prove itself on you."
 
 Lars wrote three lines on his wrist pad before Valdrun could object.
 
-LOCAL SUBSTRATE EVENT. ELEVEN SECONDS. CLEAN ABORT.
+LOCAL SUBSTRATE EVENT. ELEVEN SECONDS. OPERATOR UNKNOWN.
 
 Then, because tinkering did not stop when the danger did:
 
-Guardian-class embodiment: local lattice + uniform template + trained operator. Heat debt vented at the shoulder. No central log by design. My blood can sense coupling but cannot replace checklist, anchor hardware, or permission.
+Model 3 local embodiment. Guardian uniform template on wrong substrate. No central log by design. My blood senses coupling; it does not replace anchor hardware, checklist, or permission.
 
 Grim read over his shoulder. "You are turning near death into homework."
 
@@ -322,80 +326,80 @@ The coupling matrix on the bench woke without command. Silver dust gathered alon
 
 Valdrun stood up so fast a chair arm cracked.
 
-"Lyra."
+"Present-tense coupling," Grim said. "Same residue class as the bay. Local substrate rising."
 
-"No," Grim said. "Lyra signature family. Present tense. Local substrate expenditure rising."
+A figure stood where dust had been.
 
-A woman stood where dust had been.
+Not a recording. Not the archive voice made flesh for comfort. A temporary body assembled from Havets' own lattice under stress, ship stock, and something older in the coupling layer. Aerit guardian uniform again—charcoal flex-armor, cold-blue seams, three interlocking circles with the deliberate crack on the breastplate—but controlled enough to work: posture economical, left shoulder still lagging at the substrate seam where assembly had not quite finished. The face was worse than the bay event had been—cheek line off by millimeters, eyes a fraction too wide, hair too dark and cut for someone Lars did not know. The voice arrived before the mouth finished forming words.
 
-Not a recording. Not a ghost in the archive. A temporary body assembled from Havets' own lattice under stress, ship stock, and something older in the coupling layer. Controlled enough to work: posture correct, movement economical, heat venting through the left shoulder in a managed pulse rather than a collapse. Only the hair was wrong—too dark, cut for someone else—and her voice arrived a fraction before her mouth finished forming the words. One hand already on the coupling matrix, turning a calibration ring with the bored precision of a woman checking a valve while three other catastrophes waited in queue.
+One hand already on the coupling matrix, turning a calibration ring with the bored precision of an engineer checking a valve while three other catastrophes waited in queue.
 
-Lyra Vargstjärna did not look up at them first. She looked at the telemetry.
+The figure did not look up at them first. It looked at the telemetry.
 
-"Your archive playback warmed a dormant handshake," she said. "I am correcting drift before it spreads. Fix your faces. I am not here for reunion. I am here because this ship is mine in the only sense that matters: maintenance."
+"Your archive playback warmed a dormant handshake," it said. "Correcting drift before it spreads. Fix your faces. Not here for reunion. Here because this ship still needs maintenance."
 
 Lars could not speak for two seconds.
 
-Then: "Wrong hair."
+Then: "Wrong face. Right symbols."
 
-"Cosmetic error. Non-lethal." She took one step to reach the route key without losing orientation. "Still within tolerance."
+"Cosmetic error. Non-lethal." One step to reach the route key without losing orientation. "Still within tolerance."
 
 Valdrun's voice came out rougher than Lars had ever heard it. "We thought—"
 
-"You thought I might be dead, distant, or metaphor." Lyra finally looked at him while her fingers kept working. "Understandable. Wrong. I am spread across the network, not gone. This body is a terminal—a mouth where the field needs one. The work is elsewhere."
+"You thought the file might be all that was left." The figure finally looked at him while its fingers kept working. "Understandable. Incomplete. I am not a door you walk through. This body is a terminal where the field needs hands. The work is elsewhere."
 
-Mira, on the delayed feed, said, "Present embodiment confirmed. Lars, do not say anything stupid for ten seconds."
+Mira, on the delayed feed, said, "Present embodiment confirmed. Same method class as DESTINATION COUPLING 01. Aerit guardian symbology. Identity not established. Lars, do not say anything stupid for ten seconds."
 
 "Eight," Lars said.
 
 "Good."
 
-Lyra tapped the archived overlap trace still on screen and compared it to the live coupling readout. "You found DESTINATION COUPLING 01. Good. That was the frightening early version. I have improved. Slightly. Do not romanticize the improvement. The strip still wakes late."
+The figure tapped the archived overlap trace still on screen and compared it to the live coupling readout. "You found the early version. Good. Control improved. Slightly. Do not romanticize the improvement. The strip still wakes late."
 
-She glanced at Lars's wrist pad without asking permission. "Local substrate event. Eleven seconds. Clean abort. You are learning the right things in the wrong order."
+It glanced at Lars's wrist pad without asking permission. "Local substrate event. Eleven seconds. Clean abort. You are learning the right things in the wrong order."
 
-His forearm cooled in sympathy. He did not look away. "Who was in the bay?"
+His forearm cooled in sympathy. He did not look away. "The bay operator."
 
-"Busy." She adjusted the route key with two fingers and entered a correction Lars could not follow. "Not me. Not one of the seven you already count. Do not build a roster from one uniform."
+"Busy." Two fingers entered a correction on the route key Lars could not follow. "Do not build a roster from one uniform."
 
-"Lyra—"
+"Who—"
 
-"Wrong question." She said it the way she said heat debt: a category, not a scolding. "Ask whether the method held. It held. Ask whether you should chase the person. You should not. Chase the work."
+"Wrong question." Overlap cost, delivered as category. "Ask whether the method held. It held. Ask whether you should chase a person. You should not. Chase the work."
 
-Lars heard himself breathing too loud. His mind was already turning it into structure: dormant maps, anchor discipline, frightened journeys, bodies that arrived with the wrong horizon or the wrong hair, operators who appeared for eleven seconds and vanished without names.
+Lars heard himself breathing too loud. His mind was already turning it into structure: anchor in stasis somewhere, consciousness crossing the field like a top finding another excitation, nanobots helping the move, bodies that arrived with the wrong horizon or the wrong hair, operators in guardian dress who appeared for eleven seconds and vanished without names.
 
-"You have been tinkering with Model Three in your head," Lyra said. "I can feel the shape of it through the coupling. Stop asking whether you could do it and start asking whether you should. Capability is not permission. Your blood knows the architecture. Your judgment is still catching up."
+"You have been tinkering with Model Three in your head," the figure said. "I can feel the shape of it through the coupling. Stop asking whether you could do it and start asking whether you should. Capability is not permission. Your blood knows the architecture. Your judgment is still catching up."
 
 Valdrun said, "Are you safe?"
 
-Lyra's mouth tilted. "That is a human question. I will answer it badly. Safer than the sleeping ones if I keep moving. Less safe than I would like if you make me central." She looked at the route key. "Use this. Work locally. Be rude if anyone tries to make you central. And do not move before your sense of up and down stabilizes. Early me was right about that."
+The mouth tilted. "That is a human question. I will answer it badly. Safer than the sleeping ones if the work stays distributed. Less safe than I would like if you make any one mouth central." A look at the route key. "Use this. Work locally. Be rude if anyone tries to make you central. And do not move before your sense of up and down stabilizes. The addendum was right about that."
 
 "How long can you—"
 
-The shoulder vented heat in a controlled pulse Grim logged before she spoke.
+The left shoulder flickered at the seam. Grim logged anchor-adjacent coupling noise before it spoke—not temperature, not a traveler you could weigh, only indirect strain where field and substrate disagreed.
 
-"Not long. Temporary bodies are honest about limits if you listen." She did not stop working while she spoke. "Do not chase me as the only door. Chase the method. Guard the sleeping ones where you can reach them. Let the rest of the work stay distributed."
+"Not long. Temporary bodies are honest about limits if you listen." It did not stop working while it spoke. "Do not chase a terminal as if it were the whole person. Chase the method. Guard the sleeping ones where you can reach them. Let the rest stay distributed."
 
-She was already fading at the edges while still checking one last coupling value.
+It was already fading at the edges while still checking one last coupling value.
 
 Lars laughed once, helpless and angry and relieved in the same breath. "Coherence?"
 
-"Coherence," she said.
+"Coherence," it said.
 
-Lyra's left hand lost one finger to silver dust.
+The left hand lost one finger to silver dust.
 
-"Acceptable," she said. "Finger not load-bearing for calibration."
+"Acceptable," it said. "Finger not load-bearing for calibration."
 
-Then the body failed on schedule: overlap fraying at the edges, shoulder venting its last debt, silver dust, cold patch, smell of sterilized alloy. No departure log. No entry log. Only the route key on the bench with a correction entered in handwriting that matched the archive and eleven seconds of recent memory rhyming with seven minutes of ancient telemetry.
+Then the body failed on schedule: overlap fraying at the edges, shoulder losing coupling first, silver dust, cold patch, smell of sterilized alloy. No departure log. No entry log. Only the route key on the bench with a correction entered in handwriting that matched the archive and eleven seconds of recent memory rhyming with seven minutes of ancient telemetry.
 
-Mira broke the silence first. "She was working."
+Mira broke the silence first from L-Prime. "Same method. Two operators in guardian dress, maybe more. Identity still not established."
 
-"She was always working," Lars said. "We just finally saw the terminal."
+"Someone is working," Lars said. "We finally saw the terminal."
 
-Valdrun stared at the dust. "Not dead."
+Valdrun stared at the dust. "Our marks. Not our roster."
 
-"No," Grim said. "Not nearby either. Present only where the field needed a mouth."
+"No," Grim said. "Not in the room either. Present only where the field needed hands."
 
 Not a reunion.
 
-A snapshot: Lyra alive in method, absent in body, still correcting drift in a ship she had not stood on in centuries—one managed shoulder of heat debt, one corrected route key, and no time to become anyone's answer except the work itself.
+A snapshot: method alive in the present, absent in any body they could keep, still correcting drift in a ship that had not been stood on in centuries—one corrected route key, guardian symbols on wrong faces, and no time to become anyone's answer except the work itself.

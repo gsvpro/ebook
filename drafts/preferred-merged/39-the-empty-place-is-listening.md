@@ -12,7 +12,7 @@ Someone, or something, had been keeping the Void dull on purpose.
 
 Arkology Zero sat near one edge of it. Lars gathered the circle there because the numbers belonged near the place they described.
 
-Valdrun came in person. Grim ran analysis from his android body and half the ship at once. Mira joined from L-Prime, still keeping distance. Fabron stood beside Vigor. Ödesvaka handled protocol because someone had to keep the meeting from becoming theater.
+Valdrun came in person. Grim ran analysis from his android body and half the ship at once. Mira joined from L-Prime, still keeping distance. Fabron and Vigor appeared on the wall displays. Ödesvaka handled protocol at Arkology because someone had to keep the meeting from becoming theater.
 
 Grim called it a distributed council. Lars did not argue. They had all sat through enough committees.
 
@@ -22,13 +22,13 @@ Galaxies around the Void showed fewer high-energy events than they should have. 
 
 Grim laid survey histories from seventeen species over the map. The same pattern kept returning. Not no life. No boasting. Fewer megastructures. Fewer waste fires in the sky. Fewer conquest beacons. More notes in the margins saying instrument fault, then silence.
 
-Mira spoke first when the room needed words.
+Mira spoke first on the channel when the room needed words.
 
 "If minds can couple through field conditions, then noise matters. Loud observation changes what you are trying to see. Quiet preserves coherence. It also makes you harder to hunt."
 
 Fabron nodded. "A predator cannot eat what it cannot find."
 
-Valdrun said, "Both can be true at once."
+Valdrun said, "Then the basin is teaching hunting and hiding in the same lecture. We keep forgetting which chair we sat in."
 
 Lars had spent years learning Återviens as an Aerit doctrine. Looking at the Void, he wondered whether the universe had been teaching a larger version of the same rule long before they named it. He disliked how mystical that sounded until he removed the romance and kept the engineering.
 

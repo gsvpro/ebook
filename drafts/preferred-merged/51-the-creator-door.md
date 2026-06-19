@@ -82,7 +82,7 @@ This time it appeared in Havets' allowed contact volume, an empty chamber marked
 
 "Subtle," Lars said.
 
-"I was irritated," Mira replied.
+"I was irritated," Mira replied from L-Prime.
 
 The body stood for twelve seconds: tall, faceted by unstable skin, neither Lyra nor Creator nor any species Lars knew. It did not glow. It condensed. Local substrate dust, captured residue, thermal debt, and field-coupled mass assembled into a body-shaped interface. Bodies were how loud mammals noticed courtesy.
 

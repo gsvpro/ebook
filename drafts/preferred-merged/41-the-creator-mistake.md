@@ -4,9 +4,9 @@ The Creators had not been fools.
 
 That made their mistake more frightening.
 
-Mira assembled the evidence in a sealed analysis bay aboard Havets: Creator logs, Door Nine residue, rogue-anchor data, Lyra's bad body journal, Nomad noise experiments, KBC cosmology, and Clear Hand fragments that should not have mattered but did.
+Mira led the analysis from L-Prime, her lab feeds open on a sealed bay aboard Havets: Creator logs, Door Nine residue, rogue-anchor data, Lyra's bad body journal, Nomad noise experiments, KBC cosmology, and Clear Hand fragments that should not have mattered but did.
 
-The bay had been stripped of anything ceremonial. No dramatic lighting. No floating starfield. Just worktables, quarantine boxes, thermal ledgers, mass accounting, and one stubborn coffee stain Lars refused to explain because it made Mira's eye twitch.
+The bay had been stripped of anything ceremonial. No dramatic lighting. No floating starfield. Just worktables, quarantine boxes, thermal ledgers, mass accounting, and one stubborn coffee stain Lars refused to explain because it made Mira's eye twitch on the channel.
 
 "They found older artifacts," she said. "Routers, anchors, local embodiment aids, maybe nanobot-host compatibility systems. The older layer linked cognition and matter through low-observation fields—quiet basins where the universe was hard to watch. The Creators were physical expansionists. They saw stable correlations across distance and built transport around them."
 
@@ -44,7 +44,7 @@ All four could damage the local field basin.
 
 Not universe-ending. Worse in a practical way: a real, measurable collapse of a rare low-observation anchor, exposing Arkology Zero, destroying data, killing ships, and possibly scrambling every locked Aerit pattern tied to that basin.
 
-Ödesvaka displayed the shield-list impact and did not soften the numbers. Still-locked Aerits near the basin would not all wake or die in a dramatic line. The danger was uglier: cover memories destabilized, selective pain triggers firing under contradictory evidence, medical collapses misdiagnosed as ordinary strokes, identity protection working too hard in bodies that had no idea why.
+Ödesvaka displayed the shield-list impact from Arkology Zero and did not soften the numbers. Still-locked Aerits near the basin would not all wake or die in a dramatic line. The danger was uglier: cover memories destabilized, selective pain triggers firing under contradictory evidence, medical collapses misdiagnosed as ordinary strokes, identity protection working too hard in bodies that had no idea why.
 
 "So the final enemy is category failure," Grim said.
 
@@ -64,7 +64,7 @@ Vigor's networks would slow pilgrim flows with food, transport strikes, safety a
 
 None of it looked heroic on a feed. That was the point. Heroic was a synchronization hazard.
 
-Grim and Ödesvaka would prepare consent-protected shield lists.
+Grim would prepare consent-protected shield lists. Ödesvaka would hold the archive side from Arkology Zero.
 
 Lars would go to First Door.
 

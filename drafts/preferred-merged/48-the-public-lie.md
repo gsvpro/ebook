@@ -4,6 +4,8 @@ The lie had to be ugly enough to work.
 
 Beautiful lies invited believers. Noble lies invited martyrs. Clean lies invited investigators. Lars needed a bureaucratic lie with bad lighting and insurance implications. He also needed it to leave a bruise on everyone who signed it, because painless deception grew roots.
 
+They drafted it across channels, not in one room: Lars on Fastulv, Fabron and Arsenault wherever Aphex liability could reach them, Grim on Havets, Mira at L-Prime with the only cursor anyone trusted on field math.
+
 The first draft was too honest and therefore lethal.
 
 It mentioned Creator infrastructure, nonlocal field response, biological computation, and the possibility that synchronized observation could trigger a hostile interaction with an older communication ecology. Grim flagged it as accurate. Mira flagged it as measured. Fabron flagged it as militarily catastrophic. Arsenault flagged it as "an extinction-grade invitation to litigate God."
@@ -18,11 +20,11 @@ Mira deleted the accurate sentence herself. Her cursor stayed over the blank spa
 
 "That absence will propagate," she said.
 
-"Yes."
+"Know."
 
 "It will protect people and miseducate them at the same time."
 
-"Yes."
+"That's the bargain."
 
 "Do not make me comfortable with that."
 
@@ -78,7 +80,7 @@ A student collective canceled a pilgrimage and sent furious messages about manip
 
 "Our lie is feeding them too," Mira said.
 
-"Yes."
+"Also yes."
 
 "Say something less useless."
 
@@ -96,7 +98,7 @@ He sat in Fastulv's cockpit while the advisory moved, watching public feeds spli
 
 "You dislike hiding evidence."
 
-"Yes."
+"Obviously."
 
 "You also dislike mass death, cult capture, corporate monopoly, and Black Hole eating the communication layer. Ranking conflict detected."
 
@@ -132,7 +134,7 @@ Mira called next.
 
 "Do not varnish it. False confidence fails under load."
 
-"Yes."
+"You signed it. I saw."
 
 She was in her lab. Lars could see the edge of the fracture samples on her bench, the cup she never finished, the emergency bag packed and unpacked twice behind her. Her face had the controlled stillness of a structure holding past tolerance by choice.
 
@@ -144,7 +146,7 @@ She was in her lab. Lars could see the edge of the fracture samples on her bench
 
 Lars had no joke that deserved the room.
 
-"Yes."
+"I know."
 
 She exhaled. "Record privately that the omitted truth matters."
 

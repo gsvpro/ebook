@@ -54,7 +54,7 @@ Fabron objected to calling that good.
 
 "My family crest already suffers enough."
 
-The Creator fragment Syren carried did not vanish. Grim and Mira extracted it from the wreckage and learned that it contained partial route data beyond Door Nine.
+The Creator fragment Syren carried did not vanish. Grim extracted it from the wreckage. Mira analyzed it from L-Prime and learned that it contained partial route data beyond Door Nine.
 
 Not to a planet.
 
@@ -62,7 +62,7 @@ To dead portals aligned around low-observation basins, including but not limited
 
 "Subway map," Grim said. "Drawn by someone who misunderstood walking, distance, and possibly sandwiches."
 
-Mira looked exhausted. Her consent boundary had held, but the field analysis had brushed old memory hard enough to leave residue behind the eyes.
+On the channel from L-Prime, Mira looked exhausted. Her consent boundary had held, but the field analysis had brushed old memory hard enough to leave residue behind the eyes.
 
 Not a migraine, not for Lars anymore, and not for her as a neat old lock-trigger either. Something more selective. Direct truth had scraped a cover memory sideways. She dreamed of corridors with curved handles, unfamiliar hands guiding hers away from a bright console, and a child laughing in a language she woke knowing how to mourn but not speak.
 

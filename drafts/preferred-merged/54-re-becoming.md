@@ -90,7 +90,7 @@ The final system repair happened quietly.
 
 Havets Sista Sång, strained by visible intervention, needed distributed recalibration. It used field conditions from First Door, KBC passive arrays, and local emotional-cognitive anchors. Grim disliked the last phrase until Mira renamed them consented observer states, which he accepted as "less edible but more accurate."
 
-The procedure looked like nothing dramatic because that was the point. Seven people sat in separate rooms, observed separate data, and refused to synchronize. Valdrun watched Havets' old hull stress. Mira watched residue decay. Fabron watched civilian exclusion logs. Vigor watched kitchen traffic and medical supply lag. Ödesvaka watched consent gates. Grim watched timing offsets. Lars watched a manual command rail and kept his hand off it.
+The procedure looked like nothing dramatic because that was the point. Seven people sat in separate rooms, observed separate data, and refused to synchronize. Valdrun watched Havets' old hull stress. Mira watched residue decay from L-Prime. Fabron watched civilian exclusion logs. Vigor watched kitchen traffic and medical supply lag. Ödesvaka watched consent gates at Arkology Zero. Grim watched timing offsets. Lars watched a manual command rail and kept his hand off it.
 
 "That is your entire role?" Fabron asked over the channel. "Do not touch the obvious lever?"
 

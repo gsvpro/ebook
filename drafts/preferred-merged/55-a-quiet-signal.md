@@ -104,15 +104,15 @@ Mira was quiet on the channel.
 
 "It could be a reconstruction from known Lyra records plus field residue."
 
-"Yes."
+"Could be."
 
 "It could be a delayed artifact seeded before First Door."
 
-"Yes."
+"Also possible."
 
 "It could be current local-continuity communication through a mechanism we cannot yet model."
 
-"Yes."
+"That one too, maybe."
 
 "We do not get to pick the version that hurts best."
 
@@ -172,7 +172,7 @@ Grim checked the relay before anyone could become poetic.
 
 Valdrun laughed then, very softly.
 
-They did not launch that hour. Vigor made them eat. Mira made them seal samples. Fabron made them open a preliminary risk file. Ödesvaka made them log the signal as invitation-adjacent, not order. Isaac sent one more message: If you fly toward the embarrassing dark filament, take seed packets. Soil surprises arrogant travelers.
+They did not launch that hour. Vigor made them eat. Mira made them seal samples. Fabron made them open a preliminary risk file. Ödesvaka, from Arkology Zero, made them log the signal as invitation-adjacent, not order. Isaac sent one more message: If you fly toward the embarrassing dark filament, take seed packets. Soil surprises arrogant travelers.
 
 Lars packed seed packets because refusing would have been stupid.
 

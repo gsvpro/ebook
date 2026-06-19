@@ -40,11 +40,11 @@ It would also make one bright target.
 
 Valdrun's voice arrived from Havets. "A central hub can be held through a siege. I have seen them inherited by worse hands before the next century ended."
 
-Ödesvaka answered, "A central heart can be captured. Logged objection: obvious."
+Ödesvaka answered from Arkology Zero, "A central heart can be captured. Logged objection: obvious."
 
 "Obvious objections still count," Fabron said.
 
-"Correct," Ödesvaka replied. "Most catastrophes begin by classifying the obvious as inconvenient."
+"Correct," Ödesvaka replied from Arkology Zero. "Most catastrophes begin by classifying the obvious as inconvenient."
 
 Mira rotated the stress model from L-Prime. She had stripped the false voice into components and refused to let anyone play it again.
 

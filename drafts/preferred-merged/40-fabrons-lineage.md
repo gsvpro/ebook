@@ -36,7 +36,7 @@ They had no word Aerit. They had stories of clear ones who survived by sharing w
 
 "No one at Pluto was founding a church," Mother Aveline said, catching Lars's look before he shaped it. "They were freezing, frightened, and learning which valves lied. Later people made hymns because memory needs structure."
 
-Mira, attending despite insisting churches made her itch, examined a ritual object: three metal rings around a cracked ceramic disk.
+When Fabron turned the lens to a ritual object—three metal rings around a cracked ceramic disk—Mira's voice came from L-Prime with the flat tone of a woman diagnosing gaskets.
 
 "This is a maintenance teaching aid. Stress distribution. Redundancy. Controlled fracture."
 

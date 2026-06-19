@@ -90,9 +90,9 @@ Lars wanted to know them.
 
 The want was natural, useless, and dangerous.
 
-Ödesvaka argued for immediate shutdown under host-exposure protocol. Valdrun argued for shielded continuation, because centuries had taught him that darkness could protect or rot. Fabron wanted a lawful witness and hated himself for wanting what would endanger them. Vigor asked whether the three had enough food, medical privacy, and neighbors who noticed broken windows.
+Ödesvaka argued from Arkology Zero for immediate shutdown under host-exposure protocol. Valdrun argued for shielded continuation, because centuries had taught him that darkness could protect or rot. Fabron wanted a lawful witness and hated himself for wanting what would endanger them. Vigor asked whether the three had enough food, medical privacy, and neighbors who noticed broken windows.
 
-Mira found the compromise: reduce traffic to emergency-only, seed protective environmental changes around each host through mundane means, and prepare evidence packets for future contact only if local risk crossed threshold.
+Mira found the compromise on the channel: reduce traffic to emergency-only, seed protective environmental changes around each host through mundane means, and prepare evidence packets for future contact only if local risk crossed threshold.
 
 "We are choosing ignorance," Valdrun said.
 

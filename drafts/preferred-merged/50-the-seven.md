@@ -2,7 +2,7 @@
 
 The seven did not gather in one room because even symbolism needed supervision.
 
-They were seven emergency functions, not seven rulers and not the original guardians reconstituted. The distinction mattered enough that Ödesvaka stamped it into the shared record three times.
+They were seven emergency functions, not seven rulers and not the original guardians reconstituted. Ödesvaka stamped it into the shared record from Arkology Zero three times.
 
 Emergency function designation: seven active roles.
 
@@ -14,9 +14,9 @@ Not authority claim.
 
 "Subtle," Lars said.
 
-"Subtlety caused five historical protocol breaches," Ödesvaka replied. "Correction has been implemented."
+"Subtlety caused five historical protocol breaches," Ödesvaka replied from Arkology Zero. "Correction has been implemented."
 
-Valdrun held Havets' strained systems. Lars and Grim held Fastulv's visible chaos. Vigor held remote desynchronization through kitchens, repair vigils, and transport delays. Ödesvaka held Arkology consent gates. Guardian Channel Two held shield routes while still refusing to identify its hosts. Ren Koss held the service corridor. Mira held the field model and threatened anyone who called her a guardian.
+Valdrun held Havets' strained systems. Lars and Grim held Fastulv's visible chaos. Vigor held remote desynchronization through kitchens, repair vigils, and transport delays. Ödesvaka held Arkology consent gates. Guardian Channel Two held shield routes while still refusing to identify its hosts. Ren Koss held the service corridor. Mira held the field model from L-Prime and threatened anyone who called her a guardian.
 
 "Say it again and I close the model," she warned.
 
@@ -54,7 +54,7 @@ The voice was human at the edges and empty in the center. "You are inefficient. 
 
 Lars rolled his eyes. "Tempting, but I have dinner plans and a deep personal hatred of being filed."
 
-Mira whispered, "It is using response as phase lock. Short answers. No decorative stress."
+Mira whispered from L-Prime, "It is using response as phase lock. Short answers. No decorative stress."
 
 Fabron, aboard Fastulv, said, "For once, Director, make yourself operationally dull."
 
@@ -76,11 +76,11 @@ Coercion packets hit Grim and became children's weather reports. A weaponized Sy
 
 Guardian Channel Two opened shield routes through civilian maintenance relays. The routes were good. Too good. They bent around hazards before modern sensors named them, old nanobot routines waking in hosts no one had identified. Every shielded ship was a life saved and a risk imposed on hidden people who had not been asked because asking would expose them.
 
-Ödesvaka logged a host-risk warning.
+Ödesvaka logged a host-risk warning from Arkology Zero.
 
 Valdrun did not answer it.
 
-Mira did. "Limit Channel Two traffic."
+Mira did from L-Prime. "Limit Channel Two traffic."
 
 "If we limit it now, three evacuation lanes close," Fabron said.
 
@@ -94,7 +94,7 @@ The sentence cut through the command channel harder than any weapon.
 
 Fabron exhaled. "Three lanes. Marked emergency-only."
 
-Mira found the weak point. "It centralized its stolen biological processors around one command rhythm. It distributed bodies but not authority. One load point inside borrowed tissue. A tumor pretending to be a network."
+Mira found the weak point on the channel. "It centralized its stolen biological processors around one command rhythm. It distributed bodies but not authority. One load point inside borrowed tissue. A tumor pretending to be a network."
 
 "Do we hit the core?" Lars asked.
 

@@ -16,9 +16,9 @@ Arsenault objected to Aphex's color.
 
 "Recorded in purple."
 
-Lars laughed first because someone had to keep the room from bowing to the diagram. Fabron did not laugh. Mira watched the tumor overlays propagate across trade lanes and rescue corridors, her fingers still except for one tap against the table whenever an assumption had no evidence behind it.
+Lars laughed first because someone had to keep the room from bowing to the diagram. Fabron did not laugh. Mira watched from L-Prime on a wall square, tumor overlays propagating across trade lanes and rescue corridors, her fingers still except for one tap against her own table whenever an assumption had no evidence behind it.
 
-"Your model is overconfident here," she said.
+"Your model is overconfident here," she said over the channel.
 
 "Point to the injury."
 
@@ -42,7 +42,7 @@ Lars stared at those two entries.
 
 "Names?"
 
-Ödesvaka answered from the wall, voice formal enough to make mercy sound like a regulation. "Names withheld under host protection. Both survived. Both events logged as avoidable harm."
+Ödesvaka answered from Arkology Zero on the mess-hall wall, voice formal enough to make mercy sound like a regulation. "Names withheld under host protection. Both survived. Both events logged as avoidable harm."
 
 "Good."
 
@@ -62,7 +62,7 @@ No one smiled much.
 
 "And when the failure mode is inside something useful?" Arsenault asked.
 
-Mira did not look away from him. "Then you cut less dramatically and measure more honestly."
+Mira's square did not flicker. "Then you cut less dramatically and measure more honestly."
 
 They built the operation in layers.
 
@@ -84,7 +84,7 @@ Mira would publish escalating advisories that made insurers and civilian captain
 
 "Fear with false precision propagates badly," she said. "They need useful doubt, not panic."
 
-Grim and Ödesvaka would shield known sleepers and suspected Aerits with consent-aware alerts, relocation offers, and medical privacy traps. No alert would say you are Aerit. No relocation would require belief. No medical flag would reveal identity to a central archive. Every protective act would be boring enough to survive subpoena.
+Grim would shield known sleepers and suspected Aerits with consent-aware alerts, relocation offers, and medical privacy traps. Ödesvaka would hold the archive triggers from Arkology Zero. No alert would say you are Aerit. No relocation would require belief. No medical flag would reveal identity to a central archive. Every protective act would be boring enough to survive subpoena.
 
 Havets and Fastulv would go to First Door.
 
