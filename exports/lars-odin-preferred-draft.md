@@ -8039,7 +8039,7 @@ KBC again. Quiet regions. Low survey. Low noise. Low attention.
 
 "Not shelter alone," Lars said.
 
-"That phrase is doing work," Mira replied. "Too much work for one line. It means either KBC-like regions are useful to the old transport layer, or something older used those regions and the Creators built near the pattern."
+"That phrase is doing work," Mira replied. "Too much work for one line. It means either KBC-like regions are useful to the Creator transport layer, or something older used those regions for coupling and coherence and the Creators copied the geography."
 
 "Evidence?"
 
@@ -9433,7 +9433,7 @@ Not to a planet.
 
 To dead portals aligned around low-observation basins, including but not limited to the KBC Void.
 
-"Subway map," Grim said. "Drawn by someone who misunderstood walking, distance, and possibly sandwiches."
+"Gate schematic," Grim said. "Drawn by someone who misunderstood adjacency, distance, and possibly sandwiches."
 
 On the channel from L-Prime, Mira looked exhausted. Her consent boundary had held, but the field analysis had brushed old memory hard enough to leave residue behind the eyes.
 
@@ -9587,7 +9587,7 @@ Fabron took off his glasses and cleaned them with unnecessary precision. "I disl
 
 # Chapter 36: Broken Gates
 
-![Pencil map fragment of broken Creator gate rings and folded transit nodes around older anchor markings, with Creator-era symbols.](../assets/illustrations/chapter-36-dead-subway.png)
+![Pencil map fragment of broken Creator gate rings and folded transit nodes around older anchor markings, with Creator-era symbols.](../assets/illustrations/chapter-36-broken-gates.png)
 
 *Broken Creator gate map: transport built over older anchors.*
 
@@ -9791,9 +9791,9 @@ The manipulator moved anyway, guided away from a field coil before it touched a 
 
 # Chapter 38: Lyra's Bad Body
 
-![Pencil field sketch of an Aerit guardian in charcoal flex-armor steadying a coupling coil, with three interlocking circles, a deliberate crack symbol, wrong-fit assembly at the shoulder, and margin notes.](../assets/illustrations/chapter-38-guardian-field-sketch.png)
+![Pencil field sketch of an Aerit guardian in charcoal flex-armor steadying a coupling coil, with three interlocking circles, a deliberate crack symbol, wrong-fit assembly at the shoulder, and margin notes.](../assets/illustrations/chapter-38-lyras-bad-body.png)
 
-*Guardian field sketch: our symbols, no roster.*
+*Lyra's bad body: guardian dress, wrong substrate, no roster.*
 
 Lyra's mind left Astra Lumara before the destination body agreed which way was down.
 

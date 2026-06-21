@@ -84,7 +84,7 @@ KBC again. Quiet regions. Low survey. Low noise. Low attention.
 
 "Not shelter alone," Lars said.
 
-"That phrase is doing work," Mira replied. "Too much work for one line. It means either KBC-like regions are useful to the old transport layer, or something older used those regions and the Creators built near the pattern."
+"That phrase is doing work," Mira replied. "Too much work for one line. It means either KBC-like regions are useful to the Creator transport layer, or something older used those regions for coupling and coherence and the Creators copied the geography."
 
 "Evidence?"
 

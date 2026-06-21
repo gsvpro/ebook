@@ -21,4 +21,4 @@ EPUB structure:
 - EPUB 2 `toc.ncx` table of contents for older readers
 - Chapter-opening illustrations are included when present in `../assets/illustrations/manifest.json`
 
-Generated: 2026-06-21 15:19
+Generated: 2026-06-21 16:10

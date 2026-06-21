@@ -60,7 +60,7 @@ Not to a planet.
 
 To dead portals aligned around low-observation basins, including but not limited to the KBC Void.
 
-"Subway map," Grim said. "Drawn by someone who misunderstood walking, distance, and possibly sandwiches."
+"Gate schematic," Grim said. "Drawn by someone who misunderstood adjacency, distance, and possibly sandwiches."
 
 On the channel from L-Prime, Mira looked exhausted. Her consent boundary had held, but the field analysis had brushed old memory hard enough to leave residue behind the eyes.
 

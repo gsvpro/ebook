@@ -712,7 +712,7 @@ Eller:
   
 Sammanfattning av vad vi landat i:  
 * Rakh'Na: Aggressiv, regenererande art från Perseusarmen. Anfaller jorden 2083 i bok 1.  
-* Skaparna: Byggde portalerna (Vintergatans t-bana). Försvunnit för 600000 år sedan. Missförstod artefakterna.  
+* Skaparna: Byggde ett fysiskt portalnät med ringar, spindlar och vecknoder. Försvann för 600000 år sedan. Missförstod artefakterna och byggde transport ovanpå något som egentligen var kommunikation/koherens.  
 * Multiversnomaderna: Uråldriga, transcenderat till medvetandefältet. Lämnade artefakter på avlägsna planeter.  
 * Artefakterna: Innehåller nanobotar. Ger tillgång till multiversums kommunikationsnätverk. Inte portaler – något större.  
 * Nanobotarna: Nomadernas teknologi. Samarbetar med värden. Ger GRIN-förmågor och kontakt med fältet.  
@@ -728,7 +728,7 @@ SLUTSAMMANFATTNING – VINTERGATANS PORTER
 | ---------------------- | -------------------------------------------------------------------------------------------------------- |
 | De anfallande i bok 1 | Rakh'Na – regenererande, våldsam art från Perseusarmen |
 | De allierade i bok 1 | Kalari – gammal, vis ras i Orionarmen |
-| Portalerna | Skaparnas "tunnelbana" – gömda i rymdveck |
+| Portalerna | Skaparnas transportnät – ringar, spindlar och vecknoder gömda i rymdveck |
 | Skaparna | Byggde portalerna, missförstod artefakterna, försvann |
 | Multiversnomaderna | Äldst, transcenderat till medvetandefältet, lämnade artefakter |
 | Artefakterna | Finns på yttersta planeter, innehåller nanobotar, ger tillgång till nätverket |
@@ -759,7 +759,7 @@ Missuppfattningarna som leder till drama
 
 | Aspekt | Detaljer |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Portalerna | Ett nätverk av portaler i hela Vintergatan – som en futuristisk tunnelbana. Gömda i rymdveck (rymdtidsbubblor) |
+| Portalerna | Ett fysiskt transportnät i hela Vintergatan: ringar, spindlar och vecknoder gömda i rymdveck (rymdtidsbubblor) |
 | Skaparna | En uråldrig civilisation som byggde portalerna. Försvunna – kanske döda, kanske transcenderat |
 | Skaparnas utveckling | Lärde sig först FTL, sedan portalteknik. Byggde portalerna för snabb transport |
 | Problemet | Portalerna var sårbara för angrepp. Skaparna gömde dem i rymdveck |
@@ -864,10 +864,10 @@ Ny modell för medvetandeprojektion:
 | Steg | Vad händer |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1. Förberedelse | Lyras kropp på Pluto placeras i ett stasis – nanobotarna håller den vid liv, fryst i tid. Andning, hjärtslag, åldrande – allt pausat. |
-| 2. Upplösning | Hennes medvetandetopp "kliver ur" kroppen och upplöses i fältet. Som att somna – men medvetet. |
-| 3. Vandring | Som en ren våg i medvetandefältet färdas hon omedelbart till destinationen. |
+| 2. Frikoppling | Hennes medvetandetopp frikopplas från ankarkroppen och går in i medvetandefältet. Som att somna – men medvetet och med ett ankare kvar. |
+| 3. Koppling | Nanobotarna och den lokala latticen hjälper toppen att hitta en kompatibel excitation/substratpunkt. Det är inte enkel teleportering, utan en förhandling mellan fält, ankare och mottagande materia. |
 | 4. Manifestation | På destinationen använder hon lokal materia – eller förberedda nanobotar – för att skapa en tillfällig kropp. Denna kropp är som en dräkt, ett redskap. Inte hennes "riktiga" jag. |
-| 5. Återkomst | När hon vill återvända, upplöser hon den tillfälliga kroppen, färdas tillbaka via fältet, och "kliver in" i sin vilande kropp på Pluto. |
+| 5. Återkomst | När hon vill återvända, frikopplas medvetandet från den tillfälliga kroppen, kroppen demonteras/lämnar restmassa, och toppen återkopplas till ankarkroppen på Pluto. |
 | 6. Uppvaknande | Hon vaknar, utvilad, med alla minnen från resan. |
   
 Filosofiska konsekvenser:  
@@ -877,7 +877,7 @@ Filosofiska konsekvenser:
 Fördelar:  
 * Ingen död, ingen existentiell kris  
 * Hon kan resa hur långt som helst, hur länge som helst  
-* Hon kan ha flera tillfälliga kroppar samtidigt? (Men medvetandet är bara på ett ställe i taget)  
+* Hon kan ha flera förberedda substrat eller kroppsmallar, men bara en aktiv medvetandetopp åt gången. Kort överlapp kan ske vid handoff, men det belastar ankaret och är farligt.  
   
 ## Skillnaden mellan Modell 3 och Modell 4  
   
@@ -949,18 +949,18 @@ Lite obekväma exempel
 | Doft | Annorlunda kroppslukt | Alla undviker henne, hon förstår inte varför |
 | Röst | Strupen byggd annorlunda | Hon låter som någon annan – kan inte övertyga någon |
   
-Medvetandekloner som överlevnadsstrategi  
-Här blir det riktigt intressant. Med GRIN-teknologi kan de klona medvetanden.  
+Medvetandekopior som separat nödteknik  
+Det här är inte Modell 3 och inte Nomadernas gåva. Med GRIN-teknologi kan Aeriter skapa hjärnkopior, minnesbackuper eller klonade kroppar, men det är en separat, farligare nödteknik som ligger nära Modell 4-problemet: kopian är en egen fortsättning, inte samma aktiva medvetandetopp.  
   
   
 
 | Scenario | Vad händer | Dramatik |
 | -------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| Säkerhetskopia | Innan en farlig resa, skapar Lyra en klon av sitt medvetande som stannar kvar i basen | Om hon dör, vaknar klonen. Men är det hon? |
-| Forskning | Två Lyror arbetar parallellt – en på Pluto, en på Kalari | De kan kommunicera, samarbeta. Men vem bestämmer? |
-| Förvirring | Klonen tror den är original | Konflikt uppstår när de möts |
-| Kärlek | Klonen utvecklas annorlunda – blir en egen person | Lyra måste acceptera att hon inte är unik |
-| Förlust | En klon dör – Lyra känner sorgen, fast hon själv lever | PTSD från ett jag som inte längre finns |
+| Minnesbackup | Innan en farlig operation kan en hjärnstatus sparas | Om kroppen dör kan en ny fortsättning väckas, men det är inte samma aktiva topp som reste i Modell 3 |
+| Nödkropp | En klonad kropp kan förberedas som medicinsk reserv | Kräver återställning, samtycke och tydlig identitetshantering |
+| Parallella kopior | Flera personer med samma ursprungsminne kan existera | De blir snabbt egna individer och får inte behandlas som redskap |
+| Förvirring | En kopia tror att den är den enda fortsättningen | Konflikt uppstår om original, kopia och ansvar |
+| Förlust | En kopia dör – de andra kan sörja henne | Sorg från ett närliggande jag, inte bevis på att en enda medvetandetopp var på två platser |
   
 Scen: Första gången Lyra skapar en tillfällig kropp  
 Hon blundar. Nanobotarna viskar. Hon känner hur hon glider ur sin kropp – som att klä av sig en tung rock.  
