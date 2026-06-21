@@ -134,7 +134,7 @@ Then, in a separate addendum filed three hours later in shaking handwriting:
 
 At destination, during overlap, I sensed another presence. Tall. Indistinct. Failing at edges. Not human. Not Creator. Gone before I could negotiate. Remote substrate left silver residue and a cold mass trace where feet had not quite been. I do not know if it was witness, artifact, or my own fear wearing geometry. Log the dust. Do not worship the silhouette.
 
-Grim overlaid the addendum against the telemetry archive. The cold patch matched. Silver particulate decay in the mass trace matched Door Nine residue and the dead-subway probe within tolerance. No image. Evidence around a shape did not make the shape legible.
+Grim overlaid the addendum against the telemetry archive. The cold patch matched. Silver particulate decay in the mass trace matched Door Nine residue and the broken-gate probe within tolerance. No image. Evidence around a shape did not make the shape legible.
 
 "Field event," Fabron said, already unhappy with every noun in the room.
 

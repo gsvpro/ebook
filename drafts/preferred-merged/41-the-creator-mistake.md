@@ -24,7 +24,7 @@ Exploitation: portal rings forcing matter through field conditions optimized for
 
 Escalation: brighter portals, larger traffic, central route hubs, religious and imperial interpretations, then collapse of cooperation from the older layer.
 
-The evidence lined up with ugly neatness. Early Creator logs showed low-energy tests with clean mass return and minimal residue. Middle logs showed increasing throughput and rising thermal debt. Late logs showed missing grams, duplicated sensory impressions, travelers with nonlocal memories, temporary-body contamination, and field refusal around overbright hubs.
+The evidence lined up with ugly neatness. Early Creator logs showed low-energy tests with clean mass return and minimal residue. Middle logs showed increasing throughput and rising coupling strain. Late logs showed missing grams, duplicated sensory impressions, travelers with nonlocal memories, temporary-body contamination, and field refusal around overbright hubs.
 
 The Nomads, if that name survived, had not necessarily attacked. They may have withdrawn. Or reduced coupling. Or allowed overbright systems to fail because intervention at scale would become command.
 

@@ -12,7 +12,7 @@ Grim detected the Nomads first and hated the word heard.
 
 "With venom and timestamp accuracy."
 
-The data came from every quiet experiment they had dared run: the rogue anchor, the dead subway probe, Door Nine residue, Mira's field analysis, the half-vanished Black Hole ship, and centuries of tiny anomalies from Arkology Zero's watch-state.
+The data came from every quiet experiment they had dared run: the rogue anchor, the broken-gate probe, Door Nine residue, Mira's field analysis, the half-vanished Black Hole ship, and centuries of tiny anomalies from Arkology Zero's watch-state.
 
 Individually, each could be dismissed. A sensor drift. A contaminated sample. A damaged Creator log. An overfit model built by tired people with too much grief. Together, they behaved like an intelligence that refused to become a sender.
 

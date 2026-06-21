@@ -88,7 +88,7 @@ Every pressure line converged.
 
 Lars stood aboard Havets and looked at the KBC basin map. Civilizations hiding by dimming themselves. Older engineers spread across field states. Creator ruins like abandoned transit mistakes. Humanity and its cousins shouting in the dark with weapons and sermons.
 
-The raw data did not care what anyone called it. Not god. Not ghost. Not destiny. It was residue, thermal debt, mass accounting, failed bodies, field models, bad maps, better warnings, and living people trying not to repeat old engineering sins with newer flags.
+The raw data did not care what anyone called it. Not god. Not ghost. Not destiny. It was residue, coupling strain, mass accounting, failed bodies, field models, bad maps, better warnings, and living people trying not to repeat old engineering sins with newer flags.
 
 He accepted the scale.
 

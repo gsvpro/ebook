@@ -54,7 +54,7 @@ Seven held a lesson.
 
 The structure was a lesson, not a message.
 
-Creators had named this station First Door because it was first in their empire's route hierarchy. The older layer marked it not first. The door was never the beginning. It was a crude interface bolted onto a wider communication ecology. The Creators had used it like a subway. The older builders had used the underlying field like a consent problem with physics attached.
+Creators had named this station First Door because it was first in their empire's route hierarchy. The older layer marked it not first. The door was never the beginning. It was a crude interface bolted onto a wider communication ecology. The Creators had used it as transport. The older builders had used the underlying field like a consent problem with physics attached.
 
 Beyond Creator technology lay not a bigger portal. There was an etiquette stack: how to approach field-like intelligences without becoming noise, how to build temporary bodies without theft, how to preserve identity without centralizing it, how to let advanced civilizations remain quiet without mistaking quiet for consent to invade.
 
@@ -84,7 +84,7 @@ This time it appeared in Havets' allowed contact volume, an empty chamber marked
 
 "I was irritated," Mira replied from L-Prime.
 
-The body stood for twelve seconds: tall, faceted by unstable skin, neither Lyra nor Creator nor any species Lars knew. It did not glow. It condensed. Local substrate dust, captured residue, thermal debt, and field-coupled mass assembled into a body-shaped interface. Bodies were how loud mammals noticed courtesy.
+The body stood for twelve seconds: tall, faceted by unstable skin, neither Lyra nor Creator nor any species Lars knew. It did not glow. It condensed. Local substrate dust, captured residue, coupling strain, and field-coupled mass assembled into a body-shaped interface. Bodies were how loud mammals noticed courtesy.
 
 Mass balance registered fifty-one kilograms assembled from local substrate and nonlocal field coupling, then returned with a two-gram residue debt the filters captured. Thermal bloom, no access logs, no door cycle. The hard numbers helped. Wonder was worse when it was measurable.
 

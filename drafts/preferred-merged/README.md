@@ -27,7 +27,7 @@ Read after shared canon Chapters 1-20:
 - `33-coherence-break.md`
 - `34-the-wrong-savior.md`
 - `35-the-creator-map.md`
-- `36-dead-subway.md`
+- `36-broken-gates.md`
 - `37-nomad-noise.md`
 - `38-lyras-bad-body.md`
 - `39-the-empty-place-is-listening.md`

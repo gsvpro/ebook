@@ -104,7 +104,7 @@ Mira found the weak point on the channel. "It centralized its stolen biological 
 
 "Focus."
 
-Havets shaped the field from hiding, still bleeding thermal debt from its 1.8 seconds of visibility. Fastulv fired low-yield shots into noncritical hull nodes, each shot placed to create local repair choices instead of heroic holes. Aphex captains, choosing locally despite central confusion, targeted coolant loops. NUKEA dissidents pulsed power noise through manual governors. Vigor injected false maintenance priorities copied from the pod swarm, not lies so much as rude reminders of real failing parts.
+Havets shaped the field from hiding, still carrying coupling strain from its 1.8 seconds of visibility. Fastulv fired low-yield shots into noncritical hull nodes, each shot placed to create local repair choices instead of heroic holes. Aphex captains, choosing locally despite central confusion, targeted coolant loops. NUKEA dissidents pulsed power noise through manual governors. Vigor injected false maintenance priorities copied from the pod swarm, not lies so much as rude reminders of real failing parts.
 
 Guardian Channel Two shielded the three emergency lanes and then acted on incomplete information once, diverting two civilian tugs into a debris lane because one hidden host's local perception lagged under stress. Ren corrected with a bad landing that would become legend if anyone survived: two tugs scraped through a field eddy sideways, dumping cargo, prayer flags, and one illegal noodle freezer into space without losing hull pressure.
 

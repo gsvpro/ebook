@@ -90,7 +90,7 @@ Fastulv could not. Too slow. It was in the visible lane because visibility had b
 
 Havets could, but only by revealing itself in a way every sensor might see.
 
-The old ship's hidden capacity had a cost. Its field sink would leave a mass-balance bruise, thermal debt, passive-array contradiction, and enough silhouette for Aphex, NUKEA, Syren, and Black Hole survivors to know something old and not owned had moved. Once seen, Havets could never again be only rumor.
+The old ship's hidden capacity had a cost. Its field sink would leave a mass-balance bruise, coupling strain, passive-array contradiction, and enough silhouette for Aphex, NUKEA, Syren, and Black Hole survivors to know something old and not owned had moved. Once seen, Havets could never again be only rumor.
 
 Lars felt the old ship ask without words.
 

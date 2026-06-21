@@ -114,7 +114,7 @@ Door Nine dimmed.
 
 One Black Hole ship escaped with its engines bleeding blue-white waste heat into the dark. One tore itself apart as its biological processors synchronized with the wrong part of the gradient and converted ambition into debris. One vanished halfway, leaving a smear of matter and field data that made Grim go silent.
 
-Halfway was the problem. A ship should be somewhere or not. This one left mass in a crescent, thermal debt in a pattern like a missing body, and residue that refused to decide whether it had been manufactured locally.
+Halfway was the problem. A ship should be somewhere or not. This one left mass in a crescent, coupling strain in a pattern like a missing body, and residue that refused to decide whether it had been manufactured locally.
 
 Mira disconnected and vomited off camera.
 

@@ -64,7 +64,7 @@ Mira confirmed the query had touched only the consented maintenance log: pump vi
 
 It did not command.
 
-It offered coordinates beyond the known Creator subway, outside the mapped quiet basin, toward a region where old surveys showed an ordinary dark filament between galaxy clusters. Ordinary, in cosmology, often meant no one had been embarrassed yet. The coordinates came with uncertainty cones, passive-observation limits, and a warning that active survey brightness would degrade the signal.
+It offered coordinates beyond the known Creator route layer, outside the mapped quiet basin, toward a region where old surveys showed an ordinary dark filament between galaxy clusters. Ordinary, in cosmology, often meant no one had been embarrassed yet. The coordinates came with uncertainty cones, passive-observation limits, and a warning that active survey brightness would degrade the signal.
 
 Attached was a field phrase the Nomad hypothesis translated with poor confidence.
 
@@ -73,7 +73,7 @@ Local coherence improving.
 Older damage remains.
 Do not hurry brightly.
 
-Below it, in a different residue pattern, came Lyra's unmistakable technical handwriting rendered through coffee, scratches, thermal debt, and impossible patience.
+Below it, in a different residue pattern, came Lyra's unmistakable technical handwriting rendered through coffee, scratches, coupling artifacts, and impossible patience.
 
 Lars,
 

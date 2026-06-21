@@ -74,7 +74,7 @@ Vigor laughed so hard he had to sit down. "We save the basin by making the apoca
 
 "Weaponized boredom," Fabron said. "France has institutional experience."
 
-The token mattered differently. Near the Creator map on Arkology Zero, it revealed a service path around First Door: too unstable for ships, enough for data, residue, maybe temporary bodies. The path did not open as a line. It appeared as a set of tolerances: mass below fifty kilograms, duration below thirty seconds without prepared substrate, heat debt payable by local sinks, no synchronized witness pool.
+The token mattered differently. Near the Creator map on Arkology Zero, it revealed a service path around First Door: too unstable for ships, enough for data, residue, maybe temporary bodies. The path did not open as a line. It appeared as a set of tolerances: mass below fifty kilograms, duration below thirty seconds without prepared substrate, substrate load absorbed by local sinks, no synchronized witness pool.
 
 Lyra's recovery apparatus had been moving through service paths for centuries, checking sleepers, nudging cultures, leaving traces mistaken for miracles.
 

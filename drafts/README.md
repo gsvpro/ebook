@@ -111,5 +111,5 @@ Revision priorities before polishing:
 - Keep Lars free of the old lock-trigger migraine after partial unlocking; use grief, resonance, memory pressure, or fear instead.
 - Keep Pluto-era Lyra pre-Återviens; mature Återviens must remain a later survival doctrine developed over decades.
 - Keep Fabron human and useful because culture carried Återviens, not because he is secretly Aerit.
-- Ground every wonder beat in evidence first: logs, thermal debt, residue, mass accounting, field correlation, sensor failure, or repeatable model.
+- Ground every wonder beat in evidence first: logs, coupling strain, residue, mass accounting, field correlation, sensor failure, anchor health, or repeatable model.
 

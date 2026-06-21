@@ -4102,7 +4102,7 @@ Erik Torvaldsson replied, "That is also not what tunneling means."
 
 The moonlet tests used seeded nanobot stock and local matter within reach of a relay cradle. That was enough to prove Model 3. It was not enough to travel.
 
-The harder problem came later. Lyra reverse-engineered the nanotechnology in her own bloodstream and learned to listen for sleeping Nomad networks scattered through quiet places. These were nanonets with no host, dormant in regolith, ice, dead hulls, and the margins of old Creator anchors. When her mind found one, the hard part was not chiefly technical. It was a frightening passage into the unknown field. Then collaboration at the destination: interface, consent, heat debt, local chemistry, until the sleeping lattice agreed to build a temporary body from whatever materials were there.
+The harder problem came later. Lyra reverse-engineered the nanotechnology in her own bloodstream and learned to listen for sleeping Nomad networks scattered through quiet places. These were nanonets with no host, dormant in regolith, ice, dead hulls, and the margins of old Creator anchors. When her mind found one, the hard part was not chiefly technical. It was a frightening passage into the consciousness field. Then collaboration at the destination: interface, consent, substrate load, local chemistry, and anchor health until the sleeping lattice agreed to build a temporary body from whatever materials were there.
 
 She got better at that too. Not quickly. Not cleanly.
 

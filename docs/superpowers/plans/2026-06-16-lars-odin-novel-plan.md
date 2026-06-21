@@ -116,7 +116,7 @@ The KBC Void is not a natural absence. It is a deliberately low-interaction zone
 
 Planned chapters:
 - Ch. 35: `The Creator Map` - a recovered map shows portal distribution aligned with outer-system artifacts but not caused by them.
-- Ch. 36: `Dead Subway` - Lars uses Havets Sista Sång near an old Creator portal; it works but reveals the portal is a crude layer.
+- Ch. 36: `Broken Gates` - Lars surveys a dead Creator gate fragment; it reveals the portal network as a crude transport layer built over older anchors.
 - Ch. 37: `Nomad Noise` - Grim detects nonlocal correlations that are communication-like but not message-like.
 - Ch. 38: `Lyra's Bad Body` - a flashback/memory/holojournal shows an early failed temporary body experiment, funny and unsettling.
 - Ch. 39: `The Empty Place Is Listening` - KBC Void data contradicts cosmological expectations.

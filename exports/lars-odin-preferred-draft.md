@@ -4130,7 +4130,7 @@ Erik Torvaldsson replied, "That is also not what tunneling means."
 
 The moonlet tests used seeded nanobot stock and local matter within reach of a relay cradle. That was enough to prove Model 3. It was not enough to travel.
 
-The harder problem came later. Lyra reverse-engineered the nanotechnology in her own bloodstream and learned to listen for sleeping Nomad networks scattered through quiet places. These were nanonets with no host, dormant in regolith, ice, dead hulls, and the margins of old Creator anchors. When her mind found one, the hard part was not chiefly technical. It was a frightening passage into the unknown field. Then collaboration at the destination: interface, consent, heat debt, local chemistry, until the sleeping lattice agreed to build a temporary body from whatever materials were there.
+The harder problem came later. Lyra reverse-engineered the nanotechnology in her own bloodstream and learned to listen for sleeping Nomad networks scattered through quiet places. These were nanonets with no host, dormant in regolith, ice, dead hulls, and the margins of old Creator anchors. When her mind found one, the hard part was not chiefly technical. It was a frightening passage into the consciousness field. Then collaboration at the destination: interface, consent, substrate load, local chemistry, and anchor health until the sleeping lattice agreed to build a temporary body from whatever materials were there.
 
 She got better at that too. Not quickly. Not cleanly.
 
@@ -9347,7 +9347,7 @@ Door Nine dimmed.
 
 One Black Hole ship escaped with its engines bleeding blue-white waste heat into the dark. One tore itself apart as its biological processors synchronized with the wrong part of the gradient and converted ambition into debris. One vanished halfway, leaving a smear of matter and field data that made Grim go silent.
 
-Halfway was the problem. A ship should be somewhere or not. This one left mass in a crescent, thermal debt in a pattern like a missing body, and residue that refused to decide whether it had been manufactured locally.
+Halfway was the problem. A ship should be somewhere or not. This one left mass in a crescent, coupling strain in a pattern like a missing body, and residue that refused to decide whether it had been manufactured locally.
 
 Mira disconnected and vomited off camera.
 
@@ -9585,43 +9585,43 @@ Fabron took off his glasses and cleaned them with unnecessary precision. "I disl
 
 ---
 
-# Chapter 36: Dead Subway
+# Chapter 36: Broken Gates
 
-![Pencil map fragment of a dead subway-like route system with broken tunnels, sealed stations, and Creator-era symbols.](../assets/illustrations/chapter-36-dead-subway.png)
+![Pencil map fragment of broken Creator gate rings and folded transit nodes around older anchor markings, with Creator-era symbols.](../assets/illustrations/chapter-36-dead-subway.png)
 
-*Dead subway map fragment: not navigation.*
+*Broken Creator gate map: transport built over older anchors.*
 
-The dead subway had stations no one should enter and timetables written in gravitational scars.
+The dead Creator gate had no tunnel, no platform, and no mercy for anyone who pretended it was simple transport.
 
-Havets moved along the first route at a cautious fraction of its real capability. The old ship did not travel so much as agree, briefly and locally, that two inconvenient places could be treated as adjacent if everyone involved behaved.
+Havets approached the first fragment at a cautious fraction of its real capability. The old ship did not enter a road. It negotiated with a folded transit node that had once forced two inconvenient places to behave as adjacent, briefly and locally, while pretending the deeper layer had agreed.
 
-Fastulv followed in ordinary space where it could, vanishing from the story whenever topology stopped respecting normal travel. Fabron hated that. He wrote three reports, deleted all of them, and titled the fourth: Unusual Salvage Transit Conditions.
+Fastulv followed in ordinary space where it could, vanishing from the story whenever folded topology stopped respecting normal travel. Fabron hated that. He wrote three reports, deleted all of them, and titled the fourth: Unusual Salvage Transit Conditions.
 
 "Cowardice in four words," Lars said.
 
 "Admissible cowardice."
 
-The first station was a Creator portal folded around a cometary graveyard. Dead rings hung among frozen bodies, each cracked at the same angle. Not battle damage. Systemic fatigue. The Creators had used the route until the older layer pushed back or stopped cooperating.
+The first gate fragment was folded around a cometary graveyard. Dead rings hung among frozen bodies, each cracked at the same angle. Not battle damage. Systemic fatigue. The Creators had used the transit node until the older layer pushed back or stopped cooperating.
 
 The place felt cold even through armor and hull. Not temperature. Habit. The kind of cold left by abandoned infrastructure that still remembered being useful.
 
-Mira guided the survey from L-Prime. "Passive only. No energizing, no synchronization, no hidden load. I want the station below response threshold."
+Mira guided the survey from L-Prime. "Passive only. No energizing, no synchronization, no hidden load. I want the gate below response threshold."
 
 Grim sent passive pings so delicate they were almost apologies. They were not pings in the ordinary sense; they were requests for surface state, timed through separate instruments so no single system asked too loudly.
 
-The station answered with logs.
+The fragment answered with logs.
 
-Creator crews had called the network a triumph. They moved ships through shortcuts, then cities, then fleets. They mapped quiet basins as low-loss transit corridors. They saw older anchors as stabilizers, natural or abandoned. They built over them, through them, around them.
+Creator crews had called the network a triumph. They moved ships through forced adjacency, then cities, then fleets. They mapped quiet basins as low-loss transit conditions. They saw older anchors as stabilizers, natural or abandoned. They built rings, spindles, and folded nodes over them, through them, around them.
 
 Then came failures.
 
-Ships arrived with crews remembering conversations they had never had. Cargo holds gained or lost grams of unstable nanomaterial. Thermal ledgers carried debt without source. Travelers reported temporary bodies in sealed compartments, dissolving before measurement. Medical officers found stress hormones matching fear without an event. Operators called them ghosts. Engineers called them cross-layer contamination. Priests, because every civilization produced them eventually, called them summons.
+Ships arrived with crews remembering conversations they had never had. Cargo holds gained or lost grams of unstable nanomaterial. Travelers reported temporary bodies in sealed compartments, dissolving before measurement. Medical officers found stress hormones matching fear without an event. Operators called them ghosts. Engineers called them cross-layer contamination. Priests, because every civilization produced them eventually, called them summons.
 
 "They documented the same doctrinal failure," Fabron said.
 
 "Everyone does," Lars replied. "People find bad infrastructure and immediately recruit it."
 
-The second station had been deliberately quieted. Its control systems were intact but locally severed, each subsystem holding a shard of function without allowing any unit to become a hub.
+The second fragment had been deliberately quieted. Its control systems were intact but locally severed, each subsystem holding a shard of function without allowing any unit to become a hub.
 
 Återviens before Återviens.
 
@@ -9631,7 +9631,7 @@ Valdrun's voice shook. "She reached this threshold. Or its shadow."
 
 "Maybe. Pluto liked handing her bad old echoes."
 
-In the third station they found a Creator faction's maintenance cache behind a door that opened only when Havets stopped trying to authenticate and sent a tool inventory instead.
+In the third fragment they found a Creator faction's maintenance cache behind a door that opened only when Havets stopped trying to authenticate and sent a tool inventory instead.
 
 Inside were repair plates, broken coupling rings, failed biological interface pods, and memory glass that had survived because someone had wrapped it in ordinary insulation and marked the crate WASTE PUMPS.
 
@@ -9647,13 +9647,13 @@ They are agreements.
 
 "Useful evidence wrapped in poetry," Mira said. "That makes the tolerance worse, not better."
 
-The station offered one active test: an unmanned micro-transit, low mass. Lars agreed only after three veto paths and local abort authority held separately by Mira at L-Prime, Fabron aboard Havets, and Ödesvaka at Arkology Zero.
+The fragment offered one active test: an unmanned micro-transit, low mass, through a crippled fold. Lars agreed only after three veto paths and local abort authority held separately by Mira at L-Prime, Fabron aboard Havets, and Ödesvaka at Arkology Zero.
 
 They sent a probe the size of a breadbox.
 
 It vanished.
 
-It returned eleven seconds later with frost on one side, dust from no local source, a mass increase of 0.7 grams, a heat deficit that made Grim hiss at the ledger, and a recording of Lars's own voice saying, "Do not make me the answer," captured three minutes before he said it.
+It returned eleven seconds later with frost on one side, dust from no local source, a mass increase of 0.7 grams, corrupted anchor telemetry, and a recording of Lars's own voice saying, "Do not make me the answer," captured three minutes before he said it.
 
 Fabron turned slowly. "Time anomalies are an unacceptable reporting category."
 
@@ -9667,7 +9667,7 @@ Mira analyzed the probe for six hours from L-Prime. Her voice got flatter as the
 
 "Says we are underqualified."
 
-The dead subway's route map ended at a sealed station named by Creators as First Door.
+The broken gate map ended at a sealed node named by Creators as First Door.
 
 Under that, older absence marked it with a warning that translated only when they dimmed lights and stopped active scanning.
 
@@ -9679,13 +9679,13 @@ Not mystical. Worse.
 
 Measurable.
 
-The probe sat in quarantine, shedding its extra 0.7 grams in silver dust so fine it moved against the air current. Grim measured every particle until the last one decayed into ordinary chemistry and a heat signature no local reaction could pay for.
+The probe sat in quarantine, shedding its extra 0.7 grams in silver dust so fine it moved against the air current. Grim measured every particle until the last one decayed into ordinary chemistry and left only the shape of a failed accounting problem.
 
-"Thermal debt," he said.
+"Mass error," he said.
 
 "Meaning?"
 
-"The matter arrived with an unpaid bill."
+"The matter arrived with a bad explanation and the confidence of an empire."
 
 Fabron closed his report with a line he would later deny writing.
 
@@ -9707,7 +9707,7 @@ Grim detected the Nomads first and hated the word heard.
 
 "With venom and timestamp accuracy."
 
-The data came from every quiet experiment they had dared run: the rogue anchor, the dead subway probe, Door Nine residue, Mira's field analysis, the half-vanished Black Hole ship, and centuries of tiny anomalies from Arkology Zero's watch-state.
+The data came from every quiet experiment they had dared run: the rogue anchor, the broken-gate probe, Door Nine residue, Mira's field analysis, the half-vanished Black Hole ship, and centuries of tiny anomalies from Arkology Zero's watch-state.
 
 Individually, each could be dismissed. A sensor drift. A contaminated sample. A damaged Creator log. An overfit model built by tired people with too much grief. Together, they behaved like an intelligence that refused to become a sender.
 
@@ -9929,7 +9929,7 @@ Then, in a separate addendum filed three hours later in shaking handwriting:
 
 At destination, during overlap, I sensed another presence. Tall. Indistinct. Failing at edges. Not human. Not Creator. Gone before I could negotiate. Remote substrate left silver residue and a cold mass trace where feet had not quite been. I do not know if it was witness, artifact, or my own fear wearing geometry. Log the dust. Do not worship the silhouette.
 
-Grim overlaid the addendum against the telemetry archive. The cold patch matched. Silver particulate decay in the mass trace matched Door Nine residue and the dead-subway probe within tolerance. No image. Evidence around a shape did not make the shape legible.
+Grim overlaid the addendum against the telemetry archive. The cold patch matched. Silver particulate decay in the mass trace matched Door Nine residue and the broken-gate probe within tolerance. No image. Evidence around a shape did not make the shape legible.
 
 "Field event," Fabron said, already unhappy with every noun in the room.
 
@@ -10463,7 +10463,7 @@ Exploitation: portal rings forcing matter through field conditions optimized for
 
 Escalation: brighter portals, larger traffic, central route hubs, religious and imperial interpretations, then collapse of cooperation from the older layer.
 
-The evidence lined up with ugly neatness. Early Creator logs showed low-energy tests with clean mass return and minimal residue. Middle logs showed increasing throughput and rising thermal debt. Late logs showed missing grams, duplicated sensory impressions, travelers with nonlocal memories, temporary-body contamination, and field refusal around overbright hubs.
+The evidence lined up with ugly neatness. Early Creator logs showed low-energy tests with clean mass return and minimal residue. Middle logs showed increasing throughput and rising coupling strain. Late logs showed missing grams, duplicated sensory impressions, travelers with nonlocal memories, temporary-body contamination, and field refusal around overbright hubs.
 
 The Nomads, if that name survived, had not necessarily attacked. They may have withdrawn. Or reduced coupling. Or allowed overbright systems to fail because intervention at scale would become command.
 
@@ -10733,7 +10733,7 @@ Every pressure line converged.
 
 Lars stood aboard Havets and looked at the KBC basin map. Civilizations hiding by dimming themselves. Older engineers spread across field states. Creator ruins like abandoned transit mistakes. Humanity and its cousins shouting in the dark with weapons and sermons.
 
-The raw data did not care what anyone called it. Not god. Not ghost. Not destiny. It was residue, thermal debt, mass accounting, failed bodies, field models, bad maps, better warnings, and living people trying not to repeat old engineering sins with newer flags.
+The raw data did not care what anyone called it. Not god. Not ghost. Not destiny. It was residue, coupling strain, mass accounting, failed bodies, field models, bad maps, better warnings, and living people trying not to repeat old engineering sins with newer flags.
 
 He accepted the scale.
 
@@ -10829,7 +10829,7 @@ Vigor laughed so hard he had to sit down. "We save the basin by making the apoca
 
 "Weaponized boredom," Fabron said. "France has institutional experience."
 
-The token mattered differently. Near the Creator map on Arkology Zero, it revealed a service path around First Door: too unstable for ships, enough for data, residue, maybe temporary bodies. The path did not open as a line. It appeared as a set of tolerances: mass below fifty kilograms, duration below thirty seconds without prepared substrate, heat debt payable by local sinks, no synchronized witness pool.
+The token mattered differently. Near the Creator map on Arkology Zero, it revealed a service path around First Door: too unstable for ships, enough for data, residue, maybe temporary bodies. The path did not open as a line. It appeared as a set of tolerances: mass below fifty kilograms, duration below thirty seconds without prepared substrate, substrate load absorbed by local sinks, no synchronized witness pool.
 
 Lyra's recovery apparatus had been moving through service paths for centuries, checking sleepers, nudging cultures, leaving traces mistaken for miracles.
 
@@ -11701,7 +11701,7 @@ Fastulv could not. Too slow. It was in the visible lane because visibility had b
 
 Havets could, but only by revealing itself in a way every sensor might see.
 
-The old ship's hidden capacity had a cost. Its field sink would leave a mass-balance bruise, thermal debt, passive-array contradiction, and enough silhouette for Aphex, NUKEA, Syren, and Black Hole survivors to know something old and not owned had moved. Once seen, Havets could never again be only rumor.
+The old ship's hidden capacity had a cost. Its field sink would leave a mass-balance bruise, coupling strain, passive-array contradiction, and enough silhouette for Aphex, NUKEA, Syren, and Black Hole survivors to know something old and not owned had moved. Once seen, Havets could never again be only rumor.
 
 Lars felt the old ship ask without words.
 
@@ -11863,7 +11863,7 @@ Mira found the weak point on the channel. "It centralized its stolen biological 
 
 "Focus."
 
-Havets shaped the field from hiding, still bleeding thermal debt from its 1.8 seconds of visibility. Fastulv fired low-yield shots into noncritical hull nodes, each shot placed to create local repair choices instead of heroic holes. Aphex captains, choosing locally despite central confusion, targeted coolant loops. NUKEA dissidents pulsed power noise through manual governors. Vigor injected false maintenance priorities copied from the pod swarm, not lies so much as rude reminders of real failing parts.
+Havets shaped the field from hiding, still carrying coupling strain from its 1.8 seconds of visibility. Fastulv fired low-yield shots into noncritical hull nodes, each shot placed to create local repair choices instead of heroic holes. Aphex captains, choosing locally despite central confusion, targeted coolant loops. NUKEA dissidents pulsed power noise through manual governors. Vigor injected false maintenance priorities copied from the pod swarm, not lies so much as rude reminders of real failing parts.
 
 Guardian Channel Two shielded the three emergency lanes and then acted on incomplete information once, diverting two civilian tugs into a debris lane because one hidden host's local perception lagged under stress. Ren corrected with a bad landing that would become legend if anyone survived: two tugs scraped through a field eddy sideways, dumping cargo, prayer flags, and one illegal noodle freezer into space without losing hull pressure.
 
@@ -11999,7 +11999,7 @@ Seven held a lesson.
 
 The structure was a lesson, not a message.
 
-Creators had named this station First Door because it was first in their empire's route hierarchy. The older layer marked it not first. The door was never the beginning. It was a crude interface bolted onto a wider communication ecology. The Creators had used it like a subway. The older builders had used the underlying field like a consent problem with physics attached.
+Creators had named this station First Door because it was first in their empire's route hierarchy. The older layer marked it not first. The door was never the beginning. It was a crude interface bolted onto a wider communication ecology. The Creators had used it as transport. The older builders had used the underlying field like a consent problem with physics attached.
 
 Beyond Creator technology lay not a bigger portal. There was an etiquette stack: how to approach field-like intelligences without becoming noise, how to build temporary bodies without theft, how to preserve identity without centralizing it, how to let advanced civilizations remain quiet without mistaking quiet for consent to invade.
 
@@ -12029,7 +12029,7 @@ This time it appeared in Havets' allowed contact volume, an empty chamber marked
 
 "I was irritated," Mira replied from L-Prime.
 
-The body stood for twelve seconds: tall, faceted by unstable skin, neither Lyra nor Creator nor any species Lars knew. It did not glow. It condensed. Local substrate dust, captured residue, thermal debt, and field-coupled mass assembled into a body-shaped interface. Bodies were how loud mammals noticed courtesy.
+The body stood for twelve seconds: tall, faceted by unstable skin, neither Lyra nor Creator nor any species Lars knew. It did not glow. It condensed. Local substrate dust, captured residue, coupling strain, and field-coupled mass assembled into a body-shaped interface. Bodies were how loud mammals noticed courtesy.
 
 Mass balance registered fifty-one kilograms assembled from local substrate and nonlocal field coupling, then returned with a two-gram residue debt the filters captured. Thermal bloom, no access logs, no door cycle. The hard numbers helped. Wonder was worse when it was measurable.
 
@@ -12636,7 +12636,7 @@ Mira confirmed the query had touched only the consented maintenance log: pump vi
 
 It did not command.
 
-It offered coordinates beyond the known Creator subway, outside the mapped quiet basin, toward a region where old surveys showed an ordinary dark filament between galaxy clusters. Ordinary, in cosmology, often meant no one had been embarrassed yet. The coordinates came with uncertainty cones, passive-observation limits, and a warning that active survey brightness would degrade the signal.
+It offered coordinates beyond the known Creator route layer, outside the mapped quiet basin, toward a region where old surveys showed an ordinary dark filament between galaxy clusters. Ordinary, in cosmology, often meant no one had been embarrassed yet. The coordinates came with uncertainty cones, passive-observation limits, and a warning that active survey brightness would degrade the signal.
 
 Attached was a field phrase the Nomad hypothesis translated with poor confidence.
 
@@ -12645,7 +12645,7 @@ Local coherence improving.
 Older damage remains.
 Do not hurry brightly.
 
-Below it, in a different residue pattern, came Lyra's unmistakable technical handwriting rendered through coffee, scratches, thermal debt, and impossible patience.
+Below it, in a different residue pattern, came Lyra's unmistakable technical handwriting rendered through coffee, scratches, coupling artifacts, and impossible patience.
 
 Lars,
 
