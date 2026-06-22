@@ -101,13 +101,7 @@ def read_manuscript_parts() -> list[str]:
 
 def title_page_markdown(version: str) -> str:
     cover_path = f"../assets/illustrations/{COVER_FILE}"
-    return (
-        f"# {TITLE}\n\n"
-        f"## {SUBTITLE}\n\n"
-        f"![{COVER_ALT}]({cover_path})\n\n"
-        f"By {AUTHOR}\n\n"
-        f"Version {version}"
-    )
+    return f"![{COVER_ALT}]({cover_path})\n\nVersion {version}"
 
 
 def combined_markdown(parts: list[str], illustrations: dict[int, Illustration], version: str) -> str:
@@ -200,8 +194,9 @@ def markdown_to_html_body(
                     caption = caption_match.group(1)
                     index += 2
 
+            figure_class = "cover-illustration" if Path(src).name == COVER_FILE else "chapter-illustration"
             figure = [
-                '<figure class="chapter-illustration">',
+                f'<figure class="{figure_class}">',
                 f'<img src="{html.escape(src)}" alt="{html.escape(alt)}" />',
             ]
             if caption:
@@ -300,6 +295,8 @@ h1 { margin-top: 0; }
 h2 { margin-top: 3rem; }
 p { margin: 1rem 0; }
 hr { border: 0; border-top: 1px solid #ddd3c4; margin: 2.5rem 0; }
+.cover-illustration { margin: 0 auto 1rem; text-align: center; page-break-after: avoid; break-after: avoid; }
+.cover-illustration img { display: block; max-width: 100%; max-height: 95vh; width: auto; height: auto; margin: 0 auto; border: 0; background: #000; }
 .chapter-illustration { margin: 1.25rem auto 1.75rem; max-width: 32rem; text-align: center; }
 .chapter-illustration img { max-width: 100%; height: auto; border: 1px solid #d8d0c2; background: #f7f3ea; }
 """
