@@ -2,6 +2,8 @@
 
 Generated phone-friendly reading exports from the current preferred draft.
 
+Version: `0.1.0`
+
 Files:
 
 - `lars-odin-preferred-draft.epub` - ebook file for Apple Books, Google Play Books, Kindle apps that accept EPUB, etc.
@@ -21,4 +23,4 @@ EPUB structure:
 - EPUB 2 `toc.ncx` table of contents for older readers
 - Chapter-opening illustrations are included when present in `../assets/illustrations/manifest.json`
 
-Generated: 2026-06-22 13:55
+Generated: 2026-06-22 14:26

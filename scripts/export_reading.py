@@ -20,9 +20,13 @@ import zipfile
 
 ROOT = Path(__file__).resolve().parents[1]
 EXPORTS = ROOT / "exports"
-TITLE = "Lars Odin"
-AUTHOR = "Pruttipuffan"
+TITLE = "Broken Gates"
+SUBTITLE = "A Lars Odin Chronicle"
+AUTHOR = "AG SHEPARD"
 ILLUSTRATIONS = ROOT / "assets" / "illustrations"
+VERSION_FILE = ROOT / "VERSION"
+COVER_FILE = "cover-lars-odin.png"
+COVER_ALT = "Black and white cover art for Broken Gates showing Lars Odin facing Fastulv and Havets Sista Sang near a dark cosmic void."
 
 
 @dataclass
@@ -39,6 +43,16 @@ class Illustration:
     file: str
     alt: str
     caption: str
+
+
+def read_version() -> str:
+    if not VERSION_FILE.exists():
+        raise FileNotFoundError(f"Missing export version file: {VERSION_FILE}")
+
+    version = VERSION_FILE.read_text(encoding="utf-8").strip()
+    if not re.match(r"^\d+\.\d+\.\d+(?:[-+][0-9A-Za-z.-]+)?$", version):
+        raise ValueError(f"VERSION must be semantic version format, got: {version!r}")
+    return version
 
 
 def load_illustrations() -> dict[int, Illustration]:
@@ -85,10 +99,21 @@ def read_manuscript_parts() -> list[str]:
     return parts
 
 
-def combined_markdown(parts: list[str], illustrations: dict[int, Illustration]) -> str:
+def title_page_markdown(version: str) -> str:
+    cover_path = f"../assets/illustrations/{COVER_FILE}"
+    return (
+        f"# {TITLE}\n\n"
+        f"## {SUBTITLE}\n\n"
+        f"![{COVER_ALT}]({cover_path})\n\n"
+        f"By {AUTHOR}\n\n"
+        f"Version {version}"
+    )
+
+
+def combined_markdown(parts: list[str], illustrations: dict[int, Illustration], version: str) -> str:
     body = "\n\n---\n\n".join(parts)
     body = re.sub(r"^# Lars Odin\s*", "", body, flags=re.M).strip()
-    markdown = f"# {TITLE}\n\n{body}\n"
+    markdown = f"{title_page_markdown(version)}\n\n{body}\n"
 
     if not illustrations:
         return markdown
@@ -231,6 +256,15 @@ def split_chapters(markdown: str) -> list[Section]:
     return sections
 
 
+def title_page_section(version: str) -> Section:
+    return Section(
+        title=TITLE,
+        markdown=title_page_markdown(version),
+        filename="title-page.xhtml",
+        anchor="title-page",
+    )
+
+
 def html_document(body: str) -> str:
     return f"""<!doctype html>
 <html lang="en">
@@ -318,7 +352,12 @@ def build_ncx(sections: list[Section], uid: str) -> str:
 """
 
 
-def build_opf(sections: list[Section], uid: str, illustrations: dict[int, Illustration]) -> str:
+def build_opf(
+    sections: list[Section],
+    uid: str,
+    illustrations: dict[int, Illustration],
+    version: str,
+) -> str:
     modified = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     manifest_chapters = "\n".join(
         f'    <item id="chapter-{index:02d}" href="{section.filename}" media-type="application/xhtml+xml" />'
@@ -340,12 +379,15 @@ def build_opf(sections: list[Section], uid: str, illustrations: dict[int, Illust
     <dc:title>{html.escape(TITLE)}</dc:title>
     <dc:language>en</dc:language>
     <dc:creator>{html.escape(AUTHOR)}</dc:creator>
+    <meta name="cover" content="cover-image" />
+    <meta property="schema:version">{html.escape(version)}</meta>
     <meta property="dcterms:modified">{modified}</meta>
   </metadata>
   <manifest>
     <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
     <item id="css" href="style.css" media-type="text/css" />
+    <item id="cover-image" href="images/{COVER_FILE}" media-type="image/png" properties="cover-image" />
 {manifest_images}
 {manifest_chapters}
   </manifest>
@@ -356,7 +398,12 @@ def build_opf(sections: list[Section], uid: str, illustrations: dict[int, Illust
 """
 
 
-def build_epub(sections: list[Section], epub_path: Path, illustrations: dict[int, Illustration]) -> None:
+def build_epub(
+    sections: list[Section],
+    epub_path: Path,
+    illustrations: dict[int, Illustration],
+    version: str,
+) -> None:
     uid = f"urn:uuid:{uuid.uuid4()}"
     container = """<?xml version="1.0" encoding="UTF-8"?>
 <container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
@@ -368,10 +415,11 @@ def build_epub(sections: list[Section], epub_path: Path, illustrations: dict[int
     with zipfile.ZipFile(epub_path, "w") as epub:
         epub.writestr("mimetype", "application/epub+zip", compress_type=zipfile.ZIP_STORED)
         epub.writestr("META-INF/container.xml", container)
-        epub.writestr("EPUB/package.opf", build_opf(sections, uid, illustrations))
+        epub.writestr("EPUB/package.opf", build_opf(sections, uid, illustrations, version))
         epub.writestr("EPUB/nav.xhtml", build_nav(sections))
         epub.writestr("EPUB/toc.ncx", build_ncx(sections, uid))
         epub.writestr("EPUB/style.css", css())
+        epub.write(ILLUSTRATIONS / COVER_FILE, f"EPUB/images/{COVER_FILE}")
         for illustration in illustrations.values():
             image_path = ILLUSTRATIONS / illustration.file
             epub.write(image_path, f"EPUB/images/{illustration.file}")
@@ -384,11 +432,13 @@ def build_epub(sections: list[Section], epub_path: Path, illustrations: dict[int
             epub.writestr(f"EPUB/{section.filename}", xhtml_document(section.title, body))
 
 
-def write_readme(chapter_count: int) -> None:
+def write_readme(chapter_count: int, version: str) -> None:
     (EXPORTS / "README.md").write_text(
         f"""# Lars Odin Reading Exports
 
 Generated phone-friendly reading exports from the current preferred draft.
+
+Version: `{version}`
 
 Files:
 
@@ -417,21 +467,26 @@ Generated: {datetime.now().strftime("%Y-%m-%d %H:%M")}
 
 def main() -> None:
     EXPORTS.mkdir(exist_ok=True)
+    version = read_version()
     parts = read_manuscript_parts()
     illustrations = load_illustrations()
-    markdown = combined_markdown(parts, illustrations)
-    sections = split_chapters(markdown)
+    markdown = combined_markdown(parts, illustrations, version)
+    chapter_sections = split_chapters(markdown)
+    sections = [title_page_section(version), *chapter_sections]
 
-    if len(sections) != 55:
-        raise ValueError(f"Expected 55 chapters, found {len(sections)}")
+    if len(chapter_sections) != 55:
+        raise ValueError(f"Expected 55 chapters, found {len(chapter_sections)}")
 
     (EXPORTS / "lars-odin-preferred-draft.md").write_text(markdown, encoding="utf-8")
     html_body = markdown_to_html_body(markdown, heading_ids=True)
     (EXPORTS / "lars-odin-preferred-draft.html").write_text(html_document(html_body), encoding="utf-8")
-    build_epub(sections, EXPORTS / "lars-odin-preferred-draft.epub", illustrations)
-    write_readme(len(sections))
+    build_epub(sections, EXPORTS / "lars-odin-preferred-draft.epub", illustrations, version)
+    write_readme(len(chapter_sections), version)
 
-    print(f"Generated exports with {len(sections)} chapters and {len(illustrations)} illustrations")
+    print(
+        f"Generated version {version} exports with "
+        f"{len(chapter_sections)} chapters and {len(illustrations)} illustrations"
+    )
 
 
 if __name__ == "__main__":

@@ -1,4 +1,12 @@
-# Lars Odin
+# Broken Gates
+
+## A Lars Odin Chronicle
+
+![Black and white cover art for Broken Gates showing Lars Odin facing Fastulv and Havets Sista Sang near a dark cosmic void.](../assets/illustrations/cover-lars-odin.png)
+
+By AG SHEPARD
+
+Version 0.1.0
 
 ## Chapter 1: The Rim
 
