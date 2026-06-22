@@ -14,6 +14,10 @@ Post-read action: revise dialogue so each major character has distinct vocabular
 - Avoid making everyone equally witty. Some characters are funny by accident, by precision, by warmth, by irritation, or not at all.
 - Technical language should reveal profession and personality: Mira says stress and tolerances; Fabron says authority and procedure; Vigor says food and tools; Grim says categories and measurements.
 - Do not use dialect caricature. Distinction comes from word choice, sentence shape, priority, and emotional habits.
+- Unlocked Aerits are not ordinary experts guessing from outside. Lars, Valdrun, Lyra, and other non-hypnotized Aerits have a fully developed and enhanced brain/nanobot connection. It gives deep intuitive access to field behavior, body repair, memory architecture, and old Aerit/Nomad concepts.
+- That access is intuitive, not a clean scientific manual. Unlocked Aerits can describe how it feels, what it suggests, and what their nanobots seem to know, but they should not neatly explain the mechanism unless they are making a hypothesis.
+- Mechanism-level knowledge requires studying the nanobots themselves: measurement, containment, reverse engineering, and comparison against field effects. The nanobots are nanoscale and invisible to the naked eye; no character should treat them like visible dust, insects, or ordinary machinery.
+- Mira can model the effects from evidence, but without dehypnotization and the developed Aerit nanobot/brain connection she does not have the same intuitive inheritance. Grim can analyze and categorize, but he is young and does not possess the full Aerit/Nomad lived concept.
 
 ## Lars Odin
 

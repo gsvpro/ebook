@@ -4,8 +4,6 @@
 
 ![Pencil sketch of Lars Odin's napkin diagram for a plasma shovel control loop, surrounded by Rim pub details.](../assets/illustrations/chapter-01-the-rim.png)
 
-*Napkin control-loop sketch recovered from The Rim.*
-
 Lars "Plates" Odin ordered a large bottle of Xaltor X whisky, four small glasses, and one Galactic IPA, then pretended to pay with the comm unit on his wrist.
 
 In reality he paid with his hand.
@@ -670,8 +668,6 @@ He only knew the headache was getting worse.
 
 ![Pencil notebook plan of a future farm habitat with soil trays, goats, irrigation lines, and repair notes.](../assets/illustrations/chapter-02-the-farmer.png)
 
-*Farm habitat notes: ordinary work, hidden order.*
-
 The Rim's inner market hemisphere had been designed by someone who believed commercial zoning should include weather.
 
 Lars stepped through the pressure arch and into artificial afternoon. The ceiling was a sky. Not a screen, not exactly. A layered atmospheric projection, humidity-managed and optically deep enough that clouds moved with convincing laziness across a blue vault three hundred meters overhead. Birds crossed between them. Real birds, according to the station registry, though Lars suspected half were sensor drones with better manners.
@@ -1270,8 +1266,6 @@ Grim made a sound that might have been a laugh or a servo fault.
 
 ![Pencil sensor-analysis sheet showing a dark object, incomplete orbital arcs, warning symbols, and field-noise traces.](../assets/illustrations/chapter-03-the-dark-object.png)
 
-*Sensor sheet for an object that refuses ordinary categories.*
-
 The Fastulv left The Rim under a filed civilian departure vector, then abandoned that vector eight minutes later.
 
 Lars did not call it abandoning.
@@ -1821,8 +1815,6 @@ A system recognizing a missing component.
 ## Chapter 4: The Sea's Last Song
 
 ![Pencil archive sketch of Havets Sista Sang with scarred hull plating, waveform notes, and biological cognition tank diagrams.](../assets/illustrations/chapter-04-the-seas-last-song.png)
-
-*Archive study of Havets Sista Sang.*
 
 The invisible ship accepted him like a machine with excellent memory and no concern for his comfort.
 
@@ -2418,8 +2410,6 @@ Then the chamber, the station, and the impossible blue light went away.
 
 ![Pencil Aerit archive study of a guardian helmet identity-lock interface with memory-anchor annotations and a partial three-circle symbol.](../assets/illustrations/chapter-05-the-helmet.png)
 
-*Aerit guardian helmet: identity-lock interface study.*
-
 Something beeped.
 
 Lars disliked it immediately.
@@ -2817,8 +2807,6 @@ Valdrun smiled.
 ## Chapter 6: Stronger Coffee
 
 ![Pencil notebook sketch of a battered coffee cup, caffeine stains, and a Ragnarrök-style energy equation.](../assets/illustrations/chapter-06-stronger-coffee.png)
-
-*Coffee margin notes: less theory, more movement.*
 
 The stronger coffee arrived in a cup that looked too elegant for what it contained.
 
@@ -3669,8 +3657,6 @@ Lars eyed the gray drink. "If lunch floats, I leave."
 ## Chapter 9: Threshold Models
 
 ![Pencil threshold model diagram with overlapping response curves, a lock gate, and noodle-like coherence signal paths.](../assets/illustrations/chapter-09-threshold-models.png)
-
-*Threshold models and partial mindfield boundaries.*
 
 Lunch did not float.
 
@@ -4708,8 +4694,6 @@ Or maybe he was back in the lab, four months before the Fastulv first left SPECU
 
 ![Pencil sketch of Fastulv as a battered civilian freighter with bulky cargo hull, docking clamps, cargo doors, and repair notes.](../assets/illustrations/chapter-12-bringing-the-wolf-home.png)
 
-*Fastulv: ugly freighter, old scars, same heart.*
-
 Lars came back to himself with the smell of engine coolant still in his nose.
 
 Simulation Chamber 3 was gone. The helmet room was gone. He stood in Station Zero's planning chamber with one hand resting on the central table, the Milky Way model hovering above it, and Grim staring at him with the patience of someone who had been saying his name for a while.
@@ -5438,8 +5422,6 @@ Lars smiled despite himself.
 
 ![Pencil sketch of melted sunglasses, a beef lot tag, a wine bottle, and a crossed-out apology note.](../assets/illustrations/chapter-15-quiet-dignity-fails-politely.png)
 
-*Quiet dignity, after incident review.*
-
 The dart accelerated at two hundred gravities.
 
 No human pilot. No ordinary missile either. It made one correction, then split into six smaller objects, each one leaving almost no thermal trail. Kinetic penetrators with smart skins, probably carrying sensor dust, maybe a blood-sample harvester if Black Hole B-7 had become especially disgusting this century.
@@ -6151,8 +6133,6 @@ Lars said, "Possibly."
 # Chapter 18: Materials Fatigue
 
 ![Pencil materials fatigue plate showing a cracked alloy strip, stress propagation, sensor pins, and tolerance notes.](../assets/illustrations/chapter-18-materials-fatigue.png)
-
-*Materials fatigue sample, after test.*
 
 Dr. Mira Sovan trusted cracks more than people.
 
@@ -7123,8 +7103,6 @@ It was the first ask.
 
 ![Pencil tactical note showing three stealth ships approaching L-Prime 41 and a materials ring cross-section.](../assets/illustrations/chapter-21-containment-drill.png)
 
-*Containment drill: insert, decoy, seal.*
-
 The three incoming ships arrived like bad decisions wearing stealth plating.
 
 They came out of the brown dwarf's dirty light without a clean drive plume. They slid between particle gusts and sensor blind spots. L-Prime 41 was a mining dependency, not a fortress. Its outer rings held materials labs, rotating crew berths, refinery blisters, and repair yards layered around whatever Aphex had underfunded last decade. Through the filters, the whole station smelled of hot metal, old coolant, and too many people trying not to breathe loudly.
@@ -7641,8 +7619,6 @@ Lars left before the line could make him feel anything useful.
 
 ![Pencil archive sketch of Havskant Colony as twelve rotating habitats lashed to a modular reactor spine above bright salt flats, with algae farms, salvage yard, and NUKEA recall tag.](../assets/illustrations/chapter-24-nukea-recall.png)
 
-*Havskant Colony: twelve habitats on a reactor spine above dead salt flats.*
-
 Havskant Colony had been built by people who distrusted planets.
 
 It hung inside the broken magnetosphere of a dead ocean world: twelve rotating habitats lashed to a modular reactor spine. Algae farms on one side. Salvage yard on the other. The ocean below had boiled away centuries ago and left salt flats bright enough to hurt cameras. Charged dust rose from the dead basins in slow curtains. It licked the colony's shields and made long-range telemetry stutter like a liar.
@@ -8112,8 +8088,6 @@ Not yet.
 # Chapter 27: No Single Heart
 
 ![Pencil distributed node diagram with many loose paths and a crossed-out central heart or core.](../assets/illustrations/chapter-27-no-single-heart.png)
-
-*No single heart: local routing only.*
 
 The dead platform wanted a central heart.
 
@@ -8757,8 +8731,6 @@ Because if they forgot that one sentence, Black Hole had already taught them its
 
 ![Pencil guardian protocol form with consent checkboxes, a farm gate latch, witness marks, and stop-authority notes.](../assets/illustrations/chapter-30-the-consent-problem.png)
 
-*Consent boundary form, guardian draft.*
-
 Isaac Tam woke on Arkology Zero and refused to become a revelation.
 
 He woke slowly, medically, in a room designed by people who had learned that white walls made trauma feel inspected. The lights were warm. The door was visible from the bed. Every instrument had a manual label. The privacy field showed its boundary as a thin amber line on the floor. No one had to trust invisible kindness.
@@ -9231,8 +9203,6 @@ Every light went out.
 
 ![Pencil emergency diagram of broken coherence signal lines, desynchronized speakers, and separated evacuation routes.](../assets/illustrations/chapter-33-coherence-break.png)
 
-*Coherence break: desynchronize and localize.*
-
 In the dark, everyone told the truth by what they reached for.
 
 Fabron reached for his soldiers. Mira reached for data. Grim reached for every system at once and complained that most of them were rude. Mother Pell reached for the broadcast controls with both hands and a convert's bright certainty on her face.
@@ -9589,8 +9559,6 @@ Fabron took off his glasses and cleaned them with unnecessary precision. "I disl
 
 ![Pencil map fragment of broken Creator gate rings and folded transit nodes around older anchor markings, with Creator-era symbols.](../assets/illustrations/chapter-36-broken-gates.png)
 
-*Broken Creator gate map: transport built over older anchors.*
-
 The dead Creator gate had no tunnel, no platform, and no mercy for anyone who pretended it was simple transport.
 
 Havets approached the first fragment at a cautious fraction of its real capability. The old ship did not enter a road. It negotiated with a folded transit node that had once forced two inconvenient places to behave as adjacent, briefly and locally, while pretending the deeper layer had agreed.
@@ -9792,8 +9760,6 @@ The manipulator moved anyway, guided away from a field coil before it touched a 
 # Chapter 38: Lyra's Bad Body
 
 ![Pencil field sketch of an Aerit guardian in charcoal flex-armor steadying a coupling coil, with three interlocking circles, a deliberate crack symbol, wrong-fit assembly at the shoulder, and margin notes.](../assets/illustrations/chapter-38-lyras-bad-body.png)
-
-*Lyra's bad body: guardian dress, wrong substrate, no roster.*
 
 Lyra's mind left Astra Lumara before the destination body agreed which way was down.
 
@@ -10205,8 +10171,6 @@ A snapshot: method alive in the present, absent in any body they could keep, sti
 
 ![Minimal pencil observatory diagram of the KBC Void with faint gravitational contours and a tiny receiver station.](../assets/illustrations/chapter-39-the-empty-place-is-listening.png)
 
-*KBC low-observation listening note.*
-
 The KBC Void was not empty.
 
 It had always held galaxies, gas, radiation, and the usual mistakes in old survey data. Humans had called it empty because it was inconvenient to reach and did not offer easy glory.
@@ -10536,8 +10500,6 @@ Mira saved the layer under a deliberately boring filename.
 # Chapter 42: The Nomad Hypothesis
 
 ![Pencil hypothesis diagram of distributed routes across small cosmological bubbles and engineered coupling notes.](../assets/illustrations/chapter-42-the-nomad-hypothesis.png)
-
-*The Nomad hypothesis, lowercase until proven.*
 
 Mira named the model because everyone else kept making it worse.
 
@@ -10890,8 +10852,6 @@ No one argued. Even Arsenault, still refusing to use that bathroom, signed the a
 # Chapter 45: The Cancer Model
 
 ![Pencil biological strategy diagram showing monopoly growth, local immune-response nodes, cut lines, and repair-team marks.](../assets/illustrations/chapter-45-the-cancer-model.png)
-
-*The cancer model: contain, cut, repair.*
 
 Grim modeled galactic collapse as cancer because he had recently become fond of biological metaphors and wanted everyone to suffer with him in labeled diagrams.
 
@@ -11398,8 +11358,6 @@ Grim's voice was low. "Then we deny them acoustics and record the attempt as ext
 # Chapter 48: The Public Lie
 
 ![Pencil public hazard advisory with redacted truth blocks, municipal debt ledger marks, signatures, and an airlock gauge.](../assets/illustrations/chapter-48-the-public-lie.png)
-
-*Public advisory with private debt attached.*
 
 The lie had to be ugly enough to work.
 
@@ -11943,8 +11901,6 @@ No one corrected her.
 
 ![Pencil artifact rubbing of a Creator door fragment with passive sensor curves and no-active-ping warning marks.](../assets/illustrations/chapter-51-the-creator-door.png)
 
-*Creator door fragment, passive study only.*
-
 First Door opened after the battle. No one had asked it to.
 
 Not fully. Not as Syren wanted. Not as Black Hole tried to force. Not as Aphex feared. The Creator ring shifted into a low-energy state. It revealed a service aperture no wider than a shuttle, surrounded by field conditions so delicate that active scans made it close like an eye.
@@ -12417,8 +12373,6 @@ Ren would have approved.
 # Chapter 54: Re-Becoming
 
 ![Pencil recovery sketch showing identity shards, memory anchors, a consent check, and a quiet signal thread.](../assets/illustrations/chapter-54-re-becoming.png)
-
-*Re-becoming: remembered with choice.*
 
 The final crisis ended with maintenance reports.
 

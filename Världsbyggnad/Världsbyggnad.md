@@ -226,6 +226,15 @@ Lyras flaggskepp i striden mot utomjordingarna som hotade Jorden år 2083. De ha
   
 The initial FTL barrage, a silent herald of their arrival, was followed by the relentless advance of the fleet, a testament to their determination and strategic acumen. This dual-phase strategy—combining the preemptive strike capabilities of FTL projectiles with the brute force of a high-velocity approach—underscored the innovative tactics at play.  
   
+Havets Sista Sång  
+Ett mycket gammalt aeritiskt skepp och Lars/Laurðinns gamla skepp. Det är inte byggt av Skaparna och inte byggt av Multiversnomaderna. Aeriterna byggde det själva med kunskap de hade fått genom nanobotarna, sina förstärkta hjärnor, studier av artefakten på Pluto, egen GRIN-utveckling och den kunskap som växte fram efter kontakten med Kalari i Heliostat-systemet.  
+  
+Skeppet hör till den stora aeritiska skeppsbyggnadsperioden runt Rakh'Na-kriget. Aeriterna fick troligen avancerad förvarning i slutet av 2082 och tvingades snabbt bygga en egen attack- och försvarsflotta i Heliostat-systemet. De gruvade asteroider, byggde tung industri och använde extrema produktionsmetoder för att kunna hjälpa Jorden i hemlighet när Rakh'Na anföll 2083. Efter segern fortsatte de sannolikt bygga fler fartyg för resiliens, eftersom Rakh'Na inte upphörde som hot utan fortsatte erövra andra system.  
+  
+Havets Sista Sång byggdes troligen omkring 2083-2084, samtidigt som många andra typer av aeritiska krigs-, spanings-, transport- och gömda beredskapsfartyg. Det finns sannolikt många liknande fartyg vid andra dolda stationer, månar och planeter, men exakt antal är oklart. År 2774 är Havets Sista Sång därför mycket gammalt, men inte primitivt: det har underhållits, gömts, utvecklats och uppgraderats genom århundradena.  
+  
+Grim kontrollerar inte Havets Sista Sång. Grim är ung, kanske bara omkring ett år gammal i nuvarande form, och kan samverka med skeppets system, analysera data och översätta vissa gränssnitt. Havets Sista Sång har däremot en egen mycket äldre och överlägsen skeppsintelligens. Skeppet kan svara Lars gamla kommandoenvelop och samarbeta med Grim, men det är inte Grim som styr skeppet.  
+  
   
 Astra Lumara  
 Månen som Lyra och hennes ISEA-team bygger sin första bas the Nexus Outpost på. Månen cirklar runt en Saturnus liknande planet. Den ligger i stjärnsystemet dit portalen utanför Pluto leder till.  
@@ -341,9 +350,11 @@ UPPDATERAD TIDSLINJE
 | ~2030 | Lyra hittar artefakt på Pluto, blir infekterad med nanobotar |
 | 2030-2033 | Uppbyggnad på Pluto, försvar mot teknooligarker, upptäckt av portalen |
 | 2033 | Lyra och ISEA-teamet flyr genom portalen till Heliostat |
-| 2033-2083 | Bygger Nexus Outpost på Astra Lumara. Första kontakt med Kalari. Utvecklar GRIN, Återviens, kolonier. |
+| 2033-2082 | Bygger Nexus Outpost på Astra Lumara. Första kontakt med Kalari. Utvecklar GRIN, Återviens, kolonier. |
+| Slutet av 2082 | Aeriterna får avancerad förvarning om Rakh'Na-hotet och börjar akut bygga upp en flotta i Heliostat-systemet. |
 | 2083 | Rakh'Na anfaller Jorden. Aeriterna hjälper till i hemlighet från Heliostat. |
-| 2083-2180 | Aeriterna hjälper mänskligheten expandera, men håller sig allt mer i bakgrunden |
+| 2083-2084 | Aeriterna bygger många egna attack-, försvars-, spanings- och beredskapsfartyg med asteroidgruvor och tung Heliostat-industri. Havets Sista Sång byggs troligen under denna period. |
+| 2084-2180 | Aeriterna hjälper mänskligheten expandera, bygger fler dolda stationer och fartyg, men håller sig allt mer i bakgrunden |
 | 2180-tal | Hypno-projektet. Aeriterna försvinner, gömmer sig i KBC Void. |
 | 2133 | Lars föds på Station Noll (i KBC Void) – inte i Heliostat |
 | 2774 | Berättelsen börjar |
@@ -408,7 +419,7 @@ Detta är en enastående rik och genomarbetad värld. Låt mig strukturera allt 
 | Drivkraft | En olustig känsla av att något brådskar. Röster i huvudet. Någon som förföljer honom. |
 | Begränsning | Migrän om han tänker på Aeriter eller sitt förflutna – börjar som värk i nacken |
   
-## LARS FÖRMÅGOR (DOLDA ÄVEN FÖR HONOM SJÄLV)  
+## LARS FÖRMÅGOR (DOLDA ÄVEN FÖR HONOM SJÄLV, INNAN UPPLÅSNINGEN)  
   
   
 
