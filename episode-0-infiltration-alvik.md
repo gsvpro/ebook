@@ -82,130 +82,102 @@ Grim ran the pattern analysis overnight. By morning the picture was clear. Sigri
 
 Fourteen days ago, she had been taken.
 
-## 4. The Prison
-
-NUKEA did not run the place.
-
-That was the trick. If Lars had believed the initial briefing — if he had accepted the mission frame at face value — he would have walked into a NUKEA holding facility and either been captured or killed within minutes.
-
-Instead, he spent the first six hours on the ground looking, not moving.
+## 4. The Drop
 
 He and Grim had dropped at 3:47 local time, landing in a peat bog three kilometers northwest of Alvik. The dräkter performed flawlessly: heat-diffusion lattice kept them from showing up on thermal sweeps, the light-bending weave made them nearly invisible in daylight, and the adaptive soles let them move over muck and stone without leaving a trace. Lars could run forty kilometers an hour in these things, silent as a thought, but he walked.
 
-The first building he found was a farmhouse, abandoned, roof caved in. The second was a well-preserved cottage with fresh cigarette butts in the snow.
-
-NUKEA vehicles would have been tracked. These were not NUKEA.
-
-The signature was subtle: vehicle treads from a non-standard all-terrain make, boot prints that did not match standard-issue military sizing, a perimeter fence rigged with sensors tuned to a frequency Grim identified as **HRGRAD MILISEN** — a name that appeared in three intercepted Aierit field reports from the 2400s, a militia that had officially disbanded after the Treaty of Uppsala, then resurfaced every time the galactic right shifted toward collapse.
+The first building he found was a farmhouse, abandoned, roof caved in. Then a cottage with fresh cigarette butts, then a converted dairy barn with steel plate and homemade tripwires. Not NUKEA. The signature was wrong: boot prints mismatched to standard military sizing, sensors tuned to a frequency Grim identified as **HRGRAD MILISEN** — a name from three intercepted Aierit field reports from the 2400s, a militia that had officially disbanded after the Treaty of Uppsala, then resurfaced whenever the galactic right tilted toward collapse.
 
 “HRGrad Milisen,” Lars said. “They are supposed to be dead.”
 
-“Proxy force,” Grim said. “Fascist fundamentalist cell. Linked to Black Hole conspiracy. They operate through deniable fronts: private security contractors, local vigilante networks, rural patrols with heavy weapons.”
+“Proxy force,” Grim said. “Fascist fundamentalist cell. Linked to Black Hole conspiracy. They operate through deniable fronts.”
 
-“So the prison does not look like a prison.”
+Inside the barn Lars picked up twelve thermal signatures. He listened for twenty minutes. He heard a guard on the phone: *“...tennis hall... cell three... keep the woman quiet...”*
 
-“That is correct.”
+Lars pulled back. “The barn is a forward post. She is not here.”
 
-They moved north along a ridgeline, avoiding the main road, using Grim’s range-finders to mark distant structures. Two kilometers inland, tucked behind a stand of birch, they found it: a converted dairy barn, reinforced with steel plate and concrete, surrounded by a twelve-meter security cordon — not NUKEA’s familiar orange-and-black bollards, but crude, hand-built tripwires and motion cams mounted on homemade poles.
+“Where is she?”
 
-Inside the barn, Lars picked up twelve thermal signatures. One of them matched Sigrid Holm’s biometric template from the old Aierit sleeper roster.
+“Alvik. The old tennis hall.”
 
-She was alive.
+## 5. Old Alvik Tennis Hall
 
-And she was guarded by people who did not officially exist.
+The hall sat on the edge of the village like a building that had been repurposed so many times it had forgotten what it was supposed to be. Plywood over broken windows. A NUKEA logistics sticker peeled from the door. Surveillance cameras mounted on makeshift arms.
 
-## 5. The Deception
+Lars slipped inside through a poorly sealed loading bay.
 
-Lars spent a full day mapping the site from cover.
+The interior smelled of mold, industrial cleaner, and something older: sweat, fear, the particular tang of human bodies held where they did not want to be. The old court lines were still visible on the floor, faintly, under portable lighting rigs. Metal partitions divided the space into cells.
 
-The barn had two visible entrances and one loading dock. The roof was covered in solar panels that also served as microwave relays. The guards operated in four-hour shifts, moved in pairs, carried standard military rifles but with aftermarket modifications Grim identified as **Black Hole**-grade targeting firmware. They communicated on a mesh network that routed through three intermediate hops before reaching a satellite Lars did not recognize.
+Sigrid was in cell three.
 
-This was not a random kidnapping. This was a professional extraction turned into a detention operation by someone who knew what Sigrid was.
+He saw her through a gap in the partition. She looked twenty-five. Gray hoodie, worn jeans, hands cuffed behind her back. She was alone.
 
-At dusk, Lars moved closer.
+A guard turned.
 
-He did not use invisibility. He used patience.
+He was not NUKEA. He wore HRGrad Milisen insignia — a black hole ringed with jagged white spikes. His rifle’s targeting module glowed faintly blue. He stopped, sniffed the air, and stepped toward the partition.
 
-Grim stayed on the ridge. Lars dropped to the mud, crawled under the outer tripwire ring, and reached the loading dock wall. He had a clear view of the interior through a gap in the corrugated metal.
+Lars froze. The dräkt should have hidden him, but the module was not looking for heat; it was looking for motion and microdisturbances.
 
-Sigrid sat at a metal table in the center of the barn. She looked twenty-five. She wore a gray hoodie and jeans that had seen better days. Her hands were cuffed behind her. She was alone.
+Grim fired a low-power disabling pulse from his forearm emitter. The guard crumpled without a sound — but the impact set off an alarm chime.
 
-A man in an HRGrad Milisen jacket sat across from her. He wasLean, watchful, holding a tablet.
+Sirens began to wail across the hall.
 
-“Tell us who you are working for,” the man said through the metal. Sigrid did not answer.
+“Go,” Lars said.
 
-Lars watched for twenty minutes. He listened to the rhythm of the guards. He counted the thermal signatures. He noted the placement of the microwave relay on the roof — the one that was subtly wrong, aimed not at a standard satellite but at an angle that suggested a **relay bounce off a Black Hole stealth platform in high orbit**.
+He broke the cell lock with a twist of reinforced polymer and cut Sigrid’s cuffs.
 
-This was a trap. Not just for Sigrid. For anyone who came to get her.
-
-He heard the man in the jacket say: “We know your friends are watching. We know there is a ship. We know it is close.”
-
-Lars’s blood ran cold. The dräkt should have hidden him. But HRGrad Milisen had something that could see through light-bending weave: **a charged-particle imager**, usually military-grade, available only to cells with Black Hole supply chains.
-
-They had almost seen him.
-
-He pulled back, slow, through the mud, under the tripwire, up the ridge.
-
-Grim was waiting.
-
-“They know we are here,” Lars said.
-
-“Yes,” Grim said. “They issued a challenge.”
-
-“Not NUKEA. The militia.”
-
-“Correct.”
-
-“Then we make it look like we are doing what they expect.”
-
-## 6. Extraction
-
-Lars did not run in. He ran out.
-
-For the next two hours he sprinted along the ridgeline at speeds that should have registered on every sensor within thirty kilometers. He made noise. He left a dräkt-heat signature in the snow. He crashed through a frozen birch stand loud enough to wake a hibernating bear.
-
-The HRGrad Milisen guards fell for it. Two pursuit teams left the barn, moving toward the signature Lars had planted on the west shoulder of the ridge.
-
-While they were gone, Grim dropped from above — silent, invisible, moving through the thermal blind spot on the barn’s east wall. He disabled the door lock with a pulse from his forearm emitter and shouldered the metal open.
-
-Sigrid looked up. She did not flinch.
-
-“You took your time,” she said.
-
-“I was circling,” Lars said, cutting the cuffs.
-
-Grim handed her a field kit: thermal layer, filter mask, compact beacon. “Can you run?”
+“Can you run?”
 
 “For three or four kilometers,” she said. “Then I will need to hide. I am three hundred and twelve years old. My knees remember the last ice age.”
 
-Lars smiled. It was the first genuine smile he had felt since leaving Station Null.
+They ran for the exit.
 
-The escape route he had chosen was not outward. It was inward — through the dairy’s old refrigeration tunnels, which ran under the main building and opened on the far side of the property, where the terrain dropped toward a frozen stream.
+Bullets sparked off the walls. A charged-particle round caught Lars in the right thigh and another grazed his left forearm. Pain arrived hot and bright, then dulled as the nanobots mobilized, clotting, reconstructing. He dragged Grim, whose right leg had taken a direct hit — bone and actuator shattered, servos dead. He hoisted the android onto his shoulder and kept running.
 
-The guards came back. Lars and Grim were already gone.
+## 6. Gamla Restaurangen Kullens
 
-They moved fast: forty kilometers an hour through the dark, Sigrid tucked between them, dräkt-adjusted to match their thermal output so she did not register as a separate heat source. The forest swallowed them. The stream led them east toward the coast, toward the old jetty the coordination cell had promised.
+They staggered into the old fish restaurant by the square forty minutes later — blind windows, rotted tablecloths, the smell of salt and mold and old beer. Lars lowered Grim onto a booth and took stock before he touched his wounds.
 
-## 7. The Shore
+First the room: exits, sightlines, structural integrity. Only then did he pull aside the dräkt fabric at his forearm and thigh. The burns had blistered and were already closing. The thigh wound was worse: a charged-particle round had passed through muscle and missed the femoral artery by millimeters. The nanobots contained the bleeding, but inflammation radiated through the weave. He applied a field sealant and covered it again.
 
-They reached the water just before first light.
+Grim’s leg was a ruin. Lars cleaned it with swabs and splinted what was left of the actuator with broken chair parts.
 
-The jetty was rotting. The boat tied to it was small, fishing-skiff size, engine removed, oars tucked under a tarpaulin. The coordination cell had pre-positioned it three days earlier.
+“I calculate a sixty-three percent chance of full mobility restoration if we reach extraction within six hours,” Grim said. His voice was fainter now. The chassis was running on reserve power.
 
-Lars turned to Sigrid. “Can you row?”
+“We reach extraction,” Lars said.
 
-“I was born on a lake near Uppsala in the year 2140,” she said. “I can row.”
+Sigrid sat across from them, unharmed except for a dust smear on her cheek. She had not spoken since the hall. Now she looked up.
 
-He handed her the oars. Grim lowered himself into the bow. Lars took the stern and pushed them off with a single shove.
+“Everyone in there,” she said quietly. “The other cells. They are all compromised.”
 
-Behind them, the barn was a dark smudge in the trees. The HRGrad Milisen had not followed to the water — they had chosen to contain, not pursue, which told Lars they were more disciplined than they appeared. They would report. They would wait. The Black Hole network would adjust.
+Lars nodded. “We know.”
 
-The lake was glass. The sky turned pale blue. Somewhere far ahead, beyond the trees, the sea waited.
+Sigrid shook her head. “Not just captured. They are talking. HRGrad Milisen has a program. The ones who break fast get privileges. The ones who hold out get removed. By the time you got there, half of them would have said anything they knew.”
 
-Lars reached into his pocket and thumbed the personal compass he had brought — mechanical, old, non-electronic. The needle settled north.
+She looked at Lars. “I did not talk. But they do not know that. If they think I talked, they will burn my cover everywhere.”
 
-He was not sure he was heading the right way. For the first time in a very long time, he was not sure of anything at all.
+Lars looked at her. “Are you burned?”
 
-But he was not alone. And the cell was alive.
+She was quiet for a moment. “An Aerit sleeper is hard to break and harder to read. But they almost caught you in the barn with counter-dräkt detection. That means they have Black Hole-grade tech. If they ran psych-compilers while I was unconscious... I would not have told them anything. But I cannot guarantee they know that.”
 
-The headache did not come back.
+He stood up. The restaurant swayed. He was spending energy he could not afford.
+
+Four questions needed answers:
+1. Was Sigrid’s cover only burned locally, or burned everywhere?
+2. Did HRGrad Milisen have other cells or listening posts nearby?
+3. How long before the net closed around Alvik?
+4. Which route out was actually viable?
+
+Valdrun’s voice came over the channel, faint and encoded. “Coordination cell gives you four days. After that *Havets Sista Sång* must extract or leave. Jupiter slingshot window is recalculating.”
+
+Four days. Not a week. The clock was already shorter than they had expected.
+
+“We investigate tonight,” Lars said. “Not tonight exactly — we rest, repair, evaluate. Then we move.”
+
+Grim was already scraping the local mesh network for HRGrad signals. Sigrid checked the field kit: rations, filters, beacon reader, thermal layers. Outside, rain began to streak the dirty windows. A NUKEA supply truck idled at the square corner, two hundred meters out, driver smoking. A dog barked once in the distance, then fell silent.
+
+Lars sat. The headache returned, faint, behind the left eye. But under it was something else — not denial, not memory. It felt like the first note of a signal he had not heard since Station Null.
+
+They had days to find out whether Sigrid was still a ghost in the network, or a name already marked for erasure.
+
+The regroup had just begun.
