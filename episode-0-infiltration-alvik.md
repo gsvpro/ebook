@@ -1,182 +1,211 @@
 # Episode 0: Infiltration — Alvik Drop
 
-**Standalone episode, pre-main sequence.**  
-Read before or after Chapter 1; it shows Lars and *Havets Sista Sång* before the Rim arc.  
-Timeline: before the manuscript’s opening.
+**Standalone episode, set between Chapter 30 and Chapter 40.**  
+Lars has already been de-hypnotized on Station Null in the KBC Void.  
+The mission clock starts when the Aierit coordination network reaches *Havets Sista Sång* with a one-week window.
 
 ---
 
-Lars Odin woke with a headache that had nothing to do with sleep.
+## 1. Course Correction
 
-He scratched the back of his head, ran a hand across the stubble on his jaw, and swung his legs over the edge of the bunk. The deck was cold. It was always cold aboard *Havets Sista Sång* — the Ocean’s Last Song — somewhere absurdly far out, where the hull hummed with the vibration of the long-haul drive and the recycled air smelled faintly of ozone and yesterday’s synthetic coffee.
+*Havets Sista Sång* was four months out from Station Null and three weeks from the next relay when the tasking arrived.
 
-He stood up and stretched. Then he began the walk.
+The original flight plan was simple: Jupiter slingshot, then out toward the Kepler corridor, then a long cold coast to the next Aierit archive. Lars had drawn the route himself. He liked the Kepler corridor. It was quiet, it was dark, and it did not remind him of anything.
 
-The corridor to the mess hall was, as always, absurdly long. Lars had stopped counting the steps years ago. Some designer had believed in dramatic scale. What it meant in practice was that every morning Lars had time to think, or not think, while walking past bulkheads marked with maintenance labels in three alphabets none of them used anymore.
+Then the message came.
 
-He reached the mess, pressed the sequence for the black coffee — three units, one synthetic, two emergent — and stood under the dispenser while the machine whirred. The resulting liquid was darker than philosophy and tasted, as always, more like magic than magic.
+It did not come from a ground asset. It came from the Aierit coordination cell — the hidden lattice that ran the spy network across the galactic rim: old watchers in dead-end stations, retired physicists running off-grid astrolabes, deep-cover agents embedded in corporate logistics chains who had never stopped reporting since the exodus. The message hopped through abandoned relays and dead satellites and the seams between naval patrols before it reached Lars's encrypted stack.
 
-He took a cup and sat down.
+Target: Earth.  
+Drop point: Alvik, by the runestone.  
+Window: one week.
 
-They were five thousand AU out, well past Pluto, coasting on the secondary drive while the primary rested. The mission profile said “long test run,” which was bureaucratic code for “re-familiarization with the ship after refit.” Lars had captained *Havets Sista Sång* before. Losing her to the blockade at Kappa had taken a piece of him he was still trying to name. Getting her back — enormous, upgraded, unfamiliar in places — felt like inheriting a house you had once lived in as a child, only now the rooms were larger and the walls remembered things you had forgotten.
+Lars stared at the text until his eyes burned. He was not hypnotized anymore. The nanobots in his blood hummed with a quiet recognition that his conscious mind could not name. The encryption was old, deliberate, layered in a way that only the coordination cell used. This was not noise.
 
-He drank. He stared at the condensation on the bulkhead port.
+He ordered Jupiter to wait.
 
-Then the comm panel pinged.
+## 2. The Briefing
 
-Not the soft chime of routine traffic. Not the harsh bark of a navigational alert. This was a single, high-priority note, encrypted so thoroughly that the ship’s own decryption stack hiccuped before climbing inside it.
+“Drop point is Alvik,” Lars said.
 
-Lars set the cup down.
+The command room was enormous. It had always been enormous, but after Station Null he noticed details he had not noticed before: the tactical table now projected not just terrain but atmospheric dust, magnetic interference, spectrum noise. The ambient lighting carried color channels beyond human vision. The room was built for people who could see more.
 
-He keyed the display. The message header came up first:
+Valdrun stood beside him — tall, broad, blue-pale, half-android, wearing the same face he had worn for centuries. A viking built from older metal than the ship.
 
-```
-CLASSIFICATION: EYES ONLY
-ORIGIN: UNVERIFIED — PROVISIONAL TRUST
-```
+“Runestone beacon,” Valdrun confirmed. “Low yield. Geofenced to a single marker pattern. They will find it from orbit if they have the key.”
 
-He read it twice.
+“NUKEA?”
 
-Infiltration. A planet-side operation. The target was Earth.
+“Still active. Corporate front with government teeth. They hold the power grid, the logistics hubs, the ferry routes. Sweden is one of the few habitable corridors left on Earth. July temperatures in the northern latitudes: twenty to thirty Celsius. Not comfortable. Survivable.”
 
-Drop point: Alvik, by the runestone.
+“The message came from coordination,” Lars said. “Not from the local cell.”
 
-He closed his eyes for a moment. Earth. The cradle. The place history books called home, now sealed under layers of treaties and no-fly zones and whatever the current century had built on top of it. He had not been back since the exodus. None of them had — not really.
+“As far as we know, the ground signal has been dark for fourteen days. That means either discipline or capture.”
 
-The message continued. The Aierit cell they had spoken to, the one with the voice on the encrypted band, had gone silent two weeks ago. No ping. No dead drop. No signal of any kind. That, the message implied, was the whole reason Lars and the crew were being asked.
+Lars traced the route on the table. Jupiter loomed in the projection as a gas giant the size of a continent, its moons small beads. Alvik was a dot so small it could have been a display glitch.
 
-Sweden was mentioned by name. One of the few places on Earth not yet rendered uninhabitable by heat. The company called NUKEA had fortified certain sites — strategic, the message said, though it did not say strategic for whom. And there was a local asset, already in place, who was supposed to keep things pointed in the right direction.
+“We were supposed to use Jupiter for a slingshot,” he said quietly.
 
-Lars read the last line.
+“The Kepler corridor can wait,” Grim said from the ambient console. “I have recalculated. We can reach Earth orbit in four days without refuel. The trade-off is fuel margin. We will not be able to continue to Kepler without a top-up.”
 
-*“Standard greeting applies. End transmission.”*
+“We top up in Sweden,” Lars said.
 
-After finishing his coffee — he drank it slow, because the machine made only one cup at a time and he was not ready to face anyone yet — Lars made his way aft, through more long corridors, up three levels, past the drone-mended hull plates that still bore scorch marks from Kappa.
+He did not say: *if Sweden is still there.*
 
-The command room was enormous. It always had been, but the refit had expanded it in ways that felt almost architectural: newly laid instrument arcs curved along the ceiling; the tactical table in the center now projected three-dimensional terrain instead of flat wireframes. The ambient lighting had been tuned to a softer blue, easier on circadian rhythms during long watches.
+Grim projected the insertion corridor. High-altitude skip trajectory, arctic approach, radar gap cycling every eleven minutes. The window was narrow. The tolerances were worse.
 
-He sat in the command chair and started pulling.
+“We go dark before we cross in,” Lars said. “No comms once we are atmosphere-bound until we confirm the beacon.”
 
-First, the message itself. He bypassed the ship’s default decryption and ran it through his own stack — the one he had written on a stolen terminal during the blockade. The headers held. The signature chain was unfamiliar, but the encryption fingerprint matched the old Aierit protocols. Not a perfect match. Close enough to be deliberate.
+“No skyttel?” Valdrun asked.
 
-Then the metadata. Time of origin. Signal path. Propagation delay matched a relay in the asteroid belt — one Lars knew had been abandoned before he was born.
+“No shuttle. Too visible. We drop.”
 
-It could be a trap. It could be a mistake. It could be exactly what it said.
+## 3. The Asset
 
-He opened a channel to the ship’s manifest and started listing what would be needed.
+The asset had no name on the manifest. No exact ID. The coordination cell only supplied a fragment: **female phenotype, apparent age twenty-five, embedded in a rural logistics chain near the Alvik corridor.** They had last confirmed her presence six months ago. Since then: silence.
 
-*Provisions:* compressed nutrient paste, yes, but also local foraging gear. If Sweden was habitable, nothing was guaranteed shelf-stable. Water filters, heavy duty.
+Lars spent two days running the fragment through every open-source correlation he could access without tipping NUKEA’s listening posts. Birth records, school registrations, utility transfers, ferry manifests, the old social media archives that still crawled the Swedish backbone like ghosts. Names appeared and disappeared. Most were red herrings.
 
-*Packaging:* low-visibility suits, not armor. Too much armor would get them stopped at the perimeter. Just enough to survive a fall, or an airlock malfunction, or someone shooting at them.
+Then, buried in a medical-supply shipment log from a coastal clinic, he found a match: a recurring order for non-epileptic sedatives, prescription refilled every sixty days, patient name **Sigrid Holm**. Age listed as twenty-four. Last pickup fourteen days ago — the same day the ground cell went dark.
 
-*Ground protocols:* movement patterns, contact etiquette, how to talk without sounding like they had arrived from a star.
+He pulled her file and cross-referenced it.
 
-He wrote the first outline of the op and stared at it. It looked like an outline. It was not a plan.
+There were gaps. Big ones. No childhood medical records. No school photos before 2042. No passport renewal trail before 2068. A woman who looked twenty-five had been buying sedatives under the same name for at least two hundred and forty years, give or take Aerit-era record manipulation.
 
-Forty minutes later the door cycled open.
+“She’s one of us,” Lars said.
 
-Valdrun entered. She had been asleep, he knew, because her flight suit was creased and her eyes held that particular softness of recent wakefulness. She went straight to the tactical table and pulled up the same message Lars had read.
+Valdrun stared at the data. “You think?”
 
-“Coffee first,” she said, without looking at him.
+“I know. Look at the encryption seed in her last prescription ID. It’s Aierit coordination. Someone was protecting her cover.”
 
-Grim spoke from the ambient console. “The coffee synthesizer has recalibrated to your liking, Captain Odin. Efficiency is up twelve percent. Also, I have located three additional anomalies in the message signature tree.”
+Grim ran the pattern analysis overnight. By morning the picture was clear. Sigrid Holm was not Sigrid Holm. She was a sleeper — likely 300 to 500 years old, moved in during the second colonization wave, embedded deep in Swedish civil infrastructure, running a low-level safehouse for transiting agents. She had been quiet for a long time because she had been doing precisely what Aierit sleepers did best: surviving, watching, waiting.
 
-“Show me,” Lars said.
+Fourteen days ago, she had been taken.
 
-Grim projected the anomalies into the air above the table: small, branching, suspicious things. Each one represented a point where the signal had been rewrapped, repropagated, possibly intercepted and resent.
+## 4. The Prison
 
-“This could be a deliberate deception,” Grim said, in the flat way AIs said terrible things.
+NUKEA did not run the place.
 
-“Or,” Valdrun said, leaning over the table, “it’s the only way they could get a message out if their cell was already burned.”
+That was the trick. If Lars had believed the initial briefing — if he had accepted the mission frame at face value — he would have walked into a NUKEA holding facility and either been captured or killed within minutes.
 
-She looked at Lars. The silence in the command room stretched, filled only by the hum of the ship and the faint fizz of Valdrun’s own coffee being synthesized somewhere behind the chair.
+Instead, he spent the first six hours on the ground looking, not moving.
 
-“Drop point is solid,” she said.
+He and Grim had dropped at 3:47 local time, landing in a peat bog three kilometers northwest of Alvik. The dräkter performed flawlessly: heat-diffusion lattice kept them from showing up on thermal sweeps, the light-bending weave made them nearly invisible in daylight, and the adaptive soles let them move over muck and stone without leaving a trace. Lars could run forty kilometers an hour in these things, silent as a thought, but he walked.
 
-“Beacon?”
+The first building he found was a farmhouse, abandoned, roof caved in. The second was a well-preserved cottage with fresh cigarette butts in the snow.
 
-“Signal is on the runestone at Alvik. Geofence, low yield. They can find it from orbit if they know where to look. But they need to be close.”
+NUKEA vehicles would have been tracked. These were not NUKEA.
 
-Lars nodded. “NUKEA?”
+The signature was subtle: vehicle treads from a non-standard all-terrain make, boot prints that did not match standard-issue military sizing, a perimeter fence rigged with sensors tuned to a frequency Grim identified as **HRGRAD MILISEN** — a name that appeared in three intercepted Aierit field reports from the 2400s, a militia that had officially disbanded after the Treaty of Uppsala, then resurfaced every time the galactic right shifted toward collapse.
 
-“Still operating in the region. Corporate front, if the public record is accurate. They’ve fortified sites across the provinces. Sweden is... preserved, if that’s the word. Not everything. But enough.”
+“HRGrad Milisen,” Lars said. “They are supposed to be dead.”
 
-They ordered up the geography. Lars traced the northern latitudes with a finger. Stockholm. Umeå. The old roads that ran close to water. Alvik, where the runestone stood — iron-banded, weathered, older than the country around it.
+“Proxy force,” Grim said. “Fascist fundamentalist cell. Linked to Black Hole conspiracy. They operate through deniable fronts: private security contractors, local vigilante networks, rural patrols with heavy weapons.”
 
-“Temperature?” he asked.
+“So the prison does not look like a prison.”
 
-Grim answered before Valdrun could. “Current modeled surface temperature for the Swedish corridor: eight to sixteen degrees Celsius, depending on season and latitude. Precipitation historically moderate. Currently trending wetter.”
+“That is correct.”
 
-Lars exhaled. That was survivable.
+They moved north along a ridgeline, avoiding the main road, using Grim’s range-finders to mark distant structures. Two kilometers inland, tucked behind a stand of birch, they found it: a converted dairy barn, reinforced with steel plate and concrete, surrounded by a twelve-meter security cordon — not NUKEA’s familiar orange-and-black bollards, but crude, hand-built tripwires and motion cams mounted on homemade poles.
 
-“Population density?”
+Inside the barn, Lars picked up twelve thermal signatures. One of them matched Sigrid Holm’s biometric template from the old Aierit sleeper roster.
 
-“Sparse. NUKEA holds the population centers through logistics and old-energy monopolies. Rural movement is possible but monitored. The local asset will have access.”
+She was alive.
 
-“Asset status?”
+And she was guarded by people who did not officially exist.
 
-“Unverified. Silent for fourteen days. That is either operational discipline or a problem.”
+## 5. The Deception
 
-Lars rubbed his face.
+Lars spent a full day mapping the site from cover.
 
-He called up the standard greeting protocol from the Aierit field manual. It was short, deliberately archaic, encoded into the first line of any legitimate message. The greeting in the message matched.
+The barn had two visible entrances and one loading dock. The roof was covered in solar panels that also served as microwave relays. The guards operated in four-hour shifts, moved in pairs, carried standard military rifles but with aftermarket modifications Grim identified as **Black Hole**-grade targeting firmware. They communicated on a mesh network that routed through three intermediate hops before reaching a satellite Lars did not recognize.
 
-“It’s them,” he said quietly.
+This was not a random kidnapping. This was a professional extraction turned into a detention operation by someone who knew what Sigrid was.
 
-He did not say “probably.” He did not say “I think.” He said it the way a captain said things when the room had gone quiet enough to hear.
+At dusk, Lars moved closer.
 
-By the time the sun-cycle marker on the wall shifted — artificial, of course, because they were five thousand AU out and the sun was a star among stars — Lars had a plan skeleton. The command room had filled: pilots, engineers, the comm officer who had first flagged the message. Even the quartermaster had showed up, which meant people were already calculating rations.
+He did not use invisibility. He used patience.
 
-Lars laid it out.
+Grim stayed on the ridge. Lars dropped to the mud, crawled under the outer tripwire ring, and reached the loading dock wall. He had a clear view of the interior through a gap in the corrugated metal.
 
-“Drop point Alvik,” he said, pointing at the projection. “Runestone beacon. We go dark before we cross in. No comms once we’re atmosphere-bound until we confirm the asset.”
+Sigrid sat at a metal table in the center of the barn. She looked twenty-five. She wore a gray hoodie and jeans that had seen better days. Her hands were cuffed behind her. She was alone.
 
-He walked the room through each point.
+A man in an HRGrad Milisen jacket sat across from her. He wasLean, watchful, holding a tablet.
 
-*The runestone:* old Viking-era memorial, probably migrated here from somewhere older than Sweden itself. Iron-rimmed. Flat face. The Aierit had agreed on a mark that would only mean something to someone who had studied their old colonial architecture. They would find it. It was designed to be found by people who were looking the right way.
+“Tell us who you are working for,” the man said through the metal. Sigrid did not answer.
 
-*The approach:* not direct orbit. They would skip in from high angle, using the arctic radar gaps that still existed because no one bothered to watch the ice caps closely enough. Valdrun would fly the insertion. She had done cold-drop before, in the Jovian system, in weather that hated her. She could do this.
+Lars watched for twenty minutes. He listened to the rhythm of the guards. He counted the thermal signatures. He noted the placement of the microwave relay on the roof — the one that was subtly wrong, aimed not at a standard satellite but at an angle that suggested a **relay bounce off a Black Hole stealth platform in high orbit**.
 
-*The ground team:* small. Two, maybe three. Not a squad. Too many bodies would trigger NUKEA’s pattern-matching systems. They wanted subtle.
+This was a trap. Not just for Sigrid. For anyone who came to get her.
 
-Lars stopped. He looked at the faces around the table.
+He heard the man in the jacket say: “We know your friends are watching. We know there is a ship. We know it is close.”
 
-“We don’t know if the asset is still there. We don’t know if the Aierit cell is still operating. We don’t know if this is a rescue or a recover or a setup.” He paused. “What we do know is that the message was real enough to reach us. That the beacon is real. That the greeting is correct. Everything else is noise until we’re boots on ground.”
+Lars’s blood ran cold. The dräkt should have hidden him. But HRGrad Milisen had something that could see through light-bending weave: **a charged-particle imager**, usually military-grade, available only to cells with Black Hole supply chains.
 
-Silence again.
+They had almost seen him.
 
-Valdrun broke it. “Provision list?”
+He pulled back, slow, through the mud, under the tripwire, up the ridge.
 
-Lars pulled it up. “Three days of concentrated rations. Two field filters. Thermal layers. A reader for the beacon signal. And one thing from personal stores.”
+Grim was waiting.
 
-He paused.
+“They know we are here,” Lars said.
 
-“My grandmother’s compass. Old. Mechanical. Works without power. If anything goes wrong with the electronic beacon — if NUKEA is jamming — it’s a fallback.”
+“Yes,” Grim said. “They issued a challenge.”
 
-Nobody argued.
+“Not NUKEA. The militia.”
 
-Grim spoke. “I will remain on board and maintain ship systems. I will also maintain a listening post on open frequencies and alert channels relevant to NUKEA activity. If the ground team does not check in within the agreed window, I will execute extraction protocol Lima.”
+“Correct.”
 
-Lars nodded. That was the agreement.
+“Then we make it look like we are doing what they expect.”
 
-He stood up. He was tired, but there was no rest to be had, not yet. There were questions that had no answers until they got closer. The population. The terrain. The temperature. Friends, enemies, neutrals. The climate in this part of a warming world was one thing; the political climate was another body entirely.
+## 6. Extraction
 
-They opened a secure channel to the source coordinates — ping, handshake, encryption exchange. The line established itself with the soft chime of a recognized protocol.
+Lars did not run in. He ran out.
 
-Lars leaned forward and spoke the standard greeting, the words precise, the cadence exactly as the manual taught it.
+For the next two hours he sprinted along the ridgeline at speeds that should have registered on every sensor within thirty kilometers. He made noise. He left a dräkt-heat signature in the snow. He crashed through a frozen birch stand loud enough to wake a hibernating bear.
 
-“Aierit colony, this is *Havets Sista Sång*. We acknowledge the beacon. We are inbound.”
+The HRGrad Milisen guards fell for it. Two pursuit teams left the barn, moving toward the signature Lars had planted on the west shoulder of the ridge.
 
-For a long moment, nothing came back.
+While they were gone, Grim dropped from above — silent, invisible, moving through the thermal blind spot on the barn’s east wall. He disabled the door lock with a pulse from his forearm emitter and shouldered the metal open.
 
-Then, faintly, under the noise of the drive:
+Sigrid looked up. She did not flinch.
 
-“Copy, *Sång*. You are cleared for the Alvik corridor.”
+“You took your time,” she said.
 
-Outside the viewport, the stars held steady. Somewhere far ahead, a planet named Earth waited, complicated and dangerous and, for the first time in longer than any of them could remember, a destination instead of a memory.
+“I was circling,” Lars said, cutting the cuffs.
 
-Lars looked at Valdrun. She nodded.
+Grim handed her a field kit: thermal layer, filter mask, compact beacon. “Can you run?”
 
-He looked at the quartermaster. “Load the drop ship.”
+“For three or four kilometers,” she said. “Then I will need to hide. I am three hundred and twelve years old. My knees remember the last ice age.”
 
-He was still tired. But the headache was gone.
+Lars smiled. It was the first genuine smile he had felt since leaving Station Null.
+
+The escape route he had chosen was not outward. It was inward — through the dairy’s old refrigeration tunnels, which ran under the main building and opened on the far side of the property, where the terrain dropped toward a frozen stream.
+
+The guards came back. Lars and Grim were already gone.
+
+They moved fast: forty kilometers an hour through the dark, Sigrid tucked between them, dräkt-adjusted to match their thermal output so she did not register as a separate heat source. The forest swallowed them. The stream led them east toward the coast, toward the old jetty the coordination cell had promised.
+
+## 7. The Shore
+
+They reached the water just before first light.
+
+The jetty was rotting. The boat tied to it was small, fishing-skiff size, engine removed, oars tucked under a tarpaulin. The coordination cell had pre-positioned it three days earlier.
+
+Lars turned to Sigrid. “Can you row?”
+
+“I was born on a lake near Uppsala in the year 2140,” she said. “I can row.”
+
+He handed her the oars. Grim lowered himself into the bow. Lars took the stern and pushed them off with a single shove.
+
+Behind them, the barn was a dark smudge in the trees. The HRGrad Milisen had not followed to the water — they had chosen to contain, not pursue, which told Lars they were more disciplined than they appeared. They would report. They would wait. The Black Hole network would adjust.
+
+The lake was glass. The sky turned pale blue. Somewhere far ahead, beyond the trees, the sea waited.
+
+Lars reached into his pocket and thumbed the personal compass he had brought — mechanical, old, non-electronic. The needle settled north.
+
+He was not sure he was heading the right way. For the first time in a very long time, he was not sure of anything at all.
+
+But he was not alone. And the cell was alive.
+
+The headache did not come back.
