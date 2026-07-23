@@ -100,7 +100,69 @@ Lars pulled back. “The barn is a forward post. She is not here.”
 
 “Alvik. The old tennis hall.”
 
-## 5. Old Alvik Tennis Hall
+Before they moved on, Lars checked the environment. The runestone stood less than fifty meters away, right beside the motorway slip-road that led to the Tranebergsbron approach. It was dark. The traffic was thin — a NUKEA logistics truck every twenty minutes, a patrol car every hour. No one would notice two figures curled behind the stone.
+
+They lay down. Lars slept. Grim did not.
+
+The android kept one sensor array on the road and another on the encrypted bands. He scraped local mesh traffic, municipal radio, police dispatches, the husked remains of Swedish social media still crawling the northern backbone, and the dark frequencies Grim had learned to recognize from Aierit field intercepts.
+
+What he found was disturbingly competent.
+
+HRGrad Milisen had set up a front operation called **Alviks Lokala Säkerhetsenhet** — Local Security Unit. The paperwork was impeccable. The registration number on the office door was real enough to pass a casual NU277 check. The personnel files listed ex-military, ex-police, ex-NUKEA contractors. In the half-lawless landscape of northern Sweden, where official institutions had been hollowed out by decades of climate collapse and corporate takeover, nobody asked hard questions. A uniform, a badge printed on cheap polymer, and the right kind of confidence was enough.
+
+“They are not pretending well,” Grim reported at 05:17, while Lars still slept. “They are pretending *just well enough*. That is more dangerous.”
+
+“Find the actual detention site,” Lars mumbled, eyes closed.
+
+“I believe I have. The old tennis hall. But there is also a listed judicial office in the village center. If Sigrid was processed through it, she would have a paper trail. Even a fake one.”
+
+By morning Lars had a plan. Not a good plan. A plausible one.
+
+They walked into Alviks Lokala Säkerhetsenhet at 08:42, just as the morning coffee shift started. Lars wore a modified version of the dräkt under a plain windbreaker — enough to pass as human at a glance, enough to hide the telltale biometrics if anyone scanned him. Grim’s chassis was adjusted to look like a service android: utilitarian, slightly dented, the kind of machine repair technicians used.
+
+The woman behind the counter looked up. She was maybe thirty, tired, eating a cinnamon bun.
+
+“Hej,” Lars said. “We’re from the regional audit office. We have a query about a prisoner named Sigrid Holm.”
+
+The woman blinked. “Audit?”
+
+“Yes. Transfer oversight. We need to verify status, legal basis, and current location.” Lars slid a forged authorization document across the counter. It was not Aierit-grade. It was simple enough to pass a sleepy morning clerk: old NUKEA letterhead, a reference number that Grim had generated from a real NUKEA procurement file, a signature block copied from a mid-level administrator in Umeå.
+
+The woman read the first line, frowned, read the second line, and then shrugged.
+
+“She’s in the old tennis hall. Cell three. But you can’t see her without clearance from the unit commander.”
+
+“We don’t need to see her,” Lars said. “We just need to confirm the charge sheet.”
+
+The woman pulled a folder from a metal filing cabinet. The paper was yellowed at the edges. The stamp was real — HRGrad Milisen’s black-hole emblem, embossed in wax that still held its shape.
+
+*Sigrid Holm. Detained for unauthorized data retention and suspected cooperation with hostile off-world actors. Awaiting transfer to higher security.*
+
+“Hostile off-world actors,” Lars said, keeping his voice neutral. “That’s a broad charge.”
+
+“The commander says she’s an Aierit sympathizer,” the woman said, as if that explained everything.
+
+Lars closed the folder and slid it back. “Thank you. We’ll be in touch.”
+
+He and Grim walked out.
+
+“She is legal,” Grim said once they were clear of the building. “In the sense that the paperwork exists. In the sense that the militia has created a judicial shell. The charge is invented. The court is imaginary. But it will hold up long enough to keep her hidden.”
+
+“And if we try to free her through official channels?”
+
+“She will vanish before the paperwork catches up.”
+
+Lars looked at the tennis hall on his internal map. It was two hundred meters east, past a playground and a disused bus stop. The building had three exterior cameras and a door that looked like it opened onto a loading bay.
+
+“The front door is a story,” he said. “We don’t use it.”
+
+He looked at Grim. “Ready?”
+
+“I have been ready since we landed,” Grim said.
+
+Behind them, the security unit’s front door closed with a sound like a book being shut.
+
+## 6. Old Alvik Tennis Hall
 
 The hall sat on the edge of the village like a building that had been repurposed so many times it had forgotten what it was supposed to be. Plywood over broken windows. A NUKEA logistics sticker peeled from the door. Surveillance cameras mounted on makeshift arms.
 
