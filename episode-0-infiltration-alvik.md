@@ -2,7 +2,7 @@
 
 **Standalone episode, set between Chapter 30 and Chapter 40.**  
 Lars has already been de-hypnotized on Station Null in the KBC Void.  
-The mission clock starts when the Aierit coordination network reaches *Havets Sista Sång* with a one-week window.
+The mission clock starts when the Aierit coordination network reaches *Havets Sista Sång* with a request for immediate infiltration support.
 
 ---
 
@@ -18,13 +18,13 @@ It did not come from a ground asset. It came from the Aierit coordination cell �
 
 Target: Earth.  
 Drop point: Alvik, by the runestone.  
-Window: seven days. Hard limit.
+Request for immediate infiltration support.
 
 Lars stared at the text until his eyes burned. He was not hypnotized anymore. The nanobots in his blood hummed with a quiet recognition that his conscious mind could not name. The encryption was old, deliberate, layered in a way that only the coordination cell used. This was not noise.
 
 Aierit deep-space command had decided to use a local asset rather than risk medvetandeprojektion — Lyra’s preferred broadcast tool, now taught to as many operatives as possible. Lars was closer to Earth than most, and in some ways better suited for this kind of work than anyone else. Four hundred years ago, he and Valdrun had practically invented the field version of what the coordination cell now called the **FAFO** directive: *Find out by being there.*
 
-He ordered Jupiter to wait.
+He called the command room. The mission would need planning before anyone said yes.
 
 ## 2. The Briefing
 
@@ -58,29 +58,29 @@ Grim projected the insertion corridor. High-altitude skip trajectory, arctic app
 
 “We go dark before we cross in,” Lars said. “No comms once we are atmosphere-bound until we confirm the beacon.”
 
-“No skyttel?” Valdrun asked.
+“No shuttle?” Valdrun asked.
 
 “No shuttle. Too visible. We drop.”
 
-Drop zone was set by Aierit deep-space command. The rest — insertion routes, fallback positions, extraction points — was planned by Lars, Valdrun, and Grim down to the minute. They had seven days. Not a day more.
+Drop zone was set by Aierit deep-space command. The rest — insertion routes, fallback positions, extraction points — was planned by Lars, Valdrun, and Grim down to the minute. They agreed on seven days. Not a day more.
 
 Lars spread the operation across three layers:
 
-Primary extraction: high-floor of a decaying high-rise at Hornsbergstrand. Seven hundred years ago the ground floor had held a pub called something unreadable on Lars’s historical map. The building was still standing, though NUKEA had rerouted the utilities and the pub was long gone. Grim placed an emergency beacon behind a loose ventilation panel.
+Primary extraction: roof of the tallest high-rise at Hornsbergstrand. Seven hundred years ago the ground floor had held a pub. Under the 2020s it had operated under the name *Pitcher*. The building is still standing, though NUKEA has rerouted the utilities and the pub is long gone. Grim placed an emergency beacon on the roof behind a ventilation unit.
 
 Secondary extraction: a boathouse on the northern shore of Kungsholmen, accessible by water from the city center.
-
-Tertiary: a cargo container at the NUKEA logistics hub in Södertälje, pre-positioned by coordination contacts three weeks earlier. Risky. Visible. Last resort.
 
 Every position had a fallback. Every fallback had a cut-loose protocol. If Lars did not check in within forty-eight hours, Valdrun was authorized to burn every Aierit asset in the Stockholm corridor and leave.
 
 ## 3. The Asset
 
-The asset had no name on the manifest. No exact ID. The coordination cell only supplied a fragment: **female phenotype, apparent age twenty-five, embedded in a rural logistics chain near the Alvik corridor.** They had last confirmed her presence six months ago. Since then: silence.
+The asset had no name on the manifest. No exact ID. The coordination cell only supplied a fragment: **female phenotype, apparent age twenty-five, embedded in a rural logistics chain near the Alvik corridor.** They had last confirmed her presence fourteen days ago. Since then: silence.
 
 Lars spent two days running the fragment through every open-source correlation he could access without tipping NUKEA’s listening posts. Birth records, school registrations, utility transfers, ferry manifests, the old social media archives that still crawled the Swedish backbone like ghosts. Names appeared and disappeared. Most were red herrings.
 
-Then, buried in a medical-supply shipment log from a coastal clinic, he found a match: a recurring order for non-epileptic sedatives, prescription refilled every sixty days, patient name **Sigrid Holm**. Age listed as twenty-four. Last pickup fourteen days ago — the same day the ground cell went dark.
+He worked the problem the way he used to solve mining-trajectory puzzles for the Abantu on The Rim: not by brute force, but by spotting the place where the data bent. Most falsified identities left a seam — a medical record that skipped puberty, a utility bill that arrived before the house was built, a passport scan whose metadata still carried the ghost of an older scanner. The fragment the coordination cell had given him was thin, but it had weight where it counted.
+
+Then, buried in a medical-supply shipment log from a coastal clinic, he found a match: a recurring order for non-epileptic sedatives, prescription refilled every sixty days, patient name **Sigrid Holm**. Age listed as twenty-four. Last pickup the same day the ground cell went dark.
 
 He pulled her file and cross-referenced it.
 
@@ -90,17 +90,19 @@ There were gaps. Big ones. No childhood medical records. No school photos before
 
 Valdrun stared at the data. “You think?”
 
-“I know. Look at the encryption seed in her last prescription ID. It’s Aierit coordination. Someone was protecting her cover.”
+“I know. Look at the encryption seed in her last prescription ID. It’s Aerit coordination. Someone was protecting her cover.”
 
-Grim ran the pattern analysis overnight. By morning the picture was clear. Sigrid Holm was not Sigrid Holm. She was a sleeper — likely 300 to 500 years old, moved in during the second colonization wave, embedded deep in Swedish civil infrastructure, running a low-level safehouse for transiting agents. She had been quiet for a long time because she had been doing precisely what Aierit sleepers did best: surviving, watching, waiting.
+Grim ran the pattern analysis overnight. By morning the picture was clear. Sigrid Holm was not Sigrid Holm. She was a sleeper — likely 300 to 500 years old, moved in during the second colonization wave, embedded deep in Swedish civil infrastructure, running a low-level safehouse for transiting agents. She had been quiet for a long time because she had been doing precisely what Aerit sleepers did best: surviving, watching, doing subtle cultural nudges on the locals, waiting.
 
 Fourteen days ago, she had been taken.
 
 ## 4. The Drop
 
-He and Grim had dropped at 3:47 local time, landing in a peat bog three kilometers northwest of Alvik. The dräkter performed flawlessly: heat-diffusion lattice kept them from showing up on thermal sweeps, the light-bending weave made them nearly invisible in daylight, and the adaptive soles let them move over muck and stone without leaving a trace. Lars could run forty kilometers an hour in these things, silent as a thought, but he walked.
+He and Grim dropped at 3:47 local time, landing in a peat bog three kilometers northwest of Alvik. The suits performed flawlessly: heat-diffusion lattice kept them from showing up on thermal sweeps, the light-bending weave made them nearly invisible in daylight, and the adaptive soles let them move over muck and stone without leaving a trace. Lars could run forty kilometers an hour in these things, silent as a thought, but he walked.
 
-The first building he found was a farmhouse, abandoned, roof caved in. Then a cottage with fresh cigarette butts, then a converted dairy barn with steel plate and homemade tripwires. Not NUKEA. The signature was wrong: boot prints mismatched to standard military sizing, sensors tuned to a frequency Grim identified as **HRGRAD MILISEN** — a name from three intercepted Aierit field reports from the 2400s, a militia that had officially disbanded after the Treaty of Uppsala, then resurfaced whenever the galactic right tilted toward collapse.
+The first building he found was a farmhouse, abandoned, roof caved in. Then a cottage with fresh cigarette butts, then a converted dairy barn with steel plate and homemade tripwires and drones patrolling the air. Not NUKEA. The signature was wrong: boot prints mismatched to standard military sizing, sensors tuned to a frequency Grim identified as **HRGRAD MILISEN** — a name from three intercepted Aerit field reports from the 2400s, a militia that had officially disbanded after the Treaty of Uppsala, then resurfaced whenever the galactic right tilted toward collapse.
+
+Grim followed standard protocol and infiltrated the twelve drones with a single line of code, turning their telemetry streams into a looping playback of empty forest. He also tracked the energy signature of every bullet fired in the area over the last 24 hours.
 
 “HRGrad Milisen,” Lars said. “They are supposed to be dead.”
 
@@ -114,11 +116,11 @@ Lars pulled back. “The barn is a forward post. She is not here.”
 
 “Alvik. The old tennis hall.”
 
-Before they moved on, Lars checked the environment. The runestone stood less than fifty meters away, right beside the motorway slip-road that led to the Tranebergsbron approach. It was dark. The traffic was thin — a NUKEA logistics truck every twenty minutes, a patrol car every hour. No one would notice two figures curled behind the stone.
+Before they moved on, Lars checked the environment. The runestone stood less than fifty meters away, right beside the motorway slip-road that led to the Tranebergsbron approach. It was dark. The traffic was thin — a NUKEA logistics truck every twenty minutes, a patrol car every hour. From behind the stone they were invisible to the road. No one would notice two figures curled there.
 
 They lay down. Lars slept. Grim did not.
 
-The android kept one sensor array on the road and another on the encrypted bands. He scraped local mesh traffic, municipal radio, police dispatches, the husked remains of Swedish social media still crawling the northern backbone, and the dark frequencies Grim had learned to recognize from Aierit field intercepts.
+The android kept one sensor array on the road and another on the encrypted bands. He scraped local mesh traffic, municipal radio, police dispatches, the husked remains of Swedish social media still crawling the northern backbone, and the dark frequencies Grim had learned to recognize from Aerit field intercepts.
 
 What he found was disturbingly competent.
 
@@ -132,7 +134,7 @@ HRGrad Milisen had set up a front operation called **Alviks Lokala Säkerhetsenh
 
 By morning Lars had a plan. Not a good plan. A plausible one.
 
-They walked into Alviks Lokala Säkerhetsenhet at 08:42, just as the morning coffee shift started. Lars wore a modified version of the dräkt under a plain windbreaker — enough to pass as human at a glance, enough to hide the telltale biometrics if anyone scanned him. Grim’s chassis was adjusted to look like a service android: utilitarian, slightly dented, the kind of machine repair technicians used.
+They walked into Alviks local security unit at 08:42, just as the morning coffee shift started. Lars wore a modified version of the suit under a plain windbreaker — enough to pass as human at a glance, enough to hide the telltale biometrics if anyone scanned him. Grim’s chassis was adjusted to look like a service android: utilitarian, slightly dented, the kind of machine repair technicians used.
 
 The woman behind the counter looked up. She was maybe thirty, tired, eating a cinnamon bun.
 
@@ -140,7 +142,7 @@ The woman behind the counter looked up. She was maybe thirty, tired, eating a ci
 
 The woman blinked. “Audit?”
 
-“Yes. Transfer oversight. We need to verify status, legal basis, and current location.” Lars slid a forged authorization document across the counter. It was not Aierit-grade. It was simple enough to pass a sleepy morning clerk: old NUKEA letterhead, a reference number that Grim had generated from a real NUKEA procurement file, a signature block copied from a mid-level administrator in Umeå.
+“Yes. Transfer oversight. We need to verify status, legal basis, and current location.” Lars slid a forged authorization document across the counter. It was not Aerit-grade. It was simple enough to pass a sleepy morning clerk: old NUKEA letterhead, a reference number that Grim had generated from a real NUKEA procurement file, a signature block copied from a mid-level administrator in Umeå.
 
 The woman read the first line, frowned, read the second line, and then shrugged.
 
@@ -154,7 +156,7 @@ The woman pulled a folder from a metal filing cabinet. The paper was yellowed at
 
 “Hostile off-world actors,” Lars said, keeping his voice neutral. “That’s a broad charge.”
 
-“The commander says she’s an Aierit sympathizer,” the woman said, as if that explained everything.
+“The commander says she’s an Aerit sympathizer,” the woman said, as if that explained everything.
 
 Lars closed the folder and slid it back. “Thank you. We’ll be in touch.”
 
@@ -166,7 +168,7 @@ He and Grim walked out.
 
 “She will vanish before the paperwork catches up.”
 
-Lars looked at the tennis hall on his internal map. It was two hundred meters east, past a playground and a disused bus stop. The building had three exterior cameras and a door that looked like it opened onto a loading bay.
+Lars looked at the tennis hall on his internal map. It was two hundred meters east, past a hotel and a disused bus stop. The building had three exterior cameras and a door that looked like it opened onto a loading bay.
 
 “The front door is a story,” he said. “We don’t use it.”
 
@@ -176,7 +178,7 @@ He looked at Grim. “Ready?”
 
 Behind them, the security unit’s front door closed with a sound like a book being shut.
 
-## 6. Old Alvik Tennis Hall
+## 5. Old Alvik Tennis Hall
 
 The hall sat on the edge of the village like a building that had been repurposed so many times it had forgotten what it was supposed to be. Plywood over broken windows. A NUKEA logistics sticker peeled from the door. Surveillance cameras mounted on makeshift arms.
 
@@ -192,7 +194,7 @@ A guard turned.
 
 He was not NUKEA. He wore HRGrad Milisen insignia — a black hole ringed with jagged white spikes. His rifle’s targeting module glowed faintly blue. He stopped, sniffed the air, and stepped toward the partition.
 
-Lars froze. The dräkt should have hidden him, but the module was not looking for heat; it was looking for motion and microdisturbances.
+Lars froze. The suit should have hidden him, but the module was not looking for heat; it was looking for motion and microdisturbances.
 
 Grim fired a low-power disabling pulse from his forearm emitter. The guard crumpled without a sound — but the impact set off an alarm chime.
 
@@ -204,7 +206,7 @@ He broke the cell lock with a twist of reinforced polymer and cut Sigrid’s cuf
 
 “Can you run?”
 
-“For three or four kilometers,” she said. “Then I will need to hide. I am three hundred and twelve years old. My knees remember the last ice age.”
+“Yes.”
 
 They ran for the exit.
 
@@ -212,9 +214,9 @@ Bullets sparked off the walls. A charged-particle round caught Lars in the right
 
 ## 6. Gamla Restaurangen Kullens
 
-They staggered into the old fish restaurant by the square forty minutes later — blind windows, rotted tablecloths, the smell of salt and mold and old beer. Lars lowered Grim onto a booth and took stock before he touched his wounds.
+They staggered into the old restaurant by the square forty minutes later — blind windows, rotted tablecloths, the smell of salt and mold and old beer. Lars lowered Grim onto a booth and took stock before he touched his wounds.
 
-First the room: exits, sightlines, structural integrity. Only then did he pull aside the dräkt fabric at his forearm and thigh. The burns had blistered and were already closing. The thigh wound was worse: a charged-particle round had passed through muscle and missed the femoral artery by millimeters. The nanobots contained the bleeding, but inflammation radiated through the weave. He applied a field sealant and covered it again.
+First the room: exits, sightlines, structural integrity. Only then did he pull aside the suit fabric at his forearm and thigh. The burns had blistered and were already closing. The thigh wound was worse: a charged-particle round had passed through muscle and missed the femoral artery by millimeters. The nanobots contained the bleeding, but inflammation radiated through the weave. He applied a field sealant and covered it again.
 
 Grim’s leg was a ruin. Lars cleaned it with swabs and splinted what was left of the actuator with broken chair parts.
 
@@ -234,7 +236,7 @@ She looked at Lars. “I did not talk. But they do not know that. If they think 
 
 Lars looked at her. “Are you burned?”
 
-She was quiet for a moment. “An Aerit sleeper is hard to break and harder to read. But they almost caught you in the barn with counter-dräkt detection. That means they have Black Hole-grade tech. If they ran psych-compilers while I was unconscious... I would not have told them anything. But I cannot guarantee they know that.”
+She was quiet for a moment. “An Aerit sleeper is hard to break and harder to read. But they almost caught you in the hall with counter suit detection. That means they have Black Hole-grade tech. If they ran psych-compilers while I was unconscious... I would not have told them anything. But I cannot guarantee they know that.”
 
 He stood up. The restaurant swayed. He was spending energy he could not afford.
 
@@ -244,11 +246,11 @@ Four questions needed answers:
 3. How long before the net closed around Alvik?
 4. Which route out was actually viable?
 
-Valdrun’s voice came over the channel, faint and encoded. “Coordination cell gives you four days. After that *Havets Sista Sång* must extract or leave. Jupiter slingshot window is recalculating.”
+Valdrun’s voice came over the channel, faint and encoded. “Coordination cell recalculates. Jupiter slingshot window is moving. Four days from now you are either extracted or I burn the corridor and leave.”
 
-Four days. Not a week. The clock was already shorter than they had expected.
+Four days. The timeline was already shorter than they had expected.
 
-“We investigate tonight,” Lars said. “Not tonight exactly — we rest, repair, evaluate. Then we move.”
+“We investigate tonight,” Lars said. “We rest, repair, evaluate. Then we move.”
 
 Grim was already scraping the local mesh network for HRGrad signals. Sigrid checked the field kit: rations, filters, beacon reader, thermal layers. Outside, rain began to streak the dirty windows. A NUKEA supply truck idled at the square corner, two hundred meters out, driver smoking. A dog barked once in the distance, then fell silent.
 
