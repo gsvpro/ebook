@@ -1,7 +1,7 @@
 # Episode 0: Infiltration — Alvik Drop
 
 **Standalone episode, set between Chapter 30 and Chapter 40.**  
-Lars has already come back to himself after Station Null in the KBC Void.  
+Lars has already regained himself after Station Null in the KBC Void.  
 The mission clock starts when the Aerit coordination network reaches *Havets Sista Sång* with a request for immediate infiltration support.
 
 ---
@@ -22,7 +22,7 @@ Request for immediate infiltration support.
 
 Lars stared at the text until his eyes burned. The nanobots in his blood hummed with a quiet recognition that his conscious mind could not name. The encryption was old, deliberate, layered in a way that only the coordination cell used. This was not noise.
 
-Aeritska djuprymdskommandot had decided that a local Aerit asset was a better choice than medvetandeprojection — Lyra’s preferred broadcast tool, now taught to as many operatives as possible. And who was better suited for this kind of work than Lars? Four hundred years ago, he and Valdrun had practically invented the field version of what the coordination cell now called the **FAFO** directive: *Find out by being there.*
+Aerit deep-space command had decided that a local Aerit asset was a better choice than consciousness projection — Lyra’s preferred broadcast tool, now taught to as many operatives as possible. And who was better suited for this kind of work than Lars? Four hundred years ago, he and Valdrun had practically invented the field version of what the coordination cell now called the **FAFO** directive: *Find out by being there.*
 
 He called the command room. The mission would need planning before anyone said yes.
 
@@ -34,25 +34,49 @@ The command room was enormous. The tactical table projected not just terrain but
 
 Valdrun stood beside him — tall, broad, blue-pale, half-android, wearing the same face he had worn for centuries. A viking built from older metal than the ship.
 
-“Drop zone is set by Aeritska djuprymdskommandot,” Valdrun said. “Everything else is ours.”
+“Runestone beacon,” Valdrun confirmed. “Low yield. Geofenced to a single marker pattern. They will find it from orbit if they have the key.”
 
-Lars spread the operation across three layers:
+“NUKEA?”
 
-Primary extraction: roof of the tallest high-rise at Hornsbergstrand. In the 2020s, the ground floor had held a pub called Pitcher. The building was still standing, though NUKEA had rerouted the utilities and nothing looked the same. Grim had placed an emergency beacon on the roof behind a ventilation unit.
-
-Secondary extraction: a boathouse on the northern shore of Kungsholmen, accessible by water from the city center.
-
-Every position had a fallback. Every fallback had a cut-loose protocol. If Lars did not check in within forty-eight hours, Valdrun was authorized to burn every Aerit asset in the Stockholm corridor and leave.
-
-They agreed on seven days. Not a day more.
+“Still active. Corporate consortium, nuclear-fusion power. They are the leading force in spacecraft propulsion. They have boots on every logistics hub in Sweden.” Valdrun paused. “Sweden is one of the few habitable corridors left on Earth. July temperatures in the northern latitudes: twenty to thirty Celsius. Not comfortable. Survivable.”
 
 Lars traced the route on the table. Jupiter loomed in the projection as a gas giant the size of a continent, its moons small beads. Alvik was a dot so small it could have been a display glitch. He looked at the world projection. Much of the northern hemisphere was red — heat domes, flood zones, fire corridors. The habitable pockets were smaller than they had been a century ago.
 
-“Earth is in chaos,” Grim said quietly. “Weather collapse, unrest, resource fights. Populations have clustered where it is still survivable — where it is not too hot, where the water has not risen too far, where the storms are not yet constant. The Nordics still hold one of those pockets. So does the southern polar region. But both are shrinking.”
+“Earth is in chaos,” Grim said quietly from the ambient console. “Weather collapse, unrest, resource fights. Populations have clustered where it is still survivable — where it is not too hot, where the water has not risen too far, where the storms are not yet constant. The Nordics still hold one of those pockets. So does the southern polar region. But both are shrinking.”
 
 “Then Sweden is one of the last hospitable places left,” Lars said.
 
 “For now,” Grim replied.
+
+“The message came from coordination,” Lars said. “Not from the local cell.”
+
+“As far as we know, the ground signal has been dark for fourteen days,” Valdrun said. “That means either discipline or capture.”
+
+“We were supposed to use Jupiter for a slingshot,” he said quietly.
+
+“The Kepler corridor can wait,” Grim said. “I have recalculated. We can reach Earth orbit in four days without refuel. The trade-off is fuel margin. We will not be able to continue to Kepler without a top-up.”
+
+“We top up in Sweden,” Lars said.
+
+He did not say: *if Sweden is still there.*
+
+Grim projected the insertion corridor. High-altitude skip trajectory, arctic approach, radar gap cycling every eleven minutes. The window was narrow. The tolerances were worse.
+
+“We go dark before we cross in,” Lars said. “No comms once we are atmosphere-bound until we confirm the beacon.”
+
+“No shuttle?” Valdrun asked.
+
+“Too visible. We drop.”
+
+Drop zone was set by Aerit deep-space command. The rest — insertion routes, fallback positions, extraction points — was planned by Lars, Valdrun, and Grim down to the minute. They agreed on seven days. Not a day more.
+
+Lars spread the operation across three layers:
+
+Primary extraction: roof of the tallest high-rise at Hornsbergstrand. In the 2020s, the ground floor had held a pub called Pitcher. The building was still standing, though nothing looked the same anymore. Grim had marked the roof behind a ventilation unit with an emergency beacon.
+
+Secondary extraction: a boathouse on the northern shore of Kungsholmen, accessible by water from the city center.
+
+Every position had a fallback. Every fallback had a cut-loose protocol. If Lars did not check in within forty-eight hours, Valdrun was authorized to burn every Aerit asset in the Stockholm corridor and leave.
 
 ## 3. The Asset
 
@@ -82,23 +106,7 @@ Fourteen days ago, she had been taken.
 
 He and Grim dropped at 3:47 local time, landing in a peat bog three kilometers northwest of Alvik. The suits performed flawlessly: heat-diffusion lattice kept them from showing up on thermal sweeps, the light-bending weave made them nearly invisible in daylight, and the adaptive soles let them move over muck and stone without leaving a trace. Lars could run forty kilometers an hour in these things, silent as a thought, but he walked.
 
-The first building he found was a farmhouse, abandoned, roof caved in. Then a cottage with fresh cigarette butts, then a converted dairy barn with steel plate and homemade tripwires and drones patrolling the air. Not NUKEA. The signature was wrong: boot prints mismatched to standard military sizing, sensors tuned to a frequency Grim identified as **HRGRAD MILISEN** — a name from three intercepted Aerit field reports from the 2400s, a militia that had officially disbanded after the Treaty of Uppsala, then resurfaced whenever the galactic right tilted toward collapse.
-
-Grim followed standard protocol and infiltrated the twelve drones with a single line of code, turning their telemetry streams into a looping playback of empty forest. He also tracked the energy signature of every bullet fired in the area over the last 24 hours.
-
-“HRGrad Milisen,” Lars said. “They are supposed to be dead.”
-
-“Proxy force,” Grim said. “Fascist fundamentalist cell. Linked to Black Hole conspiracy. They operate through deniable fronts.”
-
-Inside the barn Lars picked up twelve thermal signatures. He listened for twenty minutes. He heard a guard on the phone: *“...tennis hall... cell three... keep the woman quiet...”*
-
-Lars pulled back. “The barn is a forward post. She is not here.”
-
-“Where is she?”
-
-“Alvik. The old tennis hall.”
-
-Before they moved on, Lars checked the environment. The runestone stood less than fifty meters away, right beside the motorway slip-road that led to the Tranebergsbron approach. It was dark. The traffic was thin — a NUKEA logistics truck every twenty minutes, a patrol car every hour. From behind the stone they were invisible to the road. No one would notice two figures curled there.
+The runestone stood less than fifty meters away, right beside the motorway slip-road that led to the Tranebergsbron approach. It was dark. The traffic was thin — a NUKEA logistics truck every twenty minutes, a patrol car every hour. Behind the stone they were invisible to the road. No one would notice two figures curled there.
 
 They lay down. Lars slept. Grim did not.
 
@@ -106,17 +114,27 @@ The android kept one sensor array on the road and another on the encrypted bands
 
 What he found was disturbingly competent.
 
-HRGrad Milisen had set up a front operation called **Alviks Lokala Säkerhetsenhet** — Local Security Unit. The paperwork was impeccable. The registration number on the office door was real enough to pass a casual NU277 check. The personnel files listed ex-military, ex-police, ex-NUKEA contractors. In the half-lawless landscape of northern Sweden, where official institutions had been hollowed out by decades of climate collapse and corporate takeover, nobody asked hard questions. A uniform, a badge printed on cheap polymer, and the right kind of confidence was enough.
+HRGrad Milisen had set up a front operation called **Alviks Lokala Säkerhetsenhet** — Alvik Local Security Unit. The paperwork was impeccable. The registration number on the office door was real enough to pass a casual NU277 check. The personnel files listed ex-military, ex-police, ex-NUKEA contractors. In the half-lawless landscape of northern Sweden, where official institutions had been hollowed out by decades of climate collapse and corporate takeover, nobody asked hard questions. A uniform, a badge printed on cheap polymer, and the right kind of confidence was enough.
 
-“They are not pretending well,” Grim reported at 05:17, while Lars still slept. “They are pretending *just well enough*. That is more dangerous.”
+“They are not pretending well,” Grim reported at 05:17, while Lars still slept. “They are pretending just well enough. That is more dangerous.”
 
 “Find the actual detention site,” Lars mumbled, eyes closed.
 
 “I believe I have. The old tennis hall. But there is also a listed judicial office in the village center. If Sigrid was processed through it, she would have a paper trail. Even a fake one.”
 
+A guard’s voice drifted through Grim’s pickup: *“...tennis hall... cell three... keep the woman quiet...”*
+
+Lars pulled back. “The barn is a forward post. She is not here.”
+
+“Where is she?”
+
+“Alvik. The old tennis hall.”
+
 By morning Lars had a plan. Not a good plan. A plausible one.
 
-They walked into Alviks local security unit at 08:42, just as the morning coffee shift started. Lars wore a modified version of the suit under a plain windbreaker — enough to pass as human at a glance, enough to hide the telltale biometrics if anyone scanned him. Grim’s chassis was adjusted to look like a service android: utilitarian, slightly dented, the kind of machine repair technicians used.
+## 5. The Visit
+
+They walked into Alviks local security unit at 08:42, just as the morning coffee shift started. Lars wore the suit under a plain windbreaker — enough to pass as human at a glance, enough to hide the telltale biometrics if anyone scanned him. Grim’s chassis was adjusted to look like a service android: utilitarian, slightly dented, the kind technicians used.
 
 The woman behind the counter looked up. She was maybe thirty, tired, eating a cinnamon bun.
 
@@ -160,7 +178,7 @@ He looked at Grim. “Ready?”
 
 Behind them, the security unit’s front door closed with a sound like a book being shut.
 
-## 5. Old Alvik Tennis Hall
+## 6. Old Alvik Tennis Hall
 
 The hall sat on the edge of the village like a building that had been repurposed so many times it had forgotten what it was supposed to be. Plywood over broken windows. A NUKEA logistics sticker peeled from the door. Surveillance cameras mounted on makeshift arms.
 
@@ -194,7 +212,7 @@ They ran for the exit.
 
 Bullets sparked off the walls. A charged-particle round caught Lars in the right thigh and another grazed his left forearm. Pain arrived hot and bright, then dulled as the nanobots mobilized, clotting, reconstructing. He dragged Grim, whose right leg had taken a direct hit — bone and actuator shattered, servos dead. He hoisted the android onto his shoulder and kept running.
 
-## 6. Gamla Restaurangen Kullens
+## 7. Gamla Restaurangen Kullens
 
 They staggered into the old restaurant by the square forty minutes later — blind windows, rotted tablecloths, the smell of salt and mold and old beer. Lars lowered Grim onto a booth and took stock before he touched his wounds.
 
@@ -227,10 +245,6 @@ Four questions needed answers:
 2. Did HRGrad Milisen have other cells or listening posts nearby?
 3. How long before the net closed around Alvik?
 4. Which route out was actually viable?
-
-Valdrun’s voice came over the channel, faint and encoded. “Coordination cell recalculates. Jupiter slingshot window is moving. Four days from now you are either extracted or I burn the corridor and leave.”
-
-Four days. The timeline was already shorter than they had expected.
 
 “We investigate tonight,” Lars said. “We rest, repair, evaluate. Then we move.”
 
