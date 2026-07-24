@@ -1,8 +1,8 @@
 # Episode 0: Infiltration — Alvik Drop
 
 **Standalone episode, set between Chapter 30 and Chapter 40.**  
-Lars has already been de-hypnotized on Station Null in the KBC Void.  
-The mission clock starts when the Aierit coordination network reaches *Havets Sista Sång* with a request for immediate infiltration support.
+Lars has already come back to himself after Station Null in the KBC Void.  
+The mission clock starts when the Aerit coordination network reaches *Havets Sista Sång* with a request for immediate infiltration support.
 
 ---
 
@@ -10,19 +10,19 @@ The mission clock starts when the Aierit coordination network reaches *Havets Si
 
 *Havets Sista Sång* was four months out from Station Null and three weeks from the next relay when the tasking arrived.
 
-The original flight plan was simple: Jupiter slingshot, then out toward the Kepler corridor, then a long cold coast to the next Aierit archive. Lars had drawn the route himself. He liked the Kepler corridor. It was quiet, it was dark, and it did not remind him of anything.
+The original flight plan was simple: Jupiter slingshot, then out toward the Kepler corridor, then a long cold coast to the next Aerit archive. Lars had drawn the route himself. He liked the Kepler corridor. It was quiet, it was dark, and it did not remind him of anything.
 
 Then the message came.
 
-It did not come from a ground asset. It came from the Aierit coordination cell — the hidden lattice that ran the spy network across the galactic rim: old watchers in dead-end stations, retired physicists running off-grid astrolabes, deep-cover agents embedded in corporate logistics chains who had never stopped reporting since the exodus. The message hopped through abandoned relays and dead satellites and the seams between naval patrols before it reached Lars's encrypted stack.
+It did not come from a ground asset. It came from the Aerit coordination cell — the hidden lattice that ran the spy network across the galactic rim: old watchers in dead-end stations, retired physicists running off-grid astrolabes, deep-cover agents embedded in corporate logistics chains who had never stopped reporting since the exodus. The message hopped through abandoned relays and dead satellites and the seams between naval patrols before it reached Lars's encrypted stack.
 
 Target: Earth.  
 Drop point: Alvik, by the runestone.  
 Request for immediate infiltration support.
 
-Lars stared at the text until his eyes burned. He was not hypnotized anymore. The nanobots in his blood hummed with a quiet recognition that his conscious mind could not name. The encryption was old, deliberate, layered in a way that only the coordination cell used. This was not noise.
+Lars stared at the text until his eyes burned. The nanobots in his blood hummed with a quiet recognition that his conscious mind could not name. The encryption was old, deliberate, layered in a way that only the coordination cell used. This was not noise.
 
-Aierit deep-space command had decided to use a local asset rather than risk medvetandeprojektion — Lyra’s preferred broadcast tool, now taught to as many operatives as possible. Lars was closer to Earth than most, and in some ways better suited for this kind of work than anyone else. Four hundred years ago, he and Valdrun had practically invented the field version of what the coordination cell now called the **FAFO** directive: *Find out by being there.*
+Aerit deep-space command had decided to use a local asset rather than risk medvetandeprojektion — Lyra’s preferred broadcast tool, now taught to as many operatives as possible. Lars was closer to Earth than most, and in some ways better suited for this kind of work than anyone else. Four hundred years ago, he and Valdrun had practically invented the field version of what the coordination cell now called the **FAFO** directive: *Find out by being there.*
 
 He called the command room. The mission would need planning before anyone said yes.
 
@@ -62,7 +62,7 @@ Grim projected the insertion corridor. High-altitude skip trajectory, arctic app
 
 “No shuttle. Too visible. We drop.”
 
-Drop zone was set by Aierit deep-space command. The rest — insertion routes, fallback positions, extraction points — was planned by Lars, Valdrun, and Grim down to the minute. They agreed on seven days. Not a day more.
+Drop zone was set by Aerit deep-space command. The rest — insertion routes, fallback positions, extraction points — was planned by Lars, Valdrun, and Grim down to the minute. They agreed on seven days. Not a day more.
 
 Lars spread the operation across three layers:
 
@@ -70,7 +70,7 @@ Primary extraction: roof of the tallest high-rise at Hornsbergstrand. Seven hund
 
 Secondary extraction: a boathouse on the northern shore of Kungsholmen, accessible by water from the city center.
 
-Every position had a fallback. Every fallback had a cut-loose protocol. If Lars did not check in within forty-eight hours, Valdrun was authorized to burn every Aierit asset in the Stockholm corridor and leave.
+Every position had a fallback. Every fallback had a cut-loose protocol. If Lars did not check in within forty-eight hours, Valdrun was authorized to burn every Aerit asset in the Stockholm corridor and leave.
 
 ## 3. The Asset
 
@@ -236,7 +236,7 @@ She looked at Lars. “I did not talk. But they do not know that. If they think 
 
 Lars looked at her. “Are you burned?”
 
-She was quiet for a moment. “An Aerit sleeper is hard to break and harder to read. But they almost caught you in the hall with counter suit detection. That means they have Black Hole-grade tech. If they ran psych-compilers while I was unconscious... I would not have told them anything. But I cannot guarantee they know that.”
+She was quiet for a moment. “An Aerit sleeper is hard to break and harder to read. But they almost caught you in the hall with counter-suit detection. That means they have Black Hole-grade tech. If they ran psych-compilers while I was unconscious... I would not have told them anything. But I cannot guarantee they know that.”
 
 He stood up. The restaurant swayed. He was spending energy he could not afford.
 
