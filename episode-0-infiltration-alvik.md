@@ -18,9 +18,11 @@ It did not come from a ground asset. It came from the Aierit coordination cell �
 
 Target: Earth.  
 Drop point: Alvik, by the runestone.  
-Window: one week.
+Window: seven days. Hard limit.
 
 Lars stared at the text until his eyes burned. He was not hypnotized anymore. The nanobots in his blood hummed with a quiet recognition that his conscious mind could not name. The encryption was old, deliberate, layered in a way that only the coordination cell used. This was not noise.
+
+Aierit deep-space command had decided to use a local asset rather than risk medvetandeprojektion — Lyra’s preferred broadcast tool, now taught to as many operatives as possible. Lars was closer to Earth than most, and in some ways better suited for this kind of work than anyone else. Four hundred years ago, he and Valdrun had practically invented the field version of what the coordination cell now called the **FAFO** directive: *Find out by being there.*
 
 He ordered Jupiter to wait.
 
@@ -59,6 +61,18 @@ Grim projected the insertion corridor. High-altitude skip trajectory, arctic app
 “No skyttel?” Valdrun asked.
 
 “No shuttle. Too visible. We drop.”
+
+Drop zone was set by Aierit deep-space command. The rest — insertion routes, fallback positions, extraction points — was planned by Lars, Valdrun, and Grim down to the minute. They had seven days. Not a day more.
+
+Lars spread the operation across three layers:
+
+Primary extraction: high-floor of a decaying high-rise at Hornsbergstrand. Seven hundred years ago the ground floor had held a pub called something unreadable on Lars’s historical map. The building was still standing, though NUKEA had rerouted the utilities and the pub was long gone. Grim placed an emergency beacon behind a loose ventilation panel.
+
+Secondary extraction: a boathouse on the northern shore of Kungsholmen, accessible by water from the city center.
+
+Tertiary: a cargo container at the NUKEA logistics hub in Södertälje, pre-positioned by coordination contacts three weeks earlier. Risky. Visible. Last resort.
+
+Every position had a fallback. Every fallback had a cut-loose protocol. If Lars did not check in within forty-eight hours, Valdrun was authorized to burn every Aierit asset in the Stockholm corridor and leave.
 
 ## 3. The Asset
 
@@ -238,7 +252,7 @@ Four days. Not a week. The clock was already shorter than they had expected.
 
 Grim was already scraping the local mesh network for HRGrad signals. Sigrid checked the field kit: rations, filters, beacon reader, thermal layers. Outside, rain began to streak the dirty windows. A NUKEA supply truck idled at the square corner, two hundred meters out, driver smoking. A dog barked once in the distance, then fell silent.
 
-Lars sat. The headache returned, faint, behind the left eye. But under it was something else — not denial, not memory. It felt like the first note of a signal he had not heard since Station Null.
+Lars sat. He was hurt, and now he needed to decide whether to trust a ghost name.
 
 They had days to find out whether Sigrid was still a ghost in the network, or a name already marked for erasure.
 
