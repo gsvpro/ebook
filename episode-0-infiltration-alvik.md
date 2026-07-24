@@ -22,7 +22,7 @@ Request for immediate infiltration support.
 
 Lars stared at the text until his eyes burned. The nanobots in his blood hummed with a quiet recognition that his conscious mind could not name. The encryption was old, deliberate, layered in a way that only the coordination cell used. This was not noise.
 
-Aerit deep-space command had decided to use a local asset rather than risk medvetandeprojektion — Lyra’s preferred broadcast tool, now taught to as many operatives as possible. Lars was closer to Earth than most, and in some ways better suited for this kind of work than anyone else. Four hundred years ago, he and Valdrun had practically invented the field version of what the coordination cell now called the **FAFO** directive: *Find out by being there.*
+Aeritska djuprymdskommandot had decided that a local Aerit asset was a better choice than medvetandeprojection — Lyra’s preferred broadcast tool, now taught to as many operatives as possible. And who was better suited for this kind of work than Lars? Four hundred years ago, he and Valdrun had practically invented the field version of what the coordination cell now called the **FAFO** directive: *Find out by being there.*
 
 He called the command room. The mission would need planning before anyone said yes.
 
@@ -30,47 +30,29 @@ He called the command room. The mission would need planning before anyone said y
 
 “Drop point is Alvik,” Lars said.
 
-The command room was enormous. It had always been enormous, but after Station Null he noticed details he had not noticed before: the tactical table now projected not just terrain but atmospheric dust, magnetic interference, spectrum noise. The ambient lighting carried color channels beyond human vision. The room was built for people who could see more.
+The command room was enormous. The tactical table projected not just terrain but atmospheric dust, magnetic interference, spectrum noise. The ambient lighting carried channels beyond human vision. The room was built for people who could see more.
 
 Valdrun stood beside him — tall, broad, blue-pale, half-android, wearing the same face he had worn for centuries. A viking built from older metal than the ship.
 
-“Runestone beacon,” Valdrun confirmed. “Low yield. Geofenced to a single marker pattern. They will find it from orbit if they have the key.”
-
-“NUKEA?”
-
-“Still active. Corporate front with government teeth. They hold the power grid, the logistics hubs, the ferry routes. Sweden is one of the few habitable corridors left on Earth. July temperatures in the northern latitudes: twenty to thirty Celsius. Not comfortable. Survivable.”
-
-“The message came from coordination,” Lars said. “Not from the local cell.”
-
-“As far as we know, the ground signal has been dark for fourteen days. That means either discipline or capture.”
-
-Lars traced the route on the table. Jupiter loomed in the projection as a gas giant the size of a continent, its moons small beads. Alvik was a dot so small it could have been a display glitch.
-
-“We were supposed to use Jupiter for a slingshot,” he said quietly.
-
-“The Kepler corridor can wait,” Grim said from the ambient console. “I have recalculated. We can reach Earth orbit in four days without refuel. The trade-off is fuel margin. We will not be able to continue to Kepler without a top-up.”
-
-“We top up in Sweden,” Lars said.
-
-He did not say: *if Sweden is still there.*
-
-Grim projected the insertion corridor. High-altitude skip trajectory, arctic approach, radar gap cycling every eleven minutes. The window was narrow. The tolerances were worse.
-
-“We go dark before we cross in,” Lars said. “No comms once we are atmosphere-bound until we confirm the beacon.”
-
-“No shuttle?” Valdrun asked.
-
-“No shuttle. Too visible. We drop.”
-
-Drop zone was set by Aerit deep-space command. The rest — insertion routes, fallback positions, extraction points — was planned by Lars, Valdrun, and Grim down to the minute. They agreed on seven days. Not a day more.
+“Drop zone is set by Aeritska djuprymdskommandot,” Valdrun said. “Everything else is ours.”
 
 Lars spread the operation across three layers:
 
-Primary extraction: roof of the tallest high-rise at Hornsbergstrand. Seven hundred years ago the ground floor had held a pub. Under the 2020s it had operated under the name *Pitcher*. The building is still standing, though NUKEA has rerouted the utilities and the pub is long gone. Grim placed an emergency beacon on the roof behind a ventilation unit.
+Primary extraction: roof of the tallest high-rise at Hornsbergstrand. In the 2020s, the ground floor had held a pub called Pitcher. The building was still standing, though NUKEA had rerouted the utilities and nothing looked the same. Grim had placed an emergency beacon on the roof behind a ventilation unit.
 
 Secondary extraction: a boathouse on the northern shore of Kungsholmen, accessible by water from the city center.
 
 Every position had a fallback. Every fallback had a cut-loose protocol. If Lars did not check in within forty-eight hours, Valdrun was authorized to burn every Aerit asset in the Stockholm corridor and leave.
+
+They agreed on seven days. Not a day more.
+
+Lars traced the route on the table. Jupiter loomed in the projection as a gas giant the size of a continent, its moons small beads. Alvik was a dot so small it could have been a display glitch. He looked at the world projection. Much of the northern hemisphere was red — heat domes, flood zones, fire corridors. The habitable pockets were smaller than they had been a century ago.
+
+“Earth is in chaos,” Grim said quietly. “Weather collapse, unrest, resource fights. Populations have clustered where it is still survivable — where it is not too hot, where the water has not risen too far, where the storms are not yet constant. The Nordics still hold one of those pockets. So does the southern polar region. But both are shrinking.”
+
+“Then Sweden is one of the last hospitable places left,” Lars said.
+
+“For now,” Grim replied.
 
 ## 3. The Asset
 
