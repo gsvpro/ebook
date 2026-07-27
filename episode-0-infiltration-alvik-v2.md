@@ -272,8 +272,6 @@ Lars led them through back lanes and alleyways, staying off the main roads, usin
 
 Grim limped beside him, the damaged leg dragging slightly, the chassis whining softly under the load. Sigrid followed, her breath visible in the cold air, her steps careful on the slick ground.
 
-They reached the approach to Tranebergsbron from the Alvik side at 02:47. The bridge rose above them like a cathedral of reinforced concrete, its arches lost in the rain and the dark. The water below was black and fast. The air smelled of lake water and rust and something older — the particular smell of Mälaren in summer, cold and deep.
-
 The service tunnel entrance was where Lars had remembered it: a steel grating set into the embankment, half-hidden by weeds and a rusted chain-link fence. The grate was locked, but the lock was old and the hinges were corroded. Lars twisted it off with one hand, the metal groaning and then giving way.
 
 He pulled the grate aside and looked into the darkness below.
@@ -284,29 +282,29 @@ He pulled the grate aside and looked into the darkness below.
 
 “About four hundred meters. Maybe five.”
 
-She hesitated. “I can wade. But the cold—”
+She hesitated. “I can wade.”
 
-“Thermal layer under the suit,” Lars said. “It will hold for two hours in cold water. We will be through in twenty minutes.”
+“Thermal layer under the suit,” Lars said. “It will hold. We will be through in twenty minutes.”
 
-She nodded. She did not argue.
+She nodded.
 
-Lars went first, stepping into the black water, the suit compressing around him as he submerged. The cold hit him like a knife, then faded as the thermal layer engaged. He felt the water tug at him, gentle and slow, barely stronger than a walking pace. The tunnel ceiling was low, the water lapping at his shoulders. He moved with one hand on the wall, feeling for the turn.
+Lars went first, stepping into the black water, the suit compressing around him as he submerged. The thermal layer held instantly. He felt the water tug at him, gentle and slow, barely stronger than a walking pace. The tunnel ceiling was low, the water lapping at his shoulders. He moved with one hand on the wall, feeling for the turn.
 
-Behind him, he heard Grim enter the water, the android’s chassis making a soft splash. Then Sigrid, her breath catching as the cold took her.
+Behind him, he heard Grim enter the water, the android’s chassis making a soft splash. Then Sigrid.
 
 Lars counted his steps. Fifty. A hundred. Two hundred. The water never deepened. The current never strengthened. The tunnel was exactly as he had expected: dark, flooded, still.
 
-He saw the light first: a faint blue glow at the end of the tunnel, distorted by the water. He moved faster, his boots finding the concrete floor, the water shallower with each step. The light grew. The ceiling rose. He broke the surface and pulled himself onto the concrete bank, the suit already warming him.
+He saw the light first: a faint blue glow at the end of the tunnel, distorted by the water. He moved faster, his boots finding the concrete floor, the water shallower with each step. The light grew. The ceiling rose. He broke the surface and pulled himself onto the concrete bank.
 
-Grim surfaced a moment later, pulling himself up with one good arm and one damaged leg. Sigrid came up last, her face pale, her teeth chattering, but she was moving, she was alive, she was already climbing onto the bank.
+Grim surfaced a moment later, pulling himself up with one good arm and one damaged leg. Sigrid came up last, already climbing onto the bank without hesitation.
 
-Lars looked around. They were on the Kungsholmen side, in a small service alcove under the bridge deck. The walls were slick with condensation. The air was cold and smelled of lake water and diesel. Beyond the alcove, a metal staircase climbed up toward the street level.
+Lars looked around. They were on the Kungsholmen side, in a small service alcove under the bridge deck. Beyond the alcove, a metal staircase climbed up toward the street level.
 
 “Check in,” he said quietly.
 
 Grim ran a systems scan. “Leg is holding. Power at sixty-eight percent. I can continue.”
 
-Sigrid was shivering, but she nodded. “I am fine.”
+Sigrid shook the water from her hair. “Fine. No problems.”
 
 Lars checked his own wounds. The thigh was throbbing, but the nanobots had closed the tissue within minutes and the inflammation was already fading. He could move.
 
@@ -323,8 +321,6 @@ Lars checked the route on his internal map. Three kilometers north along the wat
 He did not say that. He just moved.
 
 They walked.
-
-The rain plastered Sigrid’s hair to her skull. The thermal layer under her borrowed suit was working. Lars could see the color returning to her face, the stiffness leaving her joints. She was cold, but the cold was already fading.
 
 After twenty minutes, Grim spoke. “I have a signal. Not HRGrad. Something else. Low frequency. Military-grade encryption. It is following us.”
 
@@ -352,11 +348,11 @@ Lars closed the door behind them and barred it. He checked the windows. None of 
 
 “We stay here until Valdrun signals,” he said. “Grim, you repair. Sigrid, you rest. I will watch.”
 
-Grim limped to the cabin and sat down on the floor, beginning to disassemble his damaged leg. Sigrid curled up on a pile of old blankets in the corner, the thermal layer still humming softly around her.
+Grim limped to the cabin and sat down on the floor, beginning to disassemble his damaged leg. Sigrid checked the field kit on the table: rations, filters, thermal layers, beacon reader.
 
 Lars stood at the window, looking out at the rain.
 
-He did not think about Station Null. He did not think about the program that had kept him in the dark for so long. He did not think about the nanobots or the voices or the decades he had lost to a program designed to make him forget.
+He did not think about the program that had kept him in the dark for so long. He did not think about the nanobots or the voices or the decades he had lost. He did not think about the headache he had learned to suppress long ago.
 
 He thought about the drone signal behind them. The listening device. The fact that HRGrad Milisen had known where to look.
 
@@ -374,7 +370,7 @@ The beacon on the roof flickered once. Then again. Then a steady pulse — Valdr
 
 Extraction was confirmed.
 
-Lars turned away from the window. He looked at Grim, working in the dim light of the cabin. He looked at Sigrid, asleep on the blankets, her face relaxed for the first time since the hall.
+Lars turned away from the window. He looked at Grim, working in the dim light of the cabin. He looked at Sigrid, methodically checking the field kit, her face calm for the first time since the hall.
 
 He thought about the message that had started this. The request for support. The drop at the runestone. The seven days they had planned, the four days Valdrun had given them.
 
