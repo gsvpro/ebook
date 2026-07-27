@@ -18,9 +18,9 @@ Sigrid walked between them, quiet, alert, her borrowed suit still dripping from 
 
 They made their way down to the shore of Mälaren. The water was black and still. The rain slicked the concrete. Far to the south, the motorway hummed.
 
-Lars glanced at the empty road. Somewhere in this city, people sat in metal boxes, engines idling, waiting for lights to change. He had seen it a thousand times across a thousand worlds — the illusion that the machine saves time. The truth was slower: twenty years of stillness ate the body from the inside, weakened the mind, turned movement into a memory. A civilization that forgot how to walk was already halfway to its grave.
+Lars glanced at the empty road. Somewhere in this city, people sat in metal boxes, engines idling, waiting for lights to change. He had seen it before — on a thousand worlds, in a thousand forms. The machine does not save time. It only moves the cost. Stillness steals BDNF, drops oxygen to the brain, and over years replaces balance with fragility. A civilization that lets walking die will not notice until it is too late.
 
-He pushed the thought aside. Not because it was wrong. Because it was not tactical.
+He let the observation settle, not as judgment, but as pattern.
 
 At 02:47, they reached the Tranebergsbron approach. The bridge rose above them like a cathedral of reinforced concrete, its arches lost in the rain and the dark. The air smelled of lake water and rust.
 
@@ -92,13 +92,11 @@ He watched the feed from his neural overlay: three HRGrad microphones flickering
 
 “Mark,” Lars said.
 
-They climbed the staircase and stepped onto the street.
+Lars walked. The rain plastered Sigrid’s hair to her skull. The thermal layer under her borrowed suit was working. Lars could see the color returning to her face, the stiffness leaving her joints. She was not tired. She was an Aerit, and her body repaired itself as she moved.
 
-The rain plastered Sigrid’s hair to her skull. The thermal layer under her borrowed suit was working. Lars could see the color returning to her face, the stiffness leaving her joints. She was not tired. She was an Aerit, and her body repaired itself as she moved.
+He thought about the motorways above them, the parking structures, the hours people spent inside metal boxes while their muscles forgot how to generate force. Not a moral judgment — just physiology. Blood flow to the brain dropped with prolonged stillness. BDNF fell. Balance degraded. The species was trading motion for convenience, and the invoice came due in decades: weaker hearts, poorer memory, higher inflammation. He had watched it before, on worlds that thought themselves advanced.
 
-They walked.
-
-After twenty minutes, Grim spoke. “I have a contact. Not HRGrad. Something else. Low frequency. Military-grade encryption. It is following us.”
++After twenty minutes, Grim spoke. “I have a contact. Not HRGrad. Something else. Low frequency. Military-grade encryption. It is following us.”
 
 “Can your drones handle it?” Lars asked.
 
