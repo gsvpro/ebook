@@ -8,7 +8,7 @@
 
 They left the restaurant at 02:17.
 
-The village was empty. The NUKEA truck had not returned. The dogs in the kennel were asleep. The streetlights hummed with a sickly orange glow, the kind that made everything look slightly wrong, slightly unreal.
+The village was empty. The NUKEA truck had not returned. The dogs in the kennel were asleep. The streetlights hummed with a cool white LED glow, sharp and modern against the wet asphalt.
 
 Lars led them through back lanes and alleyways, staying off the main roads, using the terrain the way he had been trained — not by Aerit doctrine, not by FAFO manuals, but by instinct honed over centuries of survival. He moved like a ghost, silent as the suits allowed, his boots making no sound on the wet asphalt.
 
@@ -44,7 +44,7 @@ Sigrid pushed off and entered the tunnel first, disappearing into the black.
 
 Lars followed.
 
-The water closed around him. It was cold, but the suit held the cold at bay. He felt the weight of the water, the resistance of it, but the nanobots in his blood adjusted his metabolism to the pressure. His vision shifted — the suit overlay painted the tunnel in sonar and lidar, stitching the darkness into a clear, blue-tinged map.
+The water closed around him. The suit maintained perfect regulation. He felt the weight of the water, the resistance of it, but the nanobots in his blood adjusted his metabolism to the pressure. His vision shifted — the suit overlay painted the tunnel in sonar and lidar, stitching the darkness into a clear, blue-tinged map.
 
 Behind him, Grim’s signature was larger — chassis heat, mechanical whine, the drag of a damaged leg. But it was there.
 
@@ -74,7 +74,7 @@ He looked at his beacon reader. The signal from the Hornsbergstrand high-rise wa
 
 He led them up the staircase and out onto the street.
 
-They emerged into a world of gray rain and orange streetlights. The road was empty. The buildings were silent. Far to the south they could hear the hum of the motorway, the distant wail of a siren, the sound of a world that had not noticed they were there yet.
+They emerged into a world of gray rain and sharp white streetlight. The road was empty. The buildings were silent. Far to the south they could hear the hum of the motorway, the distant wail of a siren, the sound of a world that had not noticed they were there yet.
 
 Lars checked the route on his internal map. Five kilometers north along the waterfront, then east into the Hornsbergstrand district. The path was straightforward — no major intersections, no obvious ambush points. But simplicity was suspicious. In his experience, simple routes were the ones most likely to have something waiting.
 
