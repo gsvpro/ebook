@@ -94,7 +94,7 @@ Lars turned to Sigrid. “What about your cover? Is it burned?”
 
 She was quiet for a long time. She looked at the rain running down the window, at the NUKEA truck, at the dogs sleeping in their kennel.
 
-“An Aerit sleeper is hard to break,” she said finally. “But they almost caught you in the hall with counter-suit detection. That means they have Black Hole-grade tech. If they ran psych-compilers while I was unconscious… I would not have told them anything. But I cannot guarantee they know that. If I am burned, it is not just here. It is everywhere.”
+“I was there for three days,” she said finally. “But they do not know that I did not talk. If they think I broke, they will burn my cover. Every safehouse I ever used, every contact, every route — gone.”
 
 “Then we assume you are burned,” Lars said. “We move as if every safehouse is compromised. Every contact is watched. Every route is known.”
 
@@ -120,7 +120,7 @@ He heard the rain. He heard the wind. He heard the distant hum of the motorway. 
 
 And under it all, he felt the nanobots. Not as a hum, but as a quiet presence — patient, watchful, alive. They had healed his wounds in minutes. They had kept him upright when he should have collapsed. But they were also the reason he was here, the reason this mission existed at all. The reason Lars Odin, 641 years old, still walked the world and called himself a man.
 
-He did not think about Station Null. He did not think about the influence work that had kept him in the dark for so long. He did not think about the voices in his head that had guided him here, step by step, without telling him why.
+He did not think about Station Null. He did not think about the program that had kept him in the dark for so long. He did not think about the voices in his head that had guided him here, step by step, without telling him why.
 
 He thought about the runestone. The drop. The barn with the drones. The guard in the hall who had almost seen him.
 
@@ -152,7 +152,7 @@ The service tunnel entrance was where Lars had remembered it: a steel grating se
 
 He pulled the grate aside and looked into the darkness below.
 
-“The tunnel runs under the bridge deck,” he said quietly. “It is flooded partway. After that it opens into the Kungsholmen side. The water is still. It barely moves. You can wade it if you stay low and follow the floor.”
+“The tunnel runs under the bridge deck,” he said quietly. “It is flooded partway. After that it opens into the Kungsholmen side. The water is still. You can wade it if you stay low and follow the floor.”
 
 “How long?” Sigrid asked.
 
@@ -230,7 +230,7 @@ Grim limped to the cabin and sat down on the floor, beginning to disassemble his
 
 Lars stood at the window, looking out at the rain.
 
-He did not think about Station Null. He did not think about the influence work that had kept him in the dark for so long. He did not think about the nanobots or the voices or the decades he had lost to a program designed to make him forget.
+He did not think about Station Null. He did not think about the program that had kept him in the dark for so long. He did not think about the nanobots or the voices or the decades he had lost to a program designed to make him forget.
 
 He thought about the drone signal behind them. The listening device. The fact that HRGrad Milisen had known where to look.
 
@@ -276,13 +276,13 @@ Lars looked up when Grim’s eyes flickered — a brief blue pulse that meant so
 
 Grim transmitted the decoded message to Lars’s neural stack. It appeared in his mind like a memory he had not lived:
 
-**Extraction point compromised. Move to secondary. Boathouse on Kungsholmen is no longer safe. Repeat: boathouse is no longer safe. Proceed immediately to high-rise roof at Hornsbergstrand. Beacon is active. Window closes at 06:00. After that, I cannot guarantee coverage. Lars — we are burning the corridor.**
+**Extraction point under observation. HRGrad did not hack the beacon. They found it physically. A ground patrol swept the shore at 03:00 and spotted the signal reflection in a broken window. They have not traced it back to us yet, but they will. Secondary extraction is the only viable move. Proceed to high-rise roof at Hornsbergstrand. Beacon is active. Window closes at 06:00. After that, I burn the corridor and extract alone.**
 
 Lars stared at the text. The nanobots in his blood went quiet.
 
 “What does it mean?” Sigrid asked.
 
-“It means the boathouse is exposed,” he said quietly. “It means someone found the beacon. It means we have less than ninety minutes to reach the high-rise.”
+“It means the boathouse is burned,” he said quietly. “Not because they broke our encryption. Because they found the beacon the old-fashioned way. Someone was in the wrong place at the wrong time.”
 
 He stood up. His wounds throbbed, but the nanobots had already reduced the pain to a dull ache. He could move.
 
@@ -296,7 +296,7 @@ Lars checked the door. The rain was heavier now, the street outside a river of b
 
 The message from Valdrun had one more line, buried at the end of the packet, encrypted with a key only Lars should have had:
 
-**They know about Sigrid. They know she is Aerit. If they capture her, they will use her to find us all. Do not let that happen.**
+**They have not linked Sigrid to the beacon. Not yet. But HRGrad knows an Aerit is loose in the corridor. If they catch her, they will use her to trace every node we have. Do not let that happen.**
 
 Lars closed the door behind him.
 
