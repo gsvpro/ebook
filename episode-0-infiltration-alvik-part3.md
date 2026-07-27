@@ -152,7 +152,7 @@ He turned and walked toward the flight deck. “Welcome home. Now let us get the
 
 The shuttle did not stay in atmosphere.
 
-Within two minutes of liftoff, they were past the weather layer, past the orbital debris zone, into the black. Lars watched the receding planet shrink on the screen — Sweden, the Baltic, the motorways and the high-rises and the runestone drop point — until it was just another blue marble in the dark.
+Within two minutes of liftoff, they were past the weather layer, past the orbital debris zone, into the black. Lars watched the receding planet shrink on the screen — Sweden, Mälaren, the motorways and the high-rises and the runestone drop point — until it was just another blue marble in the dark.
 
 Valdrun plotted the jump.
 
