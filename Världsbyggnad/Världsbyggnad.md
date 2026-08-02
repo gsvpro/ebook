@@ -9,6 +9,8 @@ Huvudvaluta: Galatiska kronan.
 Världsbilden: Vi lever i en fragmentiserad tidsålder. När aeriterna försvann, splittrades allt upp i gradvis kaos. Men de starkaste stormakterna efter Jordens nära undergång runt 2090, Sverige, Frankrike och Kina kämpar på och försöker hålla ordning i Vintergatan tillsammans med de redan etablerade livsformerna såsom Abantuerna,    
 Perspektiv: Historian berättas utifrån Lars perspektiv. Men han gör återblickar.   
 Teman: vi har fyra olika teman: återviens, de mörka krafterna, den civilisatoriska cancersvulsten och artefaktens skapares agenda. Dessa konvergerar mot en dramatisk final.  Men de är subtilt invävda i handlingen. Vi nämner inte återviens vid namn, utom om det inte är absolut nödvändigt. Vi nämner inte Aeriter eller Skaparen om det inte är absolut nödvändigt.   
+
+2774 Besöker Lars och Grim Jorden igen för att hjälpa Djuprymdskommandot med ett ärende. Djuprymdskommandot har tappat kontakten med en av sina aerit agenter i Stockholm. Stockholm är inte längre huvudstaden i Sverige. De första 200 åren efter kaoset runt 2090 genomgår Stockholm en stor förvandling, folk strömmar till de nordliga breddgraderna där det är lite svalare och uthärdligt klimat. Högteknologi transfereras via ISEA från Lyras team på Astra Lumara i det solsystem de färdades till från Pluto. Sverige intar en ledande roll som stormakt på Jorden och den Svenska kronan tar över efter dollarn som ledande valuta. Stockholm växer till en megastad med 10 miljoner invånare runt 2280. Subtil återvienspåverkan från aeriterna och de fortsatta klimatproblemen,leder till en drastisk folkminskning i Stockholm, och det fungerar därefter mer som en transit hub för vidare transport norrut. Boden blir den nya huvudstaden. Kolonialiseringen av vintergatan har nu kommit igång på allvar och allt fler tar sig till Kiruna och ESRANGE för vidaretransport till Månen och sen vidare till Pluto och portalen, och därefter ut i det stora nätverket av portaler.      
   
 För att få lite variation så drömmer sig Lars bort i bland. T ex om någon frågar honom om han jobbat med gruvbrytning när han löser ett knepigt problem åt en Abantuisk gruvbrytare. Då kanske han drömmer sig bort och kommer i håg den gången han bröt malm i asteroidbältet till rymdskeppet han har byggt.  
   
@@ -188,8 +190,14 @@ They are descendants to the aertians, which started out when Lyra Vargstjärna, 
   
   
 Aeritiska hemliga agenter  
-Troligen kan inte Lyra låta bli att styra och ställa i vintergatan. Hon arbetar efter principen att både ha skärp och svångrem. Lyra och hennes team vill ha omvärldsbevakning. Så de har skickat ut hemliga agenter, oklart hur många.   
-  
+Troligen kan inte Lyra låta bli att styra och ställa i vintergatan. Hon arbetar efter principen att både ha skärp och svångrem. Lyra och hennes team vill ha omvärldsbevakning. Så de har skickat ut hemliga agenter, oklart hur många. Självklart är de mycket organiserade och styrda av Lyra och hennes team. De använder sig av nanobot-teknik som kan påverka människors hjärnor som robotar.   
+
+Djuprymdskommandot
+Lyra startade djuprymdskommandot långt innan 2180. Målet var att ha en organisation som övervakade vad som händer i vintergatan och ingripa när det behövdes, men på ett subtilt och långsiktigt sätt. 
+
+FAFO (Fuck around and find out) - direktivet
+Ofta när de är ute på uppdrag vet de knappt hälften av vad som pågår. Så de blir tvungna att improvisera och ta beslut på stående fot. Enligt FAFO-direktivet får de inte lämna något spår efter sig. Före 2180 var Lars och Valdrun något av experter på detta och utförde uppdrag tillsammans. Det slutade ibland i renaste kaos som de alltid redde ut. FAFO har blivit ett skämt bland aeriterna, ett skämt som inte alla förstår. 
+
 ## Valdrun  
 Valdrun är en halvmänsklig android. Delvis människa delvis android, odödlig precis som Lars och alla aeriter och ser ut som en blåblek lång muskulös viking i ungefär samma ålder som Lars men valdrun är ca 100 år äldre än Lars. Nu vet inte Lars om det ännu men Valdrun och Lars har jobbat och stridit tillsammans många gånger i det förflutna. Valdrun var som en mentor åt Lars i början när han växte upp på stationen.  
 ## Det är sju väktare Valdrun, Lyra,Lars mor och far samt tre till.  
@@ -523,7 +531,7 @@ Sju baser har nått högsta Återviensnivåerna – dessa har varsin väktare (m
 | Kardashev-skalan | En myt för yngre arter – de mest avancerade civilisationerna syns knappt |
 | Levande ramverk | Självlärande, självreglerande – civilisationens nervsystem, inte dess hjärna |
   
-Lars känner inte till namnet Återviens – han är hypnotiserad. Men han lever det, omedvetet.  
+Lars känner inte till namnet Återviens – han är hypnotiserad. Men han lever det, omedvetet. i bok 2 blir han avhypnotiserad.   
   
 ## VINTERGATANS TILLSTÅND ÅR 2774  
   
@@ -607,7 +615,7 @@ Lars känner inte till namnet Återviens – han är hypnotiserad. Men han lever
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Byggt | På SPECULOOS-stationen under fyra månader |
 | Finansiering | Miljarder Galatiska kronor från influencer-tiden |
-| Status | Egenbyggt fraktskepp, högteknologiskt. Stark beväpning och manäverförmåga. Ser inte ut att vara mycket för värden. Men under ytan döljer sig ett högteknologiskt under som matchar den största kryssaren. |
+| Status | Egenbyggt fraktskepp, högteknologiskt. Stark beväpning och manöverförmåga. Ser inte ut att vara mycket för värden. Men under ytan döljer sig ett högteknologiskt under som matchar den största kryssaren. |
 | AI | Grim (skeppsdator som sen blev android) |
   
 ## VAPNET RAGNARÖK 5000  
@@ -652,7 +660,7 @@ De fyra konvergerar mot finalen – när Lars vaknar, när Aeriterna återföds,
 2. När börjar Lars minnas? Vad utlöser det?  
 3. Vad hände med Lyra? Är hon kvar i KBC Void? Har hon funnit Skaparna?  
 4. Vad är Skaparnas agenda? Varför lämnade de artefakterna?  
-5. Vem är Valdrun? Och varför just hen på Station Noll?  
+5. Vem är Valdrun? Och varför just han på Station Noll?  
 6. Vad är Ödesvaka? Bara en drönare, eller något mer?  
 7. Hur reagerar de andra vakna Aeriterna när Lars börjar vakna? Välkomnar de honom? Misstror de honom?  
   
@@ -730,6 +738,8 @@ Sammanfattning av vad vi landat i:
 * Lyra: Kvantfysiker, forskare. Först med artefakten. Bär på Nomadernas nanobotar. Kan göra medvetandeprojektioner – skapa tillfälliga kroppar.  
 * Teamet i bok 1: 10 personer på Pluto. Forskare och militärer. Bygger bas, lär sig GRIN, upptäcker gradvis sanningen.  
 * Missuppfattningarna: Lyra tror först att allt är Skaparnas. Sanningen är större, äldre, märkligare.  
+
+
   
 SLUTSAMMANFATTNING – VINTERGATANS PORTER  
   

@@ -306,7 +306,7 @@ Grim ran a systems scan. “Leg is holding. Power at sixty-eight percent. I can 
 
 Sigrid shook the water from her hair. “Fine. No problems.”
 
-Lars checked his own wounds. The thigh was throbbing, but the nanobots had closed the tissue within minutes and the inflammation was already fading. He could move.
+Lars checked his own wounds. The thigh was throbbing, but the nanobots had closed the tissue within minutes and the inflammation was already fading. He could move. The same nanobots would keep him alive even without air — the old ones called it vintervilodrift, a hibernation-mode triggered automatically if oxygen dropped below survival threshold. He had never tested it, but the lore was embedded in his blood.
 
 He looked at his beacon reader. The signal from the Kungsholmen boathouse was faint, three kilometers north, but steady. Valdrun’s encryption was embedded in the pulse.
 
