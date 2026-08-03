@@ -14,7 +14,7 @@ The battlefield did not go quiet all at once. It cooled in layers. Aphex cutters
 
 Havets held position, strained from visible intervention. Its hidden systems had not failed. That was different from being well. Valdrun described the damage as "old bones remembering weather." Grim called that diagnostically poetic and therefore suspicious.
 
-Ren Koss slept like a man who had landed badly but successfully. His medical cradle kept alarming in small, offended tones. His husband threatened to unplug any machine that used drama instead of numbers. Mira's remote icon hovered beside the monitors without crossing the boundary she had set.
+Ren Koss slept like a man who had landed badly but successfully. His medical cradle kept alarming in small, offended tones. His wife threatened to unplug any machine that used drama instead of numbers. Mira's remote icon hovered beside the monitors without crossing the boundary she had set.
 
 Vigor ordered everyone to eat before making history. Empty hands made stupid history. Sandwiches arrived through three jurisdictions, one black-market courier, and Fabron's formal protest that no military operation should depend on pickles.
 

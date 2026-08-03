@@ -24,7 +24,9 @@ Valdrun stared for a long time. The light of the model made the lines around his
 
 He remembered Lyra laughing at incomplete data, turning hunches into survivable infrastructure because waiting for certainty was how committees buried futures.
 
-He remembered her at Pluto before there was doctrine to quote, before anyone had named Återviens as anything except not dying stupidly. Lyra with cracked gloves, too much coffee, and the obscene confidence to build a civilization around a partial answer she did not trust.
+Lars drew his hand away and let his eyes unfocus, the map’s geometry dancing at the edge of his vision. He’d spent the last few weeks training himself to hold exactly this perspective—the Aerit perspective. His nanobots hummed in his veins, a constant, low-frequency feedback loop that he’d finally learned to modulate. If he pushed the signal just right, the map ceased to be light and became weight. It was the same training Lyra had used to map the first portal: a total surrender of the observer’s focus. He felt his pulse synchronize with the distant spar fragment, his sense of self stretching outward until the cold of the rogue planet felt like his own skin. He wasn't just Lars Odin anymore; he was a distributed function, a temporary node in a network that had existed before the galaxy had names for its own stars.
+
+He pulled back, his breath hitching, the migraine he’d feared never materialized. He was holding coherence. He could do it.
 
 The map showed Creator portals as a later layer: rings, spindles, folded transit nodes. Around them were older anchors the Creators had annotated but not understood. The annotations translated badly because they were not labels so much as operational cautions.
 
