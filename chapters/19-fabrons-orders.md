@@ -1,24 +1,12 @@
 # Chapter 19: Fabron's Orders
 
-Major Elliot Fabron hated coincidences because commanders used them to hide incompetence.
+Major Elliot Fabron hated coincidences, because commanders used them to hide incompetence.
 
-The facility lights flickered once.
-
-His comm opened three alerts.
-
-Power regulation variance in Materials Ring B.
-
-External telemetry dropout across Dock Two.
-
-Medical archive access conflict, source masked.
-
-Three unrelated failures inside four seconds.
-
-Not coincidence.
+The facility lights flickered once. His comm opened three alerts, one after another. First a power variance in Materials Ring B. Then Dock Two lost its outside telemetry. Then someone tried to open the medical archive from a source the log would not name. Four seconds between the first and the last.
 
 "Lock the ring," Fabron said.
 
-Administrator Marchand, who had returned halfway through the evacuation of the lab and now looked ready to resign into a ventilation duct, touched her wrist console. "Security shutters are responding."
+Administrator Marchand, who had come back halfway through the evacuation of the lab, touched her wrist console. "Security shutters are responding."
 
 They were not.
 
@@ -30,15 +18,11 @@ Fabron watched the pressure glass darken halfway, stop, shudder, then retreat.
 
 "Then they should run."
 
-Lars Odin had gone very still.
-
-That concerned Fabron more than if the man had drawn the absurd weapon on his back and declared war on architecture. Lars's jokes were noise. His stillness was signal.
+Lars Odin had gone very still. That concerned Fabron more than if the man had drawn the weapon on his back.
 
 The robot was also still.
 
-Simple service automata did not become still like predators.
-
-Dr. Mira Sovan stood beside the cracked beam with one hand on the table. She looked frightened, yes, but not like a civilian. Like someone whose body remembered drills her mind had never attended.
+Dr. Mira Sovan stood beside the cracked beam with one hand on the table. She looked frightened, but not like a civilian.
 
 Fabron added that to the growing list of things he disliked.
 
@@ -48,7 +32,7 @@ Fabron added that to the growing list of things he disliked.
 
 "That was not an invitation."
 
-"I know. It was a bad order."
+"I know."
 
 Fabron stepped closer. "My orders are to keep you alive."
 
@@ -64,21 +48,17 @@ Fabron followed the gesture. "Doctor Sovan is Aphex personnel."
 
 "So was the blood-harvester dart."
 
-Fabron did not react outwardly. He had read the sealed report. Not all of it; Arsenault had redacted enough to make the document legally smug. But enough. The attack near The Rim. Black Hole B-7. Biological sampling. Lars Odin and his impossible circle taking a weapon alive.
+Fabron did not react outwardly. He had read the sealed report. Not all of it; Arsenault had redacted enough. The attack near The Rim. Black Hole B-7. Biological sampling. Lars Odin taking a weapon alive.
 
 "Do you have evidence she is targeted?"
 
-"Not evidence. Pattern."
+"Not yet. Pattern only."
 
-"Patterns do not authorize action."
+"That does not authorize action."
 
-"They authorize attention."
+"Then pay attention."
 
-Fabron hated that because it was true.
-
-His comm opened a fourth alert.
-
-Security feed loop on Habitation Cylinder Three.
+His comm opened a fourth alert. Security feed loop on Habitation Cylinder Three.
 
 He opened command frequency. "Fabron to Security Actual. Confirm teams at Ring B manual shutters."
 
@@ -102,37 +82,17 @@ Fabron cut the channel. "Compromised."
 
 Marchand went pale.
 
-Lars looked almost pleased. "You are less decorative than you pretend."
-
-"I have never pretended to be decorative."
-
-"The uniform does a lot of work."
-
-"Enough."
-
-Fabron changed to local squad channel. "Team Three, silent protocol. Two hostiles probable inside response net. Protect Doctor Sovan. Treat Director Odin as uncontrolled friendly asset."
+"Enough," Fabron said, and changed to local squad channel. "Team Three, silent protocol. Two hostiles probable inside response net. Protect Doctor Sovan. Treat Director Odin as uncontrolled friendly asset."
 
 Lars raised a finger. "Uncontrolled?"
 
-"Would you prefer unstable?"
+"Yes."
 
-"Friendly asset is also optimistic."
-
-The robot made a sound like a cough, which no robot needed to make.
-
-Fabron ignored it.
-
-He had larger problems. One of them was the second order folded inside his first.
+Fabron had larger problems. One of them was the second order folded inside his first.
 
 The first order came from Aphex Defence: protect Lars Odin, maintain board authority, secure evidence, prevent exposure of classified Aphex vulnerabilities.
 
-The second had arrived twelve minutes before Fastulv docked, on a channel Fabron had not used since childhood.
-
-It contained no Aphex seal.
-
-No sender name.
-
-Only seven lines of old liturgical shorthand that would have looked like religious nonsense to anyone outside the Order of the Clear Hand.
+The second had arrived twelve minutes before Fastulv docked, on a channel Fabron had not used since childhood. It contained no Aphex seal and no sender name, only seven lines of old liturgical shorthand that would have looked like religious nonsense to anyone outside the Order of the Clear Hand.
 
 Keep the hinge small.
 
@@ -148,53 +108,37 @@ If the old word is spoken, listen.
 
 Repair before worship.
 
-Fabron had read it three times, hated the poetry, verified the encryption chain, and then stared at the fifth line until his coffee went cold.
+Fabron had read it three times, verified the encryption chain, and then stared at the fifth line until his coffee went cold.
 
-The black wolf.
+The black wolf. Fastulv. Lars Odin's new freight ship.
 
-Fastulv.
+His grandmother would have said the old instructions did not predict; they preserved shapes, patterns passed down through ritual because institutions burned records faster than families forgot prayers.
 
-Lars Odin's ridiculous freighter.
-
-His grandmother would have said the old instructions did not predict; they preserved shapes. Patterns passed down through ritual because institutions burned records faster than families forgot prayers.
-
-Fabron was a modern officer.
-
-He believed in chain of command, logistics, training, ballistics, and audited reactor maintenance.
-
-He also carried a small steel token under his uniform, stamped with three interlocking circles and a crack deliberately left unrepaired.
+Fabron was a modern officer. He believed in chain of command, logistics, training, ballistics, and audited reactor maintenance. He also carried a small steel token under his uniform, stamped with three interlocking circles and a crack deliberately left unrepaired.
 
 Repair before worship.
 
-His family had said it at meals.
-
-His training brothers had said it over broken pumps, jammed doors, failed exams, and dead batteries. It meant do the work. It meant do not confuse reverence with maintenance. It meant systems survived because ordinary people made them survive.
+His family had said it at meals. His training brothers had said it over broken pumps, jammed doors, failed exams, and dead batteries. It meant do the work. It meant systems survived because ordinary people made them survive.
 
 Now Lars Odin had spoken a word in an unknown language and Dr. Sovan had nearly crushed a composite table with one hand.
 
-Fabron did not enjoy history becoming operational.
-
 "Major," Marchand said, "Dock Two has lost telemetry."
 
-"Of course it has."
+"I see it."
 
 Lars turned toward Grim. "Fastulv?"
 
-"Apparently parked, silent, and deeply offended," the robot said, forgetting to squeak.
+"Parked and silent," the robot said.
 
 Marchand stared.
 
-Grim squeaked immediately.
-
 "Defective," Lars said.
 
-"I hate all of you," Fabron said.
-
-That restored him slightly.
+Fabron rubbed his face.
 
 The lab door opened.
 
-Two Aphex soldiers entered. Fabron recognized their armor markings but not their gait. Too balanced. Too quiet. Their rifles were held at the correct angle, but their fingers were wrong on the grip, as if their bodies had downloaded training without earning habit.
+Two Aphex soldiers entered. Fabron recognized their armor markings but not their gait. Too balanced. Too quiet. Their rifles were held at the correct angle, but their fingers were wrong on the grip.
 
 "Stop," Fabron ordered.
 
@@ -204,35 +148,21 @@ Lars said, "Those are not yours."
 
 "I noticed."
 
-Fabron fired first.
+Fabron fired first, not at the soldiers, at the floor between them. The round burst into a white ceramic foam barrier, expanding waist-high across the lab entrance. The two false soldiers vaulted the barrier as it rose.
 
-Not at the soldiers.
+Mira moved. She grabbed the cracked composite beam, twisted, and drove one broken end into the lead hostile's helmet joint. The motion was ugly and far stronger than Aphex medical records allowed.
 
-At the floor between them.
-
-The round burst into a white ceramic foam barrier, expanding waist-high across the lab entrance. The two false soldiers reacted with inhuman speed, vaulting the barrier as it rose.
-
-Mira moved.
-
-She grabbed the cracked composite beam, twisted, and drove one broken end into the lead hostile's helmet joint. The motion was ugly, efficient, and far stronger than Aphex medical records allowed.
-
-The hostile struck her across the shoulder.
-
-She hit the test table, rolled, and came up furious.
+The hostile struck her across the shoulder. She hit the test table, rolled, and came up furious.
 
 Lars drew the Ragnarrök halfway.
 
 Fabron snapped, "No heavy weapon discharge inside a pressure ring!"
 
-"You take the fun out of everything."
+Lars stopped the lift and kept the weapon low.
 
-"Correct."
+The robot crossed the room and hit the second hostile with enough force to throw it into a vibration rig. The rig screamed. Metal folded. The hostile did not scream. Its armor split at the neck and released a dark thread of grit that crawled upward instead of falling.
 
-The robot crossed the room in a blur, defective act abandoned, and hit the second hostile with enough force to throw it into a vibration rig. The rig screamed. Metal folded. The hostile did not scream. Its armor split at the neck and released a dark thread of particulate matter that crawled upward instead of falling.
-
-Black Hole.
-
-Or something wearing its habits.
+Black Hole. Or something wearing its habits.
 
 Fabron's squad finally arrived in the corridor. Real this time; he knew by the annoyed breathing of Sergeant Mbeki before she even spoke.
 
@@ -242,17 +172,13 @@ Fabron's squad finally arrived in the corridor. Real this time; he knew by the a
 
 "Yes, sir."
 
-The first hostile rose despite the beam lodged near its neck. Mira stared at it, breathing hard.
-
-Her eyes had changed.
-
-Not color. Focus.
+The first hostile rose despite the beam lodged near its neck. Mira stared at it, breathing hard. Her eyes had changed. Not color. Focus.
 
 Lars saw it too.
 
 "Mira," he said.
 
-She flinched at the name, not because it was familiar, but because it was spoken as if he had decided she mattered.
+She flinched at the name.
 
 "Do not tell me what I am," she said.
 
@@ -264,11 +190,7 @@ She flinched at the name, not because it was familiar, but because it was spoken
 
 She ducked.
 
-Lars fired the Ragnarrök at minimum yield.
-
-Minimum was still offensive.
-
-The beam struck the hostile's upper torso and converted armor, cloned tissue, and crawling particulate into an expanding cloud of inert glitter that slammed against the containment foam and rained down like expensive dust.
+Lars fired the Ragnarrök at minimum yield. The shot struck the hostile's upper torso. Armor, cloned tissue, and the crawling grit became an expanding cloud of inert glitter that slammed against the containment foam.
 
 Fabron stared.
 
@@ -276,7 +198,7 @@ Fabron stared.
 
 "I am writing you up."
 
-"Use adjectives."
+"All right."
 
 The second hostile twitched under the vibration rig. Grim pinned it with one metal foot.
 
@@ -288,9 +210,9 @@ Fabron looked at the robot.
 
 Grim turned one lens toward Lars. "My cover is compromised."
 
-"Your cover was a squeaky knee and a dream."
+Lars rubbed his face. "All right."
 
-The facility alarms finally understood they had been late and began screaming.
+The facility alarms began screaming.
 
 Fabron opened a secure channel to Arsenault.
 
@@ -306,7 +228,7 @@ Silent.
 
 That, more than anything, frightened him.
 
-Fabron looked at Lars, at Mira, at the black particulate dissolving into nothing, at his soldiers forming a human wall because he had trained them well enough for at least one thing in this cursed day to work.
+Fabron looked at Lars, at Mira, at the black grit dissolving into nothing, at his soldiers forming a human wall.
 
 "Doctor Sovan," he said, "you are under my protection."
 
@@ -314,13 +236,9 @@ Mira gave him a look sharp enough to cut hull plating.
 
 "I did not ask for protection."
 
-"No. You are receiving it anyway until you are calm enough to refuse intelligently."
+"No. You are receiving it anyway until you are calm enough to refuse."
 
-Lars smiled.
-
-Fabron pointed at him. "Do not approve of me."
-
-"Too late."
+Lars said nothing.
 
 "Director Odin, you will explain what this is."
 
@@ -336,14 +254,8 @@ Lars met his eyes.
 
 Mira stood very still.
 
-Fabron understood, then. Not the science. Not the history. Not the impossible age hiding inside a materials specialist's bloodwork.
-
-But the line.
-
-Consent before rescue.
-
-Repair before worship.
+Fabron understood the line. Consent before rescue. Repair before worship.
 
 He lowered his weapon.
 
-"Then ask properly."
+"Then ask."

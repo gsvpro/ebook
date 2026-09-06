@@ -289,7 +289,7 @@ Reveal path:
 
 ## Style Rules
 
-- Use `docs/character-voices.md` for dialogue revision. Characters should be identifiable by vocabulary, rhythm, humor type, and professional metaphors, not only by tags.
+- Use `docs/character-voices.md` for dialogue revision. Characters should be identifiable by what they notice and how long they talk, not by competing punchlines. The 2026-09-04 bible matches the Swedish voice lock; do not restore Lars “short punches.”
 - Lars banter hides stress and competence.
 - Grim should be funny, precise, hungry/food-curious, and increasingly emotionally intelligent.
 - Valdrun should be dry, old, affectionate through irritation, and strategically patient.

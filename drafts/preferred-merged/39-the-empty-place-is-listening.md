@@ -1,26 +1,18 @@
 # Chapter 39: The Empty Place Is Listening
 
-The KBC Void was not empty.
+The KBC Void had always held galaxies, gas, radiation, and the usual mistakes in old survey data. Humans had called it empty because it was inconvenient to reach and did not offer easy glory.
 
-It had always held galaxies, gas, radiation, and the usual mistakes in old survey data. Humans had called it empty because it was inconvenient to reach and did not offer easy glory.
-
-The new data showed something stranger.
-
-Advanced civilizations were missing from the record in patterns that looked deliberate. Too many quiet regions. Too little noise. Too few of the bright signatures empires usually left behind when they grew loud and proud.
-
-Someone, or something, had been keeping the Void dull on purpose.
+The new data showed something stranger. Advanced civilizations were missing from the record in patterns that looked deliberate. Too many quiet regions. Too little noise. Too few of the bright signatures empires usually left behind when they grew loud. Someone, or something, had been keeping the Void dull on purpose.
 
 Arkology Zero sat near one edge of it. Lars gathered the circle there because the numbers belonged near the place they described.
 
-Valdrun came in person. Grim ran analysis from his android body and half the ship at once. Mira joined from L-Prime, still keeping distance. Fabron and Vigor appeared on the wall displays. Ödesvaka handled protocol at Arkology because someone had to keep the meeting from becoming theater.
+Valdrun came in person. Grim ran analysis from his android body and half of Fastulv at once. Fastulv was the new freight ship, docked and visible; Havets Sista Sång stayed hidden, as usual, and did not sit in the meeting. Mira joined from L-Prime, still keeping distance. Fabron and Vigor appeared on the wall displays. Ödesvaka handled protocol at Arkology because someone had to keep the meeting from becoming theater.
 
 Grim called it a distributed council. Lars did not argue. They had all sat through enough committees.
 
-They looked at the cosmology until the charts started to blur.
+They looked at the cosmology until the charts started to blur. Galaxies around the Void showed fewer high-energy events than they should have. Civilizations that broadcast aggressively near similar basins often collapsed, migrated, or went quiet over long spans of time. Creator portals skirted the edges. Older anchors sat inside the quiet.
 
-Galaxies around the Void showed fewer high-energy events than they should have. Civilizations that broadcast aggressively near similar basins often collapsed, migrated, or went quiet over long spans of time. Creator portals skirted the edges. Older anchors sat inside the quiet.
-
-Grim laid survey histories from seventeen species over the map. The same pattern kept returning. Not no life. No boasting. Fewer megastructures. Fewer waste fires in the sky. Fewer conquest beacons. More notes in the margins saying instrument fault, then silence.
+Grim laid survey histories from seventeen species over the map. The same pattern kept returning. Life was there. Boasting was not. Fewer megastructures. Fewer waste fires in the sky. Fewer conquest beacons. More notes in the margins saying instrument fault, then silence.
 
 Mira spoke first on the channel when the room needed words.
 
@@ -30,31 +22,21 @@ Fabron nodded. "A predator cannot eat what it cannot find."
 
 Valdrun said, "Then the basin is teaching hunting and hiding in the same lecture. We keep forgetting which chair we sat in."
 
-Lars had spent years learning Återviens as an Aerit doctrine. Looking at the Void, he wondered whether the universe had been teaching a larger version of the same rule long before they named it. He disliked how mystical that sounded until he removed the romance and kept the engineering.
-
-Watch something too hard and you change it. Centralize too much and the system breaks. Stay quiet, stay distributed, stay repairable, and complexity survives longer.
+Valdrun had called the old Aerit habit Återviens: do not grab too hard. Looking at the Void, Lars kept the engineering and dropped the romance. Watch something too hard and you change it. Centralize too much and the system breaks. Stay quiet, stay distributed, stay repairable, and complexity survives longer.
 
 Then their measurements began to misbehave.
 
-The Void did not speak. It pushed back.
+The Void did not speak. It pushed back. When Arkology scanned hard, the data got worse. When they listened passively, with many small sensors spread wide, the picture improved. When Vigor's kitchen network sent in planting times, cellar temperatures, goat counts, flour shipments, and winter reactor draw from twenty-seven colonies, the model sharpened more than it did under Aphex military optics.
 
-When Arkology scanned hard, the data got worse. When they listened passively, with many small sensors spread wide, the picture improved. When Vigor's kitchen network sent in planting times, cellar temperatures, goat counts, flour shipments, and winter reactor draw from twenty-seven colonies, the model sharpened more than it did under Aphex military optics.
-
-That should not have worked. Planting schedules were not cosmology.
-
-But the records were local. They were unsynchronized. They were honest in the way survival logs were honest. They had not been made to dominate the thing being measured.
+That should not have worked. Planting schedules were not cosmology. But the records were local. They were unsynchronized. They were honest in the way survival logs were honest. They had not been made to dominate the thing being measured.
 
 Vigor, on the wall display, said quietly, "Kitchens know when a season is lying."
 
-No one made a joke out of it. The line landed because it was true.
+No one made a joke out of it.
 
-The danger line became clear.
+The danger line became clear. Door Nine. First Door. The quiet basin. Black Hole's hunger for acquisition. Syren's hunger for surrender. Aphex and NUKEA reaching for central control. Everyone kept treating quiet as an invitation to own something.
 
-Door Nine. First Door. The quiet basin. Black Hole's hunger for acquisition. Syren's hunger for surrender. Aphex and NUKEA reaching for central control. Everyone kept treating quiet as an invitation to own something.
-
-Lyra's note sat in Lars's pocket.
-
-Be rude.
+Lars remembered the figure in the analysis bay, and the archived note under the route key. If someone tries to make you central, be rude.
 
 He took a breath and said what he had been avoiding.
 
@@ -70,7 +52,7 @@ Mira watched him. "And in private?"
 
 Arsenault, on secure channel, looked tired rather than amused. "That will be difficult to fund."
 
-"Good," Lars said. "If it is boring enough, the wrong people will ignore it."
+"Good. If it is boring enough, the wrong people will ignore it."
 
 Valdrun agreed last. He did not doubt the plan. He hated that survival still required a public story and a private one.
 
@@ -86,12 +68,4 @@ Fabron would add jurisdictional noise on purpose. Vigor would add kitchens becau
 
 Ödesvaka logged the plan under a long title that made Fabron wince and did not apologize for it.
 
-Outside Arkology, the KBC Void remained dark.
-
-Listening was still the wrong word.
-
-But it was not ignoring them.
-
-Through the window, the stars did not arrange themselves into meaning. Nothing reached out. Nothing blessed them.
-
-The evidence held anyway.
+Outside Arkology, the KBC Void remained dark. The evidence held.

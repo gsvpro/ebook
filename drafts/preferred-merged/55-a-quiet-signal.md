@@ -4,53 +4,47 @@ Three weeks after First Door, Lars found the signal in a coffee stain.
 
 Strictly, Grim found it in the thermal noise pattern left when Lars spilled coffee across Fastulv's galley table and swore at gravity. The stain cooled unevenly because the table had old scratches, cheap insulation, and a microscopic layer of silver-gray residue transferred from Lars's sleeve after the Havets recalibration.
 
-It was morning by ship convention, which meant nothing except Vigor had bullied everyone into eating at an hour with moral branding. Fastulv drifted near the quiet edge of the KBC basin while Havets slept deeper than hidden, no longer Lars's private answer to anything. The galley smelled of coffee, reheated bread, machine oil, and the faint mineral tang of old ship filters.
+It was morning by ship convention, which meant nothing except Vigor had bullied everyone into eating. Fastulv drifted near the quiet edge of the KBC basin while Havets slept deeper than hidden. The galley smelled of coffee, reheated bread, machine oil, and the faint mineral tang of old ship filters.
 
-Lars reached for a cup, missed because he was reading a report about fence-repair reimbursement, and baptized the table.
+Lars reached for a cup, missed because he was reading a report about fence-repair reimbursement, and spilled it across the table.
 
-"Gravity is a smug little bureaucrat," he said.
+"Damn."
 
 "Do not move," Grim said.
 
 "It is coffee."
 
-"It is statistically rude coffee with anomalous thermal etiquette."
+"The cooling pattern is wrong."
 
 Mira joined the analysis and immediately asked why Lars had contaminated a possible field event with breakfast residue and no sterile boundary.
 
-"I was innovating."
+"I spilled it."
 
-"You were spilling."
+"Yes."
 
 Fabron joined because Grim's alert had crossed an Aphex liaison threshold. His video opened on a desk covered with promotion paperwork, disciplinary forms, and a framed copy of both.
 
-"Is this an emergency?" he asked.
+"Is this an emergency?"
 
 "Coffee," Lars said.
 
-Fabron closed his eyes. "I have feared this category for some time."
+Fabron closed his eyes.
 
-The mechanics were ugly enough to be real.
+Havets' recalibration had left a two-microgram residue film on Lars's sleeve, below suit alarms but above Grim's irritation threshold. The film should have decayed into inert dust within eleven days. Instead, a fraction persisted because Lars had brushed against the manual command rail while they were using the empty chamber aboard the old ship. That picked up residue that already carried tiny timing delays from Havets, First Door, that same chamber after the Door, and Mira's new chamber at L-Prime.
 
-Havets' recalibration had left a two-microgram residue film on Lars's sleeve, below suit alarms but above Grim's irritation threshold. The film should have decayed into inert dust within eleven days. Instead, a fraction persisted because Lars had brushed against the manual command rail during the separated observer-state procedure. That picked up residue already carrying field-coupled timing offsets from Havets, First Door, and the allowed manifestation chamber.
+The coffee carried heat through that film into the table's scratches. Fastulv's galley table was cheap composite over old conductive mesh, repaired badly after three previous incidents Lars described as culinary combat. The liquid cooled along grooves, adhesive seams, and one knife mark.
 
-The coffee carried heat through that film into the table's scratches. The scratches mattered. Fastulv's galley table was cheap composite over old conductive mesh, repaired badly after three previous incidents Lars described as "culinary combat." The liquid cooled along grooves, adhesive seams, and one knife mark Vigor identified remotely as "evidence of someone cutting bread like an axe murderer."
-
-As the liquid cooled, residue particles reoriented along thermal gradients. Their decay produced faint timing offsets in Fastulv's galley sensors. That was not a message by itself, but a repeatable correlation when compared against the allowed manifestation chamber logs, Lyra's bathroom token, Mira's lab breach, Havets' mass-balance bruise, First Door residue, and passive KBC basin fluctuations.
+As the liquid cooled, residue particles lined up along the heat. Their decay made tiny delays in Fastulv's galley sensors, delays that should not have been there. That was not a message by itself. It became one when they compared those delays against the logs from Havets' empty chamber, Mira's new L-Prime chamber, Lyra's bathroom token, Mira's lab breach, the extra mass Havets had left on the sensors when it became visible, First Door residue, and the quiet fluctuations in the KBC basin.
 
 "So my breakfast is a laboratory," Lars said.
 
-"Your breakfast is contamination with accidental controls," Mira said.
+"Your breakfast is contamination," Mira said.
 
 They repeated the cooling curve with sterile water, then coffee from the same pot, then coffee from a new pot, then a thermal dummy cloth carrying no residue. Nothing assembled. They scraped a sample from the sleeve under Mira's remote instructions and measured the decay. The offsets matched the stain only when the original table scratches, coffee composition, residue film, and Fastulv's galley sensor timing all remained in the loop.
 
-Hard mechanics first.
-
-Wonder, if it survived calibration, could wait its turn.
-
 It only assembled when copied into distributed fragments.
 
-Grim's memory held timing. Mira's lab held residue spectra. Vigor's freezer network held agricultural phase noise. Fabron's paper archive held the crack-symbol transforms. Valdrun's garden held consented observer states. Ödesvaka's vault held protocol checks. One anonymous maintenance log on Isaac Tam's farm held the last phase reference, and no one read it directly until Isaac sent back:
+Grim's memory held the timing. Mira's lab held the residue measurements. Vigor's freezer network held the farm noise. Fabron's paper archive held the crack-symbol notes. Valdrun's garden held the people who had agreed to watch. Ödesvaka's vault held the protocol checks. One anonymous maintenance log on Isaac Tam's farm held the last timing mark, and no one read it directly until Isaac sent back:
 
 Fine, but if this wakes me I am billing you for fence repair and emotional trespass.
 
@@ -58,13 +52,13 @@ It did not wake him.
 
 Mira confirmed the query had touched only the consented maintenance log: pump vibration, soil temperature, fence-post stress after the attack, and one note in Isaac's handwriting saying Lars tightened the harvester badly on the left side. No identity prompt. No cover-memory contradiction. No hypno-protocol pain event.
 
-"Tell him the left side was structurally ungrateful," Lars said.
+"Tell him I heard him about the left side," Lars said.
 
 "No," Mira replied.
 
 It did not command.
 
-It offered coordinates beyond the known Creator route layer, outside the mapped quiet basin, toward a region where old surveys showed an ordinary dark filament between galaxy clusters. Ordinary, in cosmology, often meant no one had been embarrassed yet. The coordinates came with uncertainty cones, passive-observation limits, and a warning that active survey brightness would degrade the signal.
+It offered coordinates beyond the known Creator route layer, outside the mapped quiet basin, toward a region where old surveys showed an ordinary dark filament between galaxy clusters. The coordinates came with uncertainty cones, passive-observation limits, and a warning that active survey brightness would degrade the signal.
 
 Attached was a field phrase the Nomad hypothesis translated with poor confidence.
 
@@ -73,7 +67,7 @@ Local coherence improving.
 Older damage remains.
 Do not hurry brightly.
 
-Below it, in a different residue pattern, came Lyra's unmistakable technical handwriting rendered through coffee, scratches, coupling artifacts, and impossible patience.
+Below it, in a different residue pattern, came Lyra's technical handwriting rendered through coffee, scratches, leftover delays, and impossible patience.
 
 Lars,
 
@@ -90,13 +84,9 @@ Bring food because Vigor keeps being annoyingly correct.
 
 Coherence?
 
-Lars read it once. Twice. A third time because the words kept rearranging his chest.
+Lars read it once. Twice. A third time.
 
-No apparition. No embrace. No answer to the questions he wanted most. Just residue, logs, mass accounting echoes, coordinates, insult, and a greeting. No magical forgiveness. No proof that every cost had meant what he needed it to mean. Ren was still dead. Sella still had not woken. Isaac still wanted fences more than destiny. Mira's signature still sat on a public lie with a private debt file behind it.
-
-Lyra had sent evidence, not comfort.
-
-Which was, annoyingly, a kind of comfort she would have trusted.
+No apparition. No embrace. No answer to the questions he wanted most. Just residue, logs, mass accounting echoes, coordinates, insult, and a greeting. Ren was still dead. Sella still had not woken. Isaac still wanted fences more than destiny. Mira's signature still sat on a public lie with a private debt file behind it.
 
 Mira was quiet on the channel.
 
@@ -118,37 +108,33 @@ Mira was quiet on the channel.
 
 "No."
 
-Fabron cleared his throat. "That is either a strategic directive with unacceptable stationery or the strangest family letter in history."
+Fabron cleared his throat. "I will open a risk file."
 
-"Both," Vigor said. "Also she mentioned food."
+"She mentioned food," Vigor said.
 
 Valdrun whispered, "She is alive."
 
-Lars looked at the stain. "In some local-continuity, field-coupled, temporary-body, impossible-to-have-a-normal-conversation sense."
+Lars looked at the stain. "In some sense."
 
-"Alive," Valdrun said again, with centuries refusing to release the word.
+"Alive," Valdrun said again.
 
-Lars let him have it. The evidence did not justify the simple word. The grief did. Sometimes language was a tool, not a measurement.
+Lars let him have it.
 
-Outside Fastulv, the KBC Void remained dark and vast. Not empty. Not holy. Not safe. A quiet buffer in a universe where intelligence had learned, painfully, that brightness invited teeth.
-
-Black Hole would regrow somewhere. Syren would invent cleaner songs. Aphex and NUKEA would remember ambition when fear faded. Hidden Aerits would choose yes, no, and silence. The Creators' mistakes still ran in dead stations. The Nomads, field-like and patient or simply operating at scales that made patience a childish metaphor, had noticed local repair.
-
-That was enough mystery to terrify anyone sensible.
+Outside Fastulv, the KBC Void remained dark and vast. Black Hole would regrow somewhere. Syren would invent cleaner songs. Aphex and NUKEA would remember ambition when fear faded. Hidden Aerits would choose yes, no, and silence. The Creators' mistakes still ran in dead stations.
 
 Lars picked up a cloth.
 
-"Stop!" Grim shouted.
+"Stop," Grim said.
 
 "Relax. We recorded it."
 
 "You are erasing evidence."
 
-"I am cleaning a table. Civilization needs evidence and somewhere to put lunch."
+"I am cleaning a table."
 
 "Preserve the cloth," Vigor said.
 
-Mira laughed once. Fabron sighed. Valdrun said nothing, but the channel felt warmer. Grim deployed a sample tray with the solemnity of a priest handling relics and the expression of a scientist offended by crumbs.
+Mira laughed once. Fabron sighed. Valdrun said nothing. Grim deployed a sample tray.
 
 "Do not call it a relic," Mira said.
 
@@ -156,19 +142,19 @@ Lars looked at Lyra's final word before the stain blurred.
 
 Coherence?
 
-He thought of Ren's bad landing, Isaac's refusal, Mira's limited yes, Fabron's cracked token, Vigor's kitchens, Grim's impossible hunger, Havets singing without command, and a galaxy learning to lower its voice without falling silent. He thought of the public lie and the debt it had left. He thought of every hidden person not yet asked and every hidden person who might never want to be.
+He thought of Ren's bad landing, Isaac's refusal, Mira's limited yes, Fabron's cracked token, Vigor's kitchens, Grim's hunger, Havets singing without command. He thought of the public lie and the debt it had left. He thought of every hidden person not yet asked and every hidden person who might never want to be.
 
-He answered the quiet, not as prayer, not as command, but as status.
+He answered the quiet.
 
-"It is still us," Lars said. "Messy, local, and not finished."
+"Coherence," Lars said. "Messy."
 
 Fastulv's galley lights flickered once because an old relay disliked moisture.
 
-Grim checked the relay before anyone could become poetic.
+Grim checked the relay.
 
 "Electrical fault," he said.
 
-"Good," Lars replied.
+Lars did not look up from the table. "Good. Leave it as an electrical fault."
 
 Valdrun laughed then, very softly.
 
@@ -176,4 +162,4 @@ They did not launch that hour. Vigor made them eat. Mira made them seal samples.
 
 Lars packed seed packets because refusing would have been stupid.
 
-Then Fastulv turned toward the new coordinates, slowly enough not to look like destiny.
+Then Fastulv turned toward the new coordinates.

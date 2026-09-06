@@ -1,20 +1,14 @@
 # Chapter 45: The Cancer Model
 
-Grim modeled galactic collapse as cancer because he had recently become fond of biological metaphors and wanted everyone to suffer with him in labeled diagrams.
+Grim modeled galactic collapse as cancer. He had been using biological diagrams since the nursery, and he wanted the table to see the same shapes.
 
-He chose the mess hall on Arkology Zero because Vigor had forbidden strategy sessions without food. The long table was covered with soup bowls, cracked tablets, field printouts, Aphex legal pads, NUKEA governor schematics, and one plate of preserved fruit Grim had classified as "optimistic but texturally suspicious."
+He chose the mess hall on Arkology Zero because Vigor had forbidden strategy sessions without food. The long table held soup bowls, cracked tablets, field printouts, Aphex legal pads, NUKEA governor schematics, and a plate of preserved fruit.
 
 "Healthy systems differentiate," Grim said. "Cells specialize, communicate locally, obey growth limits, self-destruct when damaged, and maintain boundaries. Cancer centralizes growth around itself, ignores consent signals, recruits blood supply, corrupts immune response, and consumes the body sustaining it."
 
-He displayed Black Hole, Syren, Aphex central, NUKEA emergency licensing, and several historical empires as overlapping tumors. Each sphere pulsed according to a different failure pattern. Black Hole pulsed red around stolen biological supply. Syren pulsed white around synchronized silence. Aphex pulsed purple around command consolidation and liability deflection. NUKEA pulsed blue around emergency dependency.
+He put the overlays up. Black Hole, Syren, Aphex central, NUKEA emergency licensing, old empires. Spheres pulsed on the map.
 
-Arsenault objected to Aphex's color.
-
-"Purple tested as morally anxious," Grim said. "Also expensive."
-
-"I reject chromatic slander and any implication that our liability posture is mauve."
-
-"Recorded in purple."
+Arsenault objected to Aphex's color. Grim said the overlay had tested as the least confusing. Arsenault rejected the color and any implication that their liability posture matched it. Grim recorded the objection.
 
 Lars laughed first because someone had to keep the room from bowing to the diagram. Fabron did not laugh. Mira watched from L-Prime on a wall square, tumor overlays propagating across trade lanes and rescue corridors, her fingers still except for one tap against her own table whenever an assumption had no evidence behind it.
 
@@ -26,17 +20,17 @@ Lars laughed first because someone had to keep the room from bowing to the diagr
 
 Grim tilted his head. "Correction accepted. Aphex contains both tumor-supportive and immune-supportive subpopulations."
 
-"Please never say that in a shareholder meeting," Arsenault said.
+"Do not say that in a shareholder meeting," Arsenault said.
 
-"Director Arsenault," Fabron said, "for once I support concealment."
+"I agree," Fabron said.
 
-The model was funny until it was not.
+The room went quiet over the diagram.
 
-Black Hole was obvious malignancy: harvesting, forced coupling, biological processors, acquisition without understanding. Syren was ideological metastasis: synchronized surrender, meaning replacing maintenance, martyrdom as recruitment. Aphex and NUKEA were not enemies by nature, but their emergency instincts created central blood vessels any tumor could hijack. Even the recovery apparatus could become disease if it began sorting hidden people as resources instead of persons.
+Grim walked them through the overlays. Black Hole harvested, forced coupling, ran biological processors, acquired without understanding. Syren used synchronized surrender and replaced maintenance with meaning. Aphex and NUKEA were not enemies by nature, but their emergency instincts created central blood vessels any tumor could hijack. Even the recovery apparatus could become disease if it began sorting hidden people as resources instead of persons.
 
 That part stayed on the screen longer than anyone liked.
 
-The KBC basin was not a mystical immune system. It was low-noise tissue where complex coordination could persist. Bright, forced, centralized action could scar it. Enough scarring might expose Arkology Zero, damage sleepers, and make future Nomad-layer contact impossible or hostile. The evidence was ugly and ordinary: passive array saturation, residue decay drift, Arkology lock instability, two minor hypno-protocol pain events in still-locked Aerits after leaked direct contradictions reached their cover memories.
+The KBC basin was low-noise tissue where complex coordination could persist. Bright, forced, centralized action could scar it. Enough scarring might expose Arkology Zero, damage sleepers, and make future Nomad-layer contact impossible or hostile. The evidence was ugly and ordinary: passive array saturation, residue decay drift, Arkology lock instability, two minor hypno-protocol pain events in still-locked Aerits after leaked direct contradictions reached their cover memories.
 
 Lars stared at those two entries.
 
@@ -56,7 +50,7 @@ No one smiled much.
 
 "Treatment?" Fabron asked.
 
-"Distributed immune response," Grim said. "Many local refusals. No heroic spleen."
+"Distributed immune response," Grim said. "Many local refusals. No single organ doing all the work."
 
 "With minimal chemotherapy," Mira added. "No killing the patient to prove decisiveness. Target the failure mode, not the whole body."
 
@@ -76,13 +70,13 @@ Arsenault would fracture Aphex central from inside. He hated the word fracture.
 
 "I prefer diversify authority exposure."
 
-"You prefer perfume on a corpse," Lars said. "Fracture it."
+"Call it what it is," Lars said. "Fracture it."
 
 Rauk and NUKEA dissidents would isolate emergency keys under reactor safety pretexts. Not rebellion. Calibration. Every override would require local governor assent, physical presence, and a living mechanic willing to put a thumb on the plate.
 
 Mira would publish escalating advisories that made insurers and civilian captains afraid of First Door. She refused three drafts because they sounded too certain.
 
-"Fear with false precision propagates badly," she said. "They need useful doubt, not panic."
+"Fear with false precision propagates badly. They need useful doubt, not panic."
 
 Grim would shield known sleepers and suspected Aerits with consent-aware alerts, relocation offers, and medical privacy traps. Ödesvaka would hold the archive triggers from Arkology Zero. No alert would say you are Aerit. No relocation would require belief. No medical flag would reveal identity to a central archive. Every protective act would be boring enough to survive subpoena.
 
@@ -90,17 +84,15 @@ Havets and Fastulv would go to First Door.
 
 Fabron folded his hands. "Define roles before Director Odin starts naming them after animal behavior."
 
-"Fastulv goes visible," Lars said. "Public signal, loud target, board-level idiot ship, everything Black Hole expects me to make important."
+"Fastulv goes visible," Lars said. "Public signal, loud target, the new freight hull everyone already thinks they understand, everything Black Hole expects me to make important. I built that ship. I want them looking at it."
 
 "So bait."
 
-"Visible bait. Different."
+"Visible bait."
 
-"Not sufficiently."
+Valdrun's voice came low through the channel. "Fastulv will draw command attention because Lars is a symbol, a blood source, and a tactical irritant. Havets will remain dark unless exposure prevents greater harm. The old ship will change when things happen: an alarm a second early, a false all-clear, a door that will not take a remote order. It does that from underneath their sensors. Grim does not run that ship. The old hull runs itself."
 
-Valdrun's voice came low through the channel. "Fastulv will draw command attention because Lars is a symbol, a blood source, and a tactical irritant. Havets will remain dark unless exposure prevents greater harm. It will shape timing, false certainty, and local permissions from underneath their sensors."
-
-"Hidden capacity," Mira said. "Not secret miracle."
+"Hidden capacity," Mira said. "A ship with its own systems."
 
 "Exactly," Lars said. "We make the noise. The quiet network moves."
 
@@ -132,11 +124,7 @@ Grim answered softly. "Maren Sol. Dock repair. Survived."
 
 Grim listed them. No titles. No strategic value. Names, ages, jobs, who had been notified, what repairs remained unfinished.
 
-The footage spread.
-
-But not as Black Hole intended.
-
-Maren Sol became the clip. Not martyrdom. Maintenance under fire. Repair before worship moved faster than Syren's holy silence because it gave grief a task and did not ask anyone to enjoy the task.
+The footage spread. But not as Black Hole intended. Maren Sol became the clip. Not martyrdom. Maintenance under fire. Repair before worship moved faster than Syren's holy silence because it gave grief a task and did not ask anyone to enjoy the task.
 
 Then Grim's model flashed black.
 

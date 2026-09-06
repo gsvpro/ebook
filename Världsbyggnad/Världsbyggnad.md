@@ -48,7 +48,7 @@ Artefarkten infekterade Lyra med nanobotar. Skaparna verkar ha haft som mål att
 #   
 # Lyra och ESA teamet försvinner genom portalen för gott på 2180-talet. Men nu har resten av mänskligheten fått ta del av all ny teknologi (utom nanobotarna) och expansionen ut i vintergatan går inte att stoppa.  
 #   
-# Dock har Lyra och hennes ESA team fattat beslutet att nanobotarna inte kan spridas hur som helst till mänskligheten. Den hemligheten behåller de.  
+# Dock har Lyra och hennes ISEA team fattat beslutet att nanobotarna inte kan spridas hur som helst till mänskligheten. Den hemligheten behåller de.  
 #   
 # Detta leder till en helt ny gren av mänskligheten, Lyra, hennes gamla ESA team börjar kalla sig för Aeriter, Homo Fas.  
 #   

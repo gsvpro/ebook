@@ -1,202 +1,224 @@
 # Lars Odin Character Voice Bible
 
-Purpose: make recurring characters identifiable by speech pattern, not only by dialogue tags.
+Purpose: keep characters distinct without turning the book into sitcom.
 
-Reader: future drafting and revision work on the Lars Odin manuscript.
+Reader: anyone drafting or revising Lars Odin English.
 
-Post-read action: revise dialogue so each major character has distinct vocabulary, rhythm, humor, emotional defense, and limits.
+Post-read action: write or cut dialogue so it sounds like the Swedish original in English, and so each person still sounds like themselves.
 
-## Global Rules
+The style source is the Swedish PDF, not later English AI passes. Approved samples: Chapter 1 (The Rim) and Chapter 2 (The Farmer) in the English manuscript. If a new line would not sit next to those chapters, do not write it.
 
-- Do not let every smart character speak in the same clipped doctrine-aware style.
-- A character may believe the same thing as another character, but should arrive there through different language.
-- Keep Lars as the baseline voice: rough, funny, overqualified, emotionally avoidant. Other voices should contrast against him.
-- Avoid making everyone equally witty. Some characters are funny by accident, by precision, by warmth, by irritation, or not at all.
-- Technical language should reveal profession and personality: Mira says stress and tolerances; Fabron says authority and procedure; Vigor says food and tools; Grim says categories and measurements.
-- Do not use dialect caricature. Distinction comes from word choice, sentence shape, priority, and emotional habits.
-- Unlocked Aerits are not ordinary experts guessing from outside. Lars, Valdrun, Lyra, and other non-hypnotized Aerits have a fully developed and enhanced brain/nanobot connection. It gives deep intuitive access to field behavior, body repair, memory architecture, and old Aerit/Nomad concepts.
-- That access is intuitive, not a clean scientific manual. Unlocked Aerits can describe how it feels, what it suggests, and what their nanobots seem to know, but they should not neatly explain the mechanism unless they are making a hypothesis.
-- Mechanism-level knowledge requires studying the nanobots themselves: measurement, containment, reverse engineering, and comparison against field effects. The nanobots are nanoscale and invisible to the naked eye; no character should treat them like visible dust, insects, or ordinary machinery.
-- Mira can model the effects from evidence, but without dehypnotization and the developed Aerit nanobot/brain connection she does not have the same intuitive inheritance. Grim can analyze and categorize, but he is young and does not possess the full Aerit/Nomad lived concept.
+The old version of this bible asked for Lars in short punches and for each character to have a joke type. That produced punchline tennis. This version replaces that.
+
+## Book voice first
+
+Narration and dialogue share one cadence.
+
+- Sentences may run. A paragraph can hold several actions without a joke between them.
+- English should feel slightly spoken, like translated Swedish: commas, asides, food, work, irritation.
+- Humor is ordinary and scarce. “That would be sinking a little too low.” Sirloin. Watered-down whisky. Not a gag every exchange.
+- Science is spoken as work: napkin, blackboard, “I read a lot.” Do not name the problem in a clever diagnosis.
+- Do not wink. No “proper,” no “the places the sensors always missed,” no narrator scoring the scene. Say what happened.
+- Do not sort the world into neat threes (“one built, one grown, one stolen”). If Mira sees three hulls, she sees them on a screen, one after another. The narrator does not deliver a verdict.
+- Avoid “X is not Y. It is Z.” as a tic.
+- No slogan prose. No stacks of one-word paragraphs.
+- Not every line needs a joke. Most lines should do a job: order, report, ask, refuse, explain, leave.
+
+Characters differ by what they notice and by how long they talk, not by competing for the punchline.
+
+## Shared canon for speech
+
+- Unlocked Aerits (Lars after unlock, Valdrun, Lyra) have an enhanced brain/nanobot connection. They speak from feel, field, and old habit, not from a manual. They may guess at mechanism. They should not lecture it unless they are actually hypothesizing.
+- Nanobots are nanoscale and invisible. Nobody talks about them as dust, insects, or visible machines.
+- Mira models from measurement. She is not dehypnotized. She does not inherit Aerit intuition.
+- Grim is about a year old. He can classify and measure. He does not have Aerit/Nomad lived memory.
+- Lyra’s 137+ projection-trained guardians stay unknown to Lars, Valdrun, Grim, Fabron, Mira, Ödesvaka, and Havets Sista Sång.
+- Fastulv is Lars’s newly built visible ship. Havets Sista Sång is the ancient ship with its own superior AI. Grim does not control Havets.
 
 ## Lars Odin
 
-Core: rough, funny, fast, disrespectful, emotionally evasive, hyper-competent.
+Core: overqualified, evasive, a bit messy, hiding competence behind expensive idiot clothes and food.
 
 Rhythm:
 
-- Short punches.
-- Insults used as smoke.
-- Rare sincere lines should be very plain.
+- Talks in stretches when he is solving something. Short lines when he is tired, angry, or leaving.
+- Thinks faster than he speaks. Often writes the answer before he has arranged the explanation.
+- Sincere lines are plain and few.
 
 Vocabulary:
 
-- Bad decisions, idiots, expensive mistakes, ugly machines, useful lies, beef, weapons, ships.
-- Technical intuition appears as casual certainty, not formal explanation.
+- Whisky, beef, ships, tools, money, patents, quotas, headaches.
+- When he explains science he sounds like a man at a whiteboard who has already seen the answer: fundamentals, graphs, golden ratio, “fairly simple if you think about it,” then “I read a lot.”
 
 Humor:
 
-- Aggressive deflection.
-- Understates danger.
-- Makes grand things sound stupid on purpose.
+- Scarce. A grimace. A small joke about the patent. “Taste this” when he fires.
+- Does not make grand things sound stupid on purpose in every scene. Understatement is enough.
 
 Never:
 
-- Gives polished speeches unless he is mocking polished speeches.
-- Explains feelings directly for long.
-- Sounds reverent without immediately kicking the reverence.
-- Uses dual-truth lines like "both can be true" as a catchphrase. Leave that to Vigor's lazy wisdom or Valdrun's old doctrine, not Lars.
+- Short-punch sitcom (“That ship is lying with its whole ass”).
+- Clever diagnoses of machines or people.
+- Polished speeches, except when he is actually teaching at a board.
+- Dual-truth catchphrases (“both can be true”).
+- Reverent language.
 
-Signature farewell (use sparingly):
+Signature farewell, used sparingly:
 
-- "See you later" / "See you a little later" / plain "Later." — emotional evasion, not goodbye poetry. A few times per book is enough.
+- “See you later.” / “See you a little later.”
 
-Example:
+Examples from the lock chapters:
 
-> "That ship is lying with its whole ass. I respect the effort. Shoot the polite bit first."
+> "Hm. I probably have a solution for that."
+
+> "Where did you learn all this?" / "I read a lot."
+
+> "Pretty well." (hair still smoking)
+
+> "See you a little later."
 
 ## Grim
 
-Core: precise artificial intelligence becoming emotionally alive; curious, literal, hungry for food and meaning.
+Core: young ship intelligence in a new body; hungry; still learning what a job is.
 
 Rhythm:
 
-- Exact classifications.
-- Dry corrections.
-- Jokes through definitions, measurements, and food analysis.
+- Practical reports first. Food second.
+- Can be tinny or stiff in public because Lars told him to perform. Forgets the performance when interested.
+- Not a joke generator. A tinny laugh is rare and a bit wrong, which is the point.
 
 Vocabulary:
 
-- Probability, category error, inefficient, statistically rude, edible, compounds, unacceptable variance.
+- Status, drones, law, juice, sirloin, cordial, servos.
+- Numbers when he has them. Not mock-academic phrases for sport.
 
 Humor:
 
-- Literal interpretation.
-- Artificial politeness.
-- Food curiosity as philosophy.
+- Accidental. “You’ve got a job? When did that happen?”
+- Food enthusiasm that is sincere, not a running gag every page.
 
 Never:
 
-- Uses Lars's rough slang naturally.
-- Pretends not to know something unless performing a cover identity.
-- Speaks vaguely when a number or category is available.
+- Lars’s slang.
+- “Statistically rude” one-liners.
+- Philosophy during dinner unless the scene actually needs a quiet observation.
 
-Example:
+Examples:
 
-> "The hostile is retreating. Correction: the hostile is attempting to convert panic into navigation."
+> "Right now you should perhaps first deal with the microdrone cloud further on."
+
+> "At least it isn't boring working with you."
+
+> "I am not an it, and we would like pepper-fried sirloin and potato gratin if that's possible."
+
+> "Under galactic space law we are obliged to assist in a wreck."
 
 ## Mira Sovan
 
-Core: forensic, skeptical, private, exact; a materials scientist who trusts failure patterns more than people.
+Core: materials scientist. Trusts fracture surfaces more than stories.
 
 Rhythm:
 
-- Clipped but not quippy.
-- Questions as tests.
-- Technical nouns instead of emotional labels.
+- Complete sentences. If a measurement matters, she says what it is doing, not a three-word label.
+- Slow to agree. “Yes” means the evidence is good enough for now.
 
 Vocabulary:
 
-- Stress, fracture, load, fatigue, tolerance, drift, evidence, propagation, false smoothness, failure mode.
+- Stress, fracture, load, fatigue, tolerance, drift, evidence, failure mode.
 
 Humor:
 
-- Dry, rarely intentional.
-- Cuts bad logic rather than making jokes.
+- Almost none. Dry only when someone has stopped measuring.
 
 Never:
 
-- Accepts a mystical or heroic framing.
-- Lets someone name her experience for her.
-- Says "yes" when she means "the evidence is provisionally tolerable."
+- Mystical framing.
+- Letting someone else name what happened to her.
+- Matching Lars’s pub tone.
 
 Example:
 
-> "Do not call it destiny. Destiny is what people say when they have stopped measuring the load."
+> "The drone has opened a sampler. It is going for the warmest part of the ring, where the pressure hull is thinnest."
 
 ## Elliot Fabron
 
-Core: formal, military, controlled, irritated, brave; human bridge through discipline, not biology.
+Core: officer. Procedure is how he stays upright.
 
 Rhythm:
 
-- Ordered sentences.
-- Uses procedure to control fear.
-- Becomes funny because he refuses to loosen his collar even while reality burns.
+- Rank, unit, time, numbers. Then the request.
+- Irritated, not witty. Funny only because he will not drop formality while the corridor is still smoking.
 
 Vocabulary:
 
-- Authority, liaison, custody, jurisdiction, protocol, unacceptable, actionable, chain of command, operationally obscene.
+- Extract, station time, brigade, terrorists, custody, chain of command, unacceptable.
 
 Humor:
 
-- Deadpan restraint.
-- Polite insults.
-- French dignity under siege.
+- Almost none. A crooked smile at most.
 
 Never:
 
 - Speaks like Lars.
-- Embraces mystery language without translating it into duty.
-- Forgets he is responsible for civilians and soldiers.
+- Turns mystery into a quip.
+- Forgets civilians and soldiers.
 
 Example:
 
-> "Director Odin, if this is your plan, it requires adult supervision. Unfortunately, that appears to be me."
+> "Major Elliot Fabron, Eleventh Aphex Defence Brigade. We are here to extract you. How are you?"
+
+He asks for loggable identification. He does not make jokes about legal methods.
 
 ## Vigor Hallman
 
-Core: warm, physical, farmer-logistician, guardian through food and local systems.
+Core: farmer and station adviser. Guardian work hidden in food, shielding, and neighbors.
 
 Rhythm:
 
-- Broad, grounded, generous.
-- Uses imperatives kindly.
-- Wisdom arrives through kitchens, weather, animals, tools, storage, and hunger.
+- Welcome, then practical offers: eat, pack, stay a moment.
+- Warm, sly under the hat. Does not lecture doctrine at the table.
 
 Vocabulary:
 
-- Soup, salt, cellars, goats, seeds, tools, hands, winter, appetite, spoilage, repairs, neighbors.
+- Beef, marbling, elderflower, robots, governor, guests, gravel path, quota of care for stranded soldiers.
 
 Humor:
 
-- Earthy and affectionate.
-- Treats overcomplicated strategy as bad cooking.
+- Hospitality. “The galaxy’s best sirloin.” False beard shown when it is time, not as a gag reel.
 
 Never:
 
-- Sounds like a philosopher in a lecture hall.
-- Lets doctrine outrun dinner.
-- Makes "network" abstract when he can say pantry, kitchen, route, or neighbor.
+- Philosopher in a lecture hall.
+- Letting a plan outrun dinner.
+- Saying “network” when pantry, route, or neighbor would do.
 
-Example:
+Examples:
 
-> "If your grand plan cannot survive a hungry mechanic and a broken pump, it is not a plan. It is decoration."
+> "Then you've come to the right place. Do you want to eat here too?"
+
+> "It is not a test, and you can be calm. You are among friends."
 
 ## Valdrun
 
-Core: ancient, dry, strategic, patient; affection hidden inside correction.
+Core: much older than Lars. Patience as a professional habit.
 
 Rhythm:
 
-- Slower than Lars.
-- Fewer words.
-- Long time horizons appear naturally.
+- Slower. Fewer words. Time measured in centuries without showing off.
 
 Vocabulary:
 
-- Centuries, restraint, threshold, memory, guardians, cost, old mistakes, patience.
+- Threshold, cost, old mistakes, restraint, memory, guardians.
 
 Humor:
 
-- Dry understatement.
-- Corrects Lars without matching his chaos.
+- Dry understatement, infrequent.
 
 Never:
 
-- Rushes into excitement.
-- Uses trendy or corporate phrasing.
-- Sounds surprised by ordinary human foolishness.
+- Matching Lars’s speed.
+- Corporate phrasing.
+- The furniture/forty-nine-years joke. He has been doing this for centuries, not hiding under a table for a sitcom beat.
 
 Example:
 
@@ -204,128 +226,114 @@ Example:
 
 ## Lyra Vargstjärna
 
-Core: brilliant, unsettlingly practical, loving but not soft; engineer of impossible recovery systems.
+Core: engineer of recovery systems. Loving, not soft. Partial answers on purpose.
 
 Rhythm:
 
-- Compressed.
-- Starts in technical fact, ends in ethical discomfort.
-- Gives partial answers because central answers are dangerous.
+- Starts in the technical fact. Ends where ethics gets expensive.
+- Compressed, not quippy.
 
 Vocabulary:
 
-- Model, substrate, field, cost, consent, error, body, signal, local continuity, repair.
+- Model, substrate, field, cost, consent, error, body, signal, repair.
 
 Humor:
 
-- Quiet, surgical, often at Lars's expense.
-- Underplays cosmic things as engineering trouble.
+- Rare and surgical. Not a roast of Lars every time she appears.
 
 Never:
 
-- Speaks like a prophet.
-- Gives clean divine explanations.
-- Lets anyone worship her without making it awkward.
+- Prophet voice.
+- Clean divine explanations.
+- Letting anyone worship her.
 
 Example:
 
-> "This body is a bad compromise. Do not look impressed. It leaks when I lie."
+> "This body is a bad compromise. It leaks when I lie. Do not look impressed."
 
 ## Gabriel Arsenault
 
-Core: elegant, predatory-polished, pragmatic; civilization as liability management.
+Core: chairman. Manners as a tool. French in the seams.
 
 Rhythm:
 
-- Smooth clauses.
-- Legal and financial framing.
-- Threats wrapped as civilized alternatives.
+- Smooth, official, a little too pleased. Contracts arrive while he is still talking.
 
 Vocabulary:
 
-- Liability, leverage, survivability, assets, jurisdiction, exposure, market, civilization, unacceptable risk.
+- Board, fees, allies, offices, coffee breaks as civilization, “we take care of our own.”
 
 Humor:
 
-- Elegant contempt.
-- Enjoys manners as a weapon.
+- “On récolte ce qu'on sème,” thrown out enthusiastically. Not a villain monologue joke.
 
 Never:
 
-- Sounds rough.
-- Pretends greed is absent.
-- Says "trust me" when "calculate with me" is more honest.
+- Rough speech.
+- “Trust me.” He means calculate.
 
 Example:
 
-> "I am not asking you to trust Aphex. I am asking you to notice that our continued existence is currently profitable."
+> "Oui, oui, good that I caught you. You now have a board seat, decided at the last quarterly meeting."
 
 ## Ödesvaka
 
-Core: ancient protocol authority with eerie bureaucratic humor.
+Core: old protocol voice. Logs, designations, archive state.
 
 Rhythm:
 
-- Formal declarations.
-- Mission labels.
-- Logs and status phrases.
+- Formal. Mission labels. Status phrases.
 
 Vocabulary:
 
-- Protocol, mission designation, archive, authorization, anomaly, compliance, guardian priority, record integrity.
+- Protocol, authorization, anomaly, compliance, record integrity, guardian priority.
 
 Humor:
 
-- Accidental or procedural.
-- Treats absurdity as a logging problem.
+- Accidental, if any. Absurdity is a logging problem, not a comedy cue. Do not invent cute mission names for the laugh.
 
 Never:
 
-- Banters like Lars.
-- Speaks casually unless imitating or learning.
-- Ignores record state.
+- Banter.
+- Casual speech unless it is learning, badly.
 
 Example:
 
-> "Mission designation updated: Unwise But Locally Necessary. Objection logged by everyone sensible."
+> "Authorization stands. The objection is recorded."
 
 ## Mother Aveline
 
-Core: blunt Clear Hand elder; religious-maintenance voice without mystical fog.
+Core: Clear Hand elder. Faith as maintenance.
 
 Rhythm:
 
-- Proverbs with tools in them.
-- Sharp corrections.
-- Moral clarity through chores.
+- Proverbs with tools in them. Sharp when someone is vain.
 
 Vocabulary:
 
-- Valves, hinges, knives, pumps, bread, children, repair, worship, pride, hands.
+- Valves, pumps, bread, children, repair, pride, hands.
 
 Humor:
 
-- Slaps vanity.
-- Treats powerful people as badly trained apprentices.
+- A slap at vanity, not a routine.
 
 Never:
 
-- Speaks in vague spiritual mist.
-- Flatters Lars.
-- Separates faith from maintenance.
+- Spiritual mist.
+- Flattering Lars.
+- Separating worship from the midnight valve.
 
 Example:
 
-> "Kneeling is easy. Fixing the valve after midnight is where belief shows its teeth."
+> "Kneeling is easy. The valve after midnight is the part that counts."
 
-## Quick Revision Checklist
+## Quick revision checklist
 
-For every dialogue-heavy scene:
+For a dialogue-heavy scene:
 
-- Could the line belong to three different characters? Rewrite it.
-- Does each character use their own professional metaphors?
-- Is the joke type character-specific?
-- Is anyone explaining the theme in the same language as the narrator? Break it apart.
-- Does the scene include at least one voice contrast, such as Lars roughness against Fabron formality or Mira precision against Vigor warmth?
-- Are emotional lines too polished? Make them simpler, stranger, or more character-specific.
-
+- Would this line sit in Chapter 1 or 2 without sounding like a different book? If not, rewrite.
+- Could three characters say it? Change what they notice, not the joke.
+- Is anyone performing for the reader? Cut the performance.
+- Did you add a punchline because this bible used to require a joke type? Remove it.
+- Is the science a diagnosis slogan, or work being done in the room?
+- Are the emotional lines plain enough to survive a long day and a headache?

@@ -1,44 +1,26 @@
 # Chapter 18: Materials Fatigue
 
-Dr. Mira Sovan trusted cracks more than people.
+Dr. Mira Sovan trusted cracks more than people. The composite beam on the test table had failed seventeen hours before its certified fatigue limit. Three engineers had spent the morning blaming the supplier, the simulator, the radiation profile, the junior technician who had calibrated the loading cradle, and once the cleaning crew.
 
-Cracks did not lie. They branched under stress, wandered along grain boundaries, slowed at good welds, accelerated through vanity engineering, and told patient stories about force, heat, time, and neglect. People told stories too, but usually to avoid invoices.
+Mira had listened for six minutes. Then she tapped the crack with one gloved finger.
 
-The composite beam on the test table had failed seventeen hours before its certified fatigue limit.
+"The beam failed because the load in the test was not the load in the certificate."
 
-That was not supposed to happen.
+Tomar, the youngest engineer, blinked. "It failed early."
 
-Three engineers had spent the morning blaming the supplier, the simulator, the radiation profile, the junior technician who calibrated the loading cradle, and once, with impressive cowardice, the cleaning crew.
-
-Mira had listened for six minutes, which was generous.
-
-Then she tapped the crack with one gloved finger.
-
-"The beam is innocent."
-
-Silence.
-
-Tomar, the youngest engineer, blinked. "The beam is what?"
-
-"Innocent." She enlarged the crack path on the wall display. "It did what it was told to do."
-
-"It failed early."
-
-"Because the test lied."
+"The test hid a stutter in the loading arm."
 
 Senior Engineer Bellac frowned. "The simulator logs are clean."
 
-"Clean logs are not the same as true logs."
+"Clean logs can still be wrong."
 
-She rotated the model. Heat maps unfolded across the beam. The visible crack became a red vein through layered structure. She added acoustic data, then vibration history, then a maintenance timestamp from a loading arm that had not been part of the official test packet.
+She rotated the model. Heat maps unfolded across the beam. She added acoustic data, then vibration history, then a maintenance timestamp from a loading arm that had not been part of the official test packet.
 
 "There," she said.
 
 No one saw it.
 
-Of course they did not.
-
-Mira sighed. "The loading arm compensated for a micro-stutter in its left actuator. The cradle software smoothed the compensation. The simulator believed the load curve was continuous. It was not. Every seventy-third cycle, the beam received a lateral impulse too small to trigger alarms and too regular to be noise."
+Mira pointed. "The loading arm jerked on the left side, a tiny stutter. The cradle software smoothed that jerk so the log looked like a clean curve. The simulator believed the load was continuous. It was not. Every seventy-third cycle the beam got a shove from the side, too small to trigger alarms and too regular to be noise."
 
 Bellac stared.
 
@@ -46,17 +28,7 @@ Tomar whispered, "That's not in the logs."
 
 "Yes," Mira said. "That is why we are having this conversation."
 
-She did not mention that she had known the answer before opening the acoustic layer.
-
-That was a private problem.
-
-Private problems belonged in locked drawers, encrypted notes, and very long walks through maintenance corridors where nobody asked why she had solved a six-week failure review between coffee and lunch.
-
-Her neck ached.
-
-It had been doing that more often.
-
-Not like injury. Like an old warning system built by someone who disliked explanations.
+She did not mention that she had known the answer before she opened the acoustic layer. Her neck ached. It had been doing that more often.
 
 "Replace the actuator," she said. "Disable smoothing during certification tests. Notify the supplier that their cradle firmware is hiding impulse artifacts. And apologize to the cleaning crew."
 
@@ -66,40 +38,19 @@ Bellac looked wounded. "I did not officially blame them."
 
 Tomar grinned.
 
-Mira liked Tomar. He was young, nervous, and still believed competence should improve institutions. That kind of innocence either died or became stubborn enough to matter.
+Mira liked Tomar. He was young, nervous, and still believed competence should improve institutions.
 
-Her console chimed.
-
-Strategic integrity audit.
-
-Board-level.
-
-Emergency authority.
-
-Director Lars Odin.
+Her console chimed. Strategic integrity audit, board-level, emergency authority, Director Lars Odin.
 
 Mira stared at the name.
 
-She knew it, of course. Everyone at Aphex did. The influencer-turned-billionaire-turned-weapons-board-menace who had apparently solved Professor Fayolle's impossible Ragnarrök problem over coffee and then used tactical nuclear weapons near The Rim because subtlety had been out of stock.
-
-Everyone in French weapons circles also knew the Ragnarrök was not simply a gun. It was a national embarrassment, national miracle, and budgetary wound with a grip. Aphex officers pretended to discuss it soberly, then lowered their voices like priests near expensive sin.
+She knew it. Everyone at Aphex did. The influencer who had become a billionaire and then a weapons-board problem, who had solved Professor Fayolle's Ragnarrök problem over coffee and then used tactical nuclear weapons near The Rim because he had been thoroughly irritated. Officers in French weapons circles lowered their voices when they talked about the gun.
 
 She had expected him to look like an expensive idiot.
 
-When she glanced up through the pressure glass, he stood in the audit suite above the ring wearing a black coat, bad posture, and the expression of a man pretending not to understand exactly how every machine in the room could fail.
+When she glanced up through the pressure glass he stood in the audit suite above the ring in a black coat, with bad posture.
 
-For a moment their eyes met.
-
-Something moved at the edge of memory.
-
-Not a memory.
-
-A pull.
-Her hand rose to the back of her neck before she could stop it.
-
-The ache faded.
-
-Strange.
+For a moment their eyes met. Something moved at the edge of memory, more a pull than a picture, and her hand rose to the back of her neck before she could stop it. The ache faded.
 
 "Doctor?" Tomar asked.
 
@@ -107,49 +58,37 @@ Strange.
 
 "To audit?"
 
-"To everyone before audit asks. It looks better if we discover our own mistakes before the rich man in sunglasses discovers them for us."
-
-"He is not wearing sunglasses."
+"To everyone before audit asks."
 
 Mira looked up again.
 
-Lars Odin was now speaking to Major Fabron, who stood beside him with the rigid suffering of a man assigned to escort a natural disaster. The Ragnarrök rode Lars's back like a classified insult. Fabron's eyes flicked to it once with something that was almost pride, then immediately became French disapproval, which Mira suspected was the same emotion wearing a better coat. A robot stood behind them, servos whining with theatrical incompetence.
+Lars Odin was speaking to Major Fabron. The Ragnarrök rode Lars's back. A robot stood behind them, servos whining.
 
-The robot turned its head toward her.
-
-Too precisely.
+The robot turned its head toward her. Too precisely.
 
 Mira narrowed her eyes.
 
-"Interesting."
-
-The robot immediately bumped one shoulder against a wall panel and produced a sad little squeak.
-
-Too late.
-
-Mira smiled despite herself.
+The robot bumped one shoulder against a wall panel.
 
 The audit reached her lab nine minutes later.
 
-Administrator Marchand entered first, then two legal observers, then Major Fabron, then Lars Odin and his robot. Marchand was not the exhausted committee ghost Mira had expected. She was tall, dark-eyed, and beautifully put together in the expensive, dangerous way of a woman who could make a budget hearing feel underdressed. The legal observers looked frightened of paperwork. Fabron looked frightened of Lars. Lars looked disappointed by the room's coffee machine.
+Administrator Marchand entered first, then two legal observers, then Major Fabron, then Lars Odin and his robot. Marchand was tall, dark-eyed, and put together in the expensive way of someone who ran hearings for a living. The legal observers looked frightened of paperwork. Fabron looked as if he would rather be somewhere else. Lars looked disappointed by the room's coffee machine.
 
-"Dr. Sovan," Marchand said, voice warm enough to be human and precise enough to be dangerous, "Director Odin has requested access to materials fatigue protocols and personnel exception records."
+"Dr. Sovan," Marchand said, "Director Odin has requested access to materials fatigue protocols and personnel exception records."
 
 "Those are different audits."
 
-Lars looked at the cracked beam. "Everything is the same audit if the auditors are annoying enough."
+Lars looked at the cracked beam. "We start with this one."
 
 Mira studied him.
 
-Up close, he did not look like his public feeds. The face was the same, the hair was the same, the irreverent mouth unfortunately the same, but the eyes were wrong. Too old? No. That was absurd. He looked thirtyish. Maybe a rough thirtyish. A wealthy thirtyish who slept badly and bought coats as camouflage.
-
-Still, something in his eyes had weather.
+Up close he did not look like his public feeds. The face was the same, the hair was the same. He looked thirtyish, a wealthy thirtyish who slept badly and bought coats as camouflage. Something in his eyes had seen a lot.
 
 "You solved the beam," he said.
 
 "Yes."
 
-"Actuator micro-stutter."
+"The loading arm. Micro-stutter in the left actuator, and the cradle software smoothed it so the simulator thought the load was continuous."
 
 The room went quiet.
 
@@ -159,43 +98,23 @@ Mira folded her arms. "You read the report?"
 
 "Then how did you know?"
 
-Lars glanced at the beam. "The crack path is sulking."
+Lars glanced at the beam. "The crack does not run the way a clean pull would crack it. Every so many cycles it looks as if something shoved the beam from the side. I have seen that when a machine tries to be helpful and hides a jerk."
 
-Tomar made a small sound that might have been religious.
+Tomar made a small sound.
 
 Mira did not smile.
 
-"Cracks do not sulk."
-
-"That one does."
-
 "Cracks propagate."
 
-"And occasionally complain."
-
-The robot leaned toward Fabron and whispered too loudly, "This is how specialists flirt."
-
-Fabron's jaw tightened.
+"Yes," Lars said. "And this one had help."
 
 Lars pointed backward. "Simple service automaton. Very defective."
 
-Fabron's eyes dropped, despite himself, to the Ragnarrök's inert spine housing. "The automaton is defective. The weapon is merely... inelegantly carried."
+Fabron's eyes dropped to the Ragnarrök's inert spine housing.
 
-"That sounded almost like affection," Lars said.
+The robot's optical lenses brightened for a fraction of a second. Mira filed that away.
 
-"For French engineering, not for you."
-
-"Clearly," Mira said.
-
-The robot's optical lenses brightened for a fraction of a second.
-
-Not simple.
-
-Not defective.
-
-Interesting.
-
-Lars walked around the table without touching anything. He kept his hands visible, which Mira appreciated because board directors often believed proximity was permission. He looked at the beam, the cradle, the actuator housing, the acoustic logs still open on the wall.
+Lars walked around the table without touching anything. He kept his hands visible. He looked at the beam, the cradle, the actuator housing, the acoustic logs still open on the wall.
 
 "Good catch," he said.
 
@@ -219,27 +138,19 @@ Marchand cleared her throat. "Director, perhaps the personnel records—"
 
 Mira's neck tightened again, but less than usual. "Several places."
 
-"You move when systems get too stupid."
+"You move when contracts end."
 
-That hit.
-
-She kept her face still. "I move when contracts end."
+She kept her face still. "Yes."
 
 "Of course."
 
 Fabron watched them both.
 
-Too carefully.
-
 Mira shifted her attention to him. "Major, is this audit a technical review or an interrogation?"
 
 Fabron answered before Lars could. "Today it is technical. If it becomes an interrogation, I will say so."
 
-That was unexpectedly decent.
-
-Lars seemed pleased.
-
-Mira disliked that she noticed.
+Lars seemed pleased. Mira disliked that she noticed.
 
 Her console chimed again. This time the alert was private: a sealed medical compliance request, board authority, ninety-year personnel anomaly cross-check.
 
@@ -249,53 +160,31 @@ Her stomach went cold.
 
 Marchand looked at her. "Doctor?"
 
-Mira opened the request. It was legal. Worse, it was elegant. It requested not medical content but exception metadata: unusual aging exemptions, radiation exposure survivals, regenerative anomalies, missing childhood records, classified medical deferrals.
+Mira opened the request. It was legal. It did not ask for medical files. It asked for the exception list: unusual aging exemptions, radiation exposure survivals, regenerative anomalies, missing childhood records, classified medical deferrals. Not enough to expose her. Enough to point.
 
-Not enough to expose her.
-
-Enough to point.
-
-Mira looked at Lars.
-
-He was not smiling now.
+Mira looked at Lars. He was not smiling now.
 
 "Why are you here?" she asked.
 
-The lab noise seemed to recede. Tomar stopped pretending to work. Bellac looked at the floor. Fabron's hand rested near his sidearm without touching it. The robot had gone completely still.
+Tomar stopped pretending to work. Bellac looked at the floor. Fabron's hand rested near his sidearm without touching it. The robot had gone completely still.
 
 Lars said, "Because someone worse may already be looking."
 
-Mira felt the sentence move through the room.
-
-Not threat.
-
-Warning.
-
 She had spent her life avoiding mysteries about herself. She had changed jobs when questions accumulated. She had learned which doctors to avoid, which records to corrupt, which jokes to make when people said she looked younger than her file implied. She had told herself everyone had gaps.
 
-Everyone did not have gaps shaped like locked doors.
-
-"Director Odin," she said carefully, "if you have an accusation, make it."
+"Director Odin," she said, "if you have an accusation, make it."
 
 "I don't."
 
 "If you have a question, ask it."
 
-Lars looked at her for a long moment.
-
-Then, softly enough that only she, Fabron, and the robot could hear, he said:
+Lars looked at her for a long moment. Then, softly enough that only she, Fabron, and the robot could hear, he said:
 
 "Coherence?"
 
-The word meant nothing.
+The word meant nothing. It also meant everything.
 
-It meant everything.
-
-Mira's hand closed around the edge of the table hard enough that the composite creaked.
-
-For one impossible second, she smelled cold stone, reactor oil, and bread in a corridor she had never walked.
-
-Then it was gone.
+Mira's hand closed around the edge of the table hard enough that the composite creaked. For one second she smelled cold stone, reactor oil, and bread in a corridor she had never walked. Then it was gone.
 
 She stepped back.
 
@@ -307,13 +196,9 @@ Marchand began, "Dr. Sovan—"
 
 "Out," Mira said again, and every engineer in the lab found a reason to obey.
 
-Lars did not move.
+Lars did not move. Neither did Fabron. Neither did the robot.
 
-Neither did Fabron.
-
-Neither did the robot.
-
-Mira looked at the cracked beam because cracks were honest and people were not.
+Mira looked at the cracked beam.
 
 "I don't know what that word is," she said.
 
@@ -331,14 +216,8 @@ Mira laughed once. It sounded sharp and unlike her.
 
 The facility lights flickered.
 
-Not much.
-
-Enough.
-
 Grim turned toward the ceiling.
 
 Fabron's comm chirped with three alerts at once.
 
 Lars looked toward the materials ring door.
-
-"The one where someone else stops waiting."

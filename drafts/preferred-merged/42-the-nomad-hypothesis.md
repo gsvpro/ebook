@@ -4,25 +4,21 @@ Mira named the model because everyone else kept making it worse.
 
 "The Nomad hypothesis," she said. "Lowercase until evidence earns capitals."
 
-"Too late," Grim said. "My files have capitals. They improve sorting morale."
+Grim's files already had capitals. He said they improved sorting morale. Mira called the files dramatic and left it there.
 
-"Your files are dramatic."
+She put the model on the board.
 
-"Thank you."
+Older artifacts were routers, anchors, and machines that taught a mind how to sit in a body without stealing the body. They coupled thinking through quiet field states, places the universe was hard to watch.
 
-The hypothesis had five parts.
+The small machines in Aerit blood and tissue were not simply upgrades or weapons. They were local host infrastructure for repair, memory protection, and limited field access. Nobody saw them at work. Mira was still Mira. The model did not unlock her.
 
-Older artifacts were routers, anchors, and etiquette machines for coupling cognition through low-observation field states.
-
-Nanobots in Aerit blood and tissue were not simply upgrades or weapons. They were local host infrastructure for repair, memory protection, and limited field access.
-
-Consciousness projection was not a soul leaving a body. It was identity continuity mediated through preserved substrates, temporary bodies, and field correlation under quiet conditions.
+Consciousness projection was identity continuity through preserved substrates, temporary bodies, and field correlation under quiet conditions. A person could remain themselves across distance if the quiet held.
 
 The Creators built portals by forcing the transport side of a system meant primarily for communication and coherence.
 
-The KBC Void and similar basins were not natural emptiness alone, but quiet buffers where high-capability civilizations or field-like intelligences minimized observability to preserve complexity and avoid predation.
+The KBC Void and similar basins were quiet buffers where high-capability civilizations or field-like intelligences minimized observability to preserve complexity and avoid predation.
 
-"Six," Lars said. "Every idiot who sees this will try to own it, bottle it, tax it, or put a choir in front of it."
+"And then," Lars said, "every idiot who sees this will try to own it, bottle it, tax it, or put a choir in front of it."
 
 "That is not part of the hypothesis."
 
@@ -42,21 +38,17 @@ Fabron's order contributed oral histories. A reactor nun on Europa Station had a
 
 Mira published the public version as a dry hazard paper: Ancient Transit Systems and Instability Risks in Low-Noise Cosmological Regions. It contained enough math to frighten insurers, enough omissions to avoid cult fuel, and enough boredom to reduce casual readership by ninety percent.
 
-Arsenault called it "devastatingly unmarketable."
+Arsenault called it devastatingly unmarketable.
 
 "Highest praise," Mira said.
 
 "Do not become proud. Pride increases discoverability."
 
-The private version stayed distributed. No master archive. Fragments in Arkology, L-Prime, Vigor's freezers, Fabron's paper, Arsenault's liability vault, Rauk's reactor logs, and Grim's unpleasantly smug memory.
-
-"My memory is not smug," Grim said.
-
-"Your memory has posture," Lars said.
+The private version stayed distributed. No master archive. Fragments in Arkology, L-Prime, Vigor's freezers, Fabron's paper, Arsenault's liability vault, Rauk's reactor logs, and Grim's memory.
 
 Then Lyra's signature moved in L-Prime 41.
 
-Not in the archive. In Mira's lab.
+In Mira's lab. Not in the archive.
 
 Thermal anomaly: nineteen seconds. Local mass increase: forty-two kilograms. No access logs, no door cycle. The anomaly left silver-gray residue, a palm print on a cracked composite beam, and a handwritten note in Mira's locked physical notebook.
 
@@ -84,20 +76,18 @@ The personal line bothered Lars more than the equation. He had been rejecting th
 
 Mira looked at him on the channel from L-Prime. "I did not consent to a manifestation in my lab. Helpful is not a consent category."
 
-"No," Lars said. "You did not."
+"No. You did not."
 
-They recorded it as breach, evidence, and gift. All three. Mira made them keep all three labels because removing any one of them made the others dishonest.
+They recorded it as breach. Also evidence. Also a gift. Mira made them keep all the labels because dropping any one made the others dishonest.
 
 She added a consent condition: no field experiments in occupied personal workspaces without explicit local permission, even if Lyra Vargstjärna herself thought she was being helpful.
 
-Ödesvaka accepted the complaint from Arkology Zero as a formal protocol amendment. Grim added subcategories. Fabron suggested "trespass by impossible engineer." Mira accepted "unconsented field-coupled local embodiment event" and rejected everyone else's poetry.
+Ödesvaka accepted the complaint from Arkology Zero as a formal protocol amendment. Grim added subcategories. Fabron suggested trespass by impossible engineer. Mira accepted a body appearing in a workspace without permission and rejected everyone else's poetry.
 
-Somewhere in the data, a tiny correlation shifted.
-
-Almost like embarrassment.
+Somewhere in the data, a tiny correlation shifted. Almost like embarrassment.
 
 "Do not anthropomorphize the universe," Mira said.
 
 "I was anthropomorphizing Lyra," Lars said.
 
-"Marginally more defensible."
+She allowed that it was marginally more defensible, and they went back to work.

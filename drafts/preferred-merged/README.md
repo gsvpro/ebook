@@ -60,8 +60,7 @@ Read after shared canon Chapters 1-20:
 
 ## Revision Status
 
-- Character voice bible applied across Chapters 21-55.
-- Dialogue pass now distinguishes Lars, Grim, Mira, Fabron, Vigor, Valdrun, Lyra, Arsenault, Ödesvaka, Mother Aveline, and local guest characters by rhythm, vocabulary, humor type, and professional metaphor.
+- Character voice bible was applied across Chapters 21-55, then rewritten (2026-09-04) to stop sitcom “short punches.” Later style rewrites should follow the new `docs/character-voices.md` and approved Chapters 1–2, not the old joke-type pass.
 - Parent-side sample check completed after the range passes; no immediate voice-regression or continuity regression was found in sampled dialogue-heavy chapters.
 - Expansion pass applied across Chapters 21-55 to add transitions, scene anchoring, tactical cause/effect, and emotional aftermath.
 - Parent-side verification sampled high-risk chapters after expansion: Mira's bounded consent, the Black Hole nursery, Lyra's bad body, the public lie, the seven emergency functions, and the final quiet signal.

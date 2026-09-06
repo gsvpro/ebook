@@ -1,56 +1,32 @@
 # Chapter 46: Wake No More Than Needed
 
-The hardest vote was not whether to fight.
-
-It was how many sleeping people to disturb before the fight reached them.
+The hardest vote was not whether to fight. It was how many sleeping people to disturb before the fight reached them.
 
 Lyra's triage index listed hundreds of likely hidden Aerits inside Black Hole's widened acquisition cone. Each entry carried probabilities, not labels: threat exposure, local resilience, lock fragility, consent access, social dependency, ninety-year risk if awakened, three-hundred-year risk if left alone, seven-hundred-year pattern risk if used as precedent.
 
-Lars hated every column.
-
-The columns made people look sortable. That was useful in the same way a knife was useful near a throat. Threat exposure climbed red for a nurse on a Black Hole transit route, a sewage engineer on a marginal moon, a shipyard medic, a silent mathematician under Syren influence, a comatose woman near First Door, an old station pilot whose name made Valdrun's face go empty for one second.
+Lars hated every column. Threat exposure climbed red for a nurse on a Black Hole transit route, a sewage engineer on a marginal moon, a shipyard medic, a silent mathematician under Syren influence, a comatose woman near First Door, an old station pilot whose name made Valdrun's face go empty for one second.
 
 Ren Koss.
 
-Lars did not ask why Valdrun recognized the cadence of the name. Not yet. The table already had too many knives.
+Lars did not ask why Valdrun recognized the cadence of the name. Not yet.
 
-The guardians did not all gather in one room. That would have been tactically obscene. Valdrun joined from Havets. Ödesvaka from Arkology Zero. Guardian Channel Two through jittering civilian maintenance relays. Two older protocols answered with delayed masks. One remained silent except for a coherence pulse that made Havets' hull ring like a bell.
+The guardians did not all gather in one room. Valdrun joined from Havets. Ödesvaka from Arkology Zero. Guardian Channel Two through jittering civilian maintenance relays. Two older protocols answered with delayed masks. One remained silent except for a coherence pulse that made Havets' hull ring like a bell.
 
 Coherence uncertain.
 
-Honest, at least.
-
-Mira attended as herself, not as Aerit representative. Her square in the display carried only her current name, her lab credential, and a boundary notice she had written in language sharp enough to cut legal cloth. No identity prompts. No personal-memory inference. No use as precedent.
+Mira attended as herself, not as Aerit representative. Her square in the display carried only her current name, her lab credential, and a boundary notice she had written herself. No identity prompts. No personal-memory inference. No use as precedent. No one asked her to become anyone else.
 
 Isaac Tam sent one sentence from his farm: I believe you and choose my life.
 
-The sentence sat in the middle of the table like a stone no one had permission to move.
+The sentence sat in the middle of the table and no one moved it.
 
-Sella Nyr's physician sent a medical necessity brief. A hidden aquatic linguist's kin-circle sent a legal framework for threat evidence without identity capture. Mother Aveline brought tea and contempt for grandiosity, which she distributed more efficiently than the tea.
+Sella Nyr's physician sent a medical necessity brief. A hidden aquatic linguist's kin-circle sent a legal framework for threat evidence without identity capture. Mother Aveline brought tea and contempt for grandiosity.
 
 "If anyone says chosen people," she warned, setting cups down, "I will make them scrub the coolant filters with a toothbrush and their pride."
 
-"Operationally fair," Fabron said.
+Fabron said that was operationally fair. She told him he could go first if he enjoyed the word operationally too much.
 
-"You first if you enjoy the phrase operationally too much."
-
-The protocol they forged was narrow.
-
-Wake no more than needed.
-
-Ask before identity.
-
-Protect before ask when danger is immediate, but never convert protection into debt.
-
-Partial unlock only with recorded boundaries and independent stop authority.
-
-No public list.
-
-No central registry.
-
-No guardian may override refusal alone.
-
-If emergency breach forces action without consent, the act must be logged as harm, reviewed as harm, and repaired as harm. Survival would not launder violation into virtue.
+The protocol they forged was narrow. Wake no more than needed. Ask before identity. Protect before ask when danger is immediate, but never convert protection into debt. Partial unlock only with recorded boundaries and independent stop authority. No public list. No central registry. No guardian may override refusal alone. If emergency breach forces action without consent, the act must be logged as harm, reviewed as harm, and repaired as harm.
 
 They argued over every sentence because every sentence would be abused someday by someone clever and tired. Arsenault wanted a liability clause strong enough to frighten boards. Fabron wanted a chain of custody legible to courts and soldiers. Mira wanted the word harm unsoftened. Valdrun wanted a century clause. Ödesvaka wanted mandatory review triggers. Vigor wanted a line that said feed the family first, then explain the universe.
 
@@ -72,7 +48,7 @@ Valdrun noticed. "Good."
 
 "We?"
 
-Valdrun's pause had centuries in it. "All of us who survived enough necessity to grow arrogant about it."
+Valdrun paused. "All of us who survived enough necessity to grow arrogant about it."
 
 They authorized three immediate asks and one emergency movement.
 
@@ -82,7 +58,7 @@ The shipyard medic consented to partial procedural memory after a local doctor, 
 
 "I can do more."
 
-"That is not the test."
+"No."
 
 The aquatic linguist accepted threat evidence, refused unlock, and mobilized three kin-networks faster than any guardian could have. Their message to Lars contained no reverence, only a list of evacuation currents, safe clinic pools, and one sentence: Do not mistake refusal for absence.
 
@@ -104,8 +80,6 @@ Sella Nyr, in coma near First Door, could not consent. Moving her risked death. 
 
 The record labeled it debt.
 
-Not rescue. Debt.
-
 The debt entry required a repair plan: medical privacy for her family, independent review if she woke, the right to reject all future contact, and a named person responsible for explaining why strangers had moved her body through a war.
 
 "Name me," Lars said.
@@ -122,7 +96,7 @@ Coherence?
 
 His husband stared at the word on the screen, then at Ren. "Is that a password?"
 
-Ren looked frightened and delighted in equal measure. "I think it is a doorbell."
+Ren looked frightened and delighted. "I think it is a greeting."
 
 Ren chose partial unlock, enough to fly a route he apparently knew from a life beneath his life. His husband, daughter, and grandchildren sat with him during the boundary recording. The youngest grandchild had brought a stuffed shuttle missing one fin. Vigor had sent stew. Grim had sent a consent form rewritten into plain language and apologized for the font.
 
@@ -132,7 +106,7 @@ Mira answered because Lars could not. "If the boundary holds, yes. The stress mo
 
 "And if it does not hold?"
 
-Mira's eyes flicked toward Lars, then back. "Then we stop. We do not admire damage because it revealed something."
+Mira's eyes flicked toward Lars, then back. "Then we stop."
 
 Ren vomited into a bucket, swore in three languages, then wept because he remembered Lyra at a Heliostat harbor telling him his talent for bad landings might someday save lives. He also remembered stealing pears, losing a boot in a docking flood, and being so young that stars still seemed personally rude.
 
@@ -140,17 +114,13 @@ His husband did not let go.
 
 "Do you still know me?" he asked.
 
-Ren turned, wrecked and present. "Yes, idiot. You snore like a broken pump and hide sweets in the towel cupboard."
+Ren turned. "Yes, idiot. You snore like a broken pump and hide sweets in the towel cupboard."
 
 "That is privileged medical information."
 
 Ren laughed until the laugh became sobbing.
 
-No theatrical neurological punishment. The lock opened a small door and charged rent in grief. Lars no longer had the old lock-trigger migraine himself; he felt only memory shock, nausea, and the dirty privilege of being past a pain that others still risked. Two still-locked Aerits reported hypno-protocol spikes that day when careless relatives forwarded rumor threads too close to direct truth. The network sent corrections, comfort, medical cover, and apologies without naming why.
-
-Selective awakening did not feel like strategy by then.
-
-It felt like walking through a hospital at night choosing which lights to turn on.
+The lock opened a small door and charged rent in grief. Lars no longer had the old lock-trigger migraine himself; he felt only memory shock, nausea, and the dirty privilege of being past a pain that others still risked. Two still-locked Aerits reported hypno-protocol spikes that day when careless relatives forwarded rumor threads too close to direct truth. The network sent corrections, comfort, medical cover, and apologies without naming why.
 
 Syren's synchronized silence gathered millions across relays despite Vigor's delays. They would not cut it. Censorship would confirm the story. Instead, they offered local acts at the same time: repair vigils, meals, safety checks, mourning names, private silence unlinked from central broadcast.
 
@@ -162,12 +132,10 @@ Ren listened to the plan from a reclined medical cradle, pale and annoyed at eve
 
 "At my age, theft from yourself is legal."
 
-On the eve of First Door, his granddaughter asked Lars, "Are you a god?"
+On the eve of First Door, Ren's granddaughter asked Lars, "Are you a god?"
 
 "No."
 
-"Good. Gods in stories are bad at promises."
+"Good."
 
 Lars bowed slightly.
-
-"Then I will keep my terrible job and avoid promotion."
