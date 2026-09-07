@@ -6,7 +6,7 @@ Plats: Universum, Vintergatan, KBC Void
 Huvudperson: Lars ”plåtis” Odin, född år 2133. Han ser ut som han är 30 år gammal. Men han är egentligen 641 år gammal. Han är Aerit och alla Aeriter utom 7 (de sk väktarna) har blivit hypnotiserade så tror de är yngre än vad de är och inte känner till sina förmågor. Allt för att de ska kunna leva bland vanliga människor utan att bli avslöjade.  
 Huvudspråk i galaxen: Galatisk svenska.  
 Huvudvaluta: Galatiska kronan.  
-Världsbilden: Vi lever i en fragmentiserad tidsålder. När aeriterna försvann, splittrades allt upp i gradvis kaos. Men de starkaste stormakterna efter Jordens nära undergång runt 2090, Sverige, Frankrike och Kina kämpar på och försöker hålla ordning i Vintergatan tillsammans med de redan etablerade livsformerna såsom Abantuerna,    
+Världsbilden: Vi lever i en fragmentiserad tidsålder. När aeriterna försvann runt 2090, splittrades allt upp i gradvis kaos. Men de starkaste stormakterna efter Jordens nära undergång runt 2090, Sverige, Frankrike och Kina kämpar på och försöker hålla ordning i Vintergatan tillsammans med de redan etablerade livsformerna såsom Abantuerna,    
 Perspektiv: Historian berättas utifrån Lars perspektiv. Men han gör återblickar.   
 Teman: vi har fyra olika teman: återviens, de mörka krafterna, den civilisatoriska cancersvulsten och artefaktens skapares agenda. Dessa konvergerar mot en dramatisk final.  Men de är subtilt invävda i handlingen. Vi nämner inte återviens vid namn, utom om det inte är absolut nödvändigt. Vi nämner inte Aeriter eller Skaparen om det inte är absolut nödvändigt.   
 
@@ -27,9 +27,13 @@ Lars är född på den aeritiska station noll år 2133 som är noga gömd i en r
 Mänskligheten har spridit sig ut i vintergatan  med början runt 2083. Den mytiska Lyra som med sitt ESA team upptäckte artifarkten och portalen till ett annat stjärnsystem, på Pluto blev infekterad med nanobotar.   
   
 Artefarkten är minst 1 miljon år gammal. Vilka som skapat den vet man inte. Vi kallar dem för Skaparna. Vi har ju också Multiversnomaderna.  
-  
-Artefarkten infekterade Lyra med nanobotar. Skaparna verkar ha haft som mål att den som lyckas ta sig till Pluto hitta och aktivera den, har nåt en tillräcklig intelligens, mognad och teknologisk kunskap som civilisation för att bli utsedd till att föra Skaparnas kunskap vidare.  Denna kunskap förs vidare med nanobotar. Nanobotarna anpassar sig till värden (Lyra).  Därefter börjar uppbyggnaden där nanobotarna gör värden så motståndskraftig och anpassningsbar som möjligt för att kunna överleva i rymdens extrema miljö och de fiender som finns där ute som Skaparna kämpat mot under årtusenden.  
-  
+
+Pluto-artefakten var **nyckeln** till en närliggande portal som flöt gömd i en **rymdtidsbubbla**. Artefakten **innehöll nanobotarna**. Nanobotarna **valde** Lyra som värd: hon hade tagit sig den enorma vägen till Pluto, hittat artefakten, och var kompatibel (öppensinnad, vetenskapligt nyfiken, tillräckligt intelligent, rätt DNA, ett sinne avancerade nanobotar kunde interagera med, m.m.).  
+
+Därefter var det som att nanobotarna **utvecklade Lyra till någon sorts väktare** — möjligen över portalerna — genom att ge henne de krafter och den förståelse som behövdes för att överleva Plutos kyla, begripa teknologin, använda GRIN och kvantfysik för att hitta och se portalerna, och bygga om ett skepp så det kunde **fasförskjutas in i rymdtidsbubblan**. Först när de lyckades med det kunde de välja om resten av mänskligheten skulle få tillgång till kunskapen.  
+
+Nanobotarna anpassar sig till värden. De gör värden motståndskraftig nog för extrema miljöer och för det som krävs för att nå portalen.  
+
 # När det gäller infekterade människor så innebär det t ex:  
 # Bättre syn i fler våglängder  
 # Extremt mycket högre intelligens och   
@@ -40,7 +44,7 @@ Artefarkten infekterade Lyra med nanobotar. Skaparna verkar ha haft som mål att
 # Möjlighet att överleva i vacuum i ca 4 h, i värsta fall genom nån slags hibernering (som björndjur), klara att överleva obegränsad tid.  
 # Telepati via nanobotarnas kvant-nätverk. Det yttrar sig som bilder eller subtilt som den normala inre rösten, eller drömmar.  
 #   
-# Det är som att Skaparna velat utse någon värdig efterföljare till väktare över något som ännu är oklart.  
+# Det är som att systemet velat utse någon värdig efterföljare till väktare — möjligen över portalerna.  
 #   
 # 2033 flyr Lyra och ESA teamet genom portalen och och bygger upp en ny bas på en måne och fortsätter utveckla GRIN teknologier. De bygger nya förbättrade rymdskepp,FTL,fusion,energisystem, kvantdatorer, AI, kloning av människor och minnen. De utvecklar Återviens. Startar nya kolonier enligt återviensprincipen. Jorden blir upptäckt av en fientligt sinnad utomjordisk ras. Så de måste hjälpa till att försvara Jorden. De på jorden vet nu inte om att det är Lyras gamla ISEA team som hjälper till. Det har nu gått ca 50 år: 2083 är året.   
 #   
@@ -142,9 +146,9 @@ Majoren har fått i uppgift av Gabriel Arsenault att hålla koll på Lars då La
 Ett ondsint mäktigt fascistiskt paramilitärt kriminellt konsortium.  
   
 Grim  
-Lars egentillverkade AI. Först var den Lars intelligenta AI skeppsdator. Men den ville också äta mat. Så Lars gav skeppsdatorn tillstånd att bygga det som behövs för att kunna äta och känna smaker. Det gav självklart upphov  till ett behov av en helt android liknande konstruktion.  Grim har en inbyggd biologisk AI kvant dator.  
-Grim är mycket kompetent, nästan i klass med Lars. Grim döljer det genom att i pubilka sammanhang gå lite ryckigt, gnissla och låssas besitta låg intelligens.  
-Grim har en lustig förmåga att alltid härma Lars och vilja göra samma saker.  
+Lars egentillverkade robot. Hjärnan är en biologisk AI-kvantdator — **inga nanobotar**. Först var den Lars intelligenta skeppsdator. Men den ville också äta mat. Så Lars gav skeppsdatorn tillstånd att bygga det som behövs för att kunna äta och känna smaker. Det gav upphov till en androidliknande konstruktion.  
+Grim är mycket kompetent, nästan i klass med Lars. Grim döljer det genom att i publika sammanhang gå lite ryckigt, gnissla och låtsas besitta låg intelligens.  
+Grim har en lustig förmåga att alltid härma Lars och vilja göra samma saker. Lars kan kommunicera med Grim via sitt eget nanotech/gränssnitt — inte via delade nanobotar.  
   
   
 Vigor Hallman  
@@ -326,16 +330,20 @@ TVÅ NIVÅER AV TEKNOLOGI
 
 | Vem       | Byggde vad                 | Var det finns                    |
 | --------- | -------------------------- | -------------------------------- |
-| Nomaderna | Artefakterna (på planeter) | På ytan av yttersta planeter     |
-| Skaparna  | Portalerna (i rymdveck)    | Gömda i rymden nära artefakterna |
-  
-Sambandet: Utan artefakten kan du inte hitta rymdvecket.   
+| Nomaderna | Artefakterna (nycklar; innehåller nanobotar) | På ytan av yttersta planeter     |
+| Skaparna  | Portalerna (i rymdtidsbubblor / rymdveck) | Gömda i rymden nära artefakterna |
+
+Sambandet: Artefakten är **nyckel** till en närliggande portal gömd i en rymdtidsbubbla. Artefakten bär nanobotarna. För att **hitta och nå** portalen krävs **alla tre**: artefakt + nanobotar (vald värd) + tillräckligt mogen GRIN — inklusive att bygga om skepp för fasförskjutning in i bubblan.  
+Nanobotarna väljer kompatibel värd och verkar utveckla dem mot en **väktarroll** (möjligen över portalerna).  
+De tror systemet är byggt så underutvecklade och ondskefulla / erövrande raser inte fritt kan färdas i galaxen och erövra andra system.  
+När en portal väl är nådd och rutten känd kan senare trafik använda den öppna vägen med lägre stack — men **nya bubblor/portaler** kräver fortfarande hela mognadsgrinden. Först efter första lyckade passagen kunde teamet välja om mänskligheten skulle få kunskapen (de delade teknik, men **inte** nanobotarna).   
   
 ## DET ELEGANTA I SYSTEMET  
-* Artefakterna är Nomadernas uråldriga nätverk – de fungerar som fyrar och nycklar  
-* Portalerna är Skaparnas transportnät – byggda ovanpå Nomadernas system  
-* Rymdvecken är Skaparnas skydd – de gömmer portalerna från obehöriga  
-Skaparna utnyttjade artefakterna som fundament, men lade till sitt eget lager: portalerna och vecken.  
+* Artefakterna är Nomadernas uråldriga nätverk – fyrar och **nycklar**; de **innehåller nanobotarna**  
+* Portalerna är Skaparnas transportnät – gömda i **rymdtidsbubblor** nära sina nycklar  
+* Nanobotarna **väljer** kompatibel värd och driver en **väktarväg** (krafter, GRIN/kvant, skepp som fasförskjuts in i bubblan)  
+* Skaparna byggde transportlagret ovanpå Nomadernas system  
+* Efter första lyckade passagen: beslutet om mänskligheten får kunskapen (teknik ja, nanobotar nej)  
   
 AERITERNA – URSPRUNG OCH HISTORIA   
   
@@ -356,16 +364,16 @@ UPPDATERAD TIDSLINJE
 | År | Händelse |
 | --------- | ----------------------------------------------------------------------------------------------------- |
 | ~2030 | Lyra hittar artefakt på Pluto, blir infekterad med nanobotar |
-| 2030-2033 | Uppbyggnad på Pluto, försvar mot teknooligarker, upptäckt av portalen |
+| 2030-2033 | Uppbyggnad på Pluto, försvar mot teknooligarker, portal nådd via fasförskjutning in i rymdtidsbubbla |
 | 2033 | Lyra och ISEA-teamet flyr genom portalen till Heliostat |
-| 2033-2082 | Bygger Nexus Outpost på Astra Lumara. Första kontakt med Kalari. Utvecklar GRIN, Återviens, kolonier. |
+| 2033-2082 | Bygger Nexus Outpost på Astra Lumara. Första kontakt med Kalari. Fördjupar GRIN, kolonier. (Återviens ännu inte formaliserat.) |
 | Slutet av 2082 | Aeriterna får avancerad förvarning om Rakh'Na-hotet och börjar akut bygga upp en flotta i Heliostat-systemet. |
-| 2083 | Rakh'Na anfaller Jorden. Aeriterna hjälper till i hemlighet från Heliostat. |
+| 2083 | Rakh'Na anfaller Jorden. Aeriterna hjälper till i hemlighet från Heliostat. Jorden tror hjälparna är utomjordiska "Aeriter". |
 | 2083-2084 | Aeriterna bygger många egna attack-, försvars-, spanings- och beredskapsfartyg med asteroidgruvor och tung Heliostat-industri. Havets Sista Sång byggs troligen under denna period. |
-| 2084-2180 | Aeriterna hjälper mänskligheten expandera, bygger fler dolda stationer och fartyg, men håller sig allt mer i bakgrunden |
-| 2180-tal | Hypno-projektet. Aeriterna försvinner, gömmer sig i KBC Void. |
+| 2084-2180 | **Delningseran:** teknik till ISEA på Jorden (identitet dold); Jorden hård → Månen/Mars; portalresor under restriktioner, licenser, höga priser → Heliostat och vidare; nanobotar undanhålls; **Lyra börjar skapa Återviens** som motkraft mot Jevons paradox |
 | 2133 | Lars föds på Station Noll (i KBC Void) – inte i Heliostat |
-| 2774 | Berättelsen börjar |
+| 2180-tal | Hypno-projektet / Alpha 14. Aeriterna försvinner synligt, gömmer sig; Återviens fälttestas i det fördolda. |
+| 2774 | Berättelsen börjar. Större delen av galaxens mänsklighet vid **tipping point** — undantag: Aeriter, Abantu, Kalari. |
   
 VIKTIGA PLATSER – UPPDATERAT  
   
@@ -440,17 +448,19 @@ Detta är en enastående rik och genomarbetad värld. Låt mig strukturera allt 
 | Telepati | Kan kommunicera med Grim, ibland ana andras tankar |
 | Tål Xaltor X whiskey | Kan dricka det som är giftigt för människor – döljer det i öl |
   
-## GRIM – LARS SJÄLVBYGGDA AI  
+## GRIM – LARS SJÄLVBYGGDA ROBOT  
   
   
 
 | Aspekt | Detaljer |
 | ------------- | ----------------------------------------------------------------------------------------- |
 | Ursprung | Började som skeppsdator, ville äta mat – Lars gav den tillstånd att bygga en androidkropp |
+| Hjärna | Biologisk AI-kvantdator |
+| Nanobotar | **Inga** — inte Aerit; kompetensen är byggd, inte ärvd |
 | Kapacitet | Nästan i klass med Lars (extremt hög) |
 | Maskering | Går ryckigt, gnisslar, låtsas ha låg intelligens i offentliga sammanhang |
 | Personlighet | Härmar Lars, vill göra samma saker som honom |
-| Kommunikation | Telepati med Lars via nanobotarna |
+| Kommunikation | Tanke-/datalänk via Lars nanotech/gränssnitt → Grims biocomputer (inte delade nanobotar) |
   
 ## RYMDSTATIONEN THE RIM  
   
